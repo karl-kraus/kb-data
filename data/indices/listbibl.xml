@@ -30,6 +30,7 @@
                 <!-- 0.1.1 Monographie -->
                     <bibl xml:id="kab-entry-0.1.1">
                         <num type="id">0.1.1</num>
+                        <num type="category">0.1</num>
                         <author key="#kab-pers-00023">Kerry, Otto</author>
                         <title>Karl-Kraus-Bibliographie.</title>
                         <title type="subtitle">Mit einem Register der Aphorismen, Gedichte, Glossen
@@ -57,6 +58,7 @@
                     <!-- 0.1.2 Aufsatz in Zeitschrift -->
                     <bibl xml:id="kab-entry-0.1.2">
                         <num type="id">0.1.2</num>
+                        <num type="category">0.1</num>
                         <author key="#kab-pers-00023">Kerry, Otto</author>
                         <title level="a">Nachträge. Primär-Literatur zu Kerry: Karl Kraus
                             Bibliographie.</title>
@@ -75,6 +77,7 @@
                     <!-- 0.1.3 Monographie mit Reihe -->
                     <bibl xml:id="kab-entry-0.1.3">
                         <num type="id">0.1.3</num>
+                        <num type="category">0.1</num>
                         <author key="#kab-pers-00007">Bode, Ingrid</author>
                         <title>die Autobiographien zur deutschen Literatur, Kunst und Musik
                             1900–1965.</title>
@@ -91,6 +94,7 @@
                     <!-- 0.1.4 Monographie (mehrbändig) -->
                     <bibl xml:id="kab-entry-0.1.4">
                         <num type="id">0.1.4</num>
+                        <num type="category">0.1</num>
                         <author key="#kab-pers-00035">Raabe, Paul (Hrsg.)</author>
                         <title>Index Expressionismus.</title>
                         <title type="subtitle">Bibliographie der Beiträge in den Zeitschriften und
@@ -108,6 +112,7 @@
                     <!-- 0.1.5 Monographie / Beiheft -->
                     <bibl xml:id="kab-entry-0.1.5">
                         <num type="id">0.1.5</num>
+                        <num type="category">0.1</num>
                         <author key="#kab-pers-00048">Ullmann, Ludwig</author>
                         <title>Die Fackel. April 1899 – März 1910.</title>
                         <title type="subtitle">Elf Jahrgänge. Register der Autoren und Beiträge von
@@ -127,6 +132,7 @@
                     <!-- 0.1.6 Aufsatz in Zeitschrift -->
                     <bibl xml:id="kab-entry-0.1.6">
                         <num type="id">0.1.6</num>
+                        <num type="category">0.1</num>
                         <author key="#kab-pers-00056">[Pfäfflin, Friedrich]</author>
                         <title level="a">Bibliographie Werner Kraft.</title>
                         <title level="j">Nachrichten aus dem Kösel-Verlag</title>
@@ -144,6 +150,7 @@
                     <!-- 0.2 Ausstellungskatalog (Monographie / Katalog) -->
                     <bibl xml:id="kab-entry-0.2">
                         <num type="id">0.2</num>
+                        <num type="category">0.2</num>
                         <title>Karl Kraus. Zum 100. Geburtstag. 1874–1974.</title> Ausstellung der
                         Stadt Wien. Gestaltet von Josef Vass, Echth Grünsteidl und Manfred
                         Arndorfer. <pubPlace key="#kab-place-00011">Wien</pubPlace>
@@ -165,6 +172,7 @@
                     <!-- 0.3.1 Aufsatz in Zeitschrift -->
                     <bibl xml:id="kab-entry-0.3.1">
                         <num type="id">0.3.1</num>
+                        <num type="category">0.3</num>
                         <author key="#kab-pers-00010">Bäuml, Gustav H.</author>
                         <author key="#kab-pers-00009">Bäuml, Franz H.</author>
                         <title level="a">Namenverzeichnis zu Karl Kraus DIE FACKEL.</title>
@@ -184,6 +192,7 @@
                     <!-- 0.3.1.1 Aufsatz in Zeitschrift -->
                     <bibl xml:id="kab-entry-0.3.1.1">
                         <num type="id">0.3.1.1</num>
+                        <num type="category">0.3</num>
                         <author key="#kab-pers-00058">Ögg, Franz</author>
                         <title level="a">über die Schwierigkeit, "Die Fackel" von Karl Kraus zu lesen.
                             Bemerkungen zum Namenverzeichnis von Gustav H. Bäuml und Franz H.
@@ -199,6 +208,7 @@
                     <!-- 0.3.2 Monographie mit Reihe -->
                     <bibl xml:id="kab-entry-0.3.2">
                         <num type="id">0.3.2</num>
+                        <num type="category">0.3</num>
                         <author key="#kab-pers-00021">Jenaczek, Friedrich</author>
                         <title>Zeittafeln zur "Fackel".</title>
                         <title type="subtitle">Themen – Ziele – Probleme.</title>
@@ -226,6 +236,7 @@
                     <!-- 0.4.1 Zeitungsartikel -->
                     <bibl xml:id="kab-entry-0.4.1">
                         <num type="id">0.4.1</num>
+                        <num type="category">0.4</num>
                         <author key="#kab-pers-00019">Hartl, Edwin</author>
                         <title level="a">Der ignorierte Karl Kraus.</title>
                         <title level="j">die Presse (Wien)</title>
@@ -239,6 +250,7 @@
                     <!-- 0.4.2 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-0.4.2">
                         <num type="id">0.4.2</num>
+                        <num type="category">0.4</num>
                         <author key="#kab-pers-00038">Scheichl, Sigurd Paul</author>
                         <title level="a">Publikationen des Auslandes über Karl Kraus.</title>
                         <title level="j">Literatur und Kritik</title>
@@ -251,6 +263,7 @@
                     <!-- 0.4.3 Zeitschriftenaufsatz (Sammelrezension) -->
                     <bibl xml:id="kab-entry-0.4.3">
                         <num type="id">0.4.3</num>
+                        <num type="category">0.4</num>
                         <author key="#kab-pers-00045">Timms, Edward Francis</author>
                         <title level="a">[Sammelrezension]</title>
                         <title level="j">Modern Language Review</title>
@@ -269,6 +282,7 @@
                     <!-- 0.4.4 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-0.4.4">
                         <num type="id">0.4.4</num>
+                        <num type="category">0.4</num>
                         <author key="#kab-pers-00054">Zohn, Harry</author>
                         <title level="a">Krausiana.</title>
                         <title level="j">Modern Austrian Literature</title>
@@ -286,6 +300,7 @@
                     <!-- 0.5.1 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-0.5.1">
                         <num type="id">0.5.1</num>
+                        <num type="category">0.5</num>
                         <author key="#kab-pers-00032">Müller, Gerd</author>
                         <title level="a">Das hat Karl Kraus nicht verdient.</title>
                         <title level="j">Moderna Sprak</title>
@@ -299,6 +314,7 @@
                     <!-- 0.5.2 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-0.5.2">
                         <num type="id">0.5.2</num>
+                        <num type="category">0.5</num>
                         <author key="#kab-pers-00051">Wagenknecht, Christian Johannes</author>
                         <title level="a">Kein Standardwerk über Karl Kraus. Zur deutschen Ausgabe des Buches
                             von Caroline Kohn.</title>
@@ -313,6 +329,7 @@
                     <!-- 0.5.3 Zeitungsartikel (Literaturblatt) -->
                     <bibl xml:id="kab-entry-0.5.3">
                         <num type="id">0.5.3</num>
+                        <num type="category">0.5</num>
                         <author key="#kab-pers-00001">Alff, Wilhelm</author>
                         <title level="a">Karl Kraus – ein Metaphysiker? Friedrich Jenaczeks Zeittafeln zur
                             "Fackel" von Karl Kraus.</title>
@@ -333,6 +350,7 @@
                     <!-- 1.1.1 Monographie -->
                     <bibl xml:id="kab-entry-1.1.1">
                         <num type="id">1.1.1</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00026">Kraus, Karl</author>
                         <title>Briefe an Sidonie Nádherny von Borutin. 2. Band: Editorischer
                             Bericht. Bildteil.</title>
@@ -351,6 +369,7 @@
                     <!-- 1.1.1.1 Rezension in Zeitschrift -->
                     <bibl xml:id="kab-entry-1.1.1.1">
                         <num type="id">1.1.1.1</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00002">Arntzen, Helmut</author>
                         <title level="a">[Rezension von:] Karl Kraus: Briefe an Sidonie Nádherny.</title>
                         <title level="j">Neue deutsche Hefte</title>
@@ -361,6 +380,7 @@
                     <!-- 1.1.1.2 Zeitungsartikel -->
                     <bibl xml:id="kab-entry-1.1.1.2">
                         <num type="id">1.1.1.2</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00006">Blume, Bernhard</author>
                         <title level="a">Karl Kraus und Sidonie Nádherny von Borutin.</title>
                         <title level="j">Neue Zürcher Zeitung</title>
@@ -377,6 +397,7 @@
                     <!-- 1.1.1.3 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.1.3">
                         <num type="id">1.1.1.3</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00014">Ficker, Ludwig von</author>
                         <title level="a">[Über die Auffindung der Briefe von Karl Kraus an Sidonie
                             Nádherny]</title>
@@ -390,6 +411,7 @@
                     <!-- 1.1.1.4 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.1.4">
                         <num type="id">1.1.1.4</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00040">Siegert, Michael</author>
                         <title level="a">Sehnsucht nach aristokratischem Umgang. Karl Kraus und Sidonie
                             Nádherny von Borutin.</title>
@@ -407,6 +429,7 @@
                     <!-- 1.1.1.5 Zeitungsartikel -->
                     <bibl xml:id="kab-entry-1.1.1.5">
                         <num type="id">1.1.1.5</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00057">de Mendelssohn, Peter</author>
                         <title level="a">Gruppenbild ohne Dame. die Briefe von Rilke und Karl Kraus an Sidonie
                             Nadherny von Borutin.</title>
@@ -422,6 +445,7 @@
                     <!-- 1.1.1.6 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.1.6">
                         <num type="id">1.1.1.6</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00020">Heller, Erich</author>
                         <title level="a">"Liebes Leid und Lust".</title>
                         <title level="j">Merkur</title>
@@ -436,6 +460,7 @@
                     <!-- 1.1.1.7 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.1.7">
                         <num type="id">1.1.1.7</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00044">Timms, Edward</author>
                         <title level="a">When the satirist falls in love.</title>
                         <title level="j">Times Literary Supplement</title>
@@ -452,6 +477,7 @@
                     <!-- 1.1.1.8 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.1.8">
                         <num type="id">1.1.1.8</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00011">Canetti, Elias</author>
                         <title level="a">Der Neue Karl Kraus.</title>
                         <title level="j">Neue Rundschau</title>
@@ -472,6 +498,7 @@
                     <!-- 1.1.2 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.2">
                         <num type="id">1.1.2</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00018">Goblot, Germaine</author>
                         <title level="a">Les parents de Karl Kraus.</title>
                         <title level="j">Etudes Germaniques</title>
@@ -484,6 +511,7 @@
                     <!-- 1.1.3 Monographie / Sonderheft -->
                     <bibl xml:id="kab-entry-1.1.3">
                         <num type="id">1.1.3</num>
+                        <num type="category">1.1</num>
                         <editor key="#kab-pers-00034">Pfäfflin, Friedrich (Hrsg.)</editor>
                         <title>Heinrich Fischer zum 22. August 1971.</title>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
@@ -501,6 +529,7 @@
                     <!-- 1.1.4 Monographie / Sonderheft -->
                     <bibl xml:id="kab-entry-1.1.4">
                         <num type="id">1.1.4</num>
+                        <num type="category">1.1</num>
                         <editor key="#kab-pers-00034">Pfäfflin, Friedrich (Hrsg.)</editor>
                         <title>Berthold Viertel (1885–1953). Eine Dokumentation.</title>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
@@ -517,6 +546,7 @@
                     <!-- 1.1.5 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.5">
                         <num type="id">1.1.5</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00043">Sternbach-Gärtner, Lotte [= Caroline Kohn]</author>
                         <title level="a">Mechtilde Lichnowsky und Karl Kraus.</title>
                         <title level="j">Forum (Wien)</title>
@@ -530,6 +560,7 @@
                     <!-- 1.1.6 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.1.6">
                         <num type="id">1.1.6</num>
+                        <num type="category">1.1</num>
                         <author key="#kab-pers-00043">Sternbach-Gärtner, Lotte [= Caroline Kohn]</author>
                         <title level="a">Karl Kraus in Frankreich.</title>
                         <title level="j">Literatur und Kritik</title>
@@ -548,6 +579,7 @@
                 <!-- 1.2.01 Monographie -->
                     <bibl xml:id="kab-entry-1.2.01">
                         <num type="id">1.2.01</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00004">Aufricht, Ernst Josef</author>
                         <title>Erzähle, damit du dein Recht erweist.</title>
                         <pubPlace key="#kab-place-00001">Berlin</pubPlace>
@@ -562,6 +594,7 @@
                     <!-- 1.2.02 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.02">
                         <num type="id">1.2.02</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00008">Burgert, Helmuth</author>
                         <title level="a">Er haßte das Ungefähre. Eine Nacht mit Karl Kraus im November
                             1933.</title>
@@ -577,6 +610,7 @@
                     <!-- 1.2.03 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.03">
                         <num type="id">1.2.03</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00015">Fischer, Heinrich</author>
                         <title level="a">[Das Private an Karl Kraus].</title>
                         <title level="j">Hochland</title>
@@ -590,6 +624,7 @@
                     <!-- 1.2.04 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.04">
                         <num type="id">1.2.04</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00015">Fischer, Heinrich</author>
                         <title level="a">Karl Kraus als Privatmann.</title>
                         <title level="j">Hochland</title>
@@ -603,6 +638,7 @@
                     <!-- 1.2.05 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.05">
                         <num type="id">1.2.05</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00015">Fischer, Heinrich</author>
                         <title level="a">Erinnerung an Karl Kraus.</title>
                         <title level="j">Forum (Wien)</title>
@@ -623,6 +659,7 @@
                     <!-- 1.2.06 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.06">
                         <num type="id">1.2.06</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00017">Ginsberg, Ernst</author>
                         <title level="a">Karl Kraus und die Schauspieler.</title>
                         <title level="j">Forum (Wien)</title>
@@ -637,6 +674,7 @@
                     <!-- 1.2.06.1 Monographie -->
                     <bibl xml:id="kab-entry-1.2.06.1">
                         <num type="id">1.2.06.1</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00017">Ginsberg, Ernst</author>
                         <title>Abschied, Erinnerungen, Theateraufsätze, Gedichte.</title>
                         <editor key="#kab-pers-00012">Elisabeth Brock-Sulzer</editor>
@@ -653,6 +691,7 @@
                     <!-- 1.2.07 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.07">
                         <num type="id">1.2.07</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00022">Kann, Helene</author>
                         <title level="a">Karl Kraus und sein Alltag.</title>
                         <title level="j">Forum (Wien)</title>
@@ -665,6 +704,7 @@
                     <!-- 1.2.08 Programmheft-Beitrag -->
                     <bibl xml:id="kab-entry-1.2.08">
                         <num type="id">1.2.08</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00055">[Kann, Helene]</author>
                         <title level="a">Erinnerungen an Karl Kraus.</title>
                         <title level="m">Wiener Festwochen im Theater an der Wien, [Programmheft zu
@@ -679,6 +719,7 @@
                     <!-- 1.2.09 Monographie -->
                     <bibl xml:id="kab-entry-1.2.09">
                         <num type="id">1.2.09</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00024">Kokoschka, Oskar</author>
                         <title>Mein Leben.</title>
                         <author key="#kab-pers-00050">Vorwort und dokumentarische Mitarbeit von Remigius Netzer</author>
@@ -695,6 +736,7 @@
                     <!-- 1.2.10 Beitrag in Sammelband -->
                     <bibl xml:id="kab-entry-1.2.10">
                         <num type="id">1.2.10</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00027">Krenek, Ernst</author>
                         <title level="a">Erinnerung an Karl Kraus (1936)</title>
                         <title level="m">Zur Sprache gebracht</title>
@@ -712,6 +754,7 @@
                     <!-- 1.2.11 Monographie (Briefe) -->
                     <bibl xml:id="kab-entry-1.2.11">
                         <num type="id">1.2.11</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00028">Lasker-Schüler, Else</author>
                         <title>Briefe an Karl Kraus.</title>
                         <editor key="#kab-pers-00003">Astrid Gehl-hoff-Claes</editor>
@@ -728,6 +771,7 @@
                     <!-- 1.2.12 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.12">
                         <num type="id">1.2.12</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00029">Lichnowsky, Mechtilde</author>
                         <title level="a">Karl Kraus zum Gedächtnis.</title>
                         <title level="j">Merkur</title>
@@ -740,6 +784,7 @@
                     <!-- 1.2.13 Monographie -->
                     <bibl xml:id="kab-entry-1.2.13">
                         <num type="id">1.2.13</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00030">Malmberg, Helga</author>
                         <title>Widerhall des Herzens. Ein Peter Altenberg-Buch.</title>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
@@ -756,6 +801,7 @@
                     <!-- 1.2.14 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.14">
                         <num type="id">1.2.14</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00031">Mittler, Franz</author>
                         <title level="a">Es war nicht leicht, aber schön …</title>
                         <title level="j">Forum (Wien)</title>
@@ -768,6 +814,7 @@
                     <!-- 1.2.15 Beitrag in Sammelband -->
                     <bibl xml:id="kab-entry-1.2.15">
                         <num type="id">1.2.15</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00036">Radecki, Sigismund von</author>
                         <title level="a">Erinnerungen an Karl Kraus.</title>
                         <title level="m">SvR: Wie ich glaube</title>
@@ -784,6 +831,7 @@
                     <!-- 1.2.16 Zeitungsartikel -->
                     <bibl xml:id="kab-entry-1.2.16">
                         <num type="id">1.2.16</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00037">Roedl, Urban [= Bruno Adler]</author>
                         <title level="a">Ein Abend mit Franz Marc.</title>
                         <title level="j">die Zeit</title>
@@ -796,6 +844,7 @@
                     <!-- 1.2.17 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.17">
                         <num type="id">1.2.17</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00046">Torberg, Friedrich</author>
                         <title level="a">Zwischen Schmunzeln und Höllengelächter.</title>
                         <title level="j">Forum (Wien)</title>
@@ -808,6 +857,7 @@
                     <!-- 1.2.18 Zeitungsartikel -->
                     <bibl xml:id="kab-entry-1.2.18">
                         <num type="id">1.2.18</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00046">Torberg, Friedrich</author>
                         <title level="a">Er war genau so – und er war ganz anders. Persönliche Eri-nnerungen
                             an Karl Kraus.</title>
@@ -821,6 +871,7 @@
                     <!-- 1.2.19 Monographie (mit Reihe) -->
                     <bibl xml:id="kab-entry-1.2.19">
                         <num type="id">1.2.19</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00047">Tucholsky, Kurt</author>
                         <title>Ausgewählte Briefe. 1913–1935.</title>
                         <pubPlace key="#kab-place-00009">Reinbek</pubPlace>
@@ -840,6 +891,7 @@
                     <!-- 1.2.20 Monographie (mit Reihe) -->
                     <bibl xml:id="kab-entry-1.2.20">
                         <num type="id">1.2.20</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00052">Wolff, Kurt</author>
                         <title>Autoren. Bücher, Abenteuer. Betrachtungen und Erin¬nerungen eines
                             Verlegers.</title>
@@ -858,6 +910,7 @@
                     <!-- 1.2.21 Monographie -->
                     <bibl xml:id="kab-entry-1.2.21">
                         <num type="id">1.2.21</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00053">Zenker, Ernst Viktor</author>
                         <title>Ein Mann im sterbenden Österreich. Erinnerungen aus meinem
                             Leben.</title>
@@ -874,6 +927,7 @@
                     <!-- 1.2.22 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.22">
                         <num type="id">1.2.22</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00042">Soyka, Otto</author>
                         <title level="a">Begegnungen mit Karl Kraus.</title>
                         <title level="j">die Schau (Wien)</title>
@@ -889,6 +943,7 @@
                     <!-- 1.2.23 Zeitschriftenaufsatz -->
                     <bibl xml:id="kab-entry-1.2.23">
                         <num type="id">1.2.23</num>
+                        <num type="category">1.2</num>
                         <author key="#kab-pers-00025">Kornauth, Egon</author>
                         <title level="a">Meine Erinnerungen an Karl Kraus.</title>
                         <title level="j">Freude an Büchern. Monatshefte für Weltliteratur
@@ -909,6 +964,20 @@
                     </bibl>
 
                 </listBibl>
+         
+         <note type="comment" corresp="0.1">Vgl. 1.1.3 (Bibliographie Heinrich Fischer), 1.1.4
+            (Bibliographie Berthold Viertel) und 2.1.01 (J. M. Fischer).</note>
+         <note type="comment" corresp="0.5">Textkritische Fragen werden in geringem Maße bei
+            Wagenknecht (6.2.2) und bei Kipphoff (8.05.1) berücksichtigt, ausführlicher von
+            Pfäfflin für die Lyrik (I.I.I). Siehe auch 2.2.14 (Schick) und die Ausgabe der
+            "Demolierten Literatur" von Kimpel.</note>
+         <note type="comment" corresp="1.1">Textkritische Fragen werden in geringem Maße bei
+            Wagenknecht (6.2.2) und bei Kipphoff (8.05.1) berücksichtigt, ausführlicher von
+            Pfäfflin für die Lyrik (I.I.I). Siehe auch 2.2.14 (Schick) und die Ausgabe der
+            "Demolierten Literatur" von Kimpel.</note>
+         <note type="comment" corresp="1.2">Vgl. 0.1.3 (Bode).</note>
+         <note type="comment" corresp="1.3">Hierher gehören auch viele der eben zitierten
+            Erinnerungen.</note>
       </body>
   </text>
 </TEI>
