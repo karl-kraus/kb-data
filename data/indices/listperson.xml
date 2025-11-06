@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <listPerson>
+              <person xml:id="kab-pers-00001"><persName>Alff, Wilhelm</persName></person>
+              
+              <person xml:id="kab-pers-00002"><persName>Arntzen, Helmut</persName></person>
+              
+              <person xml:id="kab-pers-00003"><persName>Astrid Gehl-hoff-Claes</persName></person>
+              
+              <person xml:id="kab-pers-00004"><persName>Aufricht, Ernst Josef</persName></person>
+              
+              <person xml:id="kab-pers-00005"><persName>Bernhard Oberreither</persName></person>
+              
+              <person xml:id="kab-pers-00006"><persName>Blume, Bernhard</persName></person>
+              
+              <person xml:id="kab-pers-00007"><persName>Bode, Ingrid</persName></person>
+              
+              <person xml:id="kab-pers-00008"><persName>Burgert, Helmuth</persName></person>
+              
+              <person xml:id="kab-pers-00009"><persName>Bäuml, Franz H.</persName></person>
+              
+              <person xml:id="kab-pers-00010"><persName>Bäuml, Gustav H.</persName></person>
+              
+              <person xml:id="kab-pers-00011"><persName>Canetti, Elias</persName></person>
+              
+              <person xml:id="kab-pers-00012"><persName>Elisabeth Brock-Sulzer</persName></person>
+              
+              <person xml:id="kab-pers-00013"><persName>Federn, Ernst</persName></person>
+              
+              <person xml:id="kab-pers-00014"><persName>Ficker, Ludwig von</persName></person>
+              
+              <person xml:id="kab-pers-00015"><persName>Fischer, Heinrich</persName></person>
+              
+              <person xml:id="kab-pers-00016"><persName>Friedrich Pfäfflin</persName></person>
+              
+              <person xml:id="kab-pers-00017"><persName>Ginsberg, Ernst</persName></person>
+              
+              <person xml:id="kab-pers-00018"><persName>Goblot, Germaine</persName></person>
+              
+              <person xml:id="kab-pers-00019"><persName>Hartl, Edwin</persName></person>
+              
+              <person xml:id="kab-pers-00020"><persName>Heller, Erich</persName></person>
+              
+              <person xml:id="kab-pers-00021"><persName>Jenaczek, Friedrich</persName></person>
+              
+              <person xml:id="kab-pers-00022"><persName>Kann, Helene</persName></person>
+              
+              <person xml:id="kab-pers-00023"><persName>Kerry, Otto</persName></person>
+              
+              <person xml:id="kab-pers-00024"><persName>Kokoschka, Oskar</persName></person>
+              
+              <person xml:id="kab-pers-00025"><persName>Kornauth, Egon</persName></person>
+              
+              <person xml:id="kab-pers-00026"><persName>Kraus, Karl</persName></person>
+              
+              <person xml:id="kab-pers-00027"><persName>Krenek, Ernst</persName></person>
+              
+              <person xml:id="kab-pers-00028"><persName>Lasker-Schüler, Else</persName></person>
+              
+              <person xml:id="kab-pers-00029"><persName>Lichnowsky, Mechtilde</persName></person>
+              
+              <person xml:id="kab-pers-00030"><persName>Malmberg, Helga</persName></person>
+              
+              <person xml:id="kab-pers-00031"><persName>Mittler, Franz</persName></person>
+              
+              <person xml:id="kab-pers-00032"><persName>Müller, Gerd</persName></person>
+              
+              <person xml:id="kab-pers-00033"><persName>Nunberg, Herman</persName></person>
+              
+              <person xml:id="kab-pers-00034"><persName>Pfäfflin, Friedrich (Hrsg.)</persName></person>
+              
+              <person xml:id="kab-pers-00035"><persName>Raabe, Paul (Hrsg.)</persName></person>
+              
+              <person xml:id="kab-pers-00036"><persName>Radecki, Sigismund von</persName></person>
+              
+              <person xml:id="kab-pers-00037"><persName>Roedl, Urban [= Bruno Adler]</persName></person>
+              
+              <person xml:id="kab-pers-00038"><persName>Scheichl, Sigurd Paul</persName></person>
+              
+              <person xml:id="kab-pers-00039"><persName>Schick, Paul</persName></person>
+              
+              <person xml:id="kab-pers-00040"><persName>Siegert, Michael</persName></person>
+              
+              <person xml:id="kab-pers-00041"><persName>Sigurd Paul Scheichl</persName></person>
+              
+              <person xml:id="kab-pers-00042"><persName>Soyka, Otto</persName></person>
+              
+              <person xml:id="kab-pers-00043"><persName>Sternbach-Gärtner, Lotte [= Caroline Kohn]</persName></person>
+              
+              <person xml:id="kab-pers-00044"><persName>Timms, Edward</persName></person>
+              
+              <person xml:id="kab-pers-00045"><persName>Timms, Edward Francis</persName></person>
+              
+              <person xml:id="kab-pers-00046"><persName>Torberg, Friedrich</persName></person>
+              
+              <person xml:id="kab-pers-00047"><persName>Tucholsky, Kurt</persName></person>
+              
+              <person xml:id="kab-pers-00048"><persName>Ullmann, Ludwig</persName></person>
+              
+              <person xml:id="kab-pers-00049"><persName>Viertel, Berthold</persName></person>
+              
+              <person xml:id="kab-pers-00050"><persName>Vorwort und dokumentarische Mitarbeit von Remigius Netzer</persName></person>
+              
+              <person xml:id="kab-pers-00051"><persName>Wagenknecht, Christian Johannes</persName></person>
+              
+              <person xml:id="kab-pers-00052"><persName>Wolff, Kurt</persName></person>
+              
+              <person xml:id="kab-pers-00053"><persName>Zenker, Ernst Viktor</persName></person>
+              
+              <person xml:id="kab-pers-00054"><persName>Zohn, Harry</persName></person>
+              
+              <person xml:id="kab-pers-00055"><persName>[Kann, Helene]</persName></person>
+              
+              <person xml:id="kab-pers-00056"><persName>[Pfäfflin, Friedrich]</persName></person>
+              
+              <person xml:id="kab-pers-00057"><persName>de Mendelssohn, Peter</persName></person>
+              
+              <person xml:id="kab-pers-00058"><persName>Ögg, Franz</persName></person>
+          </listPerson>
+      </body>
+  </text>
+</TEI>
+

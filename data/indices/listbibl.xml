@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <desc corresp="0">Bibliographien, Hilfsmittel, Rezensionen</desc>
+         <desc corresp="1">Zu Biographie und Persönlichkeit</desc>
+         <desc corresp="1.1">Biographische Darstellungen</desc>
+         <desc corresp="1.2">Biographisches Material</desc>
+         <desc corresp="1.3">Zur Persönlichkeit</desc>
+         
+         <listBibl>
+                    
+                <!-- 0.1.1 Monographie -->
+                    <bibl xml:id="kab-entry-0.1.1">
+                        <num type="id">0.1.1</num>
+                        <author key="#kab-pers-00023">Kerry, Otto</author>
+                        <title>Karl-Kraus-Bibliographie.</title>
+                        <title type="subtitle">Mit einem Register der Aphorismen, Gedichte, Glossen
+                            und Satiren.</title>
+                        <edition>[2. Auflage]</edition>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Kösel</publisher>
+                        <date when="1970">1970</date>
+                        <biblScope>478 S.</biblScope>
+                        <note type="comment">Vollständiges Verzeichnis der Primärliteratur, nahezu
+                            vollständiges der Sekundärliteratur bis Mitte 1969, Kerry hat nahezu
+                            alle von K. in der "Fackel" verzeichneten Äußerungen zu seinem Werk
+                            aufgenommen, darunter auch zahlreiche periphere und kaum zugängliche
+                            Arbeiten (vor allem aus Zeitungen), die den Band aufschwemmen, aber z.
+                            B. für rezeptionsgeschichtliche Arbeiten nützlich sein können. Die
+                            Zuordnung der Beiträge zu den einzelnen Themen ist oft irreführend;
+                            Querverweise fehlen; der Aufbau ist nicht gerade praktisch. die
+                            besonders nützlichen Register beziehen sich auf die Kösel-Ausgabe,
+                            weisen aber den Erstdruck in der "Fackel" nach. Sie sind für die
+                            Gedichte ganz, für die Aphorismen nahezu vollständig, für die anderen
+                            Texte lückenhaft. Trotz allen Einwänden ein unentbehrliches Werk. Vgl.
+                            die Rezension von Wagenknecht in: Germanistik 12. 1971. S. 172 f.</note>
+                    </bibl>
+
+                    <!-- 0.1.2 Aufsatz in Zeitschrift -->
+                    <bibl xml:id="kab-entry-0.1.2">
+                        <num type="id">0.1.2</num>
+                        <author key="#kab-pers-00023">Kerry, Otto</author>
+                        <title level="a">Nachträge. Primär-Literatur zu Kerry: Karl Kraus
+                            Bibliographie.</title>
+                        <title level="j">Die Pestsäule (Wien)</title>
+                        <num>1. 1972/74. (Heft 6, 1973)</num>
+                        <biblScope>527–531</biblScope>
+                        <note type="comment">Trägt vier Aufsätze aus den Jahren vor 1899, mehrere
+                            Neuausgaben, Nachdrucke und Übersetzungen nach (zum Teil oben
+                            berücksichtigt); enthält auch einige Berichtigungen von Zitaten in
+                            0.1.1. Kerry hat einen weiteren, die Sekundärliteratur seit 1969
+                            erfassenden Nachtrag zu seiner Bibliographie angekündigt, der in Modern
+                            Austrian Literature 8. 1975. Heft 1/2 erscheinen soll. Das Heft liegt
+                            noch nicht vor.</note>
+                    </bibl>
+
+                    <!-- 0.1.3 Monographie mit Reihe -->
+                    <bibl xml:id="kab-entry-0.1.3">
+                        <num type="id">0.1.3</num>
+                        <author key="#kab-pers-00007">Bode, Ingrid</author>
+                        <title>die Autobiographien zur deutschen Literatur, Kunst und Musik
+                            1900–1965.</title>
+                        <pubPlace key="#kab-place-00010">Stuttgart</pubPlace>
+                        <publisher>Metzler</publisher>
+                        <date when="1966">1966</date>
+                        <biblScope>308 S.</biblScope>
+                        <title level="s">Repertorien zur deutschen Literaturgeschichte</title>
+                        <num type="series">2</num>
+                        <note type="comment">Verzeichnet S. 204 f. 28 autobiographische Werke von
+                            Zeitgenossen, in denen von K. die Rede ist. Alle auch bei Kerry.</note>
+                    </bibl>
+
+                    <!-- 0.1.4 Monographie (mehrbändig) -->
+                    <bibl xml:id="kab-entry-0.1.4">
+                        <num type="id">0.1.4</num>
+                        <author key="#kab-pers-00035">Raabe, Paul (Hrsg.)</author>
+                        <title>Index Expressionismus.</title>
+                        <title type="subtitle">Bibliographie der Beiträge in den Zeitschriften und
+                            Jahrbüdiern des literarischen Expressionismus. 18 Bände.</title>
+                        <pubPlace key="#kab-place-00006">Nendeln (Liechtenstein)</pubPlace>
+                        <publisher>Kraus Reprint</publisher>
+                        <date when="1972">1972</date>
+                        <note type="comment">In Band 7 (Serie B: Systematischer Index, Teil 3), S.
+                            2406–2416, die Zusammenstellung aller Veröffentlichungen von und über K.
+                            in den expressionistischen Zeitschriften. Die hier verzeichneten
+                            Arbeiten, oft Polemiken, werden im folgenden auch dann nicht
+                            verzeichnet, wenn sie bei Kerry fehlen.</note>
+                    </bibl>
+
+                    <!-- 0.1.5 Monographie / Beiheft -->
+                    <bibl xml:id="kab-entry-0.1.5">
+                        <num type="id">0.1.5</num>
+                        <author key="#kab-pers-00048">Ullmann, Ludwig</author>
+                        <title>Die Fackel. April 1899 – März 1910.</title>
+                        <title type="subtitle">Elf Jahrgänge. Register der Autoren und Beiträge von
+                            300 Nummern.</title>
+                        <pubPlace key="#kab-place-00011">Wien</pubPlace>
+                        <publisher>Fackel</publisher>
+                        <date when="1910">1910</date>
+                        <biblScope>23 S.</biblScope>
+                        <note type="comment">Verzeichnet alle Mitarbeiter der "Fackel", soweit ihre
+                            Beiträge gezeichnet waren (was namentlich in der antikorruptionistischen
+                            Frühzeit nicht immer der Fall gewesen ist). Besonders wertvoll für die
+                            'literarische' Periode der "Fackel", deren Beiträge zum größten Teil in
+                            den erfaßten Zeitraum fallen. Als Beiheft zu Nr. 300 der "Fackel"
+                            erschienen. Vgl. auch 8.02.9 (Weiermair).</note>
+                    </bibl>
+
+                    <!-- 0.1.6 Aufsatz in Zeitschrift -->
+                    <bibl xml:id="kab-entry-0.1.6">
+                        <num type="id">0.1.6</num>
+                        <author key="#kab-pers-00056">[Pfäfflin, Friedrich]</author>
+                        <title level="a">Bibliographie Werner Kraft.</title>
+                        <title level="j">Nachrichten aus dem Kösel-Verlag</title>
+                        <num>18. Herbst 1963</num>
+                        <biblScope>18–20</biblScope>
+                        <note type="comment">Verzeichnet Krafts zahlreiche Veröffentlichungen über
+                            K. Kraft nimmt im übrigen in fast allen Publikationen auf K. Bezug, auch
+                            dort wo von diesem im Titel nicht die Rede ist. </note>
+                    </bibl>
+
+                
+
+                
+
+                    <!-- 0.2 Ausstellungskatalog (Monographie / Katalog) -->
+                    <bibl xml:id="kab-entry-0.2">
+                        <num type="id">0.2</num>
+                        <title>Karl Kraus. Zum 100. Geburtstag. 1874–1974.</title> Ausstellung der
+                        Stadt Wien. Gestaltet von Josef Vass, Echth Grünsteidl und Manfred
+                        Arndorfer. <pubPlace key="#kab-place-00011">Wien</pubPlace>
+                        <publisher>Stadtbibliothek</publisher>
+                        <date when="1974">1974</date>
+                        <biblScope>[32 S.]</biblScope>
+                        <note type="comment">Der Ausstellungskatalog enthält einen Aufsatz von Paul
+                            Schick (2.2.14), eine Geschichte des Karl-Kraus-Archivs in der Wiener
+                            Stadtbibliothek und ein Verzeichnis der 366 gezeigten Objekte, das einen
+                            wertvollen Einblick, in die Kraus-Bestände der Stadtbibliothek und
+                            anderer österreichischer Sammlungen bietet. U. a. wurden auch Quellen zu
+                            Glossen, Korrekturbögen und nicht wenige Inedita (vor allem Briefe von
+                            und an K.) ausgestellt.</note>
+                    </bibl>
+
+                
+                
+
+                    <!-- 0.3.1 Aufsatz in Zeitschrift -->
+                    <bibl xml:id="kab-entry-0.3.1">
+                        <num type="id">0.3.1</num>
+                        <author key="#kab-pers-00010">Bäuml, Gustav H.</author>
+                        <author key="#kab-pers-00009">Bäuml, Franz H.</author>
+                        <title level="a">Namenverzeichnis zu Karl Kraus DIE FACKEL.</title>
+                        <title level="j">Modern Austrian Literature</title>
+                        <num>6. 1973. Heft 1/2</num>
+                        <biblScope>151–182</biblScope>
+                        <num>6. 1973. Heft 3/4</num>
+                        <biblScope>139–160</biblScope>
+                        <num>7. 1974. Heft 1/2</num>
+                        <biblScope>141–173</biblScope>
+                        <note type="comment">Umfaßt die in der "Fackel" (auch in den Notizen des
+                            Herausgebers) erwähnten Namen von A–D (Heft 1/2) und von E–G (Heft 3/4)
+                            und von H–K (7. Heft 1/2). Ohne Kommentar zu den Personen. Anscheinend
+                            unvollständig. Soll in dieser Zeitschrift fortgesetzt werden.</note>
+                    </bibl>
+
+                    <!-- 0.3.1.1 Aufsatz in Zeitschrift -->
+                    <bibl xml:id="kab-entry-0.3.1.1">
+                        <num type="id">0.3.1.1</num>
+                        <author key="#kab-pers-00058">Ögg, Franz</author>
+                        <title level="a">über die Schwierigkeit, "Die Fackel" von Karl Kraus zu lesen.
+                            Bemerkungen zum Namenverzeichnis von Gustav H. Bäuml und Franz H.
+                            Bäuml.</title>
+                        <title level="j">Literatur und Kritik</title>
+                        <num>9. 1974</num>
+                        <biblScope>622–624</biblScope>
+                        <note type="comment">Weist auf die Fehlerhaftigkeit und Unvollständigkeit
+                            des Registers von Bäuml hin und informiert über drei unveröffentlichte
+                            Namenverzeichnisse zur "Fackel".</note>
+                    </bibl>
+
+                    <!-- 0.3.2 Monographie mit Reihe -->
+                    <bibl xml:id="kab-entry-0.3.2">
+                        <num type="id">0.3.2</num>
+                        <author key="#kab-pers-00021">Jenaczek, Friedrich</author>
+                        <title>Zeittafeln zur "Fackel".</title>
+                        <title type="subtitle">Themen – Ziele – Probleme.</title>
+                        <pubPlace key="#kab-place-00002">Gräfelfing</pubPlace>
+                        <publisher>Gans</publisher>
+                        <date when="1965">1965</date>
+                        <biblScope>LV + 192 S.</biblScope>
+                        <title level="s">Adalbert Stifter Verein e. V. München. Veröffentlichungen
+                            der Wissenschaftlichen Abteilung</title>
+                        <num type="series">11</num>
+                        <note type="comment">Wertvoll ist die chronologische Übersicht über das Werk
+                            von K., wobei wichtige Stellen jeweils zitiert oder kurz zusammengefaßt
+                            werden, was die Orientierung wesentlich erleichtert. Der
+                            interpretierende Teil (S. 85–120) ist mit seiner rationalisierenden und
+                            systematisierenden Tendenz problematisch, vor allem auch zu sehr auf die
+                            Gesellschaftskritik hin orientiert. Praktische Dokumentation der
+                            Äußerungen anderer Autoren über K. (S. 121–142). Der Aufbau ist unnötig
+                            kompliziert. Vgl. 0.4.3 (Timms) und 0.5.3 (Alff).</note>
+                    </bibl>
+
+                
+
+                
+
+                    <!-- 0.4.1 Zeitungsartikel -->
+                    <bibl xml:id="kab-entry-0.4.1">
+                        <num type="id">0.4.1</num>
+                        <author key="#kab-pers-00019">Hartl, Edwin</author>
+                        <title level="a">Der ignorierte Karl Kraus.</title>
+                        <title level="j">die Presse (Wien)</title>
+                        <date when="1966-06-11">11./12. Juni 1966</date>
+                        <biblScope>Wochenendbeilage, S. III</biblScope>
+                        <note type="comment">Überblick über die K.-Literatur bis 1965 (von Liegler
+                            bis Wagenknecht)! polemisch gegen die Germanistik, die K. nicht oder
+                            nicht ausreichend beachte.</note>
+                    </bibl>
+
+                    <!-- 0.4.2 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-0.4.2">
+                        <num type="id">0.4.2</num>
+                        <author key="#kab-pers-00038">Scheichl, Sigurd Paul</author>
+                        <title level="a">Publikationen des Auslandes über Karl Kraus.</title>
+                        <title level="j">Literatur und Kritik</title>
+                        <num>5. 1970</num>
+                        <biblScope>557–560</biblScope>
+                        <note type="comment">Sammelrezension von Field (7.4.1.1), Iggers (2.1.02)
+                            und Kohn, K. als Lyriker (8.09.1.2).</note>
+                    </bibl>
+
+                    <!-- 0.4.3 Zeitschriftenaufsatz (Sammelrezension) -->
+                    <bibl xml:id="kab-entry-0.4.3">
+                        <num type="id">0.4.3</num>
+                        <author key="#kab-pers-00045">Timms, Edward Francis</author>
+                        <title level="a">[Sammelrezension]</title>
+                        <title level="j">Modern Language Review</title>
+                        <num>63. 1968</num>
+                        <biblScope>1014–1017</biblScope>
+                        <note type="comment">Zu Kohn (2.1.03.1). Field (7.4.1.1), Schick (2.1.08),
+                            Jenaczek (0.3.2), Stephan (6,1.11), Wagenknecht (6.2.2). Wichtiger als
+                            die (methodisch lehrreichen) Rezensionen ist der konsequente Hinweis,
+                            daß Kraus' satirischer Monolog nicht der einfache Ausdruck der
+                            persönlichen Allsichten des Autors sei, sondern die sorgfältige
+                            Stilisierung einer satirischen Haltung, die ihre Dynamik der
+                            phantasievollen Ausnutzung der Mittel der Sprache verdankt
+                            (1015).</note>
+                    </bibl>
+
+                    <!-- 0.4.4 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-0.4.4">
+                        <num type="id">0.4.4</num>
+                        <author key="#kab-pers-00054">Zohn, Harry</author>
+                        <title level="a">Krausiana.</title>
+                        <title level="j">Modern Austrian Literature</title>
+                        <num>3. 1970. Heft 2</num>
+                        <biblScope>25–35</biblScope>
+                        <note type="comment">Einige Bemerkungen zu Problemen der Übersetzung von K.
+                            ins Englische und eine sehr flüchtige Übersicht über die K.-Literatur
+                            (S. 31 bis 33). Vgl. auch 2.2.10 (Missac).</note>
+                    </bibl>
+
+                
+
+                
+
+                    <!-- 0.5.1 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-0.5.1">
+                        <num type="id">0.5.1</num>
+                        <author key="#kab-pers-00032">Müller, Gerd</author>
+                        <title level="a">Das hat Karl Kraus nicht verdient.</title>
+                        <title level="j">Moderna Sprak</title>
+                        <num>63. 1969</num>
+                        <biblScope>359–365</biblScope>
+                        <note type="comment">Einige wenig ergiebige, sehr allgemeine Bemerkungen zu
+                            K. aus Anlaß einer (negativen) Rezension des Buches von Weigel
+                            (2.1.09).</note>
+                    </bibl>
+
+                    <!-- 0.5.2 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-0.5.2">
+                        <num type="id">0.5.2</num>
+                        <author key="#kab-pers-00051">Wagenknecht, Christian Johannes</author>
+                        <title level="a">Kein Standardwerk über Karl Kraus. Zur deutschen Ausgabe des Buches
+                            von Caroline Kohn.</title>
+                        <title level="j">Wirkendes Wort</title>
+                        <num>18. 1968</num>
+                        <biblScope>33–37</biblScope>
+                        <note type="comment">Zu 2.1.03.1. Korrigiert zahlreiche Fehler und zeigt die
+                            Mängel dieses Buches wie anderer apologetischer K.-Literatur vorbildlich
+                            auf. Wichtige methodische Hinweise.</note>
+                    </bibl>
+
+                    <!-- 0.5.3 Zeitungsartikel (Literaturblatt) -->
+                    <bibl xml:id="kab-entry-0.5.3">
+                        <num type="id">0.5.3</num>
+                        <author key="#kab-pers-00001">Alff, Wilhelm</author>
+                        <title level="a">Karl Kraus – ein Metaphysiker? Friedrich Jenaczeks Zeittafeln zur
+                            "Fackel" von Karl Kraus.</title>
+                        <title level="j">Frankfurter Allgemeine Zeitung</title>
+                        <date when="1966-12-06">6. Dezember 1966</date>
+                        <biblScope>Literaturblatt, [S. 6]</biblScope>
+                        <note type="comment">Betont die Schwierigkeit, die extreme
+                            zeitgeschichtliche Aktualität, die das Werk von Karl Kraus bezeugt, mit
+                            seinen metaphysischen Grenzaussagen zu versöhnen. Setzt sich auch mit
+                            Schönauer (4.4) auseinander.</note>
+                    </bibl>
+                
+
+            
+
+            
+
+                    <!-- 1.1.1 Monographie -->
+                    <bibl xml:id="kab-entry-1.1.1">
+                        <num type="id">1.1.1</num>
+                        <author key="#kab-pers-00026">Kraus, Karl</author>
+                        <title>Briefe an Sidonie Nádherny von Borutin. 2. Band: Editorischer
+                            Bericht. Bildteil.</title>
+                        <editor key="#kab-pers-00016">Friedrich Pfäfflin</editor>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Kösel</publisher>
+                        <date when="1974">1974</date>
+                        <biblScope>440 S.</biblScope>
+                        <note type="comment">Zur ganzen Ausgabe siehe oben. Der Kommentar trägt
+                            reiches biographisches Material für die Jahre 1913–1936 zusammen, unter
+                            anderem zum Ersten Weltkrieg, zum Konflikt mit Werfel und zu K.'s
+                            Haltung gegenüber Hitler, Dollfuß und der Sozialdemokratie nach
+                            1933.</note>
+                    </bibl>
+
+                    <!-- 1.1.1.1 Rezension in Zeitschrift -->
+                    <bibl xml:id="kab-entry-1.1.1.1">
+                        <num type="id">1.1.1.1</num>
+                        <author key="#kab-pers-00002">Arntzen, Helmut</author>
+                        <title level="a">[Rezension von:] Karl Kraus: Briefe an Sidonie Nádherny.</title>
+                        <title level="j">Neue deutsche Hefte</title>
+                        <num>21. 1974</num>
+                        <biblScope>399–402</biblScope>
+                    </bibl>
+
+                    <!-- 1.1.1.2 Zeitungsartikel -->
+                    <bibl xml:id="kab-entry-1.1.1.2">
+                        <num type="id">1.1.1.2</num>
+                        <author key="#kab-pers-00006">Blume, Bernhard</author>
+                        <title level="a">Karl Kraus und Sidonie Nádherny von Borutin.</title>
+                        <title level="j">Neue Zürcher Zeitung</title>
+                        <date when="1974-04-28">28. April 1974</date>
+                        <biblScope>S. 53</biblScope>
+                        <note type="comment">Arbeitet das Wesentliche an der Beziehung zwischen K.
+                            und Sidonie Nádherny heraus: seine in diesen Briefen sichtbar werdende
+                            Hast, seine Todesangst, die immer wieder spürbare Fremdheit zwischen
+                            beiden, seine Bewältigung der Leidenschaft durch das Aufschreiben.
+                            Argumentiert gegen Pfäfflins These, Rilke habe durch antisemitische
+                            Hinweise eine Heirat zwischen beiden hintertrieben.</note>
+                    </bibl>
+
+                    <!-- 1.1.1.3 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.1.3">
+                        <num type="id">1.1.1.3</num>
+                        <author key="#kab-pers-00014">Ficker, Ludwig von</author>
+                        <title level="a">[Über die Auffindung der Briefe von Karl Kraus an Sidonie
+                            Nádherny]</title>
+                        <title level="j">Das Fenster (Innsbruck)</title>
+                        <num>Heft 14. 1974</num>
+                        <biblScope>1394 f.</biblScope>
+                        <note type="comment">Ein unvollendet gebliebener Essay aus dem Jahre 1967;
+                            letztes Zeugnis für Fickers Verhältnis zu K.</note>
+                    </bibl>
+
+                    <!-- 1.1.1.4 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.1.4">
+                        <num type="id">1.1.1.4</num>
+                        <author key="#kab-pers-00040">Siegert, Michael</author>
+                        <title level="a">Sehnsucht nach aristokratischem Umgang. Karl Kraus und Sidonie
+                            Nádherny von Borutin.</title>
+                        <title level="j">Neues Forum (Wien)</title>
+                        <num>21. 1974. Heft 244 (April)</num>
+                        <biblScope>49–51</biblScope>
+                        <note type="comment">Siegert versucht, die Hypothese, daß das
+                            Klassen-Unbewußte die Grund-strukturen unseres Lebens organisiere, an
+                            dem Briefwechsel K.-Nádherny zu exemplifizieren. K.'s Beziehungen zur
+                            Aristokratie erscheinen hier in neuem Licht. Methodisch ziemlich plump,
+                            so daß schließlich das Werk K.'s und die historischen Informationen erst
+                            wieder unverbunden nebeneinander stehen.</note>
+                    </bibl>
+
+                    <!-- 1.1.1.5 Zeitungsartikel -->
+                    <bibl xml:id="kab-entry-1.1.1.5">
+                        <num type="id">1.1.1.5</num>
+                        <author key="#kab-pers-00057">de Mendelssohn, Peter</author>
+                        <title level="a">Gruppenbild ohne Dame. die Briefe von Rilke und Karl Kraus an Sidonie
+                            Nadherny von Borutin.</title>
+                        <title level="j">Süddeutsche Zeitung</title>
+                        <date when="1974-04-27">27./28. April 1974</date>
+                        <biblScope>S. 113</biblScope>
+                        <note type="comment">K.'s Briefe erweckten den Eindruck, wie eine große,
+                            hilflose Liebe sich selbst zerredet. Rilke habe in seiner Warnung vor K.
+                            – trotz der Abscheulichkeit der Einmischung – nicht ganz unrecht gehabt,
+                            wo er K. charakterisiert.</note>
+                    </bibl>
+
+                    <!-- 1.1.1.6 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.1.6">
+                        <num type="id">1.1.1.6</num>
+                        <author key="#kab-pers-00020">Heller, Erich</author>
+                        <title level="a">"Liebes Leid und Lust".</title>
+                        <title level="j">Merkur</title>
+                        <num>28. 1974</num>
+                        <biblScope>1071–1079</biblScope>
+                        <note type="comment">Anregende Überlegungen zum Verhältnis des Öffentlichen
+                            und des Privaten bei K., ausgehend von Unterschieden in der
+                            Sprachbehandlung in Werk und Brief. Bemerkungen zu einzelnen Gedichten.
+                            Essayistisch.</note>
+                    </bibl>
+
+                    <!-- 1.1.1.7 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.1.7">
+                        <num type="id">1.1.1.7</num>
+                        <author key="#kab-pers-00044">Timms, Edward</author>
+                        <title level="a">When the satirist falls in love.</title>
+                        <title level="j">Times Literary Supplement</title>
+                        <num>Nr. 3.796. 6. Dezember 1974</num>
+                        <biblScope>1393 f.</biblScope>
+                        <note type="comment">Betont den Unterschied zwischen dem privaten und dem
+                            öffentlichen K.; der Satiriker K. sei die Maske des Autors in seinem
+                            eigenen Werk. dieses Auseinanderklaffen von Privatleben und öffentlichem
+                            Werk, das durch die Briefausgabe erkennbar geworden sei, habe auch
+                            Folgen für K.'s Lyrik. Einige Bemerkungen über die amerikanische
+                            Übersetzung der "Letzten Tage" (1974; vgl. 3.1.43).</note>
+                    </bibl>
+
+                    <!-- 1.1.1.8 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.1.8">
+                        <num type="id">1.1.1.8</num>
+                        <author key="#kab-pers-00011">Canetti, Elias</author>
+                        <title level="a">Der Neue Karl Kraus.</title>
+                        <title level="j">Neue Rundschau</title>
+                        <num>86. 1975</num>
+                        <biblScope>1–21</biblScope>
+                        <note type="comment">Setzt mit Überlegungen zu K.'s Mordgelüsten, zur Lust
+                            und Unersättlichkeit des Angriffs ein, dem es immer auf sich selbst
+                            ankomme (2 f.). Im weiteren eine ausführliche Darstellung der aus den
+                            Briefen zu erschließenden Beziehungen K.'s zu Sidonie Nádherny,
+                            besonders im Jahr 1914/15. In den langen Briefen der Verzweiflung aus
+                            dieser Zeit erlebe man K. staunend als Romancier (14). Das
+                            Wiedereinsetzen der "Fackel" im Herbst 1915 und vor allem der Beginn der
+                            Arbeit an den "Letzten Tagen" sei auf die Erneuerung der Beziehungen zu
+                            Sidonie Nádherny zurückzuführen. Vgl. auch die Rezension des
+                            Briefwechsels von Brügel in 7.4.4.6.</note>
+                    </bibl>
+
+                    <!-- 1.1.2 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.2">
+                        <num type="id">1.1.2</num>
+                        <author key="#kab-pers-00018">Goblot, Germaine</author>
+                        <title level="a">Les parents de Karl Kraus.</title>
+                        <title level="j">Etudes Germaniques</title>
+                        <num>5. 1950</num>
+                        <biblScope>43–53</biblScope>
+                        <note type="comment">Biographisches Material zur Familie, in den
+                            Gesamtdarstellungen verwertet.</note>
+                    </bibl>
+
+                    <!-- 1.1.3 Monographie / Sonderheft -->
+                    <bibl xml:id="kab-entry-1.1.3">
+                        <num type="id">1.1.3</num>
+                        <editor key="#kab-pers-00034">Pfäfflin, Friedrich (Hrsg.)</editor>
+                        <title>Heinrich Fischer zum 22. August 1971.</title>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Kösel</publisher>
+                        <date when="1971">1971</date>
+                        <biblScope>32 S.</biblScope>
+                        <title level="s">Nachrichten aus dem Kösel-Verlag. Sonderheft</title>
+                        <note type="comment">Dokumentiert genau Fischers Beziehungen zu K. und
+                            erhellt dabei auch den Hintergrund einiger "Fackel"-Beiträge. Alle
+                            Äußerungen Fischers über K. sind verzeichnet. Das Heft enthält auch
+                            einen Neudruck von Fischers Rede "Karl Kraus und die Jugend" aus dem
+                            Jahre 1934 (zum 60. Geburtstag von K.). K 2149.</note>
+                    </bibl>
+
+                    <!-- 1.1.4 Monographie / Sonderheft -->
+                    <bibl xml:id="kab-entry-1.1.4">
+                        <num type="id">1.1.4</num>
+                        <editor key="#kab-pers-00034">Pfäfflin, Friedrich (Hrsg.)</editor>
+                        <title>Berthold Viertel (1885–1953). Eine Dokumentation.</title>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Kösel</publisher>
+                        <date when="1969">1969</date>
+                        <biblScope>64 S.</biblScope>
+                        <title level="s">Nachrichten aus dem Kösel-Verlag. Sonderheft</title>
+                        <note type="comment">Dokumentiert auch die Beziehungen Viertels zu K. (mit
+                            seinen Briefen an diesen). Bibliographie der Veröffentlichungen Viertels
+                            über K. und Nachweis der Stellen, an denen Viertel in der "Fackel"
+                            genannt wird.</note>
+                    </bibl>
+
+                    <!-- 1.1.5 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.5">
+                        <num type="id">1.1.5</num>
+                        <author key="#kab-pers-00043">Sternbach-Gärtner, Lotte [= Caroline Kohn]</author>
+                        <title level="a">Mechtilde Lichnowsky und Karl Kraus.</title>
+                        <title level="j">Forum (Wien)</title>
+                        <num>5. 1958</num>
+                        <biblScope>324–326</biblScope>
+                        <note type="comment">Rein biografisch, zum Teil durch Pfäfflin (1.1.1)
+                            überholt. Hinweise auf Quellen zu K's Werk. Vgl. 1.2.12 (Lichnowsky),
+                            7.6.09 (Fließbach).</note>
+                    </bibl>
+
+                    <!-- 1.1.6 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.1.6">
+                        <num type="id">1.1.6</num>
+                        <author key="#kab-pers-00043">Sternbach-Gärtner, Lotte [= Caroline Kohn]</author>
+                        <title level="a">Karl Kraus in Frankreich.</title>
+                        <title level="j">Literatur und Kritik</title>
+                        <num>6. 1971</num>
+                        <biblScope>523–527</biblScope>
+                        <note type="comment">Einige Informationen (leider ohne Belege) über K.'s
+                            Verhältnis zu Frankreich, über Parallelen zwischen ihm und französischen
+                            Autoren (Peguy, Bloy, Valery, Prevert) und über die französische
+                            Kraus-Rezeption.</note>
+                    </bibl>
+
+                
+
+
+
+                <!-- 1.2.01 Monographie -->
+                    <bibl xml:id="kab-entry-1.2.01">
+                        <num type="id">1.2.01</num>
+                        <author key="#kab-pers-00004">Aufricht, Ernst Josef</author>
+                        <title>Erzähle, damit du dein Recht erweist.</title>
+                        <pubPlace key="#kab-place-00001">Berlin</pubPlace>
+                        <publisher>Propyläen</publisher>
+                        <date when="1966">1966</date>
+                        <biblScope>283 S.</biblScope>
+                        <note type="comment">Mehrere Hinweise auf K.'s Beziehungen zum Berliner
+                            Theaterleben; besonders interessant S. 82 über seine Intransigenz
+                            gegenüber notwendigen Strichen in seiner Fassung der "Perichole".</note>
+                    </bibl>
+
+                    <!-- 1.2.02 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.02">
+                        <num type="id">1.2.02</num>
+                        <author key="#kab-pers-00008">Burgert, Helmuth</author>
+                        <title level="a">Er haßte das Ungefähre. Eine Nacht mit Karl Kraus im November
+                            1933.</title>
+                        <title level="j">Almanach für Literatur und Theologie (Wuppertal)</title>
+                        <num>1. 1967</num>
+                        <biblScope>83–89</biblScope>
+                        <note type="comment">Belanglose Erinnerung des katholischen Publizisten an
+                            eine Begegnung mit K. Interessant höchstens der Hinweis auf dessen
+                            Begeisterung für das Gedicht "Reisebegleitung" von Julius Zerzer. Vgl.
+                            dazu 7.6.10 (Kraft).</note>
+                    </bibl>
+
+                    <!-- 1.2.03 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.03">
+                        <num type="id">1.2.03</num>
+                        <author key="#kab-pers-00015">Fischer, Heinrich</author>
+                        <title level="a">[Das Private an Karl Kraus].</title>
+                        <title level="j">Hochland</title>
+                        <num>50. 1957/58</num>
+                        <biblScope>190–192</biblScope>
+                        <note type="comment">Über K.'s Beziehungen zu Annie Kalmar und Sidonie
+                            Nádherny. Das Gedicht "Schäfers Abschied" beruhe zur Gänze auf dem Spiel
+                            mit S, D und I (Sich).</note>
+                    </bibl>
+
+                    <!-- 1.2.04 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.04">
+                        <num type="id">1.2.04</num>
+                        <author key="#kab-pers-00015">Fischer, Heinrich</author>
+                        <title level="a">Karl Kraus als Privatmann.</title>
+                        <title level="j">Hochland</title>
+                        <num>44. 1951/52</num>
+                        <biblScope>569–572</biblScope>
+                        <note type="comment">Betont das Elementare am Menschen K. In seiner
+                            Beziehung zu anderen Menschen sei die Kontrolle des Instinkts durch eine
+                            überwache Verstandes-schärfe am Werk gewesen.</note>
+                    </bibl>
+
+                    <!-- 1.2.05 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.05">
+                        <num type="id">1.2.05</num>
+                        <author key="#kab-pers-00015">Fischer, Heinrich</author>
+                        <title level="a">Erinnerung an Karl Kraus.</title>
+                        <title level="j">Forum (Wien)</title>
+                        <num>8. 1961</num>
+                        <biblScope>225–228</biblScope>
+                        <note type="comment">Zum Teil identisch mit dem Vorhergehenden, doch reicher
+                            an anek¬dotischem Material, u. a. über K.'s Arbeitsweise, über die
+                            Polemik gegen Kerr, über das Verhältnis zu Brecht. Vgl. auch die
+                            Nachworte Heinrich Fischers zu den Bänden der Kösel-Ausgabe, besonders
+                            zu Band l (S. 308: Erinnerungen an K.'s Gründe, "Dritte Walpurgisnacht"
+                            nicht erscheinen zu lassen) und zu Band 13 (S. 363–366: Erinnerungen an
+                            den optimistischen Grundton von K.'s Vorlesungen gegen Ende des
+                            Weltkriegs), sowie Fischers Nachwort zur Taschenbuch¬ausgabe (dtv) der
+                            "Letzten Tage der Menschheit", in dem (II, S. 313 f.) er K.'s Äußerung
+                            von 1935 mitteilt: Gegen Hitler gibt es nur eines: die Waffe.</note>
+                    </bibl>
+
+                    <!-- 1.2.06 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.06">
+                        <num type="id">1.2.06</num>
+                        <author key="#kab-pers-00017">Ginsberg, Ernst</author>
+                        <title level="a">Karl Kraus und die Schauspieler.</title>
+                        <title level="j">Forum (Wien)</title>
+                        <num>8. 1961</num>
+                        <biblScope>229</biblScope>
+                        <note type="comment">Persönliche Erinnerungen an Theaterarbeit mit K. und
+                            der Versuch, dessen Verhältnis zum Theater zu charakterisieren. Seine
+                            Gestaltungsart habe etwas von der Leidenschaftlichkeit eines genialen
+                            Laien gehabt.</note>
+                    </bibl>
+
+                    <!-- 1.2.06.1 Monographie -->
+                    <bibl xml:id="kab-entry-1.2.06.1">
+                        <num type="id">1.2.06.1</num>
+                        <author key="#kab-pers-00017">Ginsberg, Ernst</author>
+                        <title>Abschied, Erinnerungen, Theateraufsätze, Gedichte.</title>
+                        <editor key="#kab-pers-00012">Elisabeth Brock-Sulzer</editor>
+                        <edition>2. Auflage</edition>
+                        <pubPlace key="#kab-place-00012">Zürich</pubPlace>
+                        <publisher>Arche</publisher>
+                        <date when="1965">1965</date>
+                        <biblScope>262 S.</biblScope>
+                        <note type="comment">S. 125–129 identisch mit dem Vorhergehenden. An einigen
+                            Stellen Erinnerungen an den großen Eindruck, den K. auf den Verfasser
+                            gemacht hat.</note>
+                    </bibl>
+
+                    <!-- 1.2.07 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.07">
+                        <num type="id">1.2.07</num>
+                        <author key="#kab-pers-00022">Kann, Helene</author>
+                        <title level="a">Karl Kraus und sein Alltag.</title>
+                        <title level="j">Forum (Wien)</title>
+                        <num>I. 1954. Heft 4 (April)</num>
+                        <biblScope>S. 20 f.</biblScope>
+                        <note type="comment">Zum Teil recht anekdotisch; zum Teil aufschlußreich
+                            (etwa über K.'s Geselligkeit).</note>
+                    </bibl>
+
+                    <!-- 1.2.08 Programmheft-Beitrag -->
+                    <bibl xml:id="kab-entry-1.2.08">
+                        <num type="id">1.2.08</num>
+                        <author key="#kab-pers-00055">[Kann, Helene]</author>
+                        <title level="a">Erinnerungen an Karl Kraus.</title>
+                        <title level="m">Wiener Festwochen im Theater an der Wien, [Programmheft zu
+                            "Die letzten Tage der Menschheit"]</title>
+                        <pubPlace key="#kab-place-00011">[Wien]</pubPlace>
+                        <date when="1964">[1964]</date>
+                        <biblScope>[S. 12–17]</biblScope>
+                        <note type="comment">Interessante Mitteilungen über K.'s Arbeitsweise.
+                            Teilweise identisch mit dem Vorhergehenden.</note>
+                    </bibl>
+
+                    <!-- 1.2.09 Monographie -->
+                    <bibl xml:id="kab-entry-1.2.09">
+                        <num type="id">1.2.09</num>
+                        <author key="#kab-pers-00024">Kokoschka, Oskar</author>
+                        <title>Mein Leben.</title>
+                        <author key="#kab-pers-00050">Vorwort und dokumentarische Mitarbeit von Remigius Netzer</author>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Bruckmann</publisher>
+                        <date when="1971">1971</date>
+                        <biblScope>340 S.</biblScope>
+                        <note type="comment">Kokoschka erinnert sich mehrfach an Kontakte mit K. Am
+                            interessantesten die Erinnerung an gemeinsame Besuche in einem Wiener
+                            jiddischen Theater und an K.'s materielle Unterstützung für den
+                            "Sturm".</note>
+                    </bibl>
+
+                    <!-- 1.2.10 Beitrag in Sammelband -->
+                    <bibl xml:id="kab-entry-1.2.10">
+                        <num type="id">1.2.10</num>
+                        <author key="#kab-pers-00027">Krenek, Ernst</author>
+                        <title level="a">Erinnerung an Karl Kraus (1936)</title>
+                        <title level="m">Zur Sprache gebracht</title>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Längen-Müller</publisher>
+                        <date when="1958">1958</date>
+                        <biblScope>S. 229–240</biblScope>
+                        <note type="comment">K.'s Sprachdenken habe in der Trennung des Gedanklichen
+                            vom Stofflichen die neue Musik-Theorie antizipiert. Radikalität im
+                            Konservativen als Wesens-merkmal K.'s. S. 237 der Bericht über K.'s
+                            Insistieren auf Beistrich¬fragen bei der Beschießung von
+                            Shanghai.</note>
+                    </bibl>
+
+                    <!-- 1.2.11 Monographie (Briefe) -->
+                    <bibl xml:id="kab-entry-1.2.11">
+                        <num type="id">1.2.11</num>
+                        <author key="#kab-pers-00028">Lasker-Schüler, Else</author>
+                        <title>Briefe an Karl Kraus.</title>
+                        <editor key="#kab-pers-00003">Astrid Gehl-hoff-Claes</editor>
+                        <pubPlace key="#kab-place-00003">Köln</pubPlace>
+                        <publisher>Kiepenheuer &amp; Witsch</publisher>
+                        <date>o. J. [1959]</date>
+                        <biblScope>181 S.</biblScope>
+                        <note type="comment">Für K. nicht besonders ergiebig. Zur echtorischen
+                            Problematik vgl. Carr (7.6.02.2.2). Mit einem ebenfalls von Carr
+                            berichtigten Nachwort über die Dichterin, das mehrfach auf die
+                            Beziehungen zu K. eingeht.</note>
+                    </bibl>
+
+                    <!-- 1.2.12 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.12">
+                        <num type="id">1.2.12</num>
+                        <author key="#kab-pers-00029">Lichnowsky, Mechtilde</author>
+                        <title level="a">Karl Kraus zum Gedächtnis.</title>
+                        <title level="j">Merkur</title>
+                        <num>10. 1956</num>
+                        <biblScope>162–165</biblScope>
+                        <note type="comment">Vgl. 1.1.5 (Sternbach-Gärtner), 7.6.09
+                            (Fließbach).</note>
+                    </bibl>
+
+                    <!-- 1.2.13 Monographie -->
+                    <bibl xml:id="kab-entry-1.2.13">
+                        <num type="id">1.2.13</num>
+                        <author key="#kab-pers-00030">Malmberg, Helga</author>
+                        <title>Widerhall des Herzens. Ein Peter Altenberg-Buch.</title>
+                        <pubPlace key="#kab-place-00005">München</pubPlace>
+                        <publisher>Längen-Müller</publisher>
+                        <date when="1961">1961</date>
+                        <biblScope>276 S.</biblScope>
+                        <note type="comment">Naive und im einzelnen vielleicht nicht immer
+                            zuverlässige Erinnerungen an die Begegnungen der Verfasserin mit Peter
+                            Altenberg. Das Buch gewährt einen gewissen Einblick in die Atmosphäre
+                            jenes Kreises; interessant das unge¬wollt entstehende Bild von K. als
+                            dem Realistischen und Zuver¬lässigen in der Wiener Boheme.</note>
+                    </bibl>
+
+                    <!-- 1.2.14 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.14">
+                        <num type="id">1.2.14</num>
+                        <author key="#kab-pers-00031">Mittler, Franz</author>
+                        <title level="a">Es war nicht leicht, aber schön …</title>
+                        <title level="j">Forum (Wien)</title>
+                        <num>3. 1956</num>
+                        <biblScope>S. 225 f.</biblScope>
+                        <note type="comment">Erinnerungen des letzten Klavierbegleiters von K.,
+                            besonders an die Offenbach-Vorlesungen.</note>
+                    </bibl>
+
+                    <!-- 1.2.15 Beitrag in Sammelband -->
+                    <bibl xml:id="kab-entry-1.2.15">
+                        <num type="id">1.2.15</num>
+                        <author key="#kab-pers-00036">Radecki, Sigismund von</author>
+                        <title level="a">Erinnerungen an Karl Kraus.</title>
+                        <title level="m">SvR: Wie ich glaube</title>
+                        <pubPlace key="#kab-place-00004">Köln und Ölten</pubPlace>
+                        <publisher>Hegner</publisher>
+                        <date when="1953">1953</date>
+                        <biblScope>S. 21–45</biblScope>
+                        <note type="comment">Zahlreiche kleine Anekdoten über den Menschen K., von
+                            denen viele recht aufschlußreich scheinen. U. a. über K.'s Verhältnis zu
+                            Rilke, über sein schauspielerisches Talent, über seine Beziehung zur
+                            Kirche. K 959.</note>
+                    </bibl>
+
+                    <!-- 1.2.16 Zeitungsartikel -->
+                    <bibl xml:id="kab-entry-1.2.16">
+                        <num type="id">1.2.16</num>
+                        <author key="#kab-pers-00037">Roedl, Urban [= Bruno Adler]</author>
+                        <title level="a">Ein Abend mit Franz Marc.</title>
+                        <title level="j">die Zeit</title>
+                        <num>21. Nr. 10. 4. März 1966</num>
+                        <biblScope>S. 22</biblScope>
+                        <note type="comment">Über ein Zusammentreffen von K. und Marc in
+                            München.</note>
+                    </bibl>
+
+                    <!-- 1.2.17 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.17">
+                        <num type="id">1.2.17</num>
+                        <author key="#kab-pers-00046">Torberg, Friedrich</author>
+                        <title level="a">Zwischen Schmunzeln und Höllengelächter.</title>
+                        <title level="j">Forum (Wien)</title>
+                        <num>l. 1954, Heft 4 (April)</num>
+                        <biblScope>S. 18 f.</biblScope>
+                        <note type="comment">Darstellung der Wirkung K.'s auf den jungen Torberg und
+                            Erinnerungen an Begegnungen mit ihm (ab etwa 1930).</note>
+                    </bibl>
+
+                    <!-- 1.2.18 Zeitungsartikel -->
+                    <bibl xml:id="kab-entry-1.2.18">
+                        <num type="id">1.2.18</num>
+                        <author key="#kab-pers-00046">Torberg, Friedrich</author>
+                        <title level="a">Er war genau so – und er war ganz anders. Persönliche Eri-nnerungen
+                            an Karl Kraus.</title>
+                        <title level="j">Neue Zürcher Zeitung</title>
+                        <date when="1974-04-28">28. April 1974</date>
+                        <biblScope>S. 51f.</biblScope>
+                        <note type="comment">Teilweise identisch mit dem Vorhergehenden;
+                            aufschlußreich.</note>
+                    </bibl>
+
+                    <!-- 1.2.19 Monographie (mit Reihe) -->
+                    <bibl xml:id="kab-entry-1.2.19">
+                        <num type="id">1.2.19</num>
+                        <author key="#kab-pers-00047">Tucholsky, Kurt</author>
+                        <title>Ausgewählte Briefe. 1913–1935.</title>
+                        <pubPlace key="#kab-place-00009">Reinbek</pubPlace>
+                        <publisher>Rowohlt</publisher>
+                        <date when="1962">1962</date>
+                        <biblScope>570 S.</biblScope>
+                        <title level="s">KT: Gesammelte Werke</title>
+                        <note type="comment">S. 100 f. ein Brief an Siegfried Jacobsohn vom 9.3.1925
+                            über K.'s Polemik gegen Jacobsohn (vgl. "Der Fall Jacobsohn", F 686/90,
+                            Mai 1925, S. 54–69) und über sein Verhalten gegenüber Marcel Ray. S. 262
+                            die Anekdote, K. habe 1933 zu den nach Wien Emigrierten gesagt: die
+                            Ratten betreten das sinkende Schiff! S. 359 f. eine sehr begeisterte
+                            Äußerung über die Berliner Vorlesung vom 5. Mai 1918. Vgl. auch 9.3.09
+                            (Enseling).</note>
+                    </bibl>
+
+                    <!-- 1.2.20 Monographie (mit Reihe) -->
+                    <bibl xml:id="kab-entry-1.2.20">
+                        <num type="id">1.2.20</num>
+                        <author key="#kab-pers-00052">Wolff, Kurt</author>
+                        <title>Autoren. Bücher, Abenteuer. Betrachtungen und Erin¬nerungen eines
+                            Verlegers.</title>
+                        <pubPlace key="#kab-place-00001">Berlin</pubPlace>
+                        <publisher>Wagenbach</publisher>
+                        <date when="1965">1965</date>
+                        <biblScope>117 S.</biblScope>
+                        <title level="s">Quarthefte</title>
+                        <num type="series">1</num>
+                        <note type="comment">Darin S. 75–99 Wolffs sehr informative Erinnerungen an
+                            K. aus den Jahren 1912 bis 1922, u. a. wichtig für K.'s Beziehungen zu
+                            Werfel, aber auch sonst sehr interessant. Identisch mit K 966, K 967.
+                            Vgl. 9.2.7.</note>
+                    </bibl>
+
+                    <!-- 1.2.21 Monographie -->
+                    <bibl xml:id="kab-entry-1.2.21">
+                        <num type="id">1.2.21</num>
+                        <author key="#kab-pers-00053">Zenker, Ernst Viktor</author>
+                        <title>Ein Mann im sterbenden Österreich. Erinnerungen aus meinem
+                            Leben.</title>
+                        <pubPlace key="#kab-place-00008">Reichenberg</pubPlace>
+                        <publisher>Kraus</publisher>
+                        <date when="1935">1935</date>
+                        <biblScope>265 S.</biblScope>
+                        <note type="comment">S. 126: 1906/07 habe K. gemeinsam mit Otto Stoessl,
+                            Robert Scheu und Zenker eine Tageszeitung ohne fremdes Kapital gründen
+                            wollen. Zenker gilt im allgemeinen als verläßlich, doch wird man an
+                            dieser Mitteilung doch zweifeln dürfen.</note>
+                    </bibl>
+
+                    <!-- 1.2.22 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.22">
+                        <num type="id">1.2.22</num>
+                        <author key="#kab-pers-00042">Soyka, Otto</author>
+                        <title level="a">Begegnungen mit Karl Kraus.</title>
+                        <title level="j">die Schau (Wien)</title>
+                        <num>1. 1953. Nr. 19/20 (Oktober)</num>
+                        <biblScope>S. 9 f., 21</biblScope>
+                        <note type="comment">Soyka war zeitweise Mitarbeiter der "Fackel"; über
+                            diese Zeit (1904 bis 1913) berichtet der spätere ,Abtrünnige'. Er
+                            spricht dabei auch über Schattenseiten von K.'s Persönlichkeit; den
+                            Tisch, an dem K. im Cafe saß, nennt er einen totalitären Tisch. Recht
+                            interessant.</note>
+                    </bibl>
+
+                    <!-- 1.2.23 Zeitschriftenaufsatz -->
+                    <bibl xml:id="kab-entry-1.2.23">
+                        <num type="id">1.2.23</num>
+                        <author key="#kab-pers-00025">Kornauth, Egon</author>
+                        <title level="a">Meine Erinnerungen an Karl Kraus.</title>
+                        <title level="j">Freude an Büchern. Monatshefte für Weltliteratur
+                            (Wien)</title>
+                        <num>5. 1954</num>
+                        <biblScope>S. 81 f.</biblScope>
+                        <note type="comment">Erin¬nerungen an Nestroy-Vorlesungen, die Kornauth
+                            1916/17 begleitete, und an die Entstehung der Melodien nach Angaben des
+                            Vortragenden. 1918 habe K. es Kornauth freigestellt, als Begleiter
+                            zurückzutreten, wenn er sich politisch nicht exponieren wolle. Vgl. die
+                            oben angeführten Briefe; ferner 3.4.7 (Briefe Trakls an K.); 7.6.02.4
+                            (Briefe von Franz Janowitz an K.); 7.6.08.1 (Briefe Rilkes an Sidonie
+                            Nádherny). Briefe von Eisner, Landauer, Liebknecht, Liliencron,
+                            Strindberg, Wedekind, Hugo Wolf und anderen an K. sind in der "Fackel"
+                            veröffentlicht worden. Erinnerungen an K. enthalten auch 6.3.3
+                            (Rychner), 9.2.8 (Hiller) und 9.2.12 (Brod). Siehe auch 10.3.1 (Greve
+                            und Volke).</note>
+                    </bibl>
+
+                </listBibl>
+      </body>
+  </text>
+</TEI>
