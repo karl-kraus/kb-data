@@ -32,8 +32,8 @@
                         <num type="id">0.1.1</num>
                         <num type="category">0.1</num>
                         <author key="#kab-pers-00023">Kerry, Otto</author>
-                        <title>Karl-Kraus-Bibliographie.</title>
-                        <title type="subtitle">Mit einem Register der Aphorismen, Gedichte, Glossen
+                        <title level="m">Karl-Kraus-Bibliographie.</title>
+                        <title level="m" type="subtitle">Mit einem Register der Aphorismen, Gedichte, Glossen
                             und Satiren.</title>
                         <edition>[2. Auflage]</edition>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
@@ -79,7 +79,7 @@
                         <num type="id">0.1.3</num>
                         <num type="category">0.1</num>
                         <author key="#kab-pers-00007">Bode, Ingrid</author>
-                        <title>die Autobiographien zur deutschen Literatur, Kunst und Musik
+                        <title level="m">die Autobiographien zur deutschen Literatur, Kunst und Musik
                             1900–1965.</title>
                         <pubPlace key="#kab-place-00010">Stuttgart</pubPlace>
                         <publisher>Metzler</publisher>
@@ -96,8 +96,8 @@
                         <num type="id">0.1.4</num>
                         <num type="category">0.1</num>
                         <author key="#kab-pers-00035">Raabe, Paul (Hrsg.)</author>
-                        <title>Index Expressionismus.</title>
-                        <title type="subtitle">Bibliographie der Beiträge in den Zeitschriften und
+                        <title level="m">Index Expressionismus.</title>
+                        <title level="m" type="subtitle">Bibliographie der Beiträge in den Zeitschriften und
                             Jahrbüdiern des literarischen Expressionismus. 18 Bände.</title>
                         <pubPlace key="#kab-place-00006">Nendeln (Liechtenstein)</pubPlace>
                         <publisher>Kraus Reprint</publisher>
@@ -114,8 +114,8 @@
                         <num type="id">0.1.5</num>
                         <num type="category">0.1</num>
                         <author key="#kab-pers-00048">Ullmann, Ludwig</author>
-                        <title>Die Fackel. April 1899 – März 1910.</title>
-                        <title type="subtitle">Elf Jahrgänge. Register der Autoren und Beiträge von
+                        <title level="m">Die Fackel. April 1899 – März 1910.</title>
+                        <title level="m" type="subtitle">Elf Jahrgänge. Register der Autoren und Beiträge von
                             300 Nummern.</title>
                         <pubPlace key="#kab-place-00011">Wien</pubPlace>
                         <publisher>Fackel</publisher>
@@ -151,9 +151,11 @@
                     <bibl xml:id="kab-entry-0.2">
                         <num type="id">0.2</num>
                         <num type="category">0.2</num>
-                        <title>Karl Kraus. Zum 100. Geburtstag. 1874–1974.</title> Ausstellung der
-                        Stadt Wien. Gestaltet von Josef Vass, Echth Grünsteidl und Manfred
-                        Arndorfer. <pubPlace key="#kab-place-00011">Wien</pubPlace>
+                        <title level="m">Karl Kraus. Zum 100. Geburtstag. 1874–1974.</title> 
+                        <title level="m" type="subtitle">Ausstellung der
+                            Stadt Wien. Gestaltet von Josef Vass, Echth Grünsteidl und Manfred
+                            Arndorfer</title>
+                        <pubPlace key="#kab-place-00011">Wien</pubPlace>
                         <publisher>Stadtbibliothek</publisher>
                         <date when="1974">1974</date>
                         <biblScope>[32 S.]</biblScope>
@@ -210,8 +212,8 @@
                         <num type="id">0.3.2</num>
                         <num type="category">0.3</num>
                         <author key="#kab-pers-00021">Jenaczek, Friedrich</author>
-                        <title>Zeittafeln zur "Fackel".</title>
-                        <title type="subtitle">Themen – Ziele – Probleme.</title>
+                        <title level="m">Zeittafeln zur "Fackel".</title>
+                        <title level="m" type="subtitle">Themen – Ziele – Probleme.</title>
                         <pubPlace key="#kab-place-00002">Gräfelfing</pubPlace>
                         <publisher>Gans</publisher>
                         <date when="1965">1965</date>
@@ -352,7 +354,7 @@
                         <num type="id">1.1.1</num>
                         <num type="category">1.1</num>
                         <author key="#kab-pers-00026">Kraus, Karl</author>
-                        <title>Briefe an Sidonie Nádherny von Borutin. 2. Band: Editorischer
+                        <title level="m">Briefe an Sidonie Nádherny von Borutin. 2. Band: Editorischer
                             Bericht. Bildteil.</title>
                         <editor key="#kab-pers-00016">Friedrich Pfäfflin</editor>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
@@ -513,7 +515,7 @@
                         <num type="id">1.1.3</num>
                         <num type="category">1.1</num>
                         <editor key="#kab-pers-00034">Pfäfflin, Friedrich (Hrsg.)</editor>
-                        <title>Heinrich Fischer zum 22. August 1971.</title>
+                        <title level="m">Heinrich Fischer zum 22. August 1971.</title>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
                         <publisher>Kösel</publisher>
                         <date when="1971">1971</date>
@@ -531,7 +533,7 @@
                         <num type="id">1.1.4</num>
                         <num type="category">1.1</num>
                         <editor key="#kab-pers-00034">Pfäfflin, Friedrich (Hrsg.)</editor>
-                        <title>Berthold Viertel (1885–1953). Eine Dokumentation.</title>
+                        <title level="m">Berthold Viertel (1885–1953). Eine Dokumentation.</title>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
                         <publisher>Kösel</publisher>
                         <date when="1969">1969</date>
@@ -581,7 +583,7 @@
                         <num type="id">1.2.01</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00004">Aufricht, Ernst Josef</author>
-                        <title>Erzähle, damit du dein Recht erweist.</title>
+                        <title level="m">Erzähle, damit du dein Recht erweist.</title>
                         <pubPlace key="#kab-place-00001">Berlin</pubPlace>
                         <publisher>Propyläen</publisher>
                         <date when="1966">1966</date>
@@ -676,7 +678,7 @@
                         <num type="id">1.2.06.1</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00017">Ginsberg, Ernst</author>
-                        <title>Abschied, Erinnerungen, Theateraufsätze, Gedichte.</title>
+                        <title level="m">Abschied, Erinnerungen, Theateraufsätze, Gedichte.</title>
                         <editor key="#kab-pers-00012">Elisabeth Brock-Sulzer</editor>
                         <edition>2. Auflage</edition>
                         <pubPlace key="#kab-place-00012">Zürich</pubPlace>
@@ -721,7 +723,7 @@
                         <num type="id">1.2.09</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00024">Kokoschka, Oskar</author>
-                        <title>Mein Leben.</title>
+                        <title level="m">Mein Leben.</title>
                         <author key="#kab-pers-00050">Vorwort und dokumentarische Mitarbeit von Remigius Netzer</author>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
                         <publisher>Bruckmann</publisher>
@@ -756,7 +758,7 @@
                         <num type="id">1.2.11</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00028">Lasker-Schüler, Else</author>
-                        <title>Briefe an Karl Kraus.</title>
+                        <title level="m">Briefe an Karl Kraus.</title>
                         <editor key="#kab-pers-00003">Astrid Gehl-hoff-Claes</editor>
                         <pubPlace key="#kab-place-00003">Köln</pubPlace>
                         <publisher>Kiepenheuer &amp; Witsch</publisher>
@@ -786,7 +788,7 @@
                         <num type="id">1.2.13</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00030">Malmberg, Helga</author>
-                        <title>Widerhall des Herzens. Ein Peter Altenberg-Buch.</title>
+                        <title level="m">Widerhall des Herzens. Ein Peter Altenberg-Buch.</title>
                         <pubPlace key="#kab-place-00005">München</pubPlace>
                         <publisher>Längen-Müller</publisher>
                         <date when="1961">1961</date>
@@ -873,7 +875,7 @@
                         <num type="id">1.2.19</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00047">Tucholsky, Kurt</author>
-                        <title>Ausgewählte Briefe. 1913–1935.</title>
+                        <title level="m">Ausgewählte Briefe. 1913–1935.</title>
                         <pubPlace key="#kab-place-00009">Reinbek</pubPlace>
                         <publisher>Rowohlt</publisher>
                         <date when="1962">1962</date>
@@ -893,7 +895,7 @@
                         <num type="id">1.2.20</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00052">Wolff, Kurt</author>
-                        <title>Autoren. Bücher, Abenteuer. Betrachtungen und Erin¬nerungen eines
+                        <title level="m">Autoren. Bücher, Abenteuer. Betrachtungen und Erin¬nerungen eines
                             Verlegers.</title>
                         <pubPlace key="#kab-place-00001">Berlin</pubPlace>
                         <publisher>Wagenbach</publisher>
@@ -912,7 +914,7 @@
                         <num type="id">1.2.21</num>
                         <num type="category">1.2</num>
                         <author key="#kab-pers-00053">Zenker, Ernst Viktor</author>
-                        <title>Ein Mann im sterbenden Österreich. Erinnerungen aus meinem
+                        <title level="m">Ein Mann im sterbenden Österreich. Erinnerungen aus meinem
                             Leben.</title>
                         <pubPlace key="#kab-place-00008">Reichenberg</pubPlace>
                         <publisher>Kraus</publisher>
