@@ -6,7 +6,9 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Über das Projekt</title>
+            <title level="a">Über das Projekt</title>
+            <title level="s">Eine Karl Kraus Bibliographie, basierend auf S.P. Scheichls "Kommentierte Auswahlbibliographie" (KAB)</title>
+            <editor ref="https://d-nb.info/gnd/1036708799">Bernhard Oberreither</editor>
          </titleStmt>
          <publicationStmt>
             <p></p>
