@@ -19,11 +19,11 @@
   <text>
       <body>
          
-         <desc corresp="0">Bibliographien, Hilfsmittel, Rezensionen</desc>
-         <desc corresp="1">Zu Biographie und Persönlichkeit</desc>
-         <desc corresp="1.1">Biographische Darstellungen</desc>
-         <desc corresp="1.2">Biographisches Material</desc>
-         <desc corresp="1.3">Zur Persönlichkeit</desc>
+          <desc type="chapter" corresp="0 0.1 0.2 0.3 0.4 0.5">Bibliographien, Hilfsmittel, Rezensionen</desc>
+          <desc type="chapter" corresp="1 1.1 1.2 1.3">Zu Biographie und Persönlichkeit</desc>
+          <desc type="subchapter" corresp="1.1">Biographische Darstellungen</desc>
+          <desc type="subchapter" corresp="1.2">Biographisches Material</desc>
+          <desc type="subchapter" corresp="1.3">Zur Persönlichkeit</desc>
          
          <listBibl>
                     
