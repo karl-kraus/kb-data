@@ -20,32 +20,132 @@
   </teiHeader>
   <text>
       <body>
-          <listPlace >
-              <place xml:id="kab-place-00001"><placeName>Berlin</placeName></place>
+          <listPlace>
+              <place xml:id="kab-place-00001"><placeName>Baltimore</placeName></place>
               
-              <place xml:id="kab-place-00002"><placeName>Gräfelfing</placeName></place>
+              <place xml:id="kab-place-00002"><placeName>Baltimore, Md.</placeName></place>
               
-              <place xml:id="kab-place-00003"><placeName>Köln</placeName></place>
+              <place xml:id="kab-place-00003"><placeName>Basel</placeName></place>
               
-              <place xml:id="kab-place-00004"><placeName>Köln und Ölten</placeName></place>
+              <place xml:id="kab-place-00004"><placeName>Berkeley</placeName></place>
               
-              <place xml:id="kab-place-00005"><placeName>München</placeName></place>
+              <place xml:id="kab-place-00005"><placeName>Berlin</placeName></place>
               
-              <place xml:id="kab-place-00006"><placeName>Nendeln (Liechtenstein)</placeName></place>
+              <place xml:id="kab-place-00006"><placeName>Berlin (DDR)</placeName></place>
               
-              <place xml:id="kab-place-00007"><placeName>New York</placeName></place>
+              <place xml:id="kab-place-00007"><placeName>Berlin (DDR) und Weimar</placeName></place>
               
-              <place xml:id="kab-place-00008"><placeName>Reichenberg</placeName></place>
+              <place xml:id="kab-place-00008"><placeName>Bern</placeName></place>
               
-              <place xml:id="kab-place-00009"><placeName>Reinbek</placeName></place>
+              <place xml:id="kab-place-00009"><placeName>Bonn</placeName></place>
               
-              <place xml:id="kab-place-00010"><placeName>Stuttgart</placeName></place>
+              <place xml:id="kab-place-00010"><placeName>Bordeaux</placeName></place>
               
-              <place xml:id="kab-place-00011"><placeName>Wien</placeName></place>
+              <place xml:id="kab-place-00011"><placeName>Bremen</placeName></place>
               
-              <place xml:id="kab-place-00012"><placeName>Zürich</placeName></place>
+              <place xml:id="kab-place-00012"><placeName>Cambridge (England)</placeName></place>
               
+              <place xml:id="kab-place-00013"><placeName>Cleveland</placeName></place>
               
+              <place xml:id="kab-place-00014"><placeName>Darmstadt</placeName></place>
+              
+              <place xml:id="kab-place-00015"><placeName>Den Haag</placeName></place>
+              
+              <place xml:id="kab-place-00016"><placeName>Dresden</placeName></place>
+              
+              <place xml:id="kab-place-00017"><placeName>Durham</placeName></place>
+              
+              <place xml:id="kab-place-00018"><placeName>Erlangen-Nürn-berg</placeName></place>
+              
+              <place xml:id="kab-place-00019"><placeName>Frankfurt</placeName></place>
+              
+              <place xml:id="kab-place-00020"><placeName>Freie Universität Berlin</placeName></place>
+              
+              <place xml:id="kab-place-00021"><placeName>Graz</placeName></place>
+              
+              <place xml:id="kab-place-00022"><placeName>Gräfelfing</placeName></place>
+              
+              <place xml:id="kab-place-00023"><placeName>Göttingen</placeName></place>
+              
+              <place xml:id="kab-place-00024"><placeName>Hamburg</placeName></place>
+              
+              <place xml:id="kab-place-00025"><placeName>Heidelberg</placeName></place>
+              
+              <place xml:id="kab-place-00026"><placeName>Innsbruck</placeName></place>
+              
+              <place xml:id="kab-place-00027"><placeName>Kronberg (Taunus)</placeName></place>
+              
+              <place xml:id="kab-place-00028"><placeName>Köln</placeName></place>
+              
+              <place xml:id="kab-place-00029"><placeName>Köln und Olten</placeName></place>
+              
+              <place xml:id="kab-place-00030"><placeName>Köln und Ölten</placeName></place>
+              
+              <place xml:id="kab-place-00031"><placeName>Leipzig</placeName></place>
+              
+              <place xml:id="kab-place-00032"><placeName>Lilie</placeName></place>
+              
+              <place xml:id="kab-place-00033"><placeName>London</placeName></place>
+              
+              <place xml:id="kab-place-00034"><placeName>Mailand</placeName></place>
+              
+              <place xml:id="kab-place-00035"><placeName>Marbach am Neckar</placeName></place>
+              
+              <place xml:id="kab-place-00036"><placeName>Memmingen</placeName></place>
+              
+              <place xml:id="kab-place-00037"><placeName>München</placeName></place>
+              
+              <place xml:id="kab-place-00038"><placeName>München-Pullach</placeName></place>
+              
+              <place xml:id="kab-place-00039"><placeName>Münster</placeName></place>
+              
+              <place xml:id="kab-place-00041"><placeName>Nendeln (Liechtenstein)</placeName></place>
+              
+              <place xml:id="kab-place-00042"><placeName>Neuwied</placeName></place>
+              
+              <place xml:id="kab-place-00043"><placeName>New York</placeName></place>
+              
+              <place xml:id="kab-place-00044"><placeName>Newcastle upon Tyne</placeName></place>
+              
+              <place xml:id="kab-place-00045"><placeName>Nürnberg</placeName></place>
+              
+              <place xml:id="kab-place-00046"><placeName>Padua</placeName></place>
+              
+              <place xml:id="kab-place-00047"><placeName>Paris</placeName></place>
+              
+              <place xml:id="kab-place-00048"><placeName>Prag</placeName></place>
+              
+              <place xml:id="kab-place-00049"><placeName>Reichenberg</placeName></place>
+              
+              <place xml:id="kab-place-00050"><placeName>Reinbek</placeName></place>
+              
+              <place xml:id="kab-place-00051"><placeName>Rudolstadt (DDR)</placeName></place>
+              
+              <place xml:id="kab-place-00052"><placeName>Salzburg</placeName></place>
+              
+              <place xml:id="kab-place-00053"><placeName>Southampton</placeName></place>
+              
+              <place xml:id="kab-place-00054"><placeName>St. Andrews (Schottland)</placeName></place>
+              
+              <place xml:id="kab-place-00055"><placeName>Steinbach</placeName></place>
+              
+              <place xml:id="kab-place-00056"><placeName>Stuttgart</placeName></place>
+              
+              <place xml:id="kab-place-00057"><placeName>Tel Aviv</placeName></place>
+              
+              <place xml:id="kab-place-00058"><placeName>Toronto</placeName></place>
+              
+              <place xml:id="kab-place-00059"><placeName>Turin</placeName></place>
+              
+              <place xml:id="kab-place-00060"><placeName>University of California at Los Angeles</placeName></place>
+              
+              <place xml:id="kab-place-00061"><placeName>Wien</placeName></place>
+              
+              <place xml:id="kab-place-00062"><placeName>Wien und München</placeName></place>
+              
+              <place xml:id="kab-place-00063"><placeName>Zürich</placeName></place>
+              
+              <place xml:id="kab-place-00065"><placeName>Ölten</placeName></place>
           </listPlace>
       </body>
   </text>
