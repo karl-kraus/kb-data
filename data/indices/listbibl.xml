@@ -168,7 +168,7 @@
                     <title type="subtitle" level="m">Elf Jahrgänge. Register der Autoren und
                         Beiträge von 300 Nummern.</title>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <publisher>Fackel</publisher>
+                    <publisher>Fackel</publisher>kab-entry-0.2
                     <date when="1910">1910</date>
                     <biblScope>23 S.</biblScope>
                     <note type="comment">Verzeichnet alle Mitarbeiter der "Fackel", soweit ihre
@@ -201,6 +201,7 @@
                 <!-- 0.2 Ausstellungskatalog (Monographie / Katalog) -->
                 <bibl xml:id="kab-entry-0.2">
                     <num type="id">0.2</num>
+                    <num type="category">0.2</num>
                     <title level="m">Karl Kraus. Zum 100. Geburtstag. 1874–1974.</title>
                     <title level="m" type="subtitle"> Ausstellung der Stadt Wien. Gestaltet von
                         Josef Vass, Echth Grünsteidl und Manfred Arndorfer.</title>
@@ -223,6 +224,7 @@
                 <!-- 0.3.1 Aufsatz in Zeitschrift -->
                 <bibl xml:id="kab-entry-0.3.1">
                     <num type="id">0.3.1</num>
+                    <num type="category">0.3</num>
                     <author key="#kab-pers-00036">Bäuml, Gustav H.</author>
                     <author key="#kab-pers-00035">Bäuml, Franz H.</author>
                     <title level="a">Namenverzeichnis zu Karl Kraus DIE FACKEL.</title>
@@ -245,6 +247,7 @@
                 <!-- 0.3.1.1 Aufsatz in Zeitschrift -->
                 <bibl xml:id="kab-entry-0.3.1.1">
                     <num type="id">0.3.1.1</num>
+                    <num type="category">0.3</num>
                     <author key="#kab-pers-00343">Ögg, Franz</author>
                     <title level="a">über die Schwierigkeit, "Die Fackel" von Karl Kraus zu lesen.
                         Bemerkungen zum Namenverzeichnis von Gustav H. Bäuml und Franz H.
@@ -261,6 +264,7 @@
                 <!-- 0.3.2 Monographie mit Reihe -->
                 <bibl xml:id="kab-entry-0.3.2">
                     <num type="id">0.3.2</num>
+                    <num type="category">0.3</num>
                     <author key="#kab-pers-00143">Jenaczek, Friedrich</author>
                     <title level="m">Zeittafeln zur "Fackel".</title>
                     <title type="subtitle" level="m">Themen – Ziele – Probleme.</title>
@@ -288,6 +292,7 @@
                 <!-- 0.4.1 Zeitungsartikel -->
                 <bibl xml:id="kab-entry-0.4.1">
                     <num type="id">0.4.1</num>
+                    <num type="category">0.4</num>
                     <author key="#kab-pers-00109">Hartl, Edwin</author>
                     <title level="a">Der ignorierte Karl Kraus.</title>
                     <title level="j">die Presse (Wien)</title>
@@ -301,6 +306,7 @@
                 <!-- 0.4.2 Zeitschriftenaufsatz -->
                 <bibl xml:id="kab-entry-0.4.2">
                     <num type="id">0.4.2</num>
+                    <num type="category">0.4</num>
                     <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                     <title level="a">Publikationen des Auslandes über Karl Kraus.</title>
                     <title level="j">Literatur und Kritik</title>
@@ -314,6 +320,7 @@
                 <!-- 0.4.3 Zeitschriftenaufsatz (Sammelrezension) -->
                 <bibl xml:id="kab-entry-0.4.3">
                     <num type="id">0.4.3</num>
+                    <num type="category">0.4</num>
                     <author key="#kab-pers-00304">Timms, Edward Francis</author>
                     <title level="a">[Sammelrezension]</title>
                     <title level="j">Modern Language Review</title>
@@ -332,6 +339,7 @@
                 <!-- 0.4.4 Zeitschriftenaufsatz -->
                 <bibl xml:id="kab-entry-0.4.4">
                     <num type="id">0.4.4</num>
+                    <num type="category">0.4</num>
                     <author key="#kab-pers-00336">Zohn, Harry</author>
                     <title level="a">Krausiana.</title>
                     <title level="j">Modern Austrian Literature</title>
