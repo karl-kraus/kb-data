@@ -6,10 +6,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a">Bibliographie</title>
-                <title level="s">Eine Karl Kraus Bibliographie, basierend auf S.P. Scheichls
-                    "Kommentierte Auswahlbibliographie" (KAB)</title>
+                <title>Bibliographie</title>
+                <title type="subtitle">Digitale Karl-Kraus-Bibliographie. Basierend auf Sigurd Paul Scheichls Kommentierter Auswahlbibliographie zu Karl Kraus</title>
                 <editor ref="https://d-nb.info/gnd/1036708799">Bernhard Oberreither</editor>
+                <editor ref="https://d-nb.info/gnd/1043833846">Peter Andorfer</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -136,7 +136,7 @@
                     <num type="id">0.1.3</num>
                     <num type="category">0.1</num>
                     <author key="#kab-pers-00023">Bode, Ingrid</author>
-                    <title level="m">die Autobiographien zur deutschen Literatur, Kunst und Musik
+                    <title level="m">Die Autobiographien zur deutschen Literatur, Kunst und Musik
                         1900–1965</title>
                     <pubPlace key="#kab-place-00056">Stuttgart</pubPlace>
                     <publisher>Metzler</publisher>
@@ -1072,7 +1072,7 @@
                     <num type="category">1.2</num>
                     <author key="#kab-pers-00260">Roedl, Urban [= Bruno Adler]</author>
                     <title level="a">Ein Abend mit Franz Marc</title>
-                    <title level="j">die Zeit</title>
+                    <title level="j">Die Zeit</title>
                     <num>21. Nr. 10. 4. März 1966</num>
                     <date when="1966">1966</date>
                     <biblScope>S. 22</biblScope>
@@ -1187,7 +1187,7 @@
                     <num type="category">1.2</num>
                     <author key="#kab-pers-00289">Soyka, Otto</author>
                     <title level="a">Begegnungen mit Karl Kraus</title>
-                    <title level="j">die Schau (Wien)</title>
+                    <title level="j">Die Schau (Wien)</title>
                     <num>1. 1953. Nr. 19/20 (Oktober)</num>
                     <date when="1953">1953</date>
                     <biblScope>S. 9 f., 21</biblScope>
@@ -3081,7 +3081,7 @@
                     <num type="id">3.1.41</num>
                     <num type="category">3.1</num>
                     <author key="#kab-pers-00274">Schmid, Richard</author>
-                    <title level="a">die Fackel des Karl Kraus</title>
+                    <title level="a">Die Fackel des Karl Kraus</title>
                     <title level="j">Merkur</title>
                     <date when="1974">1974</date>
                     <num>28</num>
@@ -3125,7 +3125,7 @@
                     <title level="a">Introduction</title>
                     <title level="m">Karl Kraus: The Last Days of Mankind</title>
                     <editor key="#kab-pers-00078">Frederick Ungar</editor>
-                    <note>Übersetzt von Alexander Code und Sue Ellen Wright</note>
+                    <author role="translator">Übersetzt von Alexander Code und Sue Ellen Wright</author>
                     <pubPlace key="#kab-place-00043">New York</pubPlace>
                     <publisher>Ungar</publisher>
                     <date when="1974">1974</date>
@@ -3166,7 +3166,7 @@
                     <title level="m">Una muraglia cinese</title>
                     <title type="subtitle" level="m">Vorwort zu: Karl Kraus: Detti e
                         contradetti</title>
-                    <note>Übersetzt und hrsg. von RC</note>
+                    <author role="translator">Übersetzt und hrsg. von RC</author>
                     <pubPlace key="#kab-place-00034">Mailand</pubPlace>
                     <publisher>Adelphi</publisher>
                     <date when="1972">1972</date>
@@ -3324,15 +3324,15 @@
                     <num type="category">3.2</num>
                     <author key="#kab-pers-00190">Lichtenstein, Alfred</author>
                     <title level="a">Zwei Bruchstücke aus der ersten Fassung der Geschichte "Café
-                        Klößchen". 2. Der Dackel-Laus</title>
-                    <note>(Erstdruck 1919)</note>
+                        Klößchen". 2. Der Dackel-Laus (Erstdruck 1919)</title>
+                    
                     <title level="m">AL: Gesammelte Prosa</title>
                     <editor key="#kab-pers-00164">Klaus Kanzog</editor>
                     <pubPlace key="#kab-place-00063">Zürich</pubPlace>
                     <publisher>Arche</publisher>
                     <date when="1966">1966</date>
                     <biblScope unit="page">64 f.</biblScope>
-                    <note>Anmerkungen S. 130 f. Der 'Fackel-Kraus' als Dackel-Laus, der eine
+                    <note type="comment">Anmerkungen S. 130 f. Der 'Fackel-Kraus' als Dackel-Laus, der eine
                         Religion ohne Gott, aber mit einem Papst, nämlich sich selbst, verkünde.
                         Vgl. dazu Kurt Hiller (<ref target="#kab-entry-9.2.8">9.2.8</ref>), S.
                         83.</note>
@@ -3409,8 +3409,8 @@
                     <num type="id">3.2.8</num>
                     <num type="category">3.2</num>
                     <author key="#kab-pers-00169">Kolb, Annette</author>
-                    <title level="a">die drei letzten Briefe an einen Toten</title>
-                    <title level="j">die weißen Blätter</title>
+                    <title level="a">Die drei letzten Briefe an einen Toten</title>
+                    <title level="j">Die weißen Blätter</title>
                     <date when="1916">1916</date>
                     <num>3. 1.</num>
                     <biblScope unit="page">122–132</biblScope>
@@ -3432,7 +3432,7 @@
                     <num type="category">3.3</num>
                     <author key="#kab-pers-00106">Hannak, Jacques</author>
                     <title level="a">Karl Kraus und die Folgen</title>
-                    <title level="j">die Zukunft (Wien)</title>
+                    <title level="j">Die Zukunft (Wien)</title>
                     <date when="1959">1959</date>
                     <num>14</num>
                     <biblScope unit="page">227–230</biblScope>
@@ -3520,7 +3520,7 @@
                     <num type="category">3.3</num>
                     <author key="#kab-pers-00109">Hartl, Edwin</author>
                     <title level="a">Zum neunundneunzigstenmal. Karl Kraus und die Nachrede</title>
-                    <title level="j">die Pestsäule (Wien)</title>
+                    <title level="j">Die Pestsäule (Wien)</title>
                     <date>1972/74</date>
                     <num>l. (Heft 6, 1973)</num>
                     <biblScope unit="page">523–526</biblScope>
@@ -3832,7 +3832,7 @@
                     <num type="id">4.2</num>
                     <num type="category">4</num>
                     <author key="#kab-pers-00174">Kraft, Werner</author>
-                    <title level="a">die Idee des "Ursprungs" bei Karl Kraus</title>
+                    <title level="a">Die Idee des "Ursprungs" bei Karl Kraus</title>
                     <title level="j">Süddeutsche Zeitung</title>
                     <date when="1971-06-12">12./13. Juni 1971</date>
                     <biblScope unit="page">Wochenendbeilage [S. 4]</biblScope>
@@ -4423,7 +4423,7 @@
                     <num type="id">6.1.07</num>
                     <num type="category">6.1</num>
                     <author key="#kab-pers-00191">Liegler, Leopold</author>
-                    <title level="a">die künstlerische Sprachiorm bei Karl Kraus</title>
+                    <title level="a">Die künstlerische Sprachform bei Karl Kraus</title>
                     <title level="m">Agathon. Almanach auf das Jahr 46 des zwanzigsten
                         Jahrhunderts</title>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -5166,7 +5166,7 @@
                     <author key="#kab-pers-00171">Korger, Matthias E.</author>
                     <title level="a">Von rebellierender Mythenbildung zu revolutionärem
                         Bewußtsein</title>
-                    <title level="m">die österreichische Nation</title>
+                    <title level="m">Die österreichische Nation</title>
                     <editor key="#kab-pers-00003">Albert Massiczek</editor>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Europa</publisher>
@@ -5487,7 +5487,7 @@
                     <num type="category">7.4</num>
                     <author key="#kab-pers-00229">Pfabigan, Alfred</author>
                     <title level="a">Karl Kraus und die österreichische Arbeiterbewegung</title>
-                    <title level="j">die Zukunft</title>
+                    <title level="j">Die Zukunft</title>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <num>29, Heft 8</num>
                     <date when="1974">1974</date>
@@ -6954,7 +6954,7 @@
                     <num type="id">8.04.1</num>
                     <num type="category">8.04</num>
                     <author key="#kab-pers-00028">Brill, Siegfried</author>
-                    <title level="m">die Komödie der Sprache. Untersuchungen zum Werke Johann
+                    <title level="m">Die Komödie der Sprache. Untersuchungen zum Werke Johann
                         Nestroys</title>
                     <pubPlace key="#kab-place-00045">Nürnberg</pubPlace>
                     <publisher>Carl</publisher>
@@ -7141,7 +7141,7 @@
                     <biblScope>S. 137–157</biblScope>
                     <note type="comment">Eine knappe Darstellung des Wirkens von K. bis etwa 1920,
                         mit besonderer Berücksichtigung der Aphorismen. Vergleicht den Aufbau der
-                        drei Aphorismenbüdier (150 f.), geht sonst aber über Bekanntes kaum hinaus.
+                        drei Aphorismenbücher (150 f.), geht sonst aber über Bekanntes kaum hinaus.
                         Vgl. Heinrich Fischers Nachwort zum 3. Band der Kösel-Ausgabe, 2.2,16
                         (Simon) und <ref target="#kab-entry-8.09.1.5">8.09.1.5</ref>
                         (Weitzmann).</note>
@@ -7202,7 +7202,7 @@
                     <num type="series">186</num>
                     <note type="comment">Nur eine Seite (13 f.) über die "Letzten Tage" als Beleg
                         für die Ohnmacht der herkömmlichen Literatur angesichts der endgültigen
-                        Zerstörung der Autonomie des Individuums, Für die historische Einordnung des
+                        Zerstörung der Autonomie des Individuums. Für die historische Einordnung des
                         Dramas anregend.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -7213,7 +7213,7 @@
                     <num type="id">8.07.1.2</num>
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00098">Grossberg, Mimi</author>
-                    <title level="m">die k. u. k. Armee in der österreichischen Satire</title>
+                    <title level="m">Die k. u. k. Armee in der österreichischen Satire</title>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Bergland</publisher>
                     <date when="1973">1973</date>
@@ -7236,7 +7236,7 @@
                     <date when="1969">1969</date>
                     <biblScope>S. 1504–1507</biblScope>
                     <note type="comment">K. habe den eigentlichen gesellschaftlichen Hintergrund des
-                        Krieges nicht verstanden und dennoch die poetische Entsprediung zu den
+                        Krieges nicht verstanden und dennoch die poetische Entsprechung zu den
                         großen marxistischen Zeitanalysen verfaßt.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -7283,8 +7283,8 @@
                     <num type="id">8.07.1.4.1</num>
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00123">Hermlin, Stephan</author>
-                    <title level="a">die letzten Tage der Menschheit</title>
-                    <title level="m">SH und Hans Mayer: Ansichten über einige Büdier und
+                    <title level="a">Die letzten Tage der Menschheit</title>
+                    <title level="m">SH und Hans Mayer: Ansichten über einige Bücher und
                         Schriftsteller</title>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher>Volk und Welt</publisher>
@@ -7323,12 +7323,12 @@
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00117">Heißenbüttel, Helmut</author>
                     <title level="a">Auch das Unerträgliche muß benannt werden</title>
-                    <title level="j">die Welt der Literatur</title>
+                    <title level="j">Die Welt der Literatur</title>
                     <num>2. 1965</num>
                     <date when="1965">1965</date>
                     <biblScope>S. 105 (Nr. 5. 4. März. S. 13)</biblScope>
                     <note type="comment">Über die "Letzten Tage" und ihre Sonderstellung in der
-                        Literatur ihrer Zeit. die Szenen haben bei Kraus keine Pointen. Ihre Schärfe
+                        Literatur ihrer Zeit. Die Szenen haben bei Kraus keine Pointen. Ihre Schärfe
                         liegt in der Genauigkeit des Details, der Redegewohnheiten sowohl wie der
                         Denkklischees. K. habe den hoffnungslosen Versuch gewagt, durch ihre
                         Reproduktion einer Wirklichkeit Herr zu werden, der schon niemand mehr Herr
@@ -7413,7 +7413,7 @@
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00072">Fischer, Otokar</author>
                     <title level="a">Zur Stilkritik der "Letzten Tage der Menschheit"</title>
-                    <title level="j">Präger Presse</title>
+                    <title level="j">Prager Presse</title>
                     <date when="1930-03-16">16. März 1930</date>
                     <num>Beilage "Dichtung und Welt" Nr. 11</num>
                     <biblScope>S. 1 f.</biblScope>
@@ -7433,7 +7433,7 @@
                     <num type="id">8.07.2.06</num>
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00143">Jenaczek, Friedrich</author>
-                    <title level="a">die letzten Tage der Menschheit</title>
+                    <title level="a">Die letzten Tage der Menschheit</title>
                     <title level="j">Kindlers Literatur-Lexikon</title>
                     <pubPlace key="#kab-place-00063">Zürich</pubPlace>
                     <publisher>Kindler</publisher>
@@ -7544,7 +7544,7 @@
                         aus Melzer immer wieder auf K. und seine Kulturkritik kommt. Zu K.'s
                         Sprachauffassung heißt es, er gehe von sachlichen Urteilen aus, bringe aber
                         in seinem Werk statt Tatsachenbeweisen symbolische Verweise, die er aus der
-                        Sprache schöpfe (58). die Form des Dramas hänge mit K.'s satirischer Praxis
+                        Sprache schöpfe (58). Die Form des Dramas hänge mit K.'s satirischer Praxis
                         zusammen: es sei eine dramatisierte "Fackel" (227).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -7620,7 +7620,7 @@
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00253">Rieder, Heinz</author>
                     <title level="a">Karl Kraus' "Die letzten Tage der Menschheit" in ihrer
-                        Beziehung zur historischen Wirklichkeil</title>
+                        Beziehung zur historischen Wirklichkeit</title>
                     <title level="m">Geschichte in der Österreichischen Literatur des 19. und 20.
                         Jahrhunderts</title>
                     <editor key="#kab-pers-00136">Institut für Österreichkunde</editor>
@@ -7708,7 +7708,7 @@
                     <biblScope>(111] + 164 S.</biblScope>
                     <note type="comment">Weist tragikomische Züge in einigen (teils
                         überinterpretierten) Szenen der "Letzten Tage der Menschheit" nach; doch
-                        treten diese Elemente hinter den. satirischen zurück. Betont die starke
+                        treten diese Elemente hinter den satirischen zurück. Betont die starke
                         Typisierung der Figuren bei K. und hebt das Fehlen der für die traditionelle
                         Tragödie konstitutiven Elemente Schuld, Schicksal und Held hervor. Das
                         Kriegsdrama als ganzes kommt nicht in den Blick. Beziehungen zwischen K. und
@@ -7738,7 +7738,7 @@
                     <note type="comment">Die "Letzten Tage der Menschheit" seien nach K. nicht mehr
                         vorlesbar, nicht einmal von Helmut Qualtinger – dessen Lesungen Anlaß für
                         diesen Aufsatz waren –, da ihm und seiner Generation das dafür notwendige
-                        Pathos fehle. Vgl, die Leserbriefe auf S. 352 dieses Jahrgangs.</note>
+                        Pathos fehle. Vgl. die Leserbriefe auf S. 352 dieses Jahrgangs.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
                         1975.</note>
@@ -7830,7 +7830,7 @@
                     <num type="id">8.07.3.4.1</num>
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00015">Baumgart, Reinhard</author>
-                    <title level="a">diese Leichenstarre der Lebendigkeit. Hollmann inszeniert "Die
+                    <title level="a">Diese Leichenstarre der Lebendigkeit. Hollmann inszeniert "Die
                         letzten Tage der Menschheit" von Karl Kraus in Basel</title>
                     <title level="j">Süddeutsche Zeitung</title>
                     <date when="1974-12-18">18. Dezember 1974</date>
@@ -7845,7 +7845,7 @@
                     <num type="category">8.07</num>
                     <author key="#kab-pers-00256">Rischbieter, Henning</author>
                     <title level="a">Zu Schatten und Marionetten abgezogen. Hollmann inszeniert "Die
-                        letzten Tage der Menschheit" In Basel</title>
+                        letzten Tage der Menschheit" in Basel</title>
                     <title level="j">Theater heute</title>
                     <num>16. 1975. Heft 2</num>
                     <date when="1975">1975</date>
@@ -8222,7 +8222,7 @@
                     <num type="id">8.10.2</num>
                     <num type="category">8.10</num>
                     <author key="#kab-pers-00065">Feest, Johannes</author>
-                    <title level="a">die Dritte Walpurgisnacht</title>
+                    <title level="a">Die Dritte Walpurgisnacht</title>
                     <title level="j">Kindlers Literatur-Lexikon</title>
                     <num>2</num>
                     <pubPlace key="#kab-place-00063">Zürich</pubPlace>
@@ -8738,7 +8738,7 @@
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00170">Kolb, Fritz</author>
                     <title level="a">Ein Wiedersehen mit Karl Kraus</title>
-                    <title level="j">die Zukunft (Wien)</title>
+                    <title level="j">Die Zukunft (Wien)</title>
                     <date when="1974">1974</date>
                     <num>29. Heft 10</num>
                     <biblScope>27–29</biblScope>
@@ -8856,7 +8856,7 @@
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00138">Jacobsohn, Siegfried</author>
                     <title level="a">Antworten</title>
-                    <title level="j">die Schaubühne</title>
+                    <title level="j">Die Schaubühne</title>
                     <date when="1917">1917</date>
                     <num>13. 1. Halbband</num>
                     <biblScope>167 f.</biblScope>
@@ -9022,7 +9022,7 @@
                     
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00174">Kraft, Werner</author>
-                    <title level="a">die "Fackel" als eine Quelle für Kafka</title>
+                    <title level="a">Die "Fackel" als eine Quelle für Kafka</title>
                     <title level="j">Neue Zürcher Zeitung</title>
                     <date when="1970-01-25">25. Januar 1970</date>
                     <biblScope>53</biblScope>
@@ -9271,7 +9271,7 @@
                     
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00062">Enseling, Alf</author>
-                    <title level="m">die Weltbühne. Organ der "Intellektuellen Linken"</title>
+                    <title level="m">Die Weltbühne. Organ der "Intellektuellen Linken"</title>
                     <pubPlace key="#kab-place-00039">Münster</pubPlace>
                     <publisher>Fahle</publisher>
                     <date when="1962">1962</date>
@@ -10304,7 +10304,7 @@
                         <title level="a">De la pensée &#xE0; la création</title>
                         <title level="m">L'Herne. Karl Kraus (2.3.1)</title>
                         <biblScope unit="page">S. 185–192</biblScope>
-                        <note>Berührt sich teilweise mit <ref target="#kab-entry-2.2.14"
+                        <note type="comment">Berührt sich teilweise mit <ref target="#kab-entry-2.2.14"
                                 >2.2.14</ref>. Betont die Wichtigkeit der textkritischen Analyse von
                             Kraus' Manuskripten, seine Kriterien für Wahrhaftigkeit und die
                             allmähliche Entwicklung seines Denkens. Anhand eines Entwurfs und des
@@ -10435,7 +10435,7 @@
                         <title level="j">Neue Zürcher Zeitung</title>
                         <date>7./8.Juni 1975</date>
                         <biblScope unit="page">S. 61</biblScope>
-                        <note>Rezensiert Fischer, <hi>Kraus</hi> (KAB <ref
+                        <note type="comment">Rezensiert Fischer, <hi>Kraus</hi> (KAB <ref
                                 target="#kab-entry-2.1.01">2.1.01</ref>); Kraft, <hi>Neinsager</hi>
                             (KAB <ref target="#kab-entry-7.6.00.2">7.6.00.2</ref>) und Bohn (KAB
                                 <ref target="#kab-entry-7.1.04">7.1.04</ref>). Krafts Vermutung,
@@ -10693,7 +10693,7 @@
                         <num>10</num><date when="1977">1977</date>
                         <num>Heft 1</num>
                         <biblScope unit="page">S. 95 bis 98</biblScope>
-                        <note>Kritisiert, daß Williams die außer K. behandelten Autoren zu sehr aus
+                        <note type="comment">Kritisiert, daß Williams die außer K. behandelten Autoren zu sehr aus
                             dessen Perspektive sehe. Wichtig die Hinweise zu Bahrs Brief an
                             Hofmannsthal aus dem Jahr <date when="1914">1914</date> (KKB GS
                             332).</note>
@@ -10714,7 +10714,7 @@
                         <biblScope unit="page">S. 45-63</biblScope>
                         <title level="s">Schriften des Institutes für Österreichkunde</title>
                         <num type="series">32</num>
-                        <note>Analysiert am Beispiel von <hi>Hüben und Drüben</hi> (F 876–84, <date
+                        <note type="comment">Analysiert am Beispiel von <hi>Hüben und Drüben</hi> (F 876–84, <date
                                 when="1932">1932</date>, 1 ff.) die Form von K.'s Polemiken und die
                             Kriterien seiner Wertung; dabei stellen sich fast wörtliche
                             Übereinstimmungen zwischen der Verurteilung der Sozialdemokratie im
@@ -10735,7 +10735,7 @@
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Europa</publisher><date when="1977">1977</date>
                         <biblScope unit="page">S. 181–199, 253–256</biblScope>
-                        <note>Nachdruck des Vorhergehenden mit geringen stilistischen
+                        <note type="comment">Nachdruck des Vorhergehenden mit geringen stilistischen
                             Veränderungen.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 4. Fortsetzung. In: Kraus-Hefte 8 (Oktober1978).</note>
 </bibl>
@@ -10752,7 +10752,7 @@
                         <biblScope unit="page">S. 52–65, 178 ff.</biblScope>
                         <title level="s">Trakl-Studien</title>
                         <num type="series">9</num>
-                        <note>So gut wie völlig identisch mit dem Kapitel über K. und Trakl in <ref
+                        <note type="comment">So gut wie völlig identisch mit dem Kapitel über K. und Trakl in <ref
                                 target="#kab-entry-7.6.02.5.5">7.6.02.5.5</ref>.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 4. Fortsetzung. In: Kraus-Hefte 8 (Oktober1978).</note>
 </bibl>
@@ -10769,7 +10769,7 @@
                         <biblScope unit="page">S. 66–100, 180–187</biblScope>
                         <title level="s">Trakl-Studien</title>
                         <num type="series">9</num>
-                        <note>S. 73–79 über die K. gewidmeten oder an K. gerichteten Gedichte. Deren
+                        <note type="comment">S. 73–79 über die K. gewidmeten oder an K. gerichteten Gedichte. Deren
                             Deutung durch Stieg wird, vor allem anhand der Varianten, als
                             Überinterpretation kritisiert.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 4. Fortsetzung. In: Kraus-Hefte 8 (Oktober1978).</note>
@@ -10783,7 +10783,7 @@
                         <title level="j">Literatur und Kritik</title>
                         <num>12</num><date when="1977">1977</date>
                         <biblScope unit="page">S. 557 bis 566</biblScope>
-                        <note>Stellt im Zusammenhang mit einem Brief an Halbe vom <date>Mai
+                        <note type="comment">Stellt im Zusammenhang mit einem Brief an Halbe vom <date>Mai
                                 1893</date> K.'s Verbindungen zu Halbe, Liliencron und anderen
                             norddeutschen Autoren dar. Am Schluß Hinweise auf den späteren Wandel im
                             Urteil K.'s über Halbe. Benützt unveröffentlichte Briefe von K. an
@@ -11651,7 +11651,7 @@
                         <pubPlace key="#kab-place-00037">München</pubPlace>
                         <publisher>Kösel</publisher><date when="1977">1977</date>
                         <biblScope unit="page">XIII + 567 S.</biblScope>
-                        <note>In einer Ganzleinen- und in einer broschürten Ausgabe im Handel.
+                        <note type="comment">In einer Ganzleinen- und in einer broschürten Ausgabe im Handel.
                             Bietet ein nicht ganz, aber doch sehr vollständiges Verzeichnis der in
                             der "Fackel" vorkommenden Personennamen, einschließlich der Anspielungen
                             auf nicht namentlich genannte Personen (besonders gekennzeichnet). Zu
@@ -11678,7 +11678,7 @@
                         <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                         <publisher>Zweitausendeins</publisher>
                         <date when="1977">1977</date>
-                        <note>Mit eigener Paginierung im letzten Band des in Kraus-Heft 12, 16
+                        <note type="comment">Mit eigener Paginierung im letzten Band des in Kraus-Heft 12, 16
                             verzeichneten Nachdrucks. Gegenüber dem Original durch einen
                             textkritischen Hinweis zu F 1 im Nachwort Pfäfflins (559) erweitert,
                             sonst mit diesem identisch.</note>
@@ -11692,7 +11692,7 @@
                         <pubPlace key="#kab-place-00024">Hamburg</pubPlace>
                         <publisher>Knaus</publisher><date when="1979">1979</date>
                         <biblScope unit="page">288 S.</biblScope>
-                        <note>Unergiebige und wohl auch unverläßliche Autobiografie einer Freundin
+                        <note type="comment">Unergiebige und wohl auch unverläßliche Autobiografie einer Freundin
                             von K. Dieser wird auf seine erotischen Vorlieben reduziert (siehe vor
                             allem 122–132, 141 f.).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 7. Fortsetzung. In: Kraus-Hefte 17 (Januar 1981).</note>
@@ -11705,7 +11705,7 @@
                             >Midstream (New York, N.Y.)</title>
                         <num>20</num><date when="1974">1974</date>
                         <num>Heft 4</num><biblScope unit="page">S. 71–80</biblScope>
-                        <note>Im ganzen kenntnisreiche Präsentation des Werkes von K., geht 78 ff.
+                        <note type="comment">Im ganzen kenntnisreiche Präsentation des Werkes von K., geht 78 ff.
                             besonders auf K.s Verhältnis zum Judentum ein, wobei die Behauptung, er
                             habe die Idee einer völligen Assimilation früh aufgegeben (78), wohl nur
                             schwer zu belegen sein dürfte. Interessant der Hinweis, daß W. H. Auden
@@ -11722,7 +11722,7 @@
                         <publisher>Duncker &amp; Humblot</publisher>
                         <date when="1980">1980</date>
                         <biblScope>S. 694–696</biblScope>
-                        <note>Konzise Darstellung mit Bezug auf die wesentlichsten
+                        <note type="comment">Konzise Darstellung mit Bezug auf die wesentlichsten
                             Interpretationsansätze. U. a. Hinweise auf den Zusammenhang zwischen
                             Justizkritik und Pressekritik (694) und auf die Wirkung K.s (696). Die
                             zentrale Aussage der trotz ihrer Knappheit wichtigen Darstellung: K.
@@ -13527,7 +13527,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1981">1981</date>
                         <biblScope unit="page">S. 153–201</biblScope>
-                        <note>Neudruck der Stegreifrede von 1925. Ferner auf K. gemünzte Aphorismen
+                        <note type="comment">Neudruck der Stegreifrede von 1925. Ferner auf K. gemünzte Aphorismen
                             auf S. 282, 291, 292, 305 (?) dieser Ausgabe.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30 (April 1984).</note>
 </bibl>
@@ -13543,7 +13543,7 @@
                         <publisher>Scottish Academic Press</publisher>
                         <date when="1978">1978</date>
                         <biblScope unit="page">S. 72–80</biblScope>
-                        <note>Untersucht an Beispielen aus K. (vor allem aus den "Letzten Tagen der
+                        <note type="comment">Untersucht an Beispielen aus K. (vor allem aus den "Letzten Tagen der
                             Menschheit") und Nestroy die als typisch österreichisch empfundene
                             Methode (79), die beschränkte österreichische Welt als Bild der Welt
                             insgesamt zu präsentieren (72).</note>
@@ -13559,7 +13559,7 @@
                         <num type="volume">13</num>
                         <date when="1977">1977</date>
                         <biblScope unit="page">S. 168–176</biblScope>
-                        <note>Identisch mit dem Vorhergehenden.</note>
+                        <note type="comment">Identisch mit dem Vorhergehenden.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30 (April 1984).</note>
 </bibl>
                     <bibl xml:id="kab-entry-7.6.02.5.8">
@@ -13571,7 +13571,7 @@
                         <num type="volume">1</num>
                         <date when="1982">1982</date>
                         <biblScope unit="page">S. 8–41</biblScope>
-                        <note>Eher beliebiges – und gelegentlich spekulatives – kommentiertes
+                        <note type="comment">Eher beliebiges – und gelegentlich spekulatives – kommentiertes
                             Zitieren von ausgewählten Äußerungen Ebners über K. Hervorzuheben sind
                             die Nachweise bisher nicht erkannter K.-Anspielungen bei Ebner (18 f.,
                             27, 31 f., 34, 35) und die Überlegung, daß Ebner nie auf die Aufsätze
@@ -13591,7 +13591,7 @@
                         <num type="volume">2</num>
                         <date when="1983">1983</date>
                         <biblScope unit="page">S. 50–61</biblScope>
-                        <note>Macht wahrscheinlich, daß die überraschende Interesselosigkeit von
+                        <note type="comment">Macht wahrscheinlich, daß die überraschende Interesselosigkeit von
                             "Sturm" und "Aktion" an der Lyrik Trakls mit den Spannungen zwischen K.
                             und diesen Zeitschriften zusammenhängt, von denen sich der
                             "Brenner"-Kreis im Sinne K.s distanziert habe.</note>
@@ -13614,7 +13614,7 @@
                         <biblScope unit="page">Band 2, S. 755–779</biblScope>
                         <title level="s">Biblioteca Adelphi</title>
                         <num type="series">102, 103</num>
-                        <note>Reflexionen über K. und über unsere Zeit. Stützt sich vor allem auf
+                        <note type="comment">Reflexionen über K. und über unsere Zeit. Stützt sich vor allem auf
                             Canetti und Benjamin. Unterstreicht mehrfach den akustischen Charakter
                             von K.s Erfahrungen (757): K. wird die Stimme, die alle Stimmen
                             einfängt, genannt (759 u. ö.). Weist emphatisch jeden Zusammenhang
@@ -13645,7 +13645,7 @@
                         <publisher>Macmillan</publisher>
                         <date when="1978">1978</date>
                         <biblScope unit="page">S. 136–148, 227 f.</biblScope>
-                        <note>Ausgangspunkt ist eher der volkstümliche "Schwejk" Hašeks als das
+                        <note type="comment">Ausgangspunkt ist eher der volkstümliche "Schwejk" Hašeks als das
                             intellektuelle Kriegsdrama K.s (147). Gemeinsam sei beiden Werken das
                             Bewußtsein, daß man den Ersten Weltkrieg, der alle Regeln menschlichen
                             Verhaltens durchbrochen habe, nur durch ein Durchbrechen der
@@ -13671,7 +13671,7 @@
                         <biblScope unit="page">S. 249–329</biblScope>
                         <title level="s">Karl Kraus: Ausgewählte Werke</title>
                         <num type="series">5,2</num>
-                        <note>Souveräne und ungemein kenntnisreiche Darstellung der Entstehung des
+                        <note type="comment">Souveräne und ungemein kenntnisreiche Darstellung der Entstehung des
                             Kriegsdramas im Rahmen der Kriegs-"Fackel" und der Briefe an Sidonie
                             Nádherný. Methodisch vorbildlich die detaillierte Auswertung der
                             Vorlesungsprogramme. Wichtige Überlegungen u. a. zur Form, besonders zur
@@ -13708,7 +13708,7 @@
                         <publisher>Niemeyer</publisher>
                         <date when="1978">1978</date>
                         <biblScope unit="page">S. 107–120</biblScope>
-                        <note>Vergleicht die beiden satirischen Monstre-Dramen (117) von Holz und
+                        <note type="comment">Vergleicht die beiden satirischen Monstre-Dramen (117) von Holz und
                             von K. Arbeitet an einigen Beispielen knapp vergleichbare Formen des
                             satirischen Dokumentartheaters (117) in beiden Werken heraus, zeigt aber
                             auch den Unterschied im Begriff von Satire: anders als K. sei Holz in
@@ -13728,7 +13728,7 @@
                         <biblScope unit="page">[XIV +] 322 S.</biblScope>
                         <title level="s">Theorie – Kritik – Geschichte</title>
                         <num type="series">18</num>
-                        <note>Zugleich Diss. Kassel 1977. Die Arbeit, deren Verfasser von K., von
+                        <note type="comment">Zugleich Diss. Kassel 1977. Die Arbeit, deren Verfasser von K., von
                             seinem konkreten historischen Umfeld, von literaturwissenschaftlichen
                             Methoden und wohl überhaupt von Literatur gleichermaßen keine Ahnung hat
                             und obendrein einen unleidlichen Stil schreibt (vgl. Kraus-Heft 18,
@@ -13760,7 +13760,7 @@
                         <biblScope unit="page">[18 +] 300 S.</biblScope>
                         <title level="s">Literatur und Kommunikation</title>
                         <num type="series">6</num>
-                        <note>Zugleich Diss. Mannheim 1980. Versucht, durch einen Vergleich zwischen
+                        <note type="comment">Zugleich Diss. Mannheim 1980. Versucht, durch einen Vergleich zwischen
                             der Wirklichkeit des Ersten Weltkriegs und deren Gestaltung in K.s
                             Kriegsdrama die Perspektive zu ermitteln, <hi>aus der heraus K. die
                                 Realität beurteilt</hi> (24), nämlich aus der Perspektive seines
@@ -13794,7 +13794,7 @@
                         <biblScope unit="page">S. 74–86</biblScope>
                         <title level="s">Scottish Papers in Germanic Studies</title>
                         <num type="series">1</num>
-                        <note>Geht vor allem auf Weltkriegsdramen von Chlumberg und Csokor ein und
+                        <note type="comment">Geht vor allem auf Weltkriegsdramen von Chlumberg und Csokor ein und
                             behandelt "Die letzten Tage der Menschheit" nur sehr global (75–77); mit
                             einem interessanten Gedanken über die Funktion des Schlusses von
                             V/53.</note>
@@ -13815,7 +13815,7 @@
                         <publisher>text + kritik</publisher>
                         <date when="1981">1981</date>
                         <biblScope unit="page">S. 128–142</biblScope>
-                        <note>Der Widerspruch zwischen Ideologie/Phraseologie einerseits und
+                        <note type="comment">Der Widerspruch zwischen Ideologie/Phraseologie einerseits und
                             Frontrealität andererseits (129) habe bei K. und dem gleichzeitig
                             schreibenden Otto Nebel (die erste Fassung von "Zuginsfeld" entstand
                             1918/19 wohl ohne Kenntnis der "Letzten Tage der Menschheit") zu
@@ -13837,7 +13837,7 @@
                         <num type="volume">55</num>
                         <date when="1982">1982</date>
                         <biblScope unit="page">S. 480–498</biblScope>
-                        <note>Obwohl K. "kinodramatisch" schon früh mit pejorativer Bedeutung
+                        <note type="comment">Obwohl K. "kinodramatisch" schon früh mit pejorativer Bedeutung
                             verwendet (480), hat er sich mit dem Medium Film dennoch intensiver
                             auseinandergesetzt, als bisher angenommen worden ist. Verweist auf K.
                             als Vorläufer der Fotomontage (481 f.), untersucht dann – sorgfältig die
@@ -13861,7 +13861,7 @@
                         <num type="volume">27</num>
                         <date when="1983">1983</date>
                         <biblScope unit="page">S. 326–344</biblScope>
-                        <note>Geht, mit einem Schwerpunkt auf den "Letzten Tagen der Menschheit",
+                        <note type="comment">Geht, mit einem Schwerpunkt auf den "Letzten Tagen der Menschheit",
                             von Überlegungen zum Gattungsproblem aus. In der Bezeichnung "Tragödie"
                             komme K.s Wille zum Ausdruck, der tendenziell unendlichen Anzahl
                             beängstigender und lächerlicher Details eine finale Ausrichtung zu geben
@@ -13887,7 +13887,7 @@
                         <date when="1981">1981</date>
                         <num type="volume">Band 4</num>
                         <biblScope unit="page">S. 111–114</biblScope>
-                        <note>Auseinandersetzung mit der Wiener Aufführung der "Letzten Tage der
+                        <note type="comment">Auseinandersetzung mit der Wiener Aufführung der "Letzten Tage der
                             Menschheit" von 1980. Die stolze Exhibition von Theatermitteln macht
                             sich einem dichterischen Zweck gegenüber lächerlich, der die Menschheit
                             umfaßt (112). Wenig über Einzelheiten der Aufführung, mehr über ihren
@@ -13913,7 +13913,7 @@
                         <biblScope unit="page">S. 351–391</biblScope>
                         <title level="s">Karl Kraus: Ausgewählte Werke</title>
                         <num type="series">5,2</num>
-                        <note>Erklärendes Verzeichnis von Personen, Orten, Sachen und
+                        <note type="comment">Erklärendes Verzeichnis von Personen, Orten, Sachen und
                             Spracheigentümlichkeiten in den "Letzten Tagen der Menschheit", jeweils
                             mit Stellennachweisen. Sehr nützlich, sowohl als Register wie durch die
                             Sachinformationen.</note>
@@ -13934,7 +13934,7 @@
                         <biblScope unit="page">S. 7–248</biblScope>
                         <title level="s">Karl Kraus: Ausgewählte Werke</title>
                         <num type="series">5,2</num>
-                        <note>Enthält Texte aus der "Fackel" (bzw. Verweise auf solche), die in die
+                        <note type="comment">Enthält Texte aus der "Fackel" (bzw. Verweise auf solche), die in die
                             "Letzten Tage der Menschheit" eingegangen sind. Für I/29 und IV/26 ist
                             exemplarisch Vollständigkeit dieser Nachweise angestrebt. Geht jedoch
                             nicht über die "Fackel" zurück auf deren Quellen. Bietet eine
@@ -13957,7 +13957,7 @@
                         <biblScope unit="page">S. 331–349</biblScope>
                         <title level="s">Karl Kraus: Ausgewählte Werke</title>
                         <num type="series">5,2</num>
-                        <note>Diese Szenenkonkordanz zwischen Buch- und Aktausgabe geht über die in
+                        <note type="comment">Diese Szenenkonkordanz zwischen Buch- und Aktausgabe geht über die in
                             Kraus-Heft 4 (1977) enthaltene dadurch hinaus, daß sie auch die Aufnahme
                             einzelner Szenen in Vorlesungsprogramme nachweist.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30 (April 1984).</note>
@@ -13977,7 +13977,7 @@
                         <biblScope unit="page">Band 2, S. 693–754</biblScope>
                         <title level="s">Biblioteca Adelphi</title>
                         <num type="series">102, 103</num>
-                        <note>Verzeichnet Personen- und Ortsnamen sowie Titel von K. erwähnter
+                        <note type="comment">Verzeichnet Personen- und Ortsnamen sowie Titel von K. erwähnter
                             musikalischer und literarischer Werke. Geht gelegentlich über das
                             Register der Krolop-Ausgabe (8.07.4.1) hinaus. Ergänzt durch erläuternde
                             Anmerkungen (Fußnoten) im fortlaufenden Text. In Einzelheiten
@@ -13994,7 +13994,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">232 S.</biblScope>
-                        <note>Bezieht sich auf: den Bericht über das Einschmuggeln von K.s Werken in
+                        <note type="comment">Bezieht sich auf: den Bericht über das Einschmuggeln von K.s Werken in
                             das Konzentrationslager Dachau (89–92) (vgl. <ref
                                 target="#kab-entry-9.2.11">9.2.11</ref>) und eine Auseinandersetzung
                             mit konservativ-antisemitischen K.-Verhinderern der Ersten und Zweiten
@@ -14016,7 +14016,7 @@
                         <date>1981/82</date>
                         <num>Nummer 1</num>
                         <biblScope unit="page">S. 63–66</biblScope>
-                        <note>Vorabdruck aus dem vorhergehenden (S. 209–226).</note>
+                        <note type="comment">Vorabdruck aus dem vorhergehenden (S. 209–226).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30 (April 1984).</note>
 </bibl>
 
@@ -14030,7 +14030,7 @@
                         <num type="volume">16</num>
                         <date when="1983">1983</date>
                         <biblScope unit="page">S. 197–210</biblScope>
-                        <note>Der in seinen Hypothesen kühne Aufsatz weist bedenkenswerte Analogien
+                        <note type="comment">Der in seinen Hypothesen kühne Aufsatz weist bedenkenswerte Analogien
                             zwischen K. und Kien, der Hauptfigur von Canettis "Blendung", nach. Noch
                             überraschender sind die Überlegungen zum – durch Weininger, vor allem
                             durch dessen Auffassung von Judentum vermittelten – Eingehen K.s in die
@@ -14052,7 +14052,7 @@
                         <publisher>Residenz</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 224–230</biblScope>
-                        <note>Informativer, nicht ganz unkritischer Überblick über K.s Leben und
+                        <note type="comment">Informativer, nicht ganz unkritischer Überblick über K.s Leben und
                             Werk. Bemerkungen über die Problematik der Zusatzstrophen (229). Sieht
                             an den Polemiken gegen Schober die Gefahr einer Wirkungsminderung durch
                             Überargumentation (229), ähnliches an denen gegen Kerr. Andere Hinweise
@@ -14070,7 +14070,7 @@
                         <publisher>Rowohlt</publisher>
                         <date when="1981">1981</date>
                         <biblScope unit="page">157 S.</biblScope>
-                        <note>Bezieht sich zweimal (38, 110) etwas ausführlicher auf K.s
+                        <note type="comment">Bezieht sich zweimal (38, 110) etwas ausführlicher auf K.s
                             gestaltpsychologisch unendlich einfühlsamen Aufsatz "Der Reim" (110),
                             viel knapper, aber im Grunde ähnlich wie in <ref
                                 target="#kab-entry-6.1.10">6.1.10</ref>.</note>
@@ -14088,7 +14088,7 @@
                         <biblScope unit="page">VIII + 518 S.</biblScope>
                         <title level="s">Deutsches Exil 1933–45</title>
                         <num type="series">Band 15</num>
-                        <note>In einem einleitenden Interview äußert sich Bruno Frei, der ehemalige
+                        <note type="comment">In einem einleitenden Interview äußert sich Bruno Frei, der ehemalige
                             Chefredakteur des "Gegen-Angriff", u. a. zu den Polemiken gegen K. (18
                             f.), die aus heutiger Sicht Unsinn gewesen seien. "isk" wird als
                             Pseudonym von F. C. Weiskopf nachgewiesen (85). Im Register Verzeichnis
@@ -14109,7 +14109,7 @@
                         <date when="1979">1979</date>
                         <num>Gesellschafts- und sprachwissenschaftliche Reihe. Heft 2</num>
                         <biblScope unit="page">S. 49–63</biblScope>
-                        <note>Die Haltung K.s zur Tradition sei nie statisch gewesen, sondern stets
+                        <note type="comment">Die Haltung K.s zur Tradition sei nie statisch gewesen, sondern stets
                             bewegte und bewegende Energie künstlerischer Praxis (61). Übersicht über
                             K.s Traditionswahl (51), in Hinblick u. a. auf die Zitate aus älteren
                             Autoren über die Presse (51 f.) und andere Themen wie den Krieg (52 f.),
@@ -14135,7 +14135,7 @@
                         <num type="volume">6</num>
                         <date when="1983">1983</date>
                         <biblScope unit="page">S. 225–251</biblScope>
-                        <note>In einer gründlichen Interpretation von "Bekenntnis" (226–229)
+                        <note type="comment">In einer gründlichen Interpretation von "Bekenntnis" (226–229)
                             arbeitet Krolop die kämpferische Botschaft dieses Gedichts heraus: das
                             Erbe der "alten Meister" sei für K. etwas täglich zu Eroberndes, einem
                             wachsenden Widerstand strukturell bedingter Kunst- und
@@ -14165,7 +14165,7 @@
                         <biblScope unit="page">S. 85–114</biblScope>
                         <title level="s">Budapester Beiträge zur Germanistik</title>
                         <num type="series">9</num>
-                        <note>Identisch mit dem Vorhergehenden.</note>
+                        <note type="comment">Identisch mit dem Vorhergehenden.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
 </bibl>
 
@@ -14183,7 +14183,7 @@
                         <title level="s">Jahrbuch für Internationale Germanistik. Reihe A:
                             Kongreßberichte</title>
                         <num type="series">12</num>
-                        <note>Faßt den Wissensstand über die Beziehungen zwischen Trakl und K. sowie
+                        <note type="comment">Faßt den Wissensstand über die Beziehungen zwischen Trakl und K. sowie
                             zwischen dem "Brenner" und K. übersichtlich, jedoch relativ unkritisch
                             zusammen.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
@@ -14203,7 +14203,7 @@
                         <title level="s">Jahrbuch für Internationale Germanistik. Reihe A:
                             Kongreßberichte</title>
                         <num type="series">12</num>
-                        <note>Hier interessiert der Hinweis, Trakls eindringlichste Briefe hätten
+                        <note type="comment">Hier interessiert der Hinweis, Trakls eindringlichste Briefe hätten
                             stilistisch viel mit dem Prosastil der "Fackel" gemeinsam; seine
                             Briefprosa sei weltrichterlich gestimmt (41).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
@@ -14220,7 +14220,7 @@
                         <publisher>Universität Hamburg</publisher>
                         <date when="1982">1982</date>
                         <biblScope unit="page">108 S.</biblScope>
-                        <note>Die sorgfältige Arbeit, die auch unveröffentlichtes Material
+                        <note type="comment">Die sorgfältige Arbeit, die auch unveröffentlichtes Material
                             einbezieht (vor allem die Korrespondenz K.-Ehrenstein), bemüht sich um
                             eine kritische Überprüfung der polemischen Urteile K.s über Ehrenstein,
                             vor allem um 1920. Auch die Mitarbeit Ehrensteins in der literarischen
@@ -14248,7 +14248,7 @@
                         <publisher>University of London</publisher>
                         <date when="1982">1982</date>
                         <biblScope unit="page">S. 123–132</biblScope>
-                        <note>Hofmannsthals und K.s Werk können als Varianten einer gemeinsamen
+                        <note type="comment">Hofmannsthals und K.s Werk können als Varianten einer gemeinsamen
                             Urform identifiziert werden: des Bildes der Welt als einer Bühne (124).
                             Überraschende Parallelen zwischen beiden Autoren werden von ihrer
                             Theaterauffassung her sichtbar, z. B. zwischen K.s "Sterbendem Menschen"
@@ -14270,7 +14270,7 @@
                         <publisher>Shakespeare &amp; Company</publisher>
                         <date>[1983]</date>
                         <biblScope unit="page">S. 318–327</biblScope>
-                        <note>Stellt K.s Äußerungen über den "Reigen" von 1903 und von 1921/22
+                        <note type="comment">Stellt K.s Äußerungen über den "Reigen" von 1903 und von 1921/22
                             zusammen. Bedeutsam daran sei, daß K. den Dichter (wohl nicht nur
                             Schnitzler) für den Entschluß verantwortlich mache, ein Werk zu
                             veröffentlichen (326); er unterscheide scharf zwischen Werk und
@@ -14290,7 +14290,7 @@
                         <num type="volume">58</num>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 156–168</biblScope>
-                        <note>In einer 1925 von Upton Sinclair geplanten sozialistischen Buchreihe
+                        <note type="comment">In einer 1925 von Upton Sinclair geplanten sozialistischen Buchreihe
                             "People's Classics" war auch eine Übersetzung der "Letzten Tage der
                             Menschheit" geplant. Aufgrund eines Entwurfs für ein Schreiben des
                             Verlags der Fackel (etwa vom Oktober/November 1925) wird klar, daß K.
@@ -14313,7 +14313,7 @@
                         <publisher>[Trinity College]</publisher>
                         <date when="1982">1982</date>
                         <biblScope unit="page">S. 1–30</biblScope>
-                        <note>Sehr wichtiger Aufsatz, der die Parallelen zwischen K. und Freud, vor
+                        <note type="comment">Sehr wichtiger Aufsatz, der die Parallelen zwischen K. und Freud, vor
                             allem um 1907/08, behandelt. K.s damalige begrenzte theoretische
                             Begegnung mit Freud könnte durchaus als Katalysator im Prozeß seiner
                             Selbstfindung gewirkt haben (27). Diese Hypothese macht Carr durch den
@@ -14335,7 +14335,7 @@
                         <publisher>Edition Tusch</publisher>
                         <date when="1983">1983</date>
                         <biblScope unit="page">235 S.</biblScope>
-                        <note>Querschnitt vor allem durch den Bildteil der satirischen Wiener
+                        <note type="comment">Querschnitt vor allem durch den Bildteil der satirischen Wiener
                             Zeitschrift, der K. förmlich in Haßliebe 'zugetan' gewesen sei (22).
                             Einige Hinweise auf Polemiken K.s (Schmidt-Dengler, 41, 42): 42 f. wird
                             in der "Muskete" eine Origo für die "Letzten Tage der Menschheit"
@@ -14358,7 +14358,7 @@
                         <publisher>Buske</publisher>
                         <date when="1983">1983</date>
                         <biblScope unit="page">S. 53–76</biblScope>
-                        <note>Fotomechanischer Nachdruck von KAB 18, <ref
+                        <note type="comment">Fotomechanischer Nachdruck von KAB 18, <ref
                                 target="#kab-entry-8.05.8.1">8.05.8.1</ref>.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
 </bibl>
@@ -14375,7 +14375,7 @@
                         <publisher>Buske</publisher>
                         <date when="1983">1983</date>
                         <biblScope unit="page">S. 113–131</biblScope>
-                        <note>Fotomechanischer Nachdruck von KAB 18, <ref
+                        <note type="comment">Fotomechanischer Nachdruck von KAB 18, <ref
                                 target="#kab-entry-8.05.8.2">8.05.8.2</ref>.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
 </bibl>
@@ -14391,7 +14391,7 @@
                         <biblScope unit="page">168 S.</biblScope>
                         <title level="s">Sammlung Metzler</title>
                         <num type="series">M 208</num>
-                        <note>Über K. 125–132. Seine Aphorismen seien wirklich ästhetisch
+                        <note type="comment">Über K. 125–132. Seine Aphorismen seien wirklich ästhetisch
                             sublimierte und sozialisierte Aggression, damit ein Modellfall
                             satirischen Sprechens (127). Nach sehr knappen Bemerkungen über die
                             Themen von K.s Aphorismen die wichtige Feststellung zur Form: es gebe
@@ -14419,7 +14419,7 @@
                         <title level="s">Literatur in der Geschichte, Geschichte in der
                             Literatur</title>
                         <num type="series">8</num>
-                        <note>Zugleich Dissertation Klagenfurt. Geht, entgegen der
+                        <note type="comment">Zugleich Dissertation Klagenfurt. Geht, entgegen der
                             Verlagsankündigung, auf K. unmittelbar nur an einer Stelle ein, nämlich
                             auf die Szene IV/13 des Kriegsdramas (131), speziell auf die Technik der
                             Karikatur. Enthält jedoch viel Material zur exakteren literarischen
@@ -14440,7 +14440,7 @@
                         <publisher>Akademie</publisher>
                         <date when="1978">1978</date>
                         <biblScope unit="page">S. 255–274</biblScope>
-                        <note>Das nachweisliche Fortleben Klopstocks in österreichischen Lesebüchern
+                        <note type="comment">Das nachweisliche Fortleben Klopstocks in österreichischen Lesebüchern
                             könnte auf K. gewirkt haben (257). Analysiert K.s Oden "Gebet an die
                             Sonne von Gibeon" (am ausführlichsten) – die radikalste Apokalypse unter
                             den Gedichten von K. (263) –, "An einen alten Lehrer" (264 f.) und "An
@@ -14463,7 +14463,7 @@
                         <title level="s">Studies in German Literature, Linguistics, and
                             Culture</title>
                         <num type="series">6</num>
-                        <note>57–63, 128 f.: ein Kapitel über die Bedeutung von K. als
+                        <note type="comment">57–63, 128 f.: ein Kapitel über die Bedeutung von K. als
                             Schutzheiliger (59) der Zeitschrift "Plan" (1945–48) in der
                             Nachkriegszeit. Betont die Häufigkeit der (oft programmatischen)
                             K.-Erwähnungen, faßt sonst im wesentlichen nur die K. betreffenden
@@ -14487,7 +14487,7 @@
                         <title level="s">Literatur in der Geschichte, Geschichte in der
                             Literatur</title>
                         <num type="series">9</num>
-                        <note>Zugleich Dissertation Graz 1981. Behandelt die K.-Rezeption in der
+                        <note type="comment">Zugleich Dissertation Graz 1981. Behandelt die K.-Rezeption in der
                             österreichischen Literatur der unmittelbaren Nachkriegszeit in
                             Zusammenhang mit dem "Plan" (21 f., 25 f.) und im Überblick (96 ff.). K.
                             sei in dieser Periode zu einem hoch über allen Kontroversen des Tages
@@ -14508,7 +14508,7 @@
                         <title level="s">Innsbrucker Beiträge zur Kulturwissenschaft. Germanistische
                             Reihe</title>
                         <num type="series">22</num>
-                        <note>Zugleich Dissertation Innsbruck 1983. K. war eine der wichtigsten
+                        <note type="comment">Zugleich Dissertation Innsbruck 1983. K. war eine der wichtigsten
                             Bezugsfiguren der bedeutenden von Ernst Schönwiese herausgegebenen
                             Zeitschrift (17); nach 1945 wurde vor allem der Lyriker und Mensch K.,
                             nicht so sehr der Kritiker des Bürgertums präsentiert (172 f.). Nachweis
@@ -14528,7 +14528,7 @@
                         <num type="volume">3</num>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 35–53</biblScope>
-                        <note>Ausführlicher Archiv-Bericht über K. betreffende Materialien aus dem
+                        <note type="comment">Ausführlicher Archiv-Bericht über K. betreffende Materialien aus dem
                             Nachlaß von Albert Bloch (Brenner-Archiv, Innsbruck). Informiert über
                             Bloch selbst,über seine Briefpartner (u.a. Werner Kraft, Sidonie
                             Nádhern&#xFD;, Mechtilde Lichnowsky) und vor allem über zahlreiche Leben
@@ -14551,7 +14551,7 @@
                         <biblScope unit="page">427, 600 S.</biblScope>
                         <title level="s">Literatur und Leben N. F</title>
                         <num type="series">28/1, 2</num>
-                        <note>Als (ungemein reichhaltiges) Nachschlagewerk konzipiert. Geht zwar,
+                        <note type="comment">Als (ungemein reichhaltiges) Nachschlagewerk konzipiert. Geht zwar,
                             was die"Verlage um Karl Kraus" betrifft, kaum über Kraus-Heft 26/27
                             hinaus, enthält aber eine Fülle von Hinweisen auf Verlage und Personen,
                             die in der "Fackel"vorkommen, auch auf die K.-Rezeption. Eine
@@ -14570,7 +14570,7 @@
                         <num type="volume">12</num>
                         <date when="1981">1981</date>
                         <biblScope unit="page">S. 122–138</biblScope>
-                        <note>Behandelt weniger die (durchaus auch ergänzend erläuterten)
+                        <note type="comment">Behandelt weniger die (durchaus auch ergänzend erläuterten)
                             Beziehungen zwischen K. und Wedekind als die K.s zur Wiener
                             Schauspielerin Bertha Maria Denk, die kurz mit Wedekind liiert gewesen
                             war. Aus K.s Briefen an sie zwischen 1905 und 1908 wird ausführlich
@@ -14596,7 +14596,7 @@
                         <date when="1982">1982</date>
                         <num>Sonderheft: Probleme neugermanistischer Edition</num>
                         <biblScope unit="page">S. 163–188</biblScope>
-                        <note>Brechts "Über die Bedeutung des zehnzeiligen Gedichtes " von 1934 wird
+                        <note type="comment">Brechts "Über die Bedeutung des zehnzeiligen Gedichtes " von 1934 wird
                             vor allem als Exempel für editorische Fragen vorgestellt. Auch ohne
                             Interpretation, die aufgrund der hier gedruckten Textzeugen zu leisten
                             wäre, ergeben sich interessante Aspekte des Wandels in Brechts
@@ -14621,7 +14621,7 @@
                         <biblScope unit="page">S. 237–245</biblScope>
                         <title level="s">Brenner-Studien</title>
                         <num type="series">5</num>
-                        <note>Ausgehend von einem Vergleich zwischen K.s "Vom großen
+                        <note type="comment">Ausgehend von einem Vergleich zwischen K.s "Vom großen
                             Welttheaterschwindel", F 601–07) und Ebners Polemik gegen die Salzburger
                             Festspiele arbeitet Stieg grundsätzliche Aspekte auch des Denkens von K.
                             heraus, den er(mit Ebner) in die große kulturelle Tradition der
@@ -14647,7 +14647,7 @@
                         <publisher>Aufbau</publisher>
                         <date when="1982">1982</date>
                         <biblScope unit="page">S. 155–160</biblScope>
-                        <note>Zusammenfassende Übersicht über Themen von K.s Pressekritik, die über
+                        <note type="comment">Zusammenfassende Übersicht über Themen von K.s Pressekritik, die über
                             viele Kritiker des bürgerlichen Journalismus hinausgehe (160). Behandelt
                             besonders(158 ff.) den Brief Rosa Luxemburgs und seine Aufnahme in der
                             "Fackel".Wenig ergiebig.</note>
@@ -14664,7 +14664,7 @@
                         <publisher>Athenäum</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">232 S.</biblScope>
-                        <note>Geht im Zusammenhang mit Jung Wien – die Darstellung beschränkt sich
+                        <note type="comment">Geht im Zusammenhang mit Jung Wien – die Darstellung beschränkt sich
                             auf die Jahre 1889 bis 1893 – immer wieder auf K.s Kritik an diesen
                             Autoren ein,die sich mit ihren Schlüsselelementen Dekadenz und
                             &#xC4;sthetizismus (193)schließlich in der Literaturgeschichtsschreibung
@@ -14684,7 +14684,7 @@
                         <num type="volume">66</num>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 85–102</biblScope>
-                        <note>Die Qualität der Bezugnahmen K.s auf Schopenhauer läßt dessen
+                        <note type="comment">Die Qualität der Bezugnahmen K.s auf Schopenhauer läßt dessen
                             Bedeutung für die "Fackel" ahnen. Die Vorbild-Beziehung K.s zu
                             Schopenhauer wurzelt im sprachkünstlerischen Bereich, mehr jedenfalls
                             als im philosophischen (85).Obwohl Adamy sieht, daß K.s pessimistische
@@ -14730,7 +14730,7 @@
                         <num type="volume">4</num>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 81 f.</biblScope>
-                        <note>Das Brenner-Archiv hat einen (bereits veröffentlichten) Brief von
+                        <note type="comment">Das Brenner-Archiv hat einen (bereits veröffentlichten) Brief von
                             1893, die Handschrift des Gedichts "Immergrün" und die Fahnen zu "Aus
                             Redaktion und Irrenhaus" (F 781–86, 1928) erworben. Aus diesen Fahnen
                             geht hervor,daß K. den Namen Trakls in die Reihe der großen Lyriker auf
@@ -14750,7 +14750,7 @@
                         <date>Februar – März 1981.</date>
                         <biblScope unit="page">S. 87–103 (englisches und deutsches Abstract S. 127
                             f., 130).</biblScope>
-                        <note>Im Detail fehlerhafte Einführung in K., allerdings mit einer
+                        <note type="comment">Im Detail fehlerhafte Einführung in K., allerdings mit einer
                             überzeugenden Grundidee: die charismatische, ja mythische Persönlichkeit
                             K. (87) sei nicht von einer Theorie her zu verstehen, sondern als
                             jemand, der durch eine "sociologie action" (Soziologie in Handlungen)
@@ -14776,7 +14776,7 @@
                         <publisher>Selbstverlag (Auslieferung über Böhlau, Wien)</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 67–85</biblScope>
-                        <note>Neudruck.</note>
+                        <note type="comment">Neudruck.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
 
@@ -14791,7 +14791,7 @@
                         <publisher>Ueberreuter</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 192 f.</biblScope>
-                        <note>Anekdotischer Beitrag zu einem Repräsentationswerk.</note>
+                        <note type="comment">Anekdotischer Beitrag zu einem Repräsentationswerk.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
 
@@ -14805,7 +14805,7 @@
                         <publisher>Selbstverlag (Auslieferung über Böhlau, Wien)</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 146 f.</biblScope>
-                        <note> Ein etwas spielerischer, aber reizvoller Versuch, an dem
+                        <note type="comment"> Ein etwas spielerischer, aber reizvoller Versuch, an dem
                             (wahrscheinlich nicht von K. stammenden) Scherzvers "und es brodelt und
                             werfelt und kafkat und kischt" die Gültigkeit K.scher Sprachdogmen zu
                             überprüfen.</note>
@@ -14824,7 +14824,7 @@
                         <publisher>Brandstätter</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 168–177</biblScope>
-                        <note>Perspektivenreicher grundsätzlicher Aufsatz. Betont K.s
+                        <note type="comment">Perspektivenreicher grundsätzlicher Aufsatz. Betont K.s
                             Theoriefeindlichkeit(169). Dennoch sei ein APRIORI erkennbar: daß ein
                             sprachliches Gebilde auch immer etwas von der moralischen Beschaffenheit
                             seines Verfassers verrate,wobei sich K. nicht auf dessen Gesamtwerk,
@@ -14852,7 +14852,7 @@
                         <publisher>Selbstverlag (Auslieferung über Böhlau,Wien)</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 56–66</biblScope>
-                        <note>Neudruck.</note>
+                        <note type="comment">Neudruck.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
 
@@ -14865,7 +14865,7 @@
                         <num type="volume">35</num>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 283–293</biblScope>
-                        <note>Die Reimpoetiken von K., Loerke und Rühmkorf seien Reaktionen auf die
+                        <note type="comment">Die Reimpoetiken von K., Loerke und Rühmkorf seien Reaktionen auf die
                             Reimfeindlichkeit ihrer Zunft- und Zeitgenossen (290); durch die
                             Betonung der inneren Spannung des Reims hätten K.s und Rühmkorfs
                             Reimpoetiken innovatorischen Charakter (291). K. habe der Semantik des
@@ -14884,7 +14884,7 @@
                         <publisher>Presses universitaires de France</publisher>
                         <date when="1982">1982</date>
                         <title level="s">Perspectives critiques</title>
-                        <note>Originalfassung des folgenden. Das Kapitel über K.s
+                        <note type="comment">Originalfassung des folgenden. Das Kapitel über K.s
                             Weininger-Rezeption hierauf S. 142–150.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
@@ -14900,7 +14900,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">293 S.</biblScope>
-                        <note>Weniger eine Darstellung von Weiningers Denken als des "Falls"
+                        <note type="comment">Weniger eine Darstellung von Weiningers Denken als des "Falls"
                             Weininger, indem K. eine große Rolle spielt: seine intellektuelle
                             Bürgschaft (221) habe für den Erfolg Weiningers ausschlaggebende
                             Bedeutung gehabt (vgl. auch 147).Zusammenhängend wird K.s
@@ -14924,7 +14924,7 @@
                         <num type="volume">14</num>
                         <date when="1981">1981</date>
                         <biblScope unit="page">S. 313 bis 331</biblScope>
-                        <note>F 890–905 sei der Reflex eines wachen zeitgeschichtlichen Bewußtseins
+                        <note type="comment">F 890–905 sei der Reflex eines wachen zeitgeschichtlichen Bewußtseins
                             (316);K. habe trotz einzelner Verzerrungen und Fehlurteilen (327)
                             angesichts der Existenzfrage des österreichischen Staates, nämlich der
                             nationalsozialistischen Annexionsdrohung (327) im wesentlichen richtig
@@ -14948,7 +14948,7 @@
                         <publisher>Böhlau</publisher>
                         <date when="1995">1995</date>
                         <biblScope unit="page">S. 303–319</biblScope>
-                        <note>Beschränkt sich auf eine Analyse von F 890–905. Frei stellt zwischen
+                        <note type="comment">Beschränkt sich auf eine Analyse von F 890–905. Frei stellt zwischen
                             der Ideologie des österreichischen Ständestaats und zumindest Teilen des
                             Karl K.schen Denkens eine nicht unerhebliche Übereinstimmung fest (312),
                             vor allem in Hinblick auf Antiliberalismus, Antikommunismus und
@@ -14974,7 +14974,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1981">1981</date>
                         <biblScope unit="page">S. 485 bis489</biblScope>
-                        <note>KKB K 1325. Faßt noch einmal Kuhs Feindschaft gegen das advokatorische
+                        <note type="comment">KKB K 1325. Faßt noch einmal Kuhs Feindschaft gegen das advokatorische
                             Rechthaben (485) des Übergymnasiasten (487) K. zusammen, aus Anlaß von F
                             890–905, einer vierhundertseitigen Kabbala der hochgeputschten
                             Feigheit(486). Deutet an, daß zwischen dem Tonfall K.s und Hitlers mehr
@@ -14998,7 +14998,7 @@
                         <title level="s">Quellen und Studien zur österreichischen Geistesgeschichte
                             im 19. und 20. Jahrhundert</title>
                         <num type="series">5</num>
-                        <note>Zugespitzte Darstellung der Auseinandersetzung des "Brenner",
+                        <note type="comment">Zugespitzte Darstellung der Auseinandersetzung des "Brenner",
                             insbesondere Dallagos und Ebners, mit den idealistischen Konstrukten
                             (67) von K. und Weininger, welche alles eher als unschuldig gewesen
                             seien, ihren eigenen potentiellen Mördern Argumente zugeliefert hätten
@@ -15018,7 +15018,7 @@
                         <publisher>Edition Roetzer</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 20–24</biblScope>
-                        <note>Wiederabdruck.</note>
+                        <note type="comment">Wiederabdruck.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
 
@@ -15031,7 +15031,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">313 S.</biblScope>
-                        <note>Wesentlich erweiterte und verbesserte Fassung von KAB 8, <ref
+                        <note type="comment">Wesentlich erweiterte und verbesserte Fassung von KAB 8, <ref
                                 target="#kab-entry-7.6.12">7.6.12</ref>, allerdings nicht mehr mit
                             einem geschlossenen Kapitel über Polgar und K. Zu dieser Beziehung
                             enthält das Buch überhaupt wenig über die Erstfassung Hinausgehendes.
@@ -15055,7 +15055,7 @@
                         <publisher>Trinity College</publisher>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 104–125</biblScope>
-                        <note>Versucht, einen systematischen Kontrast zwischen Natur und
+                        <note type="comment">Versucht, einen systematischen Kontrast zwischen Natur und
                             Künstlichkeit in den frühen Schriften nachzuweisen, der auf K.s
                             Sympathie für den Naturalismus zurückgehe (104), sich aber
                             weiterentwickle. Betont die Bedeutung der Figur Beer-Hofmanns in der
@@ -15080,7 +15080,7 @@
                         <publisher>Bundesverlag</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 456–463</biblScope>
-                        <note>Wiederabdruck.</note>
+                        <note type="comment">Wiederabdruck.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
 
@@ -15101,7 +15101,7 @@
                         <biblScope unit="page">S. 275–290</biblScope>
                         <title level="s">Modern German Studies</title>
                         <num type="series">5</num>
-                        <note>Belangloser Vergleich K.s mit anderen Wiener Aphoristikern.</note>
+                        <note type="comment">Belangloser Vergleich K.s mit anderen Wiener Aphoristikern.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
 </bibl>
 
@@ -15115,7 +15115,7 @@
                         <publisher>Edition Roetzer</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 57bis 63</biblScope>
-                        <note>Als Gegenstück zu einem antihumanen Gedicht (61) von Christine Lavant
+                        <note type="comment">Als Gegenstück zu einem antihumanen Gedicht (61) von Christine Lavant
                             wird "Grabschrift für ein Hündchen" als humanes Gedicht kurz
                             interpretiert(61 ff.).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
@@ -15131,7 +15131,7 @@
                         <num type="volume">8</num>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 128–154</biblScope>
-                        <note>Auch in den Detailnachweisen (vgl. 136 zu W 1, 49; 150 zu F 426–30, 70
+                        <note type="comment">Auch in den Detailnachweisen (vgl. 136 zu W 1, 49; 150 zu F 426–30, 70
                             f.; 153zu F 406–12, 52) sehr überzeugende Analyse von Einzelaspekten der
                             "Dritten Walpurgisnacht". Zeigt zunächst (129 ff.), daß K. sehr wohl
                             Hitler seit jeher ernst genommen habe; versucht dann die implizite
@@ -15153,7 +15153,7 @@
                         <num type="volume">12</num>
                         <date>1984/85</date>
                         <biblScope unit="page">S. 351–389</biblScope>
-                        <note>Gut lesbare, allerdings mehr auf der bisherigen Forschung beruhende
+                        <note type="comment">Gut lesbare, allerdings mehr auf der bisherigen Forschung beruhende
                             als sie erweiternde Darstellung, die auch allgemein in K.s
                             Sprachauffassung einführt. Einige Beobachtungen zu einzelnen Stilmitteln
                             der "Dritten Walpurgisnacht":Gebrauch der Pronomina (364), Zitate (369
@@ -15173,7 +15173,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">256 S. + 1 Schallplatte.</biblScope>
-                        <note>Die erste Gesamtanalyse von K.s Beschäftigung mit Offenbach und
+                        <note type="comment">Die erste Gesamtanalyse von K.s Beschäftigung mit Offenbach und
                             zugleich eine zentrale Veröffentlichung über K. überhaupt. Knepler
                             stützt sich wohlauf seine persönlichen Erinnerungen an K., doch liegt
                             der Schwerpunkt auf sorgfältigen Analysen. Knepler berichtet von K.s
@@ -15215,7 +15215,7 @@
                         <publisher>Löcker</publisher>
                         <date when="1984">1984</date>
                         <biblScope unit="page">S. 233–237</biblScope>
-                        <note>Mit Ausnahme einer Ergänzung zu Vorlesungen für Arbeiter in der
+                        <note type="comment">Mit Ausnahme einer Ergänzung zu Vorlesungen für Arbeiter in der
                             Tschechoslowakei nach 1929 identisch mit Kraus-Heft 18. 1981. S.
                             4–9.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38 (April 1986).</note>
@@ -15230,7 +15230,7 @@
                         <num>13. Jahresbericht</num>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 2–9</biblScope>
-                        <note>Polemik gegen auf mangelnder Werkkenntnis beruhende Fehlurteile über
+                        <note type="comment">Polemik gegen auf mangelnder Werkkenntnis beruhende Fehlurteile über
                             K.,mit einigen wenig bekannten Fakten zur K.-Rezeption nach 1945.
                             Akzentuiert vielleicht zu sehr die Schattenseiten der
                             K.-Rezeption.</note>
@@ -15251,7 +15251,7 @@
                         <biblScope unit="page">S. 13–24</biblScope>
                         <title level="s">Zirkular</title>
                         <num type="series">Sondernummer 8</num>
-                        <note>Von geringfügigen Ausnahmen abgesehen, ist Interesse an K. in der
+                        <note type="comment">Von geringfügigen Ausnahmen abgesehen, ist Interesse an K. in der
                             angelsächsischen Welt erst nach 1920, vor allem bei sozialistischen
                             Verlegern und linken Journalisten (14), festzustellen. Der Aufsatz geht
                             ausführlich auf Albert Bloch,auch auf seine vorbildliche Auswahl aus K.s
@@ -15276,7 +15276,7 @@
                         <biblScope unit="page">S. 25–33</biblScope>
                         <title level="s">Zirkular</title>
                         <num type="series">Sondernummer 8</num>
-                        <note>Überblick über die italienische K.-Rezeption, die vor 1914 beginnt
+                        <note type="comment">Überblick über die italienische K.-Rezeption, die vor 1914 beginnt
                             (Italo Tavolato), dann nach einer 40jährigen Pause erst in den fünfziger
                             Jahren wiedereinsetzt. Erst die Übersetzungen der siebziger Jahre
                             gestatten es, von einer gewissen, wenn auch beschränkten Präsenz K.s in
@@ -15521,7 +15521,7 @@
                         <date when="1984">1984</date>
                         <date>[1986]</date>
                         <biblScope unit="page">S. 171–180</biblScope>
-                        <note>Musils Kritik an K. als einem "geistigen" Diktator (KAB <ref
+                        <note type="comment">Musils Kritik an K. als einem "geistigen" Diktator (KAB <ref
                                 target="#kab-entry-3.4.5">3.4.5</ref>) wird mit Belegen aus K.s Werk
                             und aus Canettis Erinnerungen vorsichtig als eine richtige Diagnose
                             dargestellt. Eher unter diesem Aspekt denn als Darstellung von Musils
@@ -15537,7 +15537,7 @@
                         <title level="m">Karl Kraus inneuer Sicht (2.3.3)</title>
                         <date when="1986">1986</date>
                         <biblScope unit="page">S. 21–31</biblScope>
-                        <note>Stimmt in den Grundgedanken mit KAB 38, <ref target="#kab-entry-5.1.8"
+                        <note type="comment">Stimmt in den Grundgedanken mit KAB 38, <ref target="#kab-entry-5.1.8"
                                 >5.1.8</ref> trotz etwas anderer Schwerpunktsetzung überein.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 16. Fortsetzung. In: Kraus-Hefte 39 (Juli 1986).</note>
 </bibl>
@@ -15550,7 +15550,7 @@
                         <title level="m">KarlKraus in neuer Sicht (2.3.3)</title>
                         <date when="1986">1986</date>
                         <biblScope unit="page">S. 32–45</biblScope>
-                        <note>Geht von einem Vergleich der Sprachauffassung K.s mit der von Rilke
+                        <note type="comment">Geht von einem Vergleich der Sprachauffassung K.s mit der von Rilke
                             und Hofmannsthal aus. Bedenkenswerte Überlegungen zum "Ursprung", der
                             Übereinstimmung zwischen Ausgedrücktem und Ausdruck bedeute und für K.
                             auch in Shakespeare- und Goethe-Zitaten realisiert sei (35 f.). Die
@@ -15569,7 +15569,7 @@
                         <title level="m">Karl Kraus in neuer Sicht (2.3.3)</title>
                         <date when="1986">1986</date>
                         <biblScope unit="page">S. 46–75</biblScope>
-                        <note>Die weitaus meisten Polemiken K.s zielen auf Journalisten und
+                        <note type="comment">Die weitaus meisten Polemiken K.s zielen auf Journalisten und
                             Schriftsteller(49), wobei der Kreis der Betroffenen verhältnismäßig
                             klein ist. Die Polemik gegen Bahr sei zunächst Polemik gegen
                             Verhaltensweisen; doch nimmt nach1902 Bahrs SPRECHEN [] als das Exempel
@@ -15599,7 +15599,7 @@
                         <num type="volume">20</num>
                         <date when="1985">1985</date>
                         <biblScope unit="page">S. 167–187</biblScope>
-                        <note>Identisch mit dem Vorhergehenden.</note>
+                        <note type="comment">Identisch mit dem Vorhergehenden.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 16. Fortsetzung. In: Kraus-Hefte 39 (Juli 1986).</note>
 </bibl>
 
@@ -15611,7 +15611,7 @@
                         <title level="m">Karl Kraus in neuer Sicht (2.3.3)</title>
                         <date when="1986">1986</date>
                         <biblScope unit="page">S. 76–91</biblScope>
-                        <note>Satiriker beziehen ihre Maßstäbe häufig aus der Vergangenheit, doch
+                        <note type="comment">Satiriker beziehen ihre Maßstäbe häufig aus der Vergangenheit, doch
                             selten aus der jüngsten Vergangenheit – gerade das ist bei K. der Fall,
                             der an einer Wiener "Kollektivnostalgie" (78) Anteil hat, mit
                             Hofmannsthal, Weinheber, Wildgans u. a. Auch K.s Bilder vom Garten Eden
