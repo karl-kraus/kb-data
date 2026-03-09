@@ -1314,7 +1314,7 @@
                     <author key="#kab-pers-00071">Fischer, Jens Malte</author>
                     <title level="m">Karl Kraus</title>
                     <pubPlace key="#kab-place-00056">Stuttgart</pubPlace>
-                    <publisher>Metzier</publisher>
+                    <publisher>Metzler</publisher>
                     <date when="1974">1974</date>
                     <biblScope>80 S.</biblScope>
                     <title level="s">Sammlung Metzler</title>
@@ -7608,7 +7608,7 @@
                         Aufsatz klassifiziert die satirischen Mittel K.'s: sprechende Namen; Zitat,
                         Phrase und Dialekt; die Glossierung der Sprech- und Denkweise der Personen;
                         Zynismus, Ironie, Situationskomik, Paradoxie und Parodie;
-                        Uberraschungseffekte. Die Beispiele sind nicht immer richtig
+                        Überraschungseffekte. Die Beispiele sind nicht immer richtig
                         interpretiert.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -8004,7 +8004,7 @@
                 <bibl xml:id="kab-entry-8.09.1.1">
                     <num type="id">8.09.1.1</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.1</num>
+                    
                     <author key="#kab-pers-00029">Brock-Sulzer, Elisabeth</author>
                     <title level="a">Die Gedichte von Karl Kraus</title>
                     <title level="j">du</title>
@@ -8022,7 +8022,7 @@
                 <bibl xml:id="kab-entry-8.09.1.2">
                     <num type="id">8.09.1.2</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.1</num>
+                    
                     <author key="#kab-pers-00167">Kohn, Caroline</author>
                     <title level="m">Karl Kraus als Lyriker</title>
                     <pubPlace key="#kab-place-00047">Paris</pubPlace>
@@ -8044,7 +8044,7 @@
                 <bibl xml:id="kab-entry-8.09.1.3">
                     <num type="id">8.09.1.3</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.1</num>
+                    
                     <author key="#kab-pers-00180">Kubasta, Elisabeth</author>
                     <title level="m">Karl Kraus als Lyriker</title>
                     <edition>Diss. (masch.)</edition>
@@ -8066,7 +8066,7 @@
                 <bibl xml:id="kab-entry-8.09.1.4">
                     <num type="id">8.09.1.4</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.1</num>
+                    
                     <author key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">über Karl Kraus' "Worte in Versen"</title>
                     <title level="m">SvR: Gesichtspunkte</title>
@@ -8086,7 +8086,7 @@
                 <bibl xml:id="kab-entry-8.09.1.5">
                     <num type="id">8.09.1.5</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.1</num>
+                    
                     <author key="#kab-pers-00326">Weitzmann, Siegfried</author>
                     <title level="a">Stuche über Karl Kraus</title>
                     <title level="j">Bulletin des Leo Baeck Institute</title>
@@ -8109,7 +8109,7 @@
                 <bibl xml:id="kab-entry-8.09.2.1">
                     <num type="id">8.09.2.1</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.2</num>
+                    
                     <author key="#kab-pers-00014">Bauer, Roger</author>
                     <title level="a">Karl Kraus; Von der Prosa zum Vers. Bemerkungen zum ersten Band
                         der "Worte in Versen' und zum Gedicht "Sonnenthal"</title>
@@ -8137,7 +8137,7 @@
                 <bibl xml:id="kab-entry-8.09.2.2">
                     <num type="id">8.09.2.2</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.2</num>
+                    
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="a">"Bange Stunde". Ober ein Gedicht von Karl Kraus</title>
                     <title level="j">Philologica Pragensia</title>
@@ -8152,7 +8152,7 @@
                 <bibl xml:id="kab-entry-8.09.2.2.1">
                     <num type="id">8.09.2.2.1</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.2</num>
+                    
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="a">Ober Karl Kraus</title>
                     <title level="j">Neue Zürcher Zeitung</title>
@@ -8167,7 +8167,7 @@
                 <bibl xml:id="kab-entry-8.09.2.3">
                     <num type="id">8.09.2.3</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.2</num>
+                    
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="a">Ober den Dichter Karl Kraus</title>
                     <title level="j">Der Sumpf (Berlin)</title>
@@ -8185,7 +8185,7 @@
                 <bibl xml:id="kab-entry-8.09.2.4">
                     <num type="id">8.09.2.4</num>
                     <num type="category">8.09</num>
-                    <num type="category">8.09.2</num>
+                    
                     <author key="#kab-pers-00191">Liegler, Leopold</author>
                     <title level="a">Eine Gedichtanalyse ("Der Tag" von Karl Kraus)</title>
                     <title level="j">Agathon. Almanach auf das Jahr 47 des zwanzigsten
@@ -8598,7 +8598,7 @@
 
                 <bibl xml:id="kab-entry-9.1.1">
                     <num type="id">9.1.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.1</num>
                     <author key="#kab-pers-00108">Hartl Edwin</author>
                     <title level="a">Karl Kraus im Spiegel der Literaturgeschichte oder
@@ -8618,7 +8618,7 @@
 
                 <bibl xml:id="kab-entry-9.1.2">
                     <num type="id">9.1.2</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.1</num>
                     <author key="#kab-pers-00109">Hartl, Edwin</author>
                     <title level="a">Karl Kraus: 35 Jahre nachher</title>
@@ -8636,7 +8636,7 @@
 
                 <bibl xml:id="kab-entry-9.1.3">
                     <num type="id">9.1.3</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.1</num>
                     <author key="#kab-pers-00070">Fischer, Heinrich</author>
                     <title level="a">Zum Thema "Renaissance"</title>
@@ -8653,7 +8653,7 @@
 
                 <bibl xml:id="kab-entry-9.1.4">
                     <num type="id">9.1.4</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.1</num>
                     <author key="#kab-pers-00202">Matejka, Viktor</author>
                     <title level="a">[Leserbrief]</title>
@@ -8672,7 +8672,7 @@
 
                 <bibl xml:id="kab-entry-9.1.5">
                     <num type="id">9.1.5</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.1</num>
                     <author key="#kab-pers-00292">Spiel, Hilde</author>
                     <title level="a">Zweifler, Apologeten und ein Heiliger. Die Karl Kraus-Woche in
@@ -8691,7 +8691,7 @@
 
                 <bibl xml:id="kab-entry-9.2.1">
                     <num type="id">9.2.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00055">Ebner, Ferdinand</author>
                     <title level="m">Schriften</title>
@@ -8718,7 +8718,7 @@
 
                 <bibl xml:id="kab-entry-9.2.2">
                     <num type="id">9.2.2</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00166">Koeppen, Wolfgang</author>
                     <title level="a">Er war ein Genie</title>
@@ -8734,7 +8734,7 @@
 
                 <bibl xml:id="kab-entry-9.2.3">
                     <num type="id">9.2.3</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00170">Kolb, Fritz</author>
                     <title level="a">Ein Wiedersehen mit Karl Kraus</title>
@@ -8751,7 +8751,7 @@
 
                 <bibl xml:id="kab-entry-9.2.4">
                     <num type="id">9.2.4</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="m">Spiegelung der Jugend</title>
@@ -8773,7 +8773,7 @@
 
                 <bibl xml:id="kab-entry-9.2.5">
                     <num type="id">9.2.5</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00262">Roth, Joseph</author>
                     <title level="m">Briefe 1911–1939</title>
@@ -8792,7 +8792,7 @@
 
                 <bibl xml:id="kab-entry-9.2.6">
                     <num type="id">9.2.6</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00308">Tucholsky, Kurt</author>
                     <title level="m">Gesammelte Werke</title>
@@ -8815,7 +8815,7 @@
 
                 <bibl xml:id="kab-entry-9.2.7">
                     <num type="id">9.2.7</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00332">Wolff, Kurt</author>
                     <title level="m">Briefwechsel eines Verlegers. 1911–1963</title>
@@ -8833,7 +8833,7 @@
 
                 <bibl xml:id="kab-entry-9.2.8">
                     <num type="id">9.2.8</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00126">Hiller, Kurt</author>
                     <title level="m">Leben gegen die Zeit. Band I: Logos</title>
@@ -8852,7 +8852,7 @@
 
                 <bibl xml:id="kab-entry-9.2.9">
                     <num type="id">9.2.9</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00138">Jacobsohn, Siegfried</author>
                     <title level="a">Antworten</title>
@@ -8876,7 +8876,7 @@
 
                 <bibl xml:id="kab-entry-9.2.10">
                     <num type="id">9.2.10</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00130">Hofmiller, Josef</author>
                     <title level="m">Ausgewählte Briefe</title>
@@ -8895,7 +8895,7 @@
 
                 <bibl xml:id="kab-entry-9.2.11">
                     <num type="id">9.2.11</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00202">Matejka, Viktor</author>
                     <title level="a">Gedenkrede auf Karl Kraus</title>
@@ -8912,7 +8912,7 @@
 
                 <bibl xml:id="kab-entry-9.2.12">
                     <num type="id">9.2.12</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.2</num>
                     <author key="#kab-pers-00030">Brod, Max</author>
                     <title level="m">Streitbares Leben. Autobiographie</title>
@@ -8931,7 +8931,7 @@
 
                 <bibl xml:id="kab-entry-9.3.01">
                     <num type="id">9.3.01</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
@@ -8955,7 +8955,7 @@
 
                 <bibl xml:id="kab-entry-9.3.02">
                     <num type="id">9.3.02</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00093">Goldstücker, Eduard (Hrsg.)</author>
                     <title level="m">Weltfreunde. Konferenz über die Prager deutsche
@@ -8980,7 +8980,7 @@
 
                 <bibl xml:id="kab-entry-9.3.02.1">
                     <num type="id">9.3.02.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00196">Machácková-Riegerova, Vera</author>
                     <title level="a">Einige Randbemerkungen zu Karl Kraus und Ernst Sommer</title>
@@ -8998,7 +8998,7 @@
 
                 <bibl xml:id="kab-entry-9.3.02.2.1">
                     <num type="id">9.3.02.2.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="m">Franz Kafka. Durchdringung und Geheimnis</title>
@@ -9019,7 +9019,7 @@
 
                 <bibl xml:id="kab-entry-9.3.02.2.2">
                     <num type="id">9.3.02.2.2</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="a">die "Fackel" als eine Quelle für Kafka</title>
@@ -9035,7 +9035,7 @@
 
                 <bibl xml:id="kab-entry-9.3.02.2.3">
                     <num type="id">9.3.02.2.3</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00221">Nemeth, Andre</author>
                     <title level="m">Kalka ou le mystere juif. (Übersetzung aus dem
@@ -9058,7 +9058,7 @@
 
                 <bibl xml:id="kab-entry-9.3.03a">
                     <num type="id">9.3.03</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
@@ -9079,7 +9079,7 @@
 
                 <bibl xml:id="kab-entry-9.3.04">
                     <num type="id">9.3.04</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00229">Pfabigan, Alfred</author>
                     <title level="a">Der Schriftsteller B. Traven – ein Münchner Karl Kraus?</title>
@@ -9099,7 +9099,7 @@
 
                 <bibl xml:id="kab-entry-9.3.05.1">
                     <num type="id">9.3.05.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00053">Durzak, Manfred</author>
                     <title level="m">Hermann Broch. Der Dichter und seine Zeit</title>
@@ -9119,7 +9119,7 @@
 
                 <bibl xml:id="kab-entry-9.3.05.2">
                     <num type="id">9.3.05.2</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00195">Lützeler, Paul Michael</author>
                     <title level="m">Hermann Broch – Ethik und Politik. Studien zum Frühwerk und zur
@@ -9138,7 +9138,7 @@
 
                 <bibl xml:id="kab-entry-9.3.06">
                     <num type="id">9.3.06</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00034">Burgstaller, Erich</author>
                     <title level="a">Zur Behandlung der Sprache in Elias Canetlis frühen
@@ -9161,7 +9161,7 @@
 
                 <bibl xml:id="kab-entry-9.3.07.1">
                     <num type="id">9.3.07.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00109">Hartl, Edwin</author>
                     <title level="a">Josef Weinheber und Karl Kraus</title>
@@ -9182,7 +9182,7 @@
 
                 <bibl xml:id="kab-entry-9.3.07.2">
                     <num type="id">9.3.07.2</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00143">Jenaczek, Friedrich</author>
                     <title level="a">Josef Weinhebers frühe Gedichte</title>
@@ -9199,7 +9199,7 @@
 
                 <bibl xml:id="kab-entry-9.3.07.3">
                     <num type="id">9.3.07.3</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00143">Jenaczek, Friedrich</author>
                     <title level="a">Resultate eines lyrischen Experiments</title>
@@ -9224,7 +9224,7 @@
 
                 <bibl xml:id="kab-entry-9.3.07.4">
                     <num type="id">9.3.07.4</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00143">Jenaczek, Friedrich</author>
                     <title level="a">Zum Begriff der "Wortgestalt". Ein Brief über den Einfluß der
@@ -9243,7 +9243,7 @@
 
                 <bibl xml:id="kab-entry-9.3.08">
                     <num type="id">9.3.08</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00103">Hackert, Fritz</author>
                     <title level="m">Kulturpessimismus und Erzählform. Studien zu Joseph Roths Leben
@@ -9268,7 +9268,7 @@
 
                 <bibl xml:id="kab-entry-9.3.09">
                     <num type="id">9.3.09</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00062">Enseling, Alf</author>
                     <title level="m">die Weltbühne. Organ der "Intellektuellen Linken"</title>
@@ -9290,7 +9290,7 @@
 
                 <bibl xml:id="kab-entry-9.3.10">
                     <num type="id">9.3.10</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.3</num>
                     <author key="#kab-pers-00177">Krenek, Ernst</author>
                     <title level="a">Alban Bergs "Lulu" (1937)</title>
@@ -9314,7 +9314,7 @@
 
                 <bibl xml:id="kab-entry-9.4.1">
                     <num type="id">9.4.1</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.4</num>
                     <author key="#kab-pers-00032">Brügel, Johann Wolfgang</author>
                     <title level="a">Ist Karl Kraus wirklich unübersetzbar? Die tschechische Ausgabe
@@ -9332,7 +9332,7 @@
 
                 <bibl xml:id="kab-entry-9.4.2">
                     <num type="id">9.4.2</num>
-                    <num type="category">9</num>
+                    
                     <num type="category">9.4</num>
                     <author key="#kab-pers-00336">Zohn, Harry</author>
                     <title level="a">The Translation of Satire. Kurt Tucholsky and Karl
