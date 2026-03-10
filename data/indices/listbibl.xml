@@ -199,7 +199,7 @@
                 <bibl xml:id="kab-entry-0.1.6a">
                     <num type="id">0.1.6</num>
                     <num type="category">0.1</num>
-                    <author key="#kab-pers-00339">[Pfäfflin, Friedrich]</author>
+                    <author key="#kab-pers-00080">[Pfäfflin, Friedrich]</author>
                     <title level="a">Bibliographie Werner Kraft</title>
                     <title level="j">Nachrichten aus dem Kösel-Verlag</title>
                     <num>18. Herbst 1963</num>
@@ -263,7 +263,7 @@
                     <biblScope unit="page">Heft 1/2. S. 151–182 [A–D]; Heft 3/4. S. 139–160
                         [E–G]. 7. 1974. Heft 1/2. S. 141–173 [H–K]. 8. 1975. Heft 3/4. S.
                         197–221 [L–N]. 9. 1976. Heft 1. S. 44–83 [O–S]; Heft 2. S. 10–44
-                        [T–Z].</biblScope>
+                        [T–Z]</biblScope>
                     <note type="comment">Umfaßt die in der "Fackel" (auch in den Notizen des
                         Herausgebers) erwähnten Namen von A–D (Heft 1/2) und von E–G (Heft 3/4) und
                         von H–K (7. Heft 1/2). Ohne Kommentar zu den Personen. Anscheinend
@@ -335,7 +335,7 @@
                 <bibl xml:id="kab-entry-0.4.1">
                     <num type="id">0.4.1</num>
                     <num type="category">0.4</num>
-                    <author key="#kab-pers-00109">Hartl, Edwin</author>
+                    <author key="#kab-pers-00108">Hartl, Edwin</author>
                     <title level="a">Der ignorierte Karl Kraus</title>
                     <title level="j">Die Presse (Wien)</title>
                     <date when="1966-06-11">11./12. Juni 1966</date>
@@ -516,7 +516,7 @@
                 <bibl xml:id="kab-entry-1.1.1.2">
                     <num type="id">1.1.1.2</num>
                     <num type="category">1.1</num>
-                    <author key="#kab-pers-00022">Blume, Bernhard</author>
+                    <author key="#kab-pers-00019">Blume, Bernhard</author>
                     <title level="a">Karl Kraus und Sidonie Nádherny von Borutin</title>
                     <title level="j">Neue Zürcher Zeitung</title>
                     <date when="1974-04-28">28. April 1974</date>
@@ -613,7 +613,7 @@
                 <bibl xml:id="kab-entry-1.1.1.7">
                     <num type="id">1.1.1.7</num>
                     <num type="category">1.1</num>
-                    <author key="#kab-pers-00303">Timms, Edward</author>
+                    <author key="#kab-pers-00304">Timms, Edward</author>
                     <title level="a">When the satirist falls in love</title>
                     <title level="j">Times Literary Supplement</title>
                     <num>Nr. 3.796. 6. Dezember 1974</num>
@@ -675,7 +675,7 @@
                 <bibl xml:id="kab-entry-1.1.3">
                     <num type="id">1.1.3</num>
                     <num type="category">1.1</num>
-                    <editor key="#kab-pers-00233">Pfäfflin, Friedrich (Hrsg.)</editor>
+                    <editor key="#kab-pers-00080">Pfäfflin, Friedrich (Hrsg.)</editor>
                     <title level="m">Heinrich Fischer zum 22. August 1971</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher>Kösel</publisher>
@@ -696,7 +696,7 @@
                 <bibl xml:id="kab-entry-1.1.4">
                     <num type="id">1.1.4</num>
                     <num type="category">1.1</num>
-                    <editor key="#kab-pers-00233">Pfäfflin, Friedrich (Hrsg.)</editor>
+                    <editor key="#kab-pers-00080">Pfäfflin, Friedrich (Hrsg.)</editor>
                     <title level="m">Berthold Viertel (1885–1953). Eine Dokumentation</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher>Kösel</publisher>
@@ -716,7 +716,7 @@
                 <bibl xml:id="kab-entry-1.1.5">
                     <num type="id">1.1.5</num>
                     <num type="category">1.1</num>
-                    <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
+                    <author key="#kab-pers-00167">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
                     <title level="a">Mechtilde Lichnowsky und Karl Kraus</title>
                     <title level="j">Forum (Wien)</title>
@@ -736,7 +736,7 @@
                 <bibl xml:id="kab-entry-1.1.6">
                     <num type="id">1.1.6</num>
                     <num type="category">1.1</num>
-                    <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
+                    <author key="#kab-pers-00167">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
                     <title level="a">Karl Kraus in Frankreich</title>
                     <title level="j">Literatur und Kritik</title>
@@ -861,7 +861,7 @@
                 <bibl xml:id="kab-entry-1.2.06">
                     <num type="id">1.2.06</num>
                     <num type="category">1.2</num>
-                    <author key="#kab-pers-00090">Ginsberg, Ernst</author>
+                    <author key="#kab-pers-00063">Ginsberg, Ernst</author>
                     <title level="a">Karl Kraus und die Schauspieler</title>
                     <title level="j">Forum (Wien)</title>
                     <num>8. 1961</num>
@@ -880,9 +880,9 @@
                 <bibl xml:id="kab-entry-1.2.06.1">
                     <num type="id">1.2.06.1</num>
                     <num type="category">1.2</num>
-                    <author key="#kab-pers-00090">Ginsberg, Ernst</author>
+                    <author key="#kab-pers-00063">Ginsberg, Ernst</author>
                     <title level="m">Abschied, Erinnerungen, Theateraufsätze, Gedichte</title>
-                    <editor key="#kab-pers-00058">Elisabeth Brock-Sulzer</editor>
+                    <editor key="#kab-pers-00029">Elisabeth Brock-Sulzer</editor>
                     <edition>2. Auflage</edition>
                     <pubPlace key="#kab-place-00063">Zürich</pubPlace>
                     <publisher>Arche</publisher>
@@ -917,7 +917,7 @@
                 <bibl xml:id="kab-entry-1.2.08">
                     <num type="id">1.2.08</num>
                     <num type="category">1.2</num>
-                    <author key="#kab-pers-00338">[Kann, Helene]</author>
+                    <author key="#kab-pers-00151">[Kann, Helene]</author>
                     <title level="a">Erinnerungen an Karl Kraus</title>
                     <title level="m">Wiener Festwochen im Theater an der Wien, [Programmheft zu "Die
                         letzten Tage der Menschheit"]</title>
@@ -1382,7 +1382,7 @@
                     <pubPlace key="#kab-place-00056">Stuttgart</pubPlace>
                     <publisher>Metzier</publisher>
                     <date when="1966">1966</date>
-                    <edition>Identische Sonderausgabe 1974.</edition>
+                    <edition>Identische Sonderausgabe 1974</edition>
                     <biblScope>IX + 353 S.</biblScope>
                     <note type="comment"> Überarbeitete deutsche Fassung des Vorigen. Unkritisch und
                         im Tone der Bewunderung werden inhaltliche Paraphrasen der Polemiken
@@ -1445,7 +1445,7 @@
                     <author key="#kab-pers-00191">Liegler, Leopold</author>
                     <title level="m">Karl Kraus und sein Werk</title>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <publisher>Länyi</publisher>
+                    <publisher>Lányi</publisher>
                     <date when="1920">1920</date>
                     <biblScope>435 S.</biblScope>
                     <edition>2. unveränderte Auflage 1933.</edition>
@@ -1731,7 +1731,7 @@
                 <bibl xml:id="kab-entry-2.2.05">
                     <num type="id">2.2.05</num>
                     <num type="category">2</num>
-                    <author key="#kab-pers-00114">Heidemann, Christel</author>
+                    <author key="#kab-pers-00113">Heidemann, Christel</author>
                     <title level="a">Karl Kraus</title>
                     <title level="m">Deutsche Publizisten des 15. bis 20. Jahrhunderts</title>
                     <editor key="#kab-pers-00116">Heinz-Dietrich Fischer</editor>
@@ -2207,7 +2207,7 @@
                     <author key="#kab-pers-00038">Canetti, Elias</author>
                     <title level="a">Warum ich nicht wie Karl Kraus schreibe</title>
                     <title level="j">Wort in der Zeit (Graz)</title>
-                    <num>12. 1966. Heft 1.</num>
+                    <num>12. 1966. Heft 1</num>
                     <date when="1966">1966</date>
                     <biblScope>S. 41–47.</biblScope>
                     <note type="comment">Identisch mit dem Vorhergehenden.</note>
@@ -2244,7 +2244,7 @@
                     <title level="a">Glossen zu Karl Kraus bei Gelegenheit einer neuen
                         Monographie</title>
                     <title level="j">Modern Austrian Literature</title>
-                    <num>3. 1970. Heft 2.</num>
+                    <num>3. 1970. Heft 2</num>
                     <date when="1970">1970</date>
                     <biblScope>S. 43 bis 47.</biblScope>
                     <note type="comment">Eine knappe Würdigung K.'s, der im ganzen doch ein Epigone
@@ -2260,7 +2260,7 @@
                 <bibl xml:id="kab-entry-3.1.05">
                     <num type="id">3.1.05</num>
                     <num type="category">3.1</num>
-                    <editor key="#kab-pers-00061">Engelmann, Paul (Hrsg.)</editor>
+                    <editor key="#kab-pers-00060">Engelmann, Paul (Hrsg.)</editor>
                     <title level="m">Dem Andenken an Karl Kraus (1949)</title>
                     <edition>[2. Auflage]</edition>
                     <editor key="#kab-pers-00057">Elazar Benyoetz</editor>
@@ -2471,7 +2471,7 @@
                     <author key="#kab-pers-00104">Haensel, Ludwig</author>
                     <title level="a">Karl Kraus</title>
                     <title level="j">Hochland</title>
-                    <num>32. 1934/35. Halbband l.</num>
+                    <num>32. 1934/35. Halbband I</num>
                     <date when="1934">1934</date>
                     <biblScope>S. 237–250.</biblScope>
                     <note type="comment">K 2056, K 2057. Ein schönes Zeugnis für die Wirkung K.'s
@@ -2490,7 +2490,7 @@
                     <author key="#kab-pers-00107">Hanser, Richard</author>
                     <title level="a">Karl Kraus: A Torch-Bearer for His Time</title>
                     <title level="j">American-German Review</title>
-                    <num>34. 1967/68. Nr. 5.</num>
+                    <num type="volume">34. 1967/68. Nr. 5</num>
                     <date when="1967">1967</date>
                     <biblScope>S. 24–27.</biblScope>
                     <note type="comment">Ziemlich belanglos. Im letzten Viertel einige Bemerkungen
@@ -2755,7 +2755,7 @@
                     <num type="id">3.1.27</num>
                     <num type="category">3.1</num>
                     <title level="m">Rundfrage über Karl Kraus</title>
-                    <editor key="#kab-pers-00193">Ludwig von Ficker</editor>
+                    <editor key="#kab-pers-00067">Ludwig von Ficker</editor>
                     <pubPlace key="#kab-place-00026">Innsbruck</pubPlace>
                     <publisher>Brenner-Verlag</publisher>
                     <date when="1917">1917</date>
@@ -2847,7 +2847,7 @@
                     <author key="#kab-pers-00276">Schott, Rolf</author>
                     <title level="a">In Erinnerung an Karl Kraus</title>
                     <title level="j">Studi Germanici</title>
-                    <num>2. 1964. Heft 2.</num>
+                    <num type="volume">2. 1964. Heft 2</num>
                     <date when="1964">1964</date>
                     <biblScope>S. 83–103.</biblScope>
                     <note type="comment">Unergiebig. Enthält keine persönlichen Erinnerungen.</note>
@@ -3121,7 +3121,7 @@
                 <bibl xml:id="kab-entry-3.1.43">
                     <num type="id">3.1.43</num>
                     <num type="category">3.1</num>
-                    <author key="#kab-pers-00312">Ungar, Frederick</author>
+                    <author key="#kab-pers-00078">Ungar, Frederick</author>
                     <title level="a">Introduction</title>
                     <title level="m">Karl Kraus: The Last Days of Mankind</title>
                     <editor key="#kab-pers-00078">Frederick Ungar</editor>
@@ -3412,7 +3412,7 @@
                     <title level="a">Die drei letzten Briefe an einen Toten</title>
                     <title level="j">Die weißen Blätter</title>
                     <date when="1916">1916</date>
-                    <num>3. 1.</num>
+                    <num>3. 1</num>
                     <biblScope unit="page">122–132</biblScope>
                     <note type="comment">Kritisiert S. 125 f. einen Aphorismus von K. (F 406/12,
                         Oktober 1915, S. 97), in dem dieser die Schwäche des Christentums für den
@@ -3500,7 +3500,7 @@
                 <bibl xml:id="kab-entry-3.3.2.2">
                     <num type="id">3.3.2.2</num>
                     <num type="category">3.3</num>
-                    <author key="#kab-pers-00109">Hartl, Edwin</author>
+                    <author key="#kab-pers-00108">Hartl, Edwin</author>
                     <title level="a">Verblendete Hellseher und Schwarzseher. Überlegungen zu den
                         Gegnern von Karl Kraus</title>
                     <title level="j">Literatur und Kritik</title>
@@ -3518,7 +3518,7 @@
                 <bibl xml:id="kab-entry-3.3.2.3">
                     <num type="id">3.3.2.3</num>
                     <num type="category">3.3</num>
-                    <author key="#kab-pers-00109">Hartl, Edwin</author>
+                    <author key="#kab-pers-00108">Hartl, Edwin</author>
                     <title level="a">Zum neunundneunzigstenmal. Karl Kraus und die Nachrede</title>
                     <title level="j">Die Pestsäule (Wien)</title>
                     <date>1972/74</date>
@@ -3533,7 +3533,7 @@
                 <bibl xml:id="kab-entry-3.3.3">
                     <num type="id">3.3.3</num>
                     <num type="category">3.3</num>
-                    <author key="#kab-pers-00173">Kosten, Hermann</author>
+                    <author key="#kab-pers-00122">Kosten, Hermann</author>
                     <title level="a">Er hat Talente verschwendet</title>
                     <title level="j">Frankfurter Allgemeine Zeitung</title>
                     <date when="1974-04-27">27. April 1974</date>
@@ -3572,7 +3572,8 @@
                     <num type="category">3.4</num>
                     <author key="#kab-pers-00018">Benjamin, Walter</author>
                     <title level="m">Briefe</title>
-                    <editor key="#kab-pers-00088">Gershom Scholem und Theodor W. Adorno</editor>
+                    <editor key="#kab-pers-00088">Gershom Scholem</editor>
+                    <editor key="#kab-pers-00002">Theodor W. Adorno</editor>
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher>Suhrkamp</publisher>
                     <date when="1966">1966</date>
@@ -3790,7 +3791,8 @@
                     <author key="#kab-pers-00307">Trakl, Georg</author>
                     <title level="m">Dichtungen und Briefe</title>
                     <title type="subtitle" level="m">Historisch-kritische Ausgabe</title>
-                    <editor key="#kab-pers-00320">Walther Killy und Hans Szklenar</editor>
+                    <editor key="#kab-pers-00320">Walther Killy</editor>
+                    <editor key="#kab-pers-00489">Hans Szklenar</editor>
                     <biblScope unit="volume">2 Bände</biblScope>
                     <pubPlace key="#kab-place-00052">Salzburg</pubPlace>
                     <publisher>Otto Müller</publisher>
@@ -3953,7 +3955,8 @@
                         Nestroy und Karl Kraus</title>
                     <title level="m">Gestalt und Wirklichkeit. Festgabe für Ferdinand
                         Weinhandl</title>
-                    <editor key="#kab-pers-00258">Robert Mühlher und Johann Fischl</editor>
+                    <editor key="#kab-pers-00214">Robert Mühlher</editor>
+                    <editor key="#kab-pers-00258">Johann Fischl</editor>
                     <pubPlace key="#kab-place-00005">Berlin</pubPlace>
                     <publisher>Duncker &amp; Humblot</publisher>
                     <date when="1967">1967</date>
@@ -4102,7 +4105,7 @@
                 <bibl xml:id="kab-entry-5.2.2">
                     <num type="id">5.2.2</num>
                     <num type="category">5.2</num>
-                    <author key="#kab-pers-00114">Heidemann, Christel</author>
+                    <author key="#kab-pers-00113">Heidemann, Christel</author>
                     <title level="m">Satirische und polemische Formen in der Publizistik von Karl
                         Kraus</title>
                     <edition>Diss.</edition>
@@ -4220,7 +4223,8 @@
                         satirischen Technik</title>
                     <title level="m">Literatur und Geistesgeschichte. Festgabe für Heinz Otto
                         Burger</title>
-                    <editor key="#kab-pers-00251">Reinhold Grimm und Conrad Wiedemann</editor>
+                    <editor key="#kab-pers-00250">Grimm, Reinhold</editor>
+                    <editor key="#kab-pers-00251">Wiedemann, Conrad</editor>
                     <pubPlace key="#kab-place-00005">Berlin</pubPlace>
                     <publisher>Schmidt</publisher>
                     <date when="1968">1968</date>
@@ -4274,8 +4278,9 @@
                     <author key="#kab-pers-00211">Mon, Franz</author>
                     <title level="a">collage in der literatur</title>
                     <title level="m">prinzip collage</title>
-                    <editor key="#kab-pers-00131">Hrsg. vom Institut für moderne Kunst Nürnberg,
-                        Redaktion Franz Mon und Heinz Neidel</editor>
+                    <editor key="#kab-pers-00131">Institut für moderne Kunst Nürnberg</editor>
+                    <editor key="#kab-pers-00211">Mon, Franz</editor>
+                    <editor key="#kab-pers-00498">Neidel, Heinz</editor>
                     <pubPlace key="#kab-place-00042">Neuwied</pubPlace>
                     <publisher>Luchterhand</publisher>
                     <date when="1968">1968</date>
@@ -4349,7 +4354,7 @@
                 <bibl xml:id="kab-entry-6.1.04a">
                     <num type="id">6.1.04</num>
                     <num type="category">6.1</num>
-                    <author key="#kab-pers-00154">Kars, Gustave</author>
+                    <author key="#kab-pers-00153">Kars, Gustave</author>
                     <title level="a">L'esthétique de Karl Kraus</title>
                     <title level="j">Etudes Germaniques</title>
                     <num>8</num>
@@ -4981,7 +4986,7 @@
                 <bibl xml:id="kab-entry-7.2.3">
                     <num type="id">7.2.3</num>
                     <num type="category">7.2</num>
-                    <author key="#kab-pers-00232">Pfäfflin, Friedrich</author>
+                    <author key="#kab-pers-00080">Pfäfflin, Friedrich</author>
                     <title level="a">Sittlichkeit und Kriminalität</title>
                     <title level="m">Kindlers Literatur-Lexikon</title>
                     <pubPlace key="#kab-place-00063">Zürich</pubPlace>
@@ -5782,7 +5787,9 @@
                         Jugend</title>
                     <title level="m">Deutsch-österreichische Literaturgeschichte. Band 4: Von 1890
                         bis 1918</title>
-                    <editor key="#kab-pers-00145">Johann Willibald Nagl, Jakob Zeidler und Eduard
+                    <editor key="#kab-pers-00144">Johann Willibald Nagl</editor>
+                    <editor key="#kab-pers-00139">Jakob Zeidler</editor>
+                    <editor key="#kab-pers-00056">Eduard
                         Castle</editor>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Fromme</publisher>
@@ -5885,7 +5892,8 @@
                     <author key="#kab-pers-00014">Bauer, Roger</author>
                     <title level="a">La querelle Kraus-Werter</title>
                     <title level="m">L'expressionisme dans le théâtre européen</title>
-                    <editor key="#kab-pers-00048">Denis Bablet und Jean Jacquot</editor>
+                    <editor key="#kab-pers-00048">Denis Bablet</editor>
+                    <editor key="#kab-pers-00488">Jean Jacquot</editor>
                     <pubPlace key="#kab-place-00047">Paris</pubPlace>
                     <publisher>CNRS</publisher>
                     <date when="1971">1971</date>
@@ -6346,7 +6354,7 @@
                 <bibl xml:id="kab-entry-7.6.08.2">
                     <num type="id">7.6.08.2</num>
                     <num type="category">7.6</num>
-                    <author key="#kab-pers-00022">Blume, Bernhard</author>
+                    <author key="#kab-pers-00019">Blume, Bernhard</author>
                     <title level="a">Rilke und Karl Kraus</title>
                     <title level="j">Neue Zürcher Zeitung</title>
                     <date when="1973">1973</date>
@@ -6495,7 +6503,7 @@
                     <author key="#kab-pers-00161">Kimpel, Dieter</author>
                     <title level="a">Nachwort</title>
                     <title level="m">Karl Kraus: Die demolirte Literatur</title>
-                    <editor key="#kab-pers-00344">—</editor>
+                    
                     <pubPlace key="#kab-place-00055">Steinbach</pubPlace>
                     <publisher>Anabas</publisher>
                     <date when="1972">1972</date>
@@ -6557,8 +6565,9 @@
                     <author key="#kab-pers-00337">Zohner, Alfred</author>
                     <title level="a">"Café Griensteidl'</title>
                     <title level="m">Deutsch-österreichische Literaturgeschichte</title>
-                    <editor key="#kab-pers-00145">Johann Willibald Nagl, Jakob Zeidler und Eduard
-                        Castle</editor>
+                    <editor key="#kab-pers-00144">Johann Willibald Nagl</editor>
+                    <editor key="#kab-pers-00139">Jakob Zeidler</editor>
+                    <editor key="#kab-pers-00056">Eduard Castle</editor>
                     <num>Band 4: Von 1890 bis 1918</num>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Fromme</publisher>
@@ -7134,7 +7143,7 @@
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Nachwort</title>
                     <title level="m">Karl Kraus: Anderthalb Wahrheiten. Aphorismen</title>
-                    <editor key="#kab-pers-00182">Kurt Krolop</editor>
+                    <editor key="#kab-pers-00179">Kurt Krolop</editor>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher>Rütten &amp; Loening</publisher>
                     <date when="1969">1969</date>
@@ -7156,8 +7165,8 @@
                     <author key="#kab-pers-00308">Tucholsky, Kurt</author>
                     <title level="a">Weltgericht (1920)</title>
                     <title level="m">KT: Gesammelte Werke</title>
-                    <editor key="#kab-pers-00201">Mary Gerold-Tucholsky und Fritz J.
-                        Raddatz</editor>
+                    <editor key="#kab-pers-00200">Mary Gerold-Tucholsky</editor>
+                    <editor key="#kab-pers-00242">Fritz J. Raddatz</editor>
                     <num type="series">Band 1: 1907–1924</num>
                     <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                     <publisher>Rowohlt</publisher>
@@ -7623,7 +7632,7 @@
                         Beziehung zur historischen Wirklichkeit</title>
                     <title level="m">Geschichte in der Österreichischen Literatur des 19. und 20.
                         Jahrhunderts</title>
-                    <editor key="#kab-pers-00136">Institut für Österreichkunde</editor>
+                    <editor key="#kab-pers-00135">Institut für Österreichkunde</editor>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Hirt</publisher>
                     <date when="1970">1970</date>
@@ -7798,7 +7807,8 @@
                 <bibl xml:id="kab-entry-8.07.3.3.1">
                     <num type="id">8.07.3.3.1</num>
                     <num type="category">8.07</num>
-                    <author key="#kab-pers-00327">Wendt, Ernst und Günther Fleckenstein</author>
+                    <author key="#kab-pers-00327">Wendt, Ernst</author>
+                    <author key="#kab-pers-00490">Günther Fleckenstein</author>
                     <title level="a">Oh, was ein schöner Krieg!</title>
                     <title level="j">Theater heute</title>
                     <num>5. 1964. Nr. 10</num>
@@ -7874,7 +7884,7 @@
                 <bibl xml:id="kab-entry-8.08.0.1">
                     <num type="id">8.08.0.1</num>
                     <num type="category">8.08</num>
-                    <author key="#kab-pers-00288">Snell, Mary A.C.</author>
+                    <author key="#kab-pers-00287">Snell, Mary A.C.</author>
                     <title level="m">The Dramatic Satire of Karl Kraus and Johann Nestroy: a
                         Comparative Study</title>
                     <edition>Diss. (masch.) für den B. Phil.</edition>
@@ -7986,8 +7996,8 @@
                     <author key="#kab-pers-00308">Tucholsky, Kurt</author>
                     <title level="a">Berliner Theater (1929)</title>
                     <title level="m">KT: Gesammelte Werke</title>
-                    <editor key="#kab-pers-00201">Mary Gerold-Tucholsky und Fritz J.
-                        Raddatz</editor>
+                    <editor key="#kab-pers-00200">Mary Gerold-Tucholsky</editor>
+                    <editor key="#kab-pers-00242">Fritz J. Raddatz</editor>
                     <num type="series">Band 3: 1929–1932</num>
                     <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                     <publisher>Rowohlt</publisher>
@@ -8115,7 +8125,7 @@
                         der "Worte in Versen' und zum Gedicht "Sonnenthal"</title>
                     <title level="m">Sprachthematik in der österreichischen Literatur des 20.
                         Jahrhunderts</title>
-                    <editor key="#kab-pers-00342">vom Institut für Österreichkunde</editor>
+                    <editor key="#kab-pers-00135">Institut für Österreichkunde</editor>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Hirt</publisher>
                     <date when="1974">1974</date>
@@ -8506,7 +8516,7 @@
                 <bibl xml:id="kab-entry-8.11.2.4">
                     <num type="id">8.11.2.4</num>
                     <num type="category">8.11</num>
-                    <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
+                    <author key="#kab-pers-00167">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
                     <title level="a">Karl Kraus und Offenbach</title>
                     <title level="j">Der Monat</title>
@@ -8582,8 +8592,8 @@
                     <author key="#kab-pers-00308">Tucholsky, Kurt</author>
                     <title level="a">Karl Kraus liest (1920)</title>
                     <title level="m">KT: Gesammelte Werke</title>
-                    <editor key="#kab-pers-00201">Mary Gerold-Tucholsky und Fritz J.
-                        Raddatz</editor>
+                    <editor key="#kab-pers-00200">Mary Gerold-Tucholsky</editor>
+                    <editor key="#kab-pers-00242">Fritz J. Raddatz</editor>
                     <biblScope>Band 1: 1907–1924</biblScope>
                     <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                     <publisher>Rowohlt</publisher>
@@ -8620,7 +8630,7 @@
                     <num type="id">9.1.2</num>
                     
                     <num type="category">9.1</num>
-                    <author key="#kab-pers-00109">Hartl, Edwin</author>
+                    <author key="#kab-pers-00108">Hartl, Edwin</author>
                     <title level="a">Karl Kraus: 35 Jahre nachher</title>
                     <title level="j">Literatur und Kritik</title>
                     <date when="1971">1971</date>
@@ -8797,7 +8807,7 @@
                     <author key="#kab-pers-00308">Tucholsky, Kurt</author>
                     <title level="m">Gesammelte Werke</title>
                     <editor key="#kab-pers-00200">Mary Gerold-Tucholsky</editor>
-                    <editor key="#kab-pers-00081">Fritz J. Raddatz</editor>
+                    <editor key="#kab-pers-00242">Fritz J. Raddatz</editor>
                     <edition>4 Bände</edition>
                     <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                     <publisher>Rowohlt</publisher>
@@ -8933,7 +8943,7 @@
                     <num type="id">9.3.01</num>
                     
                     <num type="category">9.3</num>
-                    <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
+                    <author key="#kab-pers-00167">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
                     <title level="a">Karl Kraus und das expressionistische Theater</title>
                     <title level="m">Worte und Werte. Festschrift für Bruno Markwardt</title>
@@ -9060,7 +9070,7 @@
                     <num type="id">9.3.03</num>
                     
                     <num type="category">9.3</num>
-                    <author key="#kab-pers-00296">Sternbach-Gärtner, Lotte [= Caroline
+                    <author key="#kab-pers-00167">Sternbach-Gärtner, Lotte [= Caroline
                         Kohn]</author>
                     <title level="a">"Die letzten Tage der Menschheit" und das Theater von Bert
                         Brecht</title>
@@ -9145,7 +9155,7 @@
                         Dramen</title>
                     <title level="m">Sprachthematik in der österreichischen Literatur des 20.
                         Jahrhunderts</title>
-                    <editor key="#kab-pers-00135">Institut für asterreichkunde</editor>
+                    <editor key="#kab-pers-00135">Institut für Österreichkunde</editor>
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher>Hirt</publisher>
                     <date when="1974">1974</date>
@@ -9163,7 +9173,7 @@
                     <num type="id">9.3.07.1</num>
                     
                     <num type="category">9.3</num>
-                    <author key="#kab-pers-00109">Hartl, Edwin</author>
+                    <author key="#kab-pers-00108">Hartl, Edwin</author>
                     <title level="a">Josef Weinheber und Karl Kraus</title>
                     <title level="j">Österreich in Geschichte und Literatur</title>
                     <num>9</num>
@@ -9392,7 +9402,7 @@
                 <bibl xml:id="kab-entry-10.2.2">
                     <num type="id">10.2.2</num>
                     <num type="category">10.2</num>
-                    <author key="#kab-pers-00157">Kaufmann, Hans (Hrsg.)</author>
+                    <author key="#kab-pers-00156">Kaufmann, Hans (Hrsg.)</author>
                     <title level="m">Geschichte der deutschen Literatur vom Ausgang des 19.
                         Jahrhunderts bis 1917</title>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -9414,7 +9424,7 @@
                 <bibl xml:id="kab-entry-10.2.3">
                     <num type="id">10.2.3</num>
                     <num type="category">10.2</num>
-                    <author key="#kab-pers-00157">Kaufmann, Hans (Hrsg.)</author>
+                    <author key="#kab-pers-00156">Kaufmann, Hans (Hrsg.)</author>
                     <title level="m">Geschichte der deutschen Literatur 1917 bis 1945</title>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher>Volk und Wissen</publisher>
@@ -9597,7 +9607,8 @@
                     <bibl xml:id="kab-entry-0.3.3">
                         <num type="category">0.3</num>
                         <num type="id">0.3.3</num>
-                        <author key="#kab-pers-00367">Bäuml, Gustav H. und Franz H. Bäuml</author>
+                        <author key="#kab-pers-00036">Bäuml, Gustav H.</author>
+                        <author key="#kab-pers-00035">Bäuml, Franz H.</author>
                         <title level="a">Sachnamen- und Jargonregister zu Karl Kraus' DIE
                             FACKEL</title>
                         <title level="j">Modern Austrian Literature</title>
@@ -9695,7 +9706,7 @@
                     <bibl xml:id="kab-entry-3.1.48">
                         <num type="category">3.1</num>
                         <num type="id">3.1.48</num>
-                        <author key="#kab-pers-00347">[Kraft, Werner]</author>
+                        <author key="#kab-pers-00174">[Kraft, Werner]</author>
                         <title level="a">Karl Kraus zum 100. Geburtstag. Ein Interview Erich
                             Gottgetreus mit Werner Kraft</title>
                         <title level="m">Emuna</title>
@@ -9783,7 +9794,7 @@
                             Kraus</title>
                         <title level="m">Großbritannien und Deutschland. Festschrift für John W. P.
                             Bourke</title>
-                        <editor>Ortwin Kuhn</editor>
+                        <editor key="#kab-pers-00537">Ortwin Kuhn</editor>
                         <pubPlace key="#kab-place-00037">München</pubPlace>
                         <publisher>Goldmann</publisher>
                         <date when="1974">1974</date>
@@ -9799,7 +9810,7 @@
                         <author key="#kab-pers-00416">Lukács, Georg</author>
                         <title level="a">Eine Kampfschrift gegen den Krieg der Bourgeoisie
                             (1923)</title>
-                        <editor>Manfred Brauneck</editor>
+                        <editor key="#kab-pers-00500">Manfred Brauneck</editor>
                         <title level="m">Die Rote Fahne. Kritik, Theorie, Feuilleton
                             1918–1933</title>
                         <pubPlace key="#kab-place-00037">München</pubPlace>
@@ -10463,7 +10474,8 @@
                     <bibl xml:id="kab-entry-0.6.3">
                         <num type="category">0.6</num>
                         <num type="id">0.6.3</num>
-                        <author key="#kab-pers-00367">Bäuml, Gustav H. und Franz H. Bäuml</author>
+                        <author key="#kab-pers-00036">Bäuml, Gustav H.</author>
+                        <author key="#kab-pers-00035">Bäuml, Franz H.</author>
                         <title level="a">Sachnamen- und Jargonregister zu Karl Kraus' DIE
                             FACKEL</title>
                         <title level="j">Modern Austrian Literature</title>
@@ -10573,7 +10585,7 @@
                     <bibl xml:id="kab-entry-1.1.1.11">
                         <num type="category">1.1</num>
                         <num type="id">1.1.1.11</num>
-                        <author key="#kab-pers-00232">Pfäfflin, Friedrich</author>
+                        <author key="#kab-pers-00080">Pfäfflin, Friedrich</author>
                         <title level="a">Der zweite Leser. Anmerkungen eines Herausgebers</title>
                         <title level="m">Deutsche Akademie für Sprache und Dichtung Darmstadt.
                             Jahrbuch</title>
@@ -10589,7 +10601,7 @@
                     <bibl xml:id="kab-entry-1.1.1.12">
                         <num type="category">1.1</num>
                         <num type="id">1.1.1.12</num>
-                        <author key="#kab-pers-00022">Blume, Bernhard</author>
+                        <author key="#kab-pers-00019">Blume, Bernhard</author>
                         <title level="a">[Rezension von:] Karl Kraus: Briefe an Sidonie
                             Nádhern&#xFD;</title>
                         <title level="j">German Quarterly</title>
@@ -10705,7 +10717,7 @@
                         <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                         <title level="a">Die politischen Polemiken von Karl Kraus. Am Beispiel
                             "Hüben und Drüben"</title>
-                        <editor>Friedbert Aspetsberger (Hrsg.)</editor>
+                        <editor key="#kab-pers-00508">Friedbert Aspetsberger (Hrsg.)</editor>
                         <title level="m">Staat und Gesellschaft in der österreichischen
                             Literatur</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -10744,7 +10756,8 @@
                         <num type="id">7.6.02.5.5.2</num>
                         <author key="#kab-pers-00297">Stieg, Gerald</author>
                         <title level="a">Georg Trakl und Karl Kraus:</title>
-                        <editor>Walter Weiss und Hans Weichselbaum (Hrsg.)</editor>
+                        <editor key="#kab-pers-00545">Walter Weis</editor>
+<editor key="#kab-pers-00516"> Hans Weichselbaum (Hrsg.)</editor>
                         <title level="m">Salzburger Trakl-Symposion</title>
                         <pubPlace key="#kab-place-00052">Salzburg</pubPlace>
                         <publisher>Otto Müller</publisher>
@@ -10761,7 +10774,8 @@
                         <num type="id">7.6.02.5.6</num>
                         <author key="#kab-pers-00448">Sauermann, Eberhard</author>
                         <title level="a">Die Widmungen Georg Trakls</title>
-                        <editor>Walter Weiss und Hans Weichselbaum (Hrsg.)</editor>
+                        <editor key="#kab-pers-00545">Walter Weis</editor>
+<editor key="#kab-pers-00516"> Hans Weichselbaum (Hrsg.)</editor>
                         <title level="m">Salzburger Trakl-Symposion</title>
                         <pubPlace key="#kab-place-00052">Salzburg</pubPlace>
                         <publisher>Otto Müller</publisher>
@@ -10812,8 +10826,8 @@
                         <num type="category">8.02</num>
                         <num type="id">8.02.10</num>
                         <author key="#kab-pers-00418">Lunzer-Lindhausen, Marianne</author>
-                        <title level="a">Die Fackel (1899–1936)</title><editor>Heinz Dieter Fischer
-                            (Hrsg.)</editor>
+                        <title level="a">Die Fackel (1899–1936)</title>
+                        <editor key="#kab-pers-00116">Heinz Dieter Fischer (Hrsg.)</editor>
                         <title level="m">Deutsche Zeitschriften des 17. bis 20. Jahrhunderts</title>
                         <pubPlace key="#kab-place-00083">Pullach bei München</pubPlace>
                         <publisher>Dokumentation</publisher><date when="1973">1973</date>
@@ -10902,7 +10916,7 @@
                         <num type="id">0.1.6.1</num>
                         <author key="#kab-pers-00451">Schlösser, Manfred</author>
                         <title level="a">Bibliographie aller Schriften und Einzelbeiträge von Werner
-                            Kraft</title><author key="#kab-pers-00480">Werner Kraft</author>
+                            Kraft</title><author key="#kab-pers-00174">Werner Kraft</author>
                         <title level="m">Der Chandos-Brief und andere Aufsätze über
                             Hofmannsthal</title>
                         <pubPlace key="#kab-place-00071">Darmstadt-Berlin (W)</pubPlace>
@@ -10939,7 +10953,7 @@
                     <bibl xml:id="kab-entry-0.7.2">
                         <num type="category">0.7</num>
                         <num type="id">0.7.2</num>
-                        <author key="#kab-pers-00474">Wagenknecht, Christian</author>
+                        <author key="#kab-pers-00317">Wagenknecht, Christian</author>
                         <title level="a">Korrektur und Klitterung. Zur Arbeitsweise von Karl
                             Kraus</title><title level="j">Text + Kritik (2.3.2)</title>
                         <biblScope unit="page">S. 108–115</biblScope>
@@ -10958,7 +10972,7 @@
                     <bibl xml:id="kab-entry-1.1.8">
                         <num type="category">1.1</num>
                         <num type="id">1.1.8</num>
-                        <author key="#kab-pers-00232">Pfäfflin, Friedrich</author>
+                        <author key="#kab-pers-00080">Pfäfflin, Friedrich</author>
                         <title level="a">Karl Kraus und Arnold Schönberg. Fragmente einer
                             Beziehung</title><title level="j">Text + Kritik (2.3.2)</title>
                         <biblScope unit="page">S. 127–144</biblScope>
@@ -10973,7 +10987,7 @@
                     <bibl xml:id="kab-entry-1.1.8.1">
                         <num type="category">1.1</num>
                         <num type="id">1.1.8.1</num>
-                        <author key="#kab-pers-00232">Pfäfflin, Friedrich</author>
+                        <author key="#kab-pers-00080">Pfäfflin, Friedrich</author>
                         <title level="a">Heute ist mir sehr katzenjämmerlich zu Mute. Zum 100.
                             Geburtstag von Arnold Schönberg: Aus seinen Briefen an Karl
                             Kraus</title><title level="j">Süddeutsche Zeitung</title>
@@ -11085,7 +11099,7 @@
                             Weltverbesserer:</title>
                         <title level="j">Frankfurter Allgemeine Zeitung</title>
                         <num/>
-                        <date when="1977-02-05">5. Februar 1977, Beilage.</date>
+                        <date when="1977-02-05">5. Februar 1977, Beilage</date>
                         <note type="comment">Stark gekürzter Vorabdruck aus dem Vorhergehenden.
                             Leserreaktionen in der gleichen Zeitung, 17. Februar 1977, S. 17.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie zu Karl Kraus. 5. Fortsetzung. In: Kraus-Hefte 10/11 (Juli 1979).</note>
@@ -11195,7 +11209,7 @@
                         <title level="m">The Major Literary Polemics of Karl Kraus</title>
                         <edition>Diss. (masch.)</edition>
                         <pubPlace key="#kab-place-00073">Durham (GB)</pubPlace>
-                        <date when="1972">1972 (Degree awarded 1973).</date>
+                        <date when="1972">1972 (Degree awarded 1973)</date>
                         <biblScope unit="page">XI + 449 + [7] S.</biblScope>
                         <idno>Wiener Stadtbibliothek 175 225 B.</idno>
                         <note type="comment">1–32 eine Analyse der satirischen Position K.s, vor
@@ -11234,7 +11248,8 @@
                         <num type="id">7.6.00.4</num>
                         <author key="#kab-pers-00008">Arntzen, Helmut</author>
                         <title level="a">Karl Kraus als Kritiker des Fin de si&#xE8;cle</title>
-                        <editor>Roger Bauer u. a. [Hrsg.]</editor>
+                        <editor key="#kab-pers-00014">Roger Bauer</editor>
+                        <editor> u. a. [Hrsg.]</editor>
                         <title level="m">Fin de si&#xE8;cle. Zu Literatur und Kunst der
                             Jahrhundertwende</title>
                         <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
@@ -11332,7 +11347,7 @@
                     <bibl xml:id="kab-entry-7.7.2">
                         <num type="category">7.7</num>
                         <num type="id">7.7.2</num>
-                        <author key="#kab-pers-00109">Hartl, Edwin</author>
+                        <author key="#kab-pers-00108">Hartl, Edwin</author>
                         <title level="a">Karl Kraus und die Psychoanalyse. Versuch einer
                             Klarstellung</title><title level="j">Merkur</title>
                         <num>31</num>
@@ -11423,7 +11438,7 @@
                         <num type="id">9.2.14</num>
                         <author key="#kab-pers-00484">Wittgenstein, Ludwig</author>
                         <title level="m">Vermischte Bemerkungen</title>
-                        <editor>Georg Henrik von Wright</editor>
+                        <editor key="#kab-pers-00509">Georg Henrik von Wright</editor>
                         <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                         <publisher>Suhrkamp</publisher>
                         <date when="1977">1977</date>
@@ -11759,7 +11774,7 @@
                         <author key="#kab-pers-00416">Lukács, Georg</author>
                         <title level="a">Ausschnitte aus den Briefen von Georg Lukács an Cesare
                             Cases</title>
-                        <editor>Ilona T. Erdélyi (Hrsg.)</editor>
+                        <editor key="#kab-pers-00525">Ilona T. Erdélyi (Hrsg.)</editor>
                         <title level="m">Literatur und Literaturgeschichte in Österreich</title>
                         <pubPlace key="#kab-place-00069">Budapest</pubPlace>
                         <publisher>Akadémiai Kiad&#xF3;</publisher>
@@ -11918,7 +11933,9 @@
                         <title level="a">"Der Brenner" als Kontext zur Lyrik Georg Trakls</title>
                         <title level="m">Die Andere Welt. Aspekte der österreichischen Literatur des
                             19. und 20. Jahrhunderts. Festschrift für Hellmuth Himmel</title>
-                        <editor>Kurt Bartsch, Dietmar Goltschnigg u. a.</editor>
+                        <editor key="#kab-pers-00532">Kurt Bartsch</editor>
+                        <editor key="#kab-pers-00505">Dietmar Goltschnigg</editor>
+                        <editor>u. a.</editor>
                         <pubPlace key="#kab-place-00008">Bern</pubPlace>
                         <publisher>Francke</publisher><date when="1979">1979</date><biblScope
                             unit="page">S. 249–259</biblScope>
@@ -11952,7 +11969,8 @@
                         <num type="id">7.6.14.1.1</num>
                         <author key="#kab-pers-00468">Szab&#xF3;, János</author>
                         <title level="a">Karl Kraus und Frigyes Karinthy. Parallelen und
-                            &#xC4;hnlichkeiten</title><editor>Ilona T. Erdélyi (Hrsg.)</editor>
+                            &#xC4;hnlichkeiten</title>
+                        <editor key="#kab-pers-00525">Ilona T. Erdélyi (Hrsg.)</editor>
                         <title level="m">Literatur und Literaturgeschichte in Österreich</title>
                         <pubPlace key="#kab-place-00069">Budapest</pubPlace>
                         <publisher>Akadémiai Kiad&#xF3;</publisher>
@@ -11993,7 +12011,7 @@
                         <num type="id">7.7.3</num>
                         <author key="#kab-pers-00462">Sherman, Murray H.</author>
                         <title level="a">Prefatory Notes: Arthur Schnitzler and.Karl Kraus</title>
-                        <editor>MHS (Hrsg.)</editor>
+                        <editor key="#kab-pers-00462">MHS (Hrsg.)</editor>
                         <title level="m">Psychoanalysis and Old Vienna: Freud, Reik, Schnitzler,
                             Kraus. Special Issue of the Psychoanalytic Review</title>
                         <pubPlace key="#kab-place-00043">New York</pubPlace>
@@ -12038,7 +12056,7 @@
                         <author key="#kab-pers-00433">Polgar Alfred</author>
                         <title level="a">Die dritte Walpurgisnacht (1952)</title><title level="m"
                             >AP: Taschenspiegel</title>
-                        <editor>Hrsg. von Ulrich Weinzierl</editor>
+                        <editor key="#kab-pers-00479">Hrsg. von Ulrich Weinzierl</editor>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Löcker</publisher><date when="1979">1979</date>
                         <biblScope unit="page">S. 88–90</biblScope>
@@ -12082,8 +12100,8 @@
                     <bibl xml:id="kab-entry-0.2.2">
                         <num type="category">0.2</num>
                         <num type="id">0.2.2</num>
-                        <author key="#kab-pers-00384">Greve, Ludwig und Jochen Meyer
-                            (Hrsg.)</author>
+                        <editor key="#kab-pers-00096">Greve, Ludwig</editor>
+                        <editor key="#kab-pers-00492">Meyer, Jochen</editor>
                         <title level="m">Das 20. Jahrhundert. Von Nietzsche bis zur Gruppe 47.
                             Ständige Ausstellung des Schiller-Nationalmuseums und des Deutschen
                             Literaturarchivs Marbach am Neckar</title>
@@ -12215,7 +12233,8 @@
                         <num type="category">5.2</num>
                         <num type="id">5.2.10</num>
                         <author key="#kab-pers-00254">Riha, Karl</author>
-                        <title level="a">Den Krieg photographieren</title><editor>Klaus Vondung
+                        <title level="a">Den Krieg photographieren</title>
+                        <editor key="#kab-pers-00531">Klaus Vondung
                             (Hrsg.)</editor>
                         <title level="m">Kriegserlebnis. Der Erste Weltkrieg in der literarischen
                             Gestaltung und symbolischen Deutung der Nationen</title>
@@ -12265,7 +12284,9 @@
                         <title level="a">Die Norm des Tribuns. Bemerkungen zu Karl Kraus'
                             Sprachverständnis</title><title level="m">Standard und Dialekt.
                             Festschrift für Heinz Rupp</title>
-                        <editor>Heinrich Löffler, Karl Pestalozzi und Martin Stern</editor>
+                        <editor key="#kab-pers-00519">Heinrich Löffler</editor>
+                        <editor key="#kab-pers-00529">Karl Pestalozzi</editor>
+<editor key="#kab-pers-00535"> Martin Stern</editor>
                         <pubPlace key="#kab-place-00008">Bern</pubPlace>
                         <publisher>Francke</publisher><date when="1979">1979</date><biblScope
                             unit="page">S. 129–141</biblScope>
@@ -12289,7 +12310,8 @@
                         <num type="id">7.4.3.12</num>
                         <author key="#kab-pers-00071">Fischer, Jens Malte</author>
                         <title level="a">Das technoromantische Abenteuer. Der erste Weltkrieg im
-                            Widerschein der FACKEL</title><editor>Klaus Vondung (Hrsg.)</editor>
+                            Widerschein der FACKEL</title>
+                        <editor key="#kab-pers-00531">Klaus Vondung (Hrsg.)</editor>
                         <title level="m">Kriegserlebnis. Der Erste Weltkrieg in der literarischen
                             Gestaltung und symbolischen Deutung der Nationen</title>
                         <pubPlace key="#kab-place-00023">Göttingen</pubPlace>
@@ -12310,7 +12332,8 @@
                         <title level="a">Karl Kraus und der große Kahn. Eine Reminiszenz / Zugleich
                             ein Geburtstagsbrief an Erich Heller</title><title level="m">Versuche zu
                             Goethe. Festschrift für Erich Heller</title>
-                        <editor>Volker Dürr und Géza von Molnár</editor>
+                        <editor key="#kab-pers-00543">Volker Dür</editor>
+<editor key="#kab-pers-00513"> Géza von Molnár</editor>
                         <pubPlace key="#kab-place-00025">Heidelberg</pubPlace>
                         <publisher>Stiehm</publisher><date when="1976">1976</date><biblScope
                             unit="page">S. 17–19</biblScope>
@@ -12325,7 +12348,8 @@
                         <num type="id">7.6.02.6.1</num>
                         <author key="#kab-pers-00351">Avery, George C.</author>
                         <title level="a">The Unpublished Correspondence between Herwarth Walden and
-                            Karl Kraus</title><editor>Gertrud Bauer Pickar und Karl Eugene Webb
+                            Karl Kraus</title><editor key="#kab-pers-00511">Gertrud Bauer Picka</editor>
+<editor key="#kab-pers-00527"> Karl Eugene Webb
                             (Hrsg.)</editor>
                         <title level="m">Expressionism Reconsidered. Relationships and
                             Affinities</title>
@@ -12350,7 +12374,7 @@
                         <num type="id">8.02.12</num>
                         <author key="#kab-pers-00397">Kajtár, Mária</author>
                         <title level="a">Die Fackel. Die Zeitschrift von Karl Kraus</title>
-                        <editor>Ilona T. Erdélyi (Hrsg.)</editor>
+                        <editor key="#kab-pers-00525">Ilona T. Erdélyi (Hrsg.)</editor>
                         <title level="m">Literatur und Literaturgeschichte in Österreich.
                             Sondernummer der Zeitschrift Helikon</title>
                         <pubPlace key="#kab-place-00069">Budapest</pubPlace>
@@ -12370,7 +12394,7 @@
                         <num type="id">8.05.7</num>
                         <author key="#kab-pers-00374">Döblin, Alfred</author>
                         <title level="a">[Karl Kraus]</title>
-                        <editor>Jochen Meyer (Hrsg.)</editor>
+                        <editor key="#kab-pers-00492">Jochen Meyer (Hrsg.)</editor>
                         <title level="m">Alfred Döblin</title>
                         <date when="1878">1878</date><date when="1978">1978</date>
                         <pubPlace key="#kab-place-00082">Marbach</pubPlace>
@@ -12435,7 +12459,7 @@
                         <num type="id">8.08.2.2</num>
                         <author key="#kab-pers-00213">Musil, Robert</author>
                         <title level="a">Wiener Theater (1924)</title>
-                        <editor>Adolf Frisé</editor>
+                        <editor key="#kab-pers-00001">Adolf Frisé</editor>
                         <title level="m">RM: Gesammelte Werke in 9 Bänden. Band 9: Kritik</title>
                         <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                         <publisher>Rowohlt Taschenbuchverlag</publisher>
@@ -12451,7 +12475,7 @@
                         <author key="#kab-pers-00336">Zohn, Harry</author>
                         <title level="a">Karl Kraus im Bewußtsein österreichischer Schriftsteller
                             der Gegenwart</title>
-                        <editor>Wolfgang Paulsen (Hrsg)</editor>
+                        <editor key="#kab-pers-00546">Wolfgang Paulsen (Hrsg)</editor>
                         <title level="m">Österreichische Gegenwart. Die moderne Literatur und ihr
                             Verhältnis zur Tradition</title>
                         <pubPlace key="#kab-place-00008">Bern</pubPlace>
@@ -12476,7 +12500,7 @@
                         <num type="id">9.2.5.2</num>
                         <author key="#kab-pers-00262">Roth, Joseph</author>
                         <title level="a">Schwarz-Gelbes Tagebuch</title>
-                        <editor>Hermann Kesten</editor>
+                        <editor key="#kab-pers-00521">Hermann Kesten</editor>
                         <title level="m">JR: Werke. 4. Band</title>
                         <pubPlace key="#kab-place-00028">Köln</pubPlace>
                         <publisher>Kiepenheuer &amp; Witsch</publisher>
@@ -12535,7 +12559,7 @@
                     <bibl xml:id="kab-entry-9.2.17.2">
                         <num type="category">9.2</num>
                         <num type="id">9.2.17.2</num>
-                        <author key="#kab-pers-00346">[Canetti, Elias]</author>
+                        <author key="#kab-pers-00038">[Canetti, Elias]</author>
                         <title level="a">Questions &#xE0; Elias Canetti</title>
                         <title level="j">Austriaca. Cahiers universitaires d'information sur
                             l'Autriche (Rouen)</title>
@@ -12621,7 +12645,7 @@
                         <num type="id">9.4.4</num>
                         <author key="#kab-pers-00047">Daviau, Donald G.</author>
                         <title level="a">Karl Kraus in English Translation</title>
-                        <editor>Murray H. Sherman (Hrsg.)</editor>
+                        <editor key="#kab-pers-00462">Murray H. Sherman (Hrsg.)</editor>
                         <title level="m">Psychoanalysis and Old Vienna: Freud, Reik, Schnitzler,
                             Kraus</title>
                         <title level="j">The Psychoanalytic Review</title>
@@ -12676,7 +12700,7 @@
                             1914</title>
                         <title level="m" type="subtitle"> Mit einem Kapitel über den Expressionismus
                             von Zoran Konstantinovi&#x107;</title>
-                        <editor>Hrsg. von Eugen Thurnher</editor>
+                        <editor key="#kab-pers-00524">Hrsg. von Eugen Thurnher</editor>
                         <pubPlace key="#kab-place-00056">Stuttgart</pubPlace>
                         <publisher>Kröner</publisher>
                         <date when="1977">1977</date>
@@ -12716,7 +12740,7 @@
                         <num type="id">0.5.4</num>
                         <author key="#kab-pers-00450">Schick, Sophie</author>
                         <title level="a">Vorwort</title>
-                        <editor>Martina Bilke</editor>
+                        <editor key="#kab-pers-00358">Martina Bilke</editor>
                         <title level="m">Zeitgenossen der "Fackel"</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Löcker</publisher>
@@ -12824,7 +12848,7 @@
                         <num type="id">6.1.22</num>
                         <author key="#kab-pers-00392">Heckmann, Herbert</author>
                         <title level="a">Fehlt uns heute ein Karl Kraus?</title>
-                        <editor>Birgitta Mogge (Bearbeiterin)</editor>
+                        <editor key="#kab-pers-00425">Birgitta Mogge (Bearbeiterin)</editor>
                         <title level="m">Die Sprachnorm-Diskussion in Presse, Hörfunk und
                             Fernsehen</title>
                         <pubPlace key="#kab-place-00056">Stuttgart</pubPlace>
@@ -12935,9 +12959,9 @@
                         <num type="id">7.4.3.15</num>
                         <author key="#kab-pers-00356">Bernhard Denscher, Red.</author>
                         <title level="m">Tagebuch der Straße. Geschichte in Plakaten</title>
-                        <editor> Wiener Stadt- undLandesbibliothek</editor>
+                        <editor key="#kab-pers-00341"> Wiener Stadt- und Landesbibliothek</editor>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                        <publisher>ÖsterreichischerBundesverlag, Jugend &amp; Volk</publisher>
+                        <publisher>Österreichischer Bundesverlag, Jugend &amp; Volk</publisher>
                         <date when="1981">1981</date>
                         <biblScope unit="page">344 S.</biblScope>
                         <note type="comment">Das schöne und instruktive Buch macht nicht nur
@@ -13291,8 +13315,8 @@
                     <bibl xml:id="kab-entry-1.2.28">
                         <num type="category">1.2</num>
                         <num type="id">1.2.28</num>
-                        <author key="#kab-pers-00442">Rukschcio, Burkhard und Roland
-                            Schachel</author>
+                        <author key="#kab-pers-00442">Rukschcio, Burkhard</author>
+                        <author key="#kab-pers-00494">Schachel, Roland</author>
                         <title level="m">Adolf Loos. Leben und Werk</title>
                         <pubPlace key="#kab-place-00052">Salzburg</pubPlace>
                         <publisher>Residenz</publisher>
@@ -13317,7 +13341,7 @@
                         <author key="#kab-pers-00485">Wollschläger, Hans</author>
                         <title level="a">Die Instanz K. K. oder Unternehmungen gegen die Ewigkeit
                             des Wiederkehrenden Gleichen</title>
-                        <editor>Hg. vonHW.</editor>
+                        <editor key="#kab-pers-00485">Hg. von HW.</editor>
                         <title level="m">Das Karl Kraus Lesebuch</title>
                         <pubPlace key="#kab-place-00063">Zürich</pubPlace>
                         <publisher>Diogenes</publisher>
@@ -13332,8 +13356,9 @@
                     <bibl xml:id="kab-entry-5.2.11">
                         <num type="category">5.2</num>
                         <num type="id">5.2.11</num>
-                        <author key="#kab-pers-00391">Hart Nibbrig, Christiaan Lucas</author>
-                        <title level="m">Rhetorik des Schweigens. Versuch über denSchatten
+                        <author key="#kab-pers-00391">Hart Nibbrig</author>
+                        <author key="#kab-pers-00497">Christiaan Lucas</author>
+                        <title level="m">Rhetorik des Schweigens. Versuch über den Schatten
                             literarischer Rede</title>
                         <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                         <publisher>Suhrkamp</publisher>
@@ -13341,8 +13366,8 @@
                         <biblScope unit="page">329 S. 194–199</biblScope>
                         <title level="s">Suhrkamp-Taschenbücher</title>
                         <num type="series">693</num>
-                        <note type="comment"> über K. Sehr knapp über seine Kritik des öffentlichen
-                            Schweigens(196), am Beispiel Schober, und über K.'s Schweigen von 1914
+                        <note type="comment">Über K. sehr knapp über seine Kritik des öffentlichen
+                            Schweigens (196), am Beispiel Schober, und über K.'s Schweigen von 1914
                             und <date when="1933">1933</date>(198 f.). Weiterführend die an Brecht
                             anschließende Überlegung: Das rhetorische Prinzip seiner Polemik ist es,
                             den Gegner zum Schweigen zu bringen,indem er ihn reden, ausreden läßt in
@@ -13423,7 +13448,7 @@
                     <bibl xml:id="kab-entry-8.11.3.5">
                         <num type="category">8.11</num>
                         <num type="id">8.11.3.5</num>
-                        <author key="#kab-pers-00109">Hartl, Edwin</author>
+                        <author key="#kab-pers-00108">Hartl, Edwin</author>
                         <title level="a">Vergessener Vortragsmeister. Karl Kraus las (und sang)
                             ganze Theaterstücke: Goethe, Shakespeare, Gogol, Nestroy usw</title>
                         <title level="j">Salzburger Nachrichten</title>
@@ -13491,7 +13516,7 @@
                         <author key="#kab-pers-00393">Hofmann, Werner (Hg.)</author>
                         <title level="m">Experiment Weltuntergang. Wien um <date when="1900"
                                 >1900</date> [ Ausstellungskatalog der] Hamburger Kunsthalle</title>
-                        <editor>Hamburger Kunsthalle</editor>
+                        <editor key="#kab-pers-00514">Hamburger Kunsthalle</editor>
                         <pubPlace key="#kab-place-00037">München</pubPlace>
                         <publisher>Prestel</publisher>
                         <date when="1981">1981</date>
@@ -13519,7 +13544,7 @@
                         <author key="#kab-pers-00181">Kuh, Anton</author>
                         <title level="a">Der Affe Zarathustras (Karl Kraus)</title>
                         <title level="m">AK: Luftlinien. Feuilletons, Essays und Publizistik</title>
-                        <editor>Ruth Greuner (Hg.)</editor>
+                        <editor key="#kab-pers-00522">Ruth Greuner (Hg.)</editor>
                         <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                         <publisher>Volk und Welt</publisher>
                         <date when="1981">1981</date>
@@ -13537,7 +13562,7 @@
                         <num type="id">5.2.12.1</num>
                         <author key="#kab-pers-00440">Rogers, Michael Anthony</author>
                         <title level="a">"Dies Österreich ist eine kleine Welt"</title>
-                        <editor>Peter Branscombe (Hg.)</editor>
+                        <editor key="#kab-pers-00363">Peter Branscombe (Hg.)</editor>
                         <title level="m">Austrian Life and Literature 1780–1938</title>
                         <pubPlace key="#kab-place-00074">Edinburgh</pubPlace>
                         <publisher>Scottish Academic Press</publisher>
@@ -13605,8 +13630,8 @@
                         <title level="a">La guerra perpetua</title>
                         <title type="subtitle" level="a">Nachwort</title>
                         <title level="m">Karl Kraus: Gli ultimi giorni dell'umanità</title>
-                        <author role="translator" key="#kab-pers-00376">Ernesto Braun; Mario
-                            Carpitella</author>
+                        <author role="translator" key="#kab-pers-00345">Braun, Ernesto</author>
+                        <author role="translator" key="#kab-pers-00376">Carpitella, Mario</author>
                         <biblScope unit="volume">2 Bände</biblScope>
                         <pubPlace key="#kab-place-00034">Mailand</pubPlace>
                         <publisher>Adelphi</publisher>
@@ -13637,7 +13662,7 @@
                         <num type="id">8.07.2.19</num>
                         <author key="#kab-pers-00435">Pynsent, Robert</author>
                         <title level="a">The Last Days of Austria: Hašek and Kraus</title>
-                        <editor>Holger Klein (Hg.)</editor>
+                        <editor key="#kab-pers-00523">Holger Klein (Hg.)</editor>
                         <title level="m">The First World War in Fiction. A Collection of Critical
                             Essays</title>
                         <edition>2. Aufl.</edition>
@@ -13662,7 +13687,7 @@
                         <num type="id">8.07.2.20</num>
                         <author key="#kab-pers-00179">Krolop, Kurt</author>
                         <title level="a">Genesis und Geltung eines Warnstücks</title>
-                        <editor>Kurt Krolop (Hg.)</editor>
+                        <editor key="#kab-pers-00179">Kurt Krolop (Hg.)</editor>
                         <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien
                             und Kommentare</title>
                         <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -13700,8 +13725,9 @@
                         <title level="a">Veränderungen des Dramas in der Satire: Arno Holz, "Die
                             Blechschmiede", Karl Kraus, "Die letzten Tage der Menschheit" – ein
                             Vergleich</title>
-                        <editor>Hans-Peter Bayerdörfer; Karl Otto Conrady; Helmut Schanze
-                            (Hg.)</editor>
+                        <editor key="#kab-pers-00518">Hans-Peter Bayerdörfer</editor>
+                        <editor key="#kab-pers-00528">Karl Otto Conrady</editor>
+                        <editor key="#kab-pers-00520">Helmut Schanze</editor>
                         <title level="m">Literatur und Theater im Wilhelminischen Zeitalter
                             [Festschrift für Hans Schwerte]</title>
                         <pubPlace key="#kab-place-00087">Tübingen</pubPlace>
@@ -13786,7 +13812,8 @@
                         <author key="#kab-pers-00363">Branscombe, Peter J.</author>
                         <title level="a">Some Depictions of the First World War in Austrian
                             Drama</title>
-                        <editor>Brian Oliver Murdoch; Mark G. Ward (Hg.)</editor>
+                        <editor key="#kab-pers-00503">Brian Oliver Murdoch</editor>
+                        <editor key="#kab-pers-00534">Mark G. Ward (Hg.)</editor>
                         <title level="m">Studies in Modern Austrian Literature</title>
                         <pubPlace key="#kab-place-00076">Glasgow</pubPlace>
                         <publisher>Scottish Papers in Germanic Studies</publisher>
@@ -13808,7 +13835,7 @@
                         <title level="a">"Denn wer den Bestien seiner Zeit genug hat angetan / der
                             hat gelebt". Notizen zu den Ähnlichkeiten zwischen Karl Kraus' "Die
                             letzten Tage der Menschheit" und Otto Nebels "Zuginsfeld"</title>
-                        <editor>Jörg Drews (Hg.)</editor>
+                        <editor key="#kab-pers-00052">Jörg Drews (Hg.)</editor>
                         <title level="m">Das Tempo dieser Zeit ist keine Kleinigkeit. Zur Literatur
                             um 1918</title>
                         <pubPlace key="#kab-place-00037">München</pubPlace>
@@ -13901,10 +13928,12 @@
                     <bibl xml:id="kab-entry-8.07.4.1">
                         <num type="category">8.07</num>
                         <num type="id">8.07.4.1</num>
-                        <author key="#kab-pers-00361">Borosch, Helga; Christlieb; Hirte, Isolde; u.
-                            a.</author>
+                        <author key="#kab-pers-00361">Borosch, Helga</author>
+                        <author key="#kab-pers-00495">Christlieb</author> 
+                        <author key="#kab-pers-00496">Hirte, Isolde</author>
+                        <author>u. a.</author>
                         <title level="a">Register</title>
-                        <editor>Kurt Krolop (Hg.)</editor>
+                        <editor key="#kab-pers-00179">Kurt Krolop (Hg.)</editor>
                         <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien
                             und Kommentare</title>
                         <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -13923,9 +13952,9 @@
                     <bibl xml:id="kab-entry-8.07.4.2">
                         <num type="category">8.07</num>
                         <num type="id">8.07.4.2</num>
-                        <author key="#kab-pers-00348">[Krolop, Kurt]</author>
+                        <author key="#kab-pers-00179">[Krolop, Kurt]</author>
                         <title level="a">Materialien</title>
-                        <editor>Kurt Krolop (Hg.)</editor>
+                        <editor key="#kab-pers-00179">Kurt Krolop (Hg.)</editor>
                         <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien
                             und Kommentare</title>
                         <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -13946,9 +13975,9 @@
                     <bibl xml:id="kab-entry-8.07.4.3">
                         <num type="category">8.07</num>
                         <num type="id">8.07.4.3</num>
-                        <author key="#kab-pers-00348">[Krolop, Kurt]</author>
+                        <author key="#kab-pers-00179">[Krolop, Kurt]</author>
                         <title level="a">Szenenkonkordanz</title>
-                        <editor>Kurt Krolop (Hg.)</editor>
+                        <editor key="#kab-pers-00179">Kurt Krolop (Hg.)</editor>
                         <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien
                             und Kommentare</title>
                         <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -13966,10 +13995,11 @@
                     <bibl xml:id="kab-entry-8.07.4.4">
                         <num type="category">8.07</num>
                         <num type="id">8.07.4.4</num>
-                        <author key="#kab-pers-00345">[Braun, Ernesto; Carpitella, Mario]</author>
+                        <author key="#kab-pers-00345">Braun, Ernesto</author>
+                        <author key="#kab-pers-00376">Carpitella, Mario</author>
                         <title level="a">Indice dei nomi</title>
-                        <author role="translator" key="#kab-pers-00376">Ernesto Braun; Mario
-                            Carpitella</author>
+                        <author role="translator" key="#kab-pers-00345">Braun, Ernesto</author>
+                        <author role="translator" key="#kab-pers-00376">Carpitella, Mario</author>
                         <title level="m">Karl Kraus: Gli ultimi giorni dell'umanità</title>
                         <pubPlace key="#kab-place-00034">Mailand</pubPlace>
                         <publisher>Adelphi</publisher>
@@ -14046,7 +14076,7 @@
                         <num type="id">2.2.24</num>
                         <author key="#kab-pers-00430">Obermaier, Walter</author>
                         <title level="a">Karl Kraus</title>
-                        <editor>Robert Waissenberger (Hg.)</editor>
+                        <editor key="#kab-pers-00540">Robert Waissenberger (Hg.)</editor>
                         <title level="m">Wien. 1870–1930. Traum und Wirklichkeit</title>
                         <pubPlace key="#kab-place-00052">Salzburg</pubPlace>
                         <publisher>Residenz</publisher>
@@ -14079,7 +14109,8 @@
                     <bibl xml:id="kab-entry-7.4.4.8">
                         <num type="category">7.4</num>
                         <num type="id">7.4.4.8</num>
-                        <author key="#kab-pers-00406">Krämer, Wolfgang und Gerhard Müller</author>
+                        <author key="#kab-pers-00406">Krämer, Wolfgang</author>
+                        <author key="#kab-pers-00493">Müller, Gerhard</author>
                         <title level="m">Der Gegen-Angriff (Prag/Paris 1933–36). Autoren-, Personen-
                             und Sachregister</title>
                         <pubPlace key="#kab-place-00090">Worms</pubPlace>
@@ -14157,7 +14188,8 @@
                         <author key="#kab-pers-00179">Krolop, Kurt</author>
                         <title level="a">Ebenbild und Gegenbild. Goethe und "Goethes Volk" bei Karl
                             Kraus</title>
-                        <editor>Antal Mádl und László Tarnói (Hg.)</editor>
+                        <editor key="#kab-pers-00501">Antal Mád</editor>
+<editor key="#kab-pers-00533"> László Tarnói (Hg.)</editor>
                         <title level="m">Goethe-Studien. Zum 150. Todestag des Dichters</title>
                         <pubPlace key="#kab-place-00069">Budapest</pubPlace>
                         <publisher>Loránd Eötvös-Universität</publisher>
@@ -14174,7 +14206,7 @@
                         <num type="id">7.6.02.5.10</num>
                         <author key="#kab-pers-00336">Zohn, Harry</author>
                         <title level="a">Trakl, Kraus, and the Brenner Circle</title>
-                        <editor>Joseph P. Strelka (Hg.)</editor>
+                        <editor key="#kab-pers-00526">Joseph P. Strelka (Hg.)</editor>
                         <title level="m">Internationales Georg Trakl-Symposium</title>
                         <pubPlace key="#kab-place-00067">Albany, N. Y.; Bern</pubPlace>
                         <publisher>Lang</publisher>
@@ -14194,7 +14226,7 @@
                         <num type="id">7.6.02.5.11</num>
                         <author key="#kab-pers-00428">Neumann, Peter Horst</author>
                         <title level="a">Trakl als Briefschreiber</title>
-                        <editor>Joseph P. Strelka (Hg.)</editor>
+                        <editor key="#kab-pers-00526">Joseph P. Strelka (Hg.)</editor>
                         <title level="m">Internationales Georg Trakl-Symposium</title>
                         <pubPlace key="#kab-place-00067">Albany, N. Y.; Bern</pubPlace>
                         <publisher>Lang</publisher>
@@ -14239,9 +14271,10 @@
                     <bibl xml:id="kab-entry-7.6.05.8b">
                         <num type="category">7.6</num>
                         <num type="id">7.6.05.8</num>
-                        <author key="#kab-pers-00303">Timms, Edward</author>
+                        <author key="#kab-pers-00304">Timms, Edward</author>
                         <title level="a">Hofmannsthal, Kraus and the THEATRUM MUNDI:</title>
-                        <editor>W. E. Yuill und Patricia Howe (Hg.)</editor>
+                        <editor key="#kab-pers-00544">W. E. Yuil</editor>
+<editor key="#kab-pers-00538"> Patricia Howe (Hg.)</editor>
                         <title level="m">Hugo von Hofmannsthal (1874–1929). Commemorative
                             Essays</title>
                         <pubPlace key="#kab-place-00033">London</pubPlace>
@@ -14261,10 +14294,10 @@
                     <bibl xml:id="kab-entry-7.6.06.2">
                         <num type="category">7.6</num>
                         <num type="id">7.6.06.2</num>
-                        <author key="#kab-pers-00474">Wagenknecht, Christian</author>
+                        <author key="#kab-pers-00317">Wagenknecht, Christian</author>
                         <title level="a">"A proposito del Girotondo". Karl Kraus e Arthur
                             Schnitzler</title>
-                        <editor>Giuseppe Farese (Hg.)</editor>
+                        <editor key="#kab-pers-00512">Giuseppe Farese (Hg.)</editor>
                         <title level="m">Arthur Schnitzler e il suo tempo</title>
                         <pubPlace key="#kab-place-00034">Mailand</pubPlace>
                         <publisher>Shakespeare &amp; Company</publisher>
@@ -14307,7 +14340,8 @@
                         <num type="id">7.7.4</num>
                         <author key="#kab-pers-00039">Carr, Gilbert J.</author>
                         <title level="a">Karl Kraus and Sigmund Freud</title>
-                        <editor>GJC und Eda Sagarra (Hg.)</editor>
+                        <editor key="#kab-pers-00039">GJ</editor>
+<editor key="#kab-pers-00506"> Eda Sagarra (Hg.)</editor>
                         <title level="m">Irish Studies in Modern Austrian Literature</title>
                         <pubPlace key="#kab-place-00072">Dublin</pubPlace>
                         <publisher>[Trinity College]</publisher>
@@ -14327,8 +14361,9 @@
                     <bibl xml:id="kab-entry-8.02.14">
                         <num type="category">8.02</num>
                         <num type="id">8.02.14</num>
-                        <author key="#kab-pers-00389">Hall, Murray G.; Franz Kadrnoska u.
-                            a.</author>
+                        <author key="#kab-pers-00388">Hall, Murray G.</author>
+                        <author key="#kab-pers-00389">Franz Kadrnoska</author>
+                        <author>u. a.</author>
                         <title level="m">Die Muskete. Kultur- und Sozialgeschichte im Spiegel einer
                             satirisch-humoristischen Zeitschrift 1905–1941</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -14432,7 +14467,7 @@
                         <num type="id">8.09</num>
                         <author key="#kab-pers-00179">Krolop, Kurt</author>
                         <title level="a">Klopstock und Karl Kraus</title>
-                        <editor>Hans-Georg Werner (Hg.)</editor>
+                        <editor key="#kab-pers-00517">Hans-Georg Werner (Hg.)</editor>
                         <title level="m">Friedrich Gottlieb Klopstock. Werk und Wirkung.
                             Wissenschaftliche Konferenz der Martin-Luther-Universität
                             Halle-Wittenberg im Juli 1974</title>
@@ -14608,11 +14643,13 @@
                     <bibl xml:id="kab-entry-4.6">
                         <num type="category">4.6</num>
                         <num type="id">4.6</num>
-                        <author key="#kab-pers-00380">Gerald Stieg</author>
+                        <author key="#kab-pers-00297">Gerald Stieg</author>
                         <title level="a">Ferdinand Ebners Kulturkritik. Am Beispiel der Salzburger
                             Festspiele</title>
-                        <editor>Walter Methlagl, Peter Kampits, Christoph König, Franz Josef
-                            Brandfellner (Hg.)</editor>
+                        <editor key="#kab-pers-00208">Walter Methlagl</editor>
+                        <editor key="#kab-pers-00539">Peter Kampits</editor>
+                        <editor key="#kab-pers-00504">Christoph König</editor>
+                        <editor key="#kab-pers-00507">Franz Josef Brandfellner (Hg.)</editor>
                         <title level="m">Gegen den Traum vom Geist. Ferdinand Ebner. Beiträge zum
                             Symposion Gablitz 1981</title>
                         <pubPlace key="#kab-place-00052">Salzburg</pubPlace>
@@ -14703,8 +14740,8 @@
                     <bibl xml:id="kab-entry-0.2.2b">
                         <num type="category">0.2</num>
                         <num type="id">0.2.2</num>
-                        <author key="#kab-pers-00417">Lunzer, Heinz. In Zusammenarbeit mit Sigurd
-                            Paul Scheichl.</author>
+                        <author key="#kab-pers-00417">Lunzer, Heinz</author>
+                        <author key="#kab-pers-00271" role="collaborator">Sigurd Paul Scheichl</author>
                         <title level="m">Karl Kraus 1874–1936. Katalog einer Ausstellung des
                             Bundesministeriums für Auswärtige Angelegenheiten</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -14747,7 +14784,7 @@
                         <title level="j">Actes de la Recherche en sciences sociales</title>
                         <num>Heft 36/37</num>
                         <pubPlace key="#kab-place-00047">Paris</pubPlace>
-                        <date>Februar – März 1981.</date>
+                        <date>Februar – März 1981</date>
                         <biblScope unit="page">S. 87–103 (englisches und deutsches Abstract S. 127
                             f., 130).</biblScope>
                         <note type="comment">Im Detail fehlerhafte Einführung in K., allerdings mit einer
@@ -14785,7 +14822,7 @@
                         <num type="id">3.1.55</num>
                         <author key="#kab-pers-00369">Chorherr, Thomas</author>
                         <title level="a">Karl Kraus 1874–1936</title>
-                        <editor>TC (Hg.)</editor>
+                        <editor key="#kab-pers-00369">TC (Hg.)</editor>
                         <title level="m">Große Österreicher</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Ueberreuter</publisher>
@@ -14817,7 +14854,7 @@
                         <num type="id">5.1.8</num>
                         <author key="#kab-pers-00295">Stern, Joseph Peter</author>
                         <title level="a">Karl Kraus. Sprache und Moralität</title>
-                        <editor>Alfred Pfabigan (Hg.)</editor>
+                        <editor key="#kab-pers-00229">Alfred Pfabigan (Hg.)</editor>
                         <title level="m">Ornament und Askese im Zeitgeist des Wien der
                             Jahrhundertwende</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -14942,7 +14979,8 @@
                         <author key="#kab-pers-00378">Frei, Norbert</author>
                         <title level="a">Karl Kraus und das Jahr <date when="1934"
                             >1934</date></title>
-                        <editor>Klaus Amann und AlbertBerger (Hg.)</editor>
+                        <editor key="#kab-pers-00530">Klaus Aman</editor>
+                        <editor key="#kab-pers-00355"> AlbertBerger (Hg.)</editor>
                         <title level="m">Österreichische Literatur der dreißiger Jahre</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Böhlau</publisher>
@@ -14969,7 +15007,7 @@
                         <title level="a">An einen Kraus-Jünger</title>
                         <date when="1934">1934</date>
                         <title level="m">AK: Luftlinien. Feuilletons. Essays und Publizistik</title>
-                        <editor>Hg. von Ruth Greuner</editor>
+                        <editor key="#kab-pers-00522">Hg. von Ruth Greuner</editor>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Löcker</publisher>
                         <date when="1981">1981</date>
@@ -14989,7 +15027,8 @@
                         <author key="#kab-pers-00297">Stieg, Gerald</author>
                         <title level="a">Otto Weiningers "Blendung". Weininger, Karl Kraus und der
                             Brenner-Kreis</title>
-                        <editor>Jacques Le Rider und Norbert Leser (Hg.)</editor>
+                        <editor key="#kab-pers-00411">Jacques Le Ride</editor>
+<editor key="#kab-pers-00536"> Norbert Leser (Hg.)</editor>
                         <title level="m">Otto Weininger. Werk und Wirkung</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Bundesverlag</publisher>
@@ -15049,7 +15088,8 @@
                         <author key="#kab-pers-00039">Carr, Gilbert J.</author>
                         <title level="a">Nature and Artificiality in Karl Kraus's Early
                             Writings</title>
-                        <editor>GJC und Eda Sagarra (Hg.)</editor>
+                        <editor key="#kab-pers-00039">GJ</editor>
+<editor key="#kab-pers-00506"> Eda Sagarra (Hg.)</editor>
                         <title level="m">Fin de Si&#xE8;cle Vienna</title>
                         <pubPlace key="#kab-place-00072">Dublin</pubPlace>
                         <publisher>Trinity College</publisher>
@@ -15073,7 +15113,8 @@
                         <author key="#kab-pers-00297">Stieg, Gerald</author>
                         <title level="a">Karl Kraus und Adam Müller-Guttenbrunn</title>
                         <date when="1968">1968</date>
-                        <editor>Antal Mádl und Anton Schwob (Hg.)</editor>
+                        <editor key="#kab-pers-00501">Antal Mád</editor>
+<editor key="#kab-pers-00502"> Anton Schwob (Hg.)</editor>
                         <title level="m">Vergleichende Literaturforschung. Internationale
                             Lenau-Gesellschaft 1964 bis 1984</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -15090,7 +15131,8 @@
                         <author key="#kab-pers-00146">Johnston, William M.</author>
                         <title level="a">The Vienna School of Aphorists 1880–1930. Reflections on a
                             Neglected Genre</title>
-                        <editor>Gerald Chapple und Hans H. Schulte (Hg.)</editor>
+                        <editor key="#kab-pers-00510">Gerald Chappl</editor>
+<editor key="#kab-pers-00515"> Hans H. Schulte (Hg.)</editor>
                         <title level="m">The Turn of the Century. German Literature and Art,
                             1890–1915</title>
                         <pubPlace key="#kab-place-00009">Bonn</pubPlace>
@@ -15224,7 +15266,7 @@
                     <bibl xml:id="kab-entry-9.1.13a">
                         <num type="category">9.1</num>
                         <num type="id">9.1.13</num>
-                        <author key="#kab-pers-00109">Hartl, Edwin</author>
+                        <author key="#kab-pers-00108">Hartl, Edwin</author>
                         <title level="a">Hüben und drüben</title>
                         <title level="j">P.E.N.-Informationen (Wien)</title>
                         <num>13. Jahresbericht</num>
@@ -15307,7 +15349,7 @@
                     <bibl xml:id="kab-entry-9.2.18">
                         <num type="category">9.2</num>
                         <num type="id">9.2.18</num>
-                        <editor>Sheppard, Richard (Hg.)</editor>
+                        <editor key="#kab-pers-00542">Sheppard, Richard (Hg.)</editor>
                         <title level="m">Die Schriften des Neuen Clubs 1908–1914</title>
                         <biblScope unit="volume">2 Bände</biblScope>
                         <pubPlace key="#kab-place-00078">Hildesheim</pubPlace>
@@ -15350,7 +15392,8 @@
                         <author key="#kab-pers-00398">Kampel, Beatrix</author>
                         <title level="a">"Ein Dichter braucht Ahnen". Canettis Begegnungen mit
                             Literatur und Literaten im Spiegel seiner Autobiographie</title>
-                        <editor>Kurt Bartsch und Gerhard Melzer (Hg.)</editor>
+                        <editor key="#kab-pers-00532">Kurt Bartsch</editor>
+                        <editor key="#kab-pers-00205"> Gerhard Melzer (Hg.)</editor>
                         <title level="m">Experte der Macht. Elias Canetti</title>
                         <pubPlace key="#kab-place-00021">Graz</pubPlace>
                         <publisher>Droschl</publisher>
@@ -15368,7 +15411,8 @@
                         <author key="#kab-pers-00082">Früh, Eckart</author>
                         <title level="a">Die graue FACKEL. Herbert Müller-Guttenbrunns Zeitschrift
                             DAS NEBELHORN</title>
-                        <editor>Klaus Amann und Albert Berger (Hg.)</editor>
+                        <editor key="#kab-pers-00530">Klaus Aman</editor>
+                        <editor key="#kab-pers-00355"> Albert Berger (Hg.)</editor>
                         <title level="m">Österreichische Literatur der dreißiger Jahre</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Böhlau</publisher>
@@ -15395,7 +15439,7 @@
                         <author key="#kab-pers-00457">Schwarzinger, Heinz</author>
                         <title level="a">"Sie wollen DIE LETZTEN TAGE DER MENSCHHEIT übersetzen?
                             Bumstinazi!" Bemerkungen zum französischen Übersetzungsprojekt</title>
-                        <editor>Heinz Lunzer</editor>
+                        <editor key="#kab-pers-00417">Heinz Lunzer</editor>
                         <title level="m">Karl Kraus 1874–1936. Katalog einer Ausstellung ..</title>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Dokumentationsstelle für neuere österreichische
@@ -15473,7 +15517,8 @@
                     <bibl xml:id="kab-entry-2.3.3">
                         <num type="category">2.3</num>
                         <num type="id">2.3.3</num>
-                        <editor>Scheichl, Sigurd Paul und Edward Timms (Hg.)</editor>
+                        <editor key="#kab-pers-00271">Scheichl, Sigurd Paul</editor>
+                        <editor key="#kab-pers-00304"> Edward Timms (Hg.)</editor>
                         <title level="m">Karl Kraus in neuer Sicht.Londoner Kraus-Symposium / Karl
                             Kraus in a New Perspective. London Kraus Symposium</title>
                         <pubPlace key="#kab-place-00037">München</pubPlace>
@@ -15490,11 +15535,11 @@
                     <bibl xml:id="kab-entry-3.1.57">
                         <num type="category">3.1</num>
                         <num type="id">3.1.57</num>
-                        <editor>[Liegler, Leopold (Hg.)]</editor>
+                        <editor key="#kab-pers-00191">[Liegler, Leopold (Hg.)]</editor>
                         <title level="m">Karl Kraus und seine Nachwelt. Ein Buch des
                             Gedenkens</title>
                         <date>(1938)</date>
-                        <editor>Michael Horowitz</editor>
+                        <editor key="#kab-pers-00394">Michael Horowitz</editor>
                         <pubPlace key="#kab-place-00061">Wien</pubPlace>
                         <publisher>Brandstätter</publisher>
                         <date when="1986">1986</date>
@@ -15545,7 +15590,7 @@
                     <bibl xml:id="kab-entry-5.1.9">
                         <num type="category">5.1</num>
                         <num type="id">5.1.9</num>
-                        <author key="#kab-pers-00439">Rogers, Michael</author>
+                        <author key="#kab-pers-00440">Rogers, Michael</author>
                         <title level="a">Karl Kraus and the Creation of a Symbolic Language</title>
                         <title level="m">KarlKraus in neuer Sicht (2.3.3)</title>
                         <date when="1986">1986</date>
@@ -15626,7 +15671,7 @@
                     <bibl xml:id="kab-entry-5.2.15">
                         <num type="category">5.2</num>
                         <num type="id">5.2.15</num>
-                        <author key="#kab-pers-00303">Timms, Edward</author>
+                        <author key="#kab-pers-00304">Timms, Edward</author>
                         <title level="a">Archetypal Patterns in the Satire of Karl Kraus</title>
                         <title level="m">Karl Kraus in neuer Sicht (2.3.3)</title>
                         <date when="1986">1986</date>
@@ -15672,7 +15717,8 @@
                         <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                         <title level="a">Ohrenzeugen und Stimmenimitatoren. Zur Tradition der
                             Mimesis gesprochener Sprache in der österreichischen Literatur</title>
-                        <editor>SPS und Gerald Stieg (Hg.)</editor>
+                        <editor key="#kab-pers-00271">SP</editor>
+                        <editor key="#kab-pers-00297"> Gerald Stieg (Hg.)</editor>
                         <title level="m">Österreichische Literatur des 20. Jahrhunderts.
                             Französische und österreichische Beiträge</title>
                         <pubPlace key="#kab-place-00026">Innsbruck</pubPlace>
@@ -15797,7 +15843,7 @@
                     <bibl xml:id="kab-entry-8.11.3.8">
                         <num type="category">8.11</num>
                         <num type="id">8.11.3.8</num>
-                        <author key="#kab-pers-00474">Wagenknecht, Christian</author>
+                        <author key="#kab-pers-00317">Wagenknecht, Christian</author>
                         <title level="a">"Lyrik der Deutschen" – für seine Vorlesungen ausgewählt
                             von Karl Kraus</title>
                         <title level="m">Karl Kraus in neuer Sicht (2.3.3)</title>
@@ -15838,7 +15884,7 @@
                 <listBibl n="17">
 
                     <bibl >
-                        <editor>[Liegler, Leopold (Hg.)]</editor>
+                        <editor key="#kab-pers-00191">[Liegler, Leopold (Hg.)]</editor>
                         <title>Karl Kraus und seine Nachwelt. Ein Buch des Gedenkens (1938)</title>
                         Herausgegeben von Michael Horowitz. Wien: Brandstätter
                             <date when="1986">1986</date>. 96 + XV S. <note>39, <ref target="#kab-entry-3.1.57">3.1.57</ref>Enthält auf S. 12 f.
