@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title level="a">Ortsverzeichnis</title>
-                <title level="s">Eine Karl Kraus Bibliographie, basierend auf S.P. Scheichls "Kommentierte Auswahlbibliographie" (KAB)</title>
+                <title level="s">Eine Karl Kraus Bibliographie, basierend auf S.P. Scheichls
+                    "Kommentierte Auswahlbibliographie" (KAB)</title>
                 <editor ref="https://d-nb.info/gnd/1036708799">Bernhard Oberreither</editor>
             </titleStmt>
             <publicationStmt>
@@ -17,7 +18,590 @@
     </teiHeader>
     <text>
         <body>
-            <listOrg><org xml:id="kab-org-00001"><orgName>Academia und Neuwied: Luchterhand</orgName></org><org xml:id="kab-org-00002"><orgName>Adelphi</orgName></org><org xml:id="kab-org-00003"><orgName>Agathon</orgName></org><org xml:id="kab-org-00004"><orgName>Agora</orgName></org><org xml:id="kab-org-00005"><orgName>Agora und Hamburg; Schröder</orgName></org><org xml:id="kab-org-00006"><orgName>Akademie</orgName></org><org xml:id="kab-org-00007"><orgName>Akademie der Wissenschaften</orgName></org><org xml:id="kab-org-00008"><orgName>Akademischer Verlag Heinz</orgName></org><org xml:id="kab-org-00009"><orgName>Akadémiai Kiadó</orgName></org><org xml:id="kab-org-00010"><orgName>Amalthea</orgName></org><org xml:id="kab-org-00011"><orgName>Anabas</orgName></org><org xml:id="kab-org-00012"><orgName>Arche</orgName></org><org xml:id="kab-org-00013"><orgName>Athenaion</orgName></org><org xml:id="kab-org-00014"><orgName>Athenäum</orgName></org><org xml:id="kab-org-00015"><orgName>Aufbau</orgName></org><org xml:id="kab-org-00016"><orgName>Bergland</orgName></org><org xml:id="kab-org-00017"><orgName>Borger &amp; Fischer</orgName></org><org xml:id="kab-org-00018"><orgName>Bouvier</orgName></org><org xml:id="kab-org-00019"><orgName>Brandstätter</orgName></org><org xml:id="kab-org-00020"><orgName>Braumüller</orgName></org><org xml:id="kab-org-00021"><orgName>Brenner-Verlag</orgName></org><org xml:id="kab-org-00022"><orgName>Bruckmann</orgName></org><org xml:id="kab-org-00023"><orgName>Bundesverlag</orgName></org><org xml:id="kab-org-00024"><orgName>Burges</orgName></org><org xml:id="kab-org-00025"><orgName>Buske</orgName></org><org xml:id="kab-org-00026"><orgName>Böhlau</orgName></org><org xml:id="kab-org-00027"><orgName>C. H. Beck</orgName></org><org xml:id="kab-org-00028"><orgName>CNRS</orgName></org><org xml:id="kab-org-00029"><orgName>Camden House</orgName></org><org xml:id="kab-org-00030"><orgName>Carl</orgName></org><org xml:id="kab-org-00031"><orgName>Carl Hanser</orgName></org><org xml:id="kab-org-00032"><orgName>DVA</orgName></org><org xml:id="kab-org-00033"><orgName>Delp</orgName></org><org xml:id="kab-org-00034"><orgName>Deutsche Schillergesellschaft (München: Kösel in Kommission)</orgName></org><org xml:id="kab-org-00035"><orgName>Dicher</orgName></org><org xml:id="kab-org-00036"><orgName>Dietrich</orgName></org><org xml:id="kab-org-00037"><orgName>Dietz</orgName></org><org xml:id="kab-org-00038"><orgName>Diogenes</orgName></org><org xml:id="kab-org-00039"><orgName>Dokumentation</orgName></org><org xml:id="kab-org-00040"><orgName>Dokumentationsstelle für neuere österreichische Literatur</orgName></org><org xml:id="kab-org-00041"><orgName>Dokumentationsstelle für neuere österreichische Literatur.</orgName></org><org xml:id="kab-org-00042"><orgName>Dokumentationsstellefür neuere österreichische Literatur</orgName></org><org xml:id="kab-org-00043"><orgName>Droschl</orgName></org><org xml:id="kab-org-00044"><orgName>Duncker &amp; Humblot</orgName></org><org xml:id="kab-org-00045"><orgName>E. P. Tal</orgName></org><org xml:id="kab-org-00046"><orgName>Edition Roetzer</orgName></org><org xml:id="kab-org-00047"><orgName>Edition Tusch</orgName></org><org xml:id="kab-org-00048"><orgName>Editions de Minuit</orgName></org><org xml:id="kab-org-00049"><orgName>Einauch</orgName></org><org xml:id="kab-org-00050"><orgName>Elek</orgName></org><org xml:id="kab-org-00051"><orgName>Europa</orgName></org><org xml:id="kab-org-00052"><orgName>Europäische Verlags-Anstalt</orgName></org><org xml:id="kab-org-00053"><orgName>Fackel</orgName></org><org xml:id="kab-org-00054"><orgName>Fahle</orgName></org><org xml:id="kab-org-00055"><orgName>Fink</orgName></org><org xml:id="kab-org-00056"><orgName>Fischer</orgName></org><org xml:id="kab-org-00057"><orgName>Forum</orgName></org><org xml:id="kab-org-00058"><orgName>Francke</orgName></org><org xml:id="kab-org-00059"><orgName>Fromme</orgName></org><org xml:id="kab-org-00060"><orgName>Galerie Welz</orgName></org><org xml:id="kab-org-00061"><orgName>Gallimard</orgName></org><org xml:id="kab-org-00062"><orgName>Gans</orgName></org><org xml:id="kab-org-00063"><orgName>Gehlen</orgName></org><org xml:id="kab-org-00064"><orgName>Gerstenberg</orgName></org><org xml:id="kab-org-00065"><orgName>Globus</orgName></org><org xml:id="kab-org-00066"><orgName>Goldmann</orgName></org><org xml:id="kab-org-00067"><orgName>Greifenverlag</orgName></org><org xml:id="kab-org-00068"><orgName>Hain</orgName></org><org xml:id="kab-org-00069"><orgName>Hanser</orgName></org><org xml:id="kab-org-00070"><orgName>Hegner</orgName></org><org xml:id="kab-org-00071"><orgName>Heintz</orgName></org><org xml:id="kab-org-00072"><orgName>Herder</orgName></org><org xml:id="kab-org-00073"><orgName>Herold</orgName></org><org xml:id="kab-org-00074"><orgName>Hirt</orgName></org><org xml:id="kab-org-00075"><orgName>Human Sciences Press</orgName></org><org xml:id="kab-org-00076"><orgName>Insel</orgName></org><org xml:id="kab-org-00077"><orgName>Institut für Germanistik</orgName></org><org xml:id="kab-org-00078"><orgName>International Universities Press</orgName></org><org xml:id="kab-org-00079"><orgName>Isar</orgName></org><org xml:id="kab-org-00080"><orgName>Jahoda &amp; Siegel</orgName></org><org xml:id="kab-org-00081"><orgName>Johns Hopkins Press</orgName></org><org xml:id="kab-org-00082"><orgName>Johns Hopkins University</orgName></org><org xml:id="kab-org-00083"><orgName>Jugend und VoIk</orgName></org><org xml:id="kab-org-00084"><orgName>Jugend und Volk</orgName></org><org xml:id="kab-org-00085"><orgName>Juris</orgName></org><org xml:id="kab-org-00086"><orgName>Jüdischer Verlag</orgName></org><org xml:id="kab-org-00087"><orgName>Kaemmerer</orgName></org><org xml:id="kab-org-00088"><orgName>Kerry</orgName></org><org xml:id="kab-org-00089"><orgName>Kiepenheuer &amp; Witsch</orgName></org><org xml:id="kab-org-00090"><orgName>Kindler</orgName></org><org xml:id="kab-org-00091"><orgName>Klett-Cotta</orgName></org><org xml:id="kab-org-00092"><orgName>Klincksieck</orgName></org><org xml:id="kab-org-00093"><orgName>Klostermann</orgName></org><org xml:id="kab-org-00094"><orgName>Knaus</orgName></org><org xml:id="kab-org-00095"><orgName>Kohlhammer</orgName></org><org xml:id="kab-org-00096"><orgName>Kraus</orgName></org><org xml:id="kab-org-00097"><orgName>Kraus Reprint</orgName></org><org xml:id="kab-org-00098"><orgName>Kröner</orgName></org><org xml:id="kab-org-00099"><orgName>Kösel</orgName></org><org xml:id="kab-org-00100"><orgName>L'Herne</orgName></org><org xml:id="kab-org-00101"><orgName>Lafite</orgName></org><org xml:id="kab-org-00102"><orgName>Lang</orgName></org><org xml:id="kab-org-00103"><orgName>Langen Müller</orgName></org><org xml:id="kab-org-00104"><orgName>Langen-Müller</orgName></org><org xml:id="kab-org-00105"><orgName>List</orgName></org><org xml:id="kab-org-00106"><orgName>Literarisches Colloquium</orgName></org><org xml:id="kab-org-00107"><orgName>Liviana</orgName></org><org xml:id="kab-org-00108"><orgName>Loránd Eötvös-Universität</orgName></org><org xml:id="kab-org-00109"><orgName>Luchterhand</orgName></org><org xml:id="kab-org-00110"><orgName>Lányi</orgName></org><org xml:id="kab-org-00111"><orgName>Längen-Müller</orgName></org><org xml:id="kab-org-00112"><orgName>Löcker</orgName></org><org xml:id="kab-org-00113"><orgName>Löcker &amp; Wögenstein</orgName></org><org xml:id="kab-org-00114"><orgName>Macmillan</orgName></org><org xml:id="kab-org-00115"><orgName>Manesse</orgName></org><org xml:id="kab-org-00116"><orgName>Melden</orgName></org><org xml:id="kab-org-00117"><orgName>Metzier</orgName></org><org xml:id="kab-org-00118"><orgName>Metzler</orgName></org><org xml:id="kab-org-00119"><orgName>Minerva Publikation</orgName></org><org xml:id="kab-org-00120"><orgName>Mitteldeutscher Verlag</orgName></org><org xml:id="kab-org-00121"><orgName>Moderna</orgName></org><org xml:id="kab-org-00122"><orgName>Molden</orgName></org><org xml:id="kab-org-00123"><orgName>Niemeyer</orgName></org><org xml:id="kab-org-00124"><orgName>Nijhoff</orgName></org><org xml:id="kab-org-00125"><orgName>Olamenu</orgName></org><org xml:id="kab-org-00126"><orgName>Oldenbourg</orgName></org><org xml:id="kab-org-00127"><orgName>Orac</orgName></org><org xml:id="kab-org-00128"><orgName>Otto Müller</orgName></org><org xml:id="kab-org-00129"><orgName>Piper</orgName></org><org xml:id="kab-org-00130"><orgName>Presses universitaires de France</orgName></org><org xml:id="kab-org-00131"><orgName>Prestel</orgName></org><org xml:id="kab-org-00132"><orgName>Propyläen</orgName></org><org xml:id="kab-org-00133"><orgName>Pustet</orgName></org><org xml:id="kab-org-00134"><orgName>Reclam</orgName></org><org xml:id="kab-org-00135"><orgName>Regensberg</orgName></org><org xml:id="kab-org-00136"><orgName>Reiß</orgName></org><org xml:id="kab-org-00137"><orgName>Renner</orgName></org><org xml:id="kab-org-00138"><orgName>Residenz</orgName></org><org xml:id="kab-org-00139"><orgName>Rita G. Fischer</orgName></org><org xml:id="kab-org-00140"><orgName>Rothe</orgName></org><org xml:id="kab-org-00141"><orgName>Routledge &amp; Kegan Paul</orgName></org><org xml:id="kab-org-00142"><orgName>Rowohlt</orgName></org><org xml:id="kab-org-00143"><orgName>Rowohlt Taschenbuchverlag</orgName></org><org xml:id="kab-org-00144"><orgName>Rütten &amp; Loening</orgName></org><org xml:id="kab-org-00145"><orgName>S. Fischer</orgName></org><org xml:id="kab-org-00146"><orgName>Saturn</orgName></org><org xml:id="kab-org-00147"><orgName>Scheffler</orgName></org><org xml:id="kab-org-00148"><orgName>Schiller-Nationalmuseum (München: Kösel in Kommission)</orgName></org><org xml:id="kab-org-00149"><orgName>Schiller-Nationalmuseum (München: Kösel in Kommisssion)</orgName></org><org xml:id="kab-org-00150"><orgName>Schmidt</orgName></org><org xml:id="kab-org-00151"><orgName>Schneider</orgName></org><org xml:id="kab-org-00152"><orgName>Schocken</orgName></org><org xml:id="kab-org-00153"><orgName>Schünemann</orgName></org><org xml:id="kab-org-00154"><orgName>Scottish Academic Press</orgName></org><org xml:id="kab-org-00155"><orgName>Scottish Papers in Germanic Studies</orgName></org><org xml:id="kab-org-00156"><orgName>Scriptor</orgName></org><org xml:id="kab-org-00157"><orgName>Selbstverlag (Auslieferung über Böhlau, Wien)</orgName></org><org xml:id="kab-org-00158"><orgName>Selbstverlag (Auslieferung über Böhlau,Wien)</orgName></org><org xml:id="kab-org-00159"><orgName>Shakespeare &amp; Company</orgName></org><org xml:id="kab-org-00160"><orgName>Simon and Schuster</orgName></org><org xml:id="kab-org-00161"><orgName>Stadtbibliothek</orgName></org><org xml:id="kab-org-00162"><orgName>Steiner</orgName></org><org xml:id="kab-org-00163"><orgName>Stiehm</orgName></org><org xml:id="kab-org-00164"><orgName>Suhkamp</orgName></org><org xml:id="kab-org-00165"><orgName>Suhrkamp</orgName></org><org xml:id="kab-org-00166"><orgName>The World Publishing Co.</orgName></org><org xml:id="kab-org-00167"><orgName>Trinity College</orgName></org><org xml:id="kab-org-00168"><orgName>Twayne</orgName></org><org xml:id="kab-org-00169"><orgName>Ueberreuter</orgName></org><org xml:id="kab-org-00170"><orgName>Ungar</orgName></org><org xml:id="kab-org-00171"><orgName>University of California Press</orgName></org><org xml:id="kab-org-00172"><orgName>University of London</orgName></org><org xml:id="kab-org-00173"><orgName>University of Toronto</orgName></org><org xml:id="kab-org-00174"><orgName>Universität Hamburg</orgName></org><org xml:id="kab-org-00175"><orgName>Vandenhoeck &amp; Ruprecht</orgName></org><org xml:id="kab-org-00176"><orgName>Vandenhoedt &amp; Ruprecht</orgName></org><org xml:id="kab-org-00177"><orgName>Verband der wissenschaftlichen Gesellschaften Österreichs</orgName></org><org xml:id="kab-org-00178"><orgName>Vigneau</orgName></org><org xml:id="kab-org-00179"><orgName>Volk und Welt</orgName></org><org xml:id="kab-org-00180"><orgName>Volk und Wissen</orgName></org><org xml:id="kab-org-00181"><orgName>Wagenbach</orgName></org><org xml:id="kab-org-00182"><orgName>Walter</orgName></org><org xml:id="kab-org-00183"><orgName>Wilhelm Fink</orgName></org><org xml:id="kab-org-00184"><orgName>Winkler</orgName></org><org xml:id="kab-org-00185"><orgName>Zweitausendeins</orgName></org><org xml:id="kab-org-00186"><orgName>[Trinity College]</orgName></org><org xml:id="kab-org-00187"><orgName>de Gruyter</orgName></org><org xml:id="kab-org-00188"><orgName>dtv</orgName></org><org xml:id="kab-org-00189"><orgName>echtion text + kritik (Richard Boorberg)</orgName></org><org xml:id="kab-org-00190"><orgName>edition text + kritik</orgName></org><org xml:id="kab-org-00191"><orgName>text + kritik</orgName></org><org xml:id="kab-org-00192"><orgName>Österreichische Staatsdruckerei</orgName></org><org xml:id="kab-org-00193"><orgName>Österreichischer Bundesverlag</orgName></org><org xml:id="kab-org-00194"><orgName>Österreichischer Bundesverlag, Jugend &amp; Volk</orgName></org></listOrg>
+            <listOrg>
+                <org xml:id="kab-org-00001">
+                    <orgName>Academia und Neuwied: Luchterhand</orgName>
+                </org>
+                <org xml:id="kab-org-00002">
+                    <orgName>Adelphi</orgName>
+                </org>
+                <org xml:id="kab-org-00003">
+                    <orgName>Agathon</orgName>
+                </org>
+                <org xml:id="kab-org-00004">
+                    <orgName>Agora</orgName>
+                </org>
+                <org xml:id="kab-org-00005">
+                    <orgName>Agora und Hamburg; Schröder</orgName>
+                </org>
+                <org xml:id="kab-org-00006">
+                    <orgName>Akademie</orgName>
+                </org>
+                <org xml:id="kab-org-00007">
+                    <orgName>Akademie der Wissenschaften</orgName>
+                </org>
+                <org xml:id="kab-org-00008">
+                    <orgName>Akademischer Verlag Heinz</orgName>
+                </org>
+                <org xml:id="kab-org-00009">
+                    <orgName>Akadémiai Kiadó</orgName>
+                </org>
+                <org xml:id="kab-org-00010">
+                    <orgName>Amalthea</orgName>
+                </org>
+                <org xml:id="kab-org-00011">
+                    <orgName>Anabas</orgName>
+                </org>
+                <org xml:id="kab-org-00012">
+                    <orgName>Arche</orgName>
+                </org>
+                <org xml:id="kab-org-00013">
+                    <orgName>Athenaion</orgName>
+                </org>
+                <org xml:id="kab-org-00014">
+                    <orgName>Athenäum</orgName>
+                </org>
+                <org xml:id="kab-org-00015">
+                    <orgName>Aufbau</orgName>
+                </org>
+                <org xml:id="kab-org-00016">
+                    <orgName>Bergland</orgName>
+                </org>
+                <org xml:id="kab-org-00017">
+                    <orgName>Borger &amp; Fischer</orgName>
+                </org>
+                <org xml:id="kab-org-00018">
+                    <orgName>Bouvier</orgName>
+                </org>
+                <org xml:id="kab-org-00019">
+                    <orgName>Brandstätter</orgName>
+                </org>
+                <org xml:id="kab-org-00020">
+                    <orgName>Braumüller</orgName>
+                </org>
+                <org xml:id="kab-org-00021">
+                    <orgName>Brenner-Verlag</orgName>
+                </org>
+                <org xml:id="kab-org-00022">
+                    <orgName>Bruckmann</orgName>
+                </org>
+                <org xml:id="kab-org-00023">
+                    <orgName>Bundesverlag</orgName>
+                </org>
+                <org xml:id="kab-org-00024">
+                    <orgName>Burges</orgName>
+                </org>
+                <org xml:id="kab-org-00025">
+                    <orgName>Buske</orgName>
+                </org>
+                <org xml:id="kab-org-00026">
+                    <orgName>Böhlau</orgName>
+                </org>
+                <org xml:id="kab-org-00027">
+                    <orgName>C. H. Beck</orgName>
+                </org>
+                <org xml:id="kab-org-00028">
+                    <orgName>CNRS</orgName>
+                </org>
+                <org xml:id="kab-org-00029">
+                    <orgName>Camden House</orgName>
+                </org>
+                <org xml:id="kab-org-00030">
+                    <orgName>Carl</orgName>
+                </org>
+                <org xml:id="kab-org-00031">
+                    <orgName>Carl Hanser</orgName>
+                </org>
+                <org xml:id="kab-org-00032">
+                    <orgName>DVA</orgName>
+                </org>
+                <org xml:id="kab-org-00033">
+                    <orgName>Delp</orgName>
+                </org>
+                <org xml:id="kab-org-00034">
+                    <orgName>Deutsche Schillergesellschaft (München: Kösel in Kommission)</orgName>
+                </org>
+                <org xml:id="kab-org-00035">
+                    <orgName>Dicher</orgName>
+                </org>
+                <org xml:id="kab-org-00036">
+                    <orgName>Dietrich</orgName>
+                </org>
+                <org xml:id="kab-org-00037">
+                    <orgName>Dietz</orgName>
+                </org>
+                <org xml:id="kab-org-00038">
+                    <orgName>Diogenes</orgName>
+                </org>
+                <org xml:id="kab-org-00039">
+                    <orgName>Dokumentation</orgName>
+                </org>
+                <org xml:id="kab-org-00040">
+                    <orgName>Dokumentationsstelle für neuere österreichische Literatur</orgName>
+                </org>
+                <org xml:id="kab-org-00041">
+                    <orgName>Dokumentationsstelle für neuere österreichische Literatur.</orgName>
+                </org>
+                <org xml:id="kab-org-00042">
+                    <orgName>Dokumentationsstellefür neuere österreichische Literatur</orgName>
+                </org>
+                <org xml:id="kab-org-00043">
+                    <orgName>Droschl</orgName>
+                </org>
+                <org xml:id="kab-org-00044">
+                    <orgName>Duncker &amp; Humblot</orgName>
+                </org>
+                <org xml:id="kab-org-00045">
+                    <orgName>E. P. Tal</orgName>
+                </org>
+                <org xml:id="kab-org-00046">
+                    <orgName>Edition Roetzer</orgName>
+                </org>
+                <org xml:id="kab-org-00047">
+                    <orgName>Edition Tusch</orgName>
+                </org>
+                <org xml:id="kab-org-00048">
+                    <orgName>Editions de Minuit</orgName>
+                </org>
+                <org xml:id="kab-org-00049">
+                    <orgName>Einauch</orgName>
+                </org>
+                <org xml:id="kab-org-00050">
+                    <orgName>Elek</orgName>
+                </org>
+                <org xml:id="kab-org-00051">
+                    <orgName>Europa</orgName>
+                </org>
+                <org xml:id="kab-org-00052">
+                    <orgName>Europäische Verlags-Anstalt</orgName>
+                </org>
+                <org xml:id="kab-org-00053">
+                    <orgName>Fackel</orgName>
+                </org>
+                <org xml:id="kab-org-00054">
+                    <orgName>Fahle</orgName>
+                </org>
+                <org xml:id="kab-org-00055">
+                    <orgName>Fink</orgName>
+                </org>
+                <org xml:id="kab-org-00056">
+                    <orgName>Fischer</orgName>
+                </org>
+                <org xml:id="kab-org-00057">
+                    <orgName>Forum</orgName>
+                </org>
+                <org xml:id="kab-org-00058">
+                    <orgName>Francke</orgName>
+                </org>
+                <org xml:id="kab-org-00059">
+                    <orgName>Fromme</orgName>
+                </org>
+                <org xml:id="kab-org-00060">
+                    <orgName>Galerie Welz</orgName>
+                </org>
+                <org xml:id="kab-org-00061">
+                    <orgName>Gallimard</orgName>
+                </org>
+                <org xml:id="kab-org-00062">
+                    <orgName>Gans</orgName>
+                </org>
+                <org xml:id="kab-org-00063">
+                    <orgName>Gehlen</orgName>
+                </org>
+                <org xml:id="kab-org-00064">
+                    <orgName>Gerstenberg</orgName>
+                </org>
+                <org xml:id="kab-org-00065">
+                    <orgName>Globus</orgName>
+                </org>
+                <org xml:id="kab-org-00066">
+                    <orgName>Goldmann</orgName>
+                </org>
+                <org xml:id="kab-org-00067">
+                    <orgName>Greifenverlag</orgName>
+                </org>
+                <org xml:id="kab-org-00068">
+                    <orgName>Hain</orgName>
+                </org>
+                <org xml:id="kab-org-00069">
+                    <orgName>Hanser</orgName>
+                </org>
+                <org xml:id="kab-org-00070">
+                    <orgName>Hegner</orgName>
+                </org>
+                <org xml:id="kab-org-00071">
+                    <orgName>Heintz</orgName>
+                </org>
+                <org xml:id="kab-org-00072">
+                    <orgName>Herder</orgName>
+                </org>
+                <org xml:id="kab-org-00073">
+                    <orgName>Herold</orgName>
+                </org>
+                <org xml:id="kab-org-00074">
+                    <orgName>Hirt</orgName>
+                </org>
+                <org xml:id="kab-org-00075">
+                    <orgName>Human Sciences Press</orgName>
+                </org>
+                <org xml:id="kab-org-00076">
+                    <orgName>Insel</orgName>
+                </org>
+                <org xml:id="kab-org-00077">
+                    <orgName>Institut für Germanistik</orgName>
+                </org>
+                <org xml:id="kab-org-00078">
+                    <orgName>International Universities Press</orgName>
+                </org>
+                <org xml:id="kab-org-00079">
+                    <orgName>Isar</orgName>
+                </org>
+                <org xml:id="kab-org-00080">
+                    <orgName>Jahoda &amp; Siegel</orgName>
+                </org>
+                <org xml:id="kab-org-00081">
+                    <orgName>Johns Hopkins Press</orgName>
+                </org>
+                <org xml:id="kab-org-00082">
+                    <orgName>Johns Hopkins University</orgName>
+                </org>
+                <org xml:id="kab-org-00083">
+                    <orgName>Jugend und VoIk</orgName>
+                </org>
+                <org xml:id="kab-org-00084">
+                    <orgName>Jugend und Volk</orgName>
+                </org>
+                <org xml:id="kab-org-00085">
+                    <orgName>Juris</orgName>
+                </org>
+                <org xml:id="kab-org-00086">
+                    <orgName>Jüdischer Verlag</orgName>
+                </org>
+                <org xml:id="kab-org-00087">
+                    <orgName>Kaemmerer</orgName>
+                </org>
+                <org xml:id="kab-org-00088">
+                    <orgName>Kerry</orgName>
+                </org>
+                <org xml:id="kab-org-00089">
+                    <orgName>Kiepenheuer &amp; Witsch</orgName>
+                </org>
+                <org xml:id="kab-org-00090">
+                    <orgName>Kindler</orgName>
+                </org>
+                <org xml:id="kab-org-00091">
+                    <orgName>Klett-Cotta</orgName>
+                </org>
+                <org xml:id="kab-org-00092">
+                    <orgName>Klincksieck</orgName>
+                </org>
+                <org xml:id="kab-org-00093">
+                    <orgName>Klostermann</orgName>
+                </org>
+                <org xml:id="kab-org-00094">
+                    <orgName>Knaus</orgName>
+                </org>
+                <org xml:id="kab-org-00095">
+                    <orgName>Kohlhammer</orgName>
+                </org>
+                <org xml:id="kab-org-00096">
+                    <orgName>Kraus</orgName>
+                </org>
+                <org xml:id="kab-org-00097">
+                    <orgName>Kraus Reprint</orgName>
+                </org>
+                <org xml:id="kab-org-00098">
+                    <orgName>Kröner</orgName>
+                </org>
+                <org xml:id="kab-org-00099">
+                    <orgName>Kösel</orgName>
+                </org>
+                <org xml:id="kab-org-00100">
+                    <orgName>L'Herne</orgName>
+                </org>
+                <org xml:id="kab-org-00101">
+                    <orgName>Lafite</orgName>
+                </org>
+                <org xml:id="kab-org-00102">
+                    <orgName>Lang</orgName>
+                </org>
+                <org xml:id="kab-org-00103">
+                    <orgName>Langen Müller</orgName>
+                </org>
+                <org xml:id="kab-org-00104">
+                    <orgName>Langen-Müller</orgName>
+                </org>
+                <org xml:id="kab-org-00105">
+                    <orgName>List</orgName>
+                </org>
+                <org xml:id="kab-org-00106">
+                    <orgName>Literarisches Colloquium</orgName>
+                </org>
+                <org xml:id="kab-org-00107">
+                    <orgName>Liviana</orgName>
+                </org>
+                <org xml:id="kab-org-00108">
+                    <orgName>Loránd Eötvös-Universität</orgName>
+                </org>
+                <org xml:id="kab-org-00109">
+                    <orgName>Luchterhand</orgName>
+                </org>
+                <org xml:id="kab-org-00110">
+                    <orgName>Lányi</orgName>
+                </org>
+                <org xml:id="kab-org-00111">
+                    <orgName>Längen-Müller</orgName>
+                </org>
+                <org xml:id="kab-org-00112">
+                    <orgName>Löcker</orgName>
+                </org>
+                <org xml:id="kab-org-00113">
+                    <orgName>Löcker &amp; Wögenstein</orgName>
+                </org>
+                <org xml:id="kab-org-00114">
+                    <orgName>Macmillan</orgName>
+                </org>
+                <org xml:id="kab-org-00115">
+                    <orgName>Manesse</orgName>
+                </org>
+                <org xml:id="kab-org-00116">
+                    <orgName>Melden</orgName>
+                </org>
+                <org xml:id="kab-org-00117">
+                    <orgName>Metzier</orgName>
+                </org>
+                <org xml:id="kab-org-00118">
+                    <orgName>Metzler</orgName>
+                </org>
+                <org xml:id="kab-org-00119">
+                    <orgName>Minerva Publikation</orgName>
+                </org>
+                <org xml:id="kab-org-00120">
+                    <orgName>Mitteldeutscher Verlag</orgName>
+                </org>
+                <org xml:id="kab-org-00121">
+                    <orgName>Moderna</orgName>
+                </org>
+                <org xml:id="kab-org-00122">
+                    <orgName>Molden</orgName>
+                </org>
+                <org xml:id="kab-org-00123">
+                    <orgName>Niemeyer</orgName>
+                </org>
+                <org xml:id="kab-org-00124">
+                    <orgName>Nijhoff</orgName>
+                </org>
+                <org xml:id="kab-org-00125">
+                    <orgName>Olamenu</orgName>
+                </org>
+                <org xml:id="kab-org-00126">
+                    <orgName>Oldenbourg</orgName>
+                </org>
+                <org xml:id="kab-org-00127">
+                    <orgName>Orac</orgName>
+                </org>
+                <org xml:id="kab-org-00128">
+                    <orgName>Otto Müller</orgName>
+                </org>
+                <org xml:id="kab-org-00129">
+                    <orgName>Piper</orgName>
+                </org>
+                <org xml:id="kab-org-00130">
+                    <orgName>Presses universitaires de France</orgName>
+                </org>
+                <org xml:id="kab-org-00131">
+                    <orgName>Prestel</orgName>
+                </org>
+                <org xml:id="kab-org-00132">
+                    <orgName>Propyläen</orgName>
+                </org>
+                <org xml:id="kab-org-00133">
+                    <orgName>Pustet</orgName>
+                </org>
+                <org xml:id="kab-org-00134">
+                    <orgName>Reclam</orgName>
+                </org>
+                <org xml:id="kab-org-00135">
+                    <orgName>Regensberg</orgName>
+                </org>
+                <org xml:id="kab-org-00136">
+                    <orgName>Reiß</orgName>
+                </org>
+                <org xml:id="kab-org-00137">
+                    <orgName>Renner</orgName>
+                </org>
+                <org xml:id="kab-org-00138">
+                    <orgName>Residenz</orgName>
+                </org>
+                <org xml:id="kab-org-00139">
+                    <orgName>Rita G. Fischer</orgName>
+                </org>
+                <org xml:id="kab-org-00140">
+                    <orgName>Rothe</orgName>
+                </org>
+                <org xml:id="kab-org-00141">
+                    <orgName>Routledge &amp; Kegan Paul</orgName>
+                </org>
+                <org xml:id="kab-org-00142">
+                    <orgName>Rowohlt</orgName>
+                </org>
+                <org xml:id="kab-org-00143">
+                    <orgName>Rowohlt Taschenbuchverlag</orgName>
+                </org>
+                <org xml:id="kab-org-00144">
+                    <orgName>Rütten &amp; Loening</orgName>
+                </org>
+                <org xml:id="kab-org-00145">
+                    <orgName>S. Fischer</orgName>
+                </org>
+                <org xml:id="kab-org-00146">
+                    <orgName>Saturn</orgName>
+                </org>
+                <org xml:id="kab-org-00147">
+                    <orgName>Scheffler</orgName>
+                </org>
+                <org xml:id="kab-org-00148">
+                    <orgName>Schiller-Nationalmuseum (München: Kösel in Kommission)</orgName>
+                </org>
+                <org xml:id="kab-org-00149">
+                    <orgName>Schiller-Nationalmuseum (München: Kösel in Kommisssion)</orgName>
+                </org>
+                <org xml:id="kab-org-00150">
+                    <orgName>Schmidt</orgName>
+                </org>
+                <org xml:id="kab-org-00151">
+                    <orgName>Schneider</orgName>
+                </org>
+                <org xml:id="kab-org-00152">
+                    <orgName>Schocken</orgName>
+                </org>
+                <org xml:id="kab-org-00153">
+                    <orgName>Schünemann</orgName>
+                </org>
+                <org xml:id="kab-org-00154">
+                    <orgName>Scottish Academic Press</orgName>
+                </org>
+                <org xml:id="kab-org-00155">
+                    <orgName>Scottish Papers in Germanic Studies</orgName>
+                </org>
+                <org xml:id="kab-org-00156">
+                    <orgName>Scriptor</orgName>
+                </org>
+                <org xml:id="kab-org-00157">
+                    <orgName>Selbstverlag (Auslieferung über Böhlau, Wien)</orgName>
+                </org>
+                <org xml:id="kab-org-00158">
+                    <orgName>Selbstverlag (Auslieferung über Böhlau,Wien)</orgName>
+                </org>
+                <org xml:id="kab-org-00159">
+                    <orgName>Shakespeare &amp; Company</orgName>
+                </org>
+                <org xml:id="kab-org-00160">
+                    <orgName>Simon and Schuster</orgName>
+                </org>
+                <org xml:id="kab-org-00161">
+                    <orgName>Stadtbibliothek</orgName>
+                </org>
+                <org xml:id="kab-org-00162">
+                    <orgName>Steiner</orgName>
+                </org>
+                <org xml:id="kab-org-00163">
+                    <orgName>Stiehm</orgName>
+                </org>
+                <org xml:id="kab-org-00164">
+                    <orgName>Suhkamp</orgName>
+                </org>
+                <org xml:id="kab-org-00165">
+                    <orgName>Suhrkamp</orgName>
+                </org>
+                <org xml:id="kab-org-00166">
+                    <orgName>The World Publishing Co.</orgName>
+                </org>
+                <org xml:id="kab-org-00167">
+                    <orgName>Trinity College</orgName>
+                </org>
+                <org xml:id="kab-org-00168">
+                    <orgName>Twayne</orgName>
+                </org>
+                <org xml:id="kab-org-00169">
+                    <orgName>Ueberreuter</orgName>
+                </org>
+                <org xml:id="kab-org-00170">
+                    <orgName>Ungar</orgName>
+                </org>
+                <org xml:id="kab-org-00171">
+                    <orgName>University of California Press</orgName>
+                </org>
+                <org xml:id="kab-org-00172">
+                    <orgName>University of London</orgName>
+                </org>
+                <org xml:id="kab-org-00173">
+                    <orgName>University of Toronto</orgName>
+                </org>
+                <org xml:id="kab-org-00174">
+                    <orgName>Universität Hamburg</orgName>
+                </org>
+                <org xml:id="kab-org-00175">
+                    <orgName>Vandenhoeck &amp; Ruprecht</orgName>
+                </org>
+                <org xml:id="kab-org-00176">
+                    <orgName>Vandenhoedt &amp; Ruprecht</orgName>
+                </org>
+                <org xml:id="kab-org-00177">
+                    <orgName>Verband der wissenschaftlichen Gesellschaften Österreichs</orgName>
+                </org>
+                <org xml:id="kab-org-00178">
+                    <orgName>Vigneau</orgName>
+                </org>
+                <org xml:id="kab-org-00179">
+                    <orgName>Volk und Welt</orgName>
+                </org>
+                <org xml:id="kab-org-00180">
+                    <orgName>Volk und Wissen</orgName>
+                </org>
+                <org xml:id="kab-org-00181">
+                    <orgName>Wagenbach</orgName>
+                </org>
+                <org xml:id="kab-org-00182">
+                    <orgName>Walter</orgName>
+                </org>
+                <org xml:id="kab-org-00183">
+                    <orgName>Wilhelm Fink</orgName>
+                </org>
+                <org xml:id="kab-org-00184">
+                    <orgName>Winkler</orgName>
+                </org>
+                <org xml:id="kab-org-00185">
+                    <orgName>Zweitausendeins</orgName>
+                </org>
+                <org xml:id="kab-org-00186">
+                    <orgName>[Trinity College]</orgName>
+                </org>
+                <org xml:id="kab-org-00187">
+                    <orgName>de Gruyter</orgName>
+                </org>
+                <org xml:id="kab-org-00188">
+                    <orgName>dtv</orgName>
+                </org>
+                <org xml:id="kab-org-00189">
+                    <orgName>echtion text + kritik (Richard Boorberg)</orgName>
+                </org>
+                <org xml:id="kab-org-00190">
+                    <orgName>edition text + kritik</orgName>
+                </org>
+                <org xml:id="kab-org-00191">
+                    <orgName>text + kritik</orgName>
+                </org>
+                <org xml:id="kab-org-00192">
+                    <orgName>Österreichische Staatsdruckerei</orgName>
+                </org>
+                <org xml:id="kab-org-00193">
+                    <orgName>Österreichischer Bundesverlag</orgName>
+                </org>
+                <org xml:id="kab-org-00194">
+                    <orgName>Österreichischer Bundesverlag, Jugend &amp; Volk</orgName>
+                </org>
+            </listOrg>
         </body>
     </text>
 </TEI>
