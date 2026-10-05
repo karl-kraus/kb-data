@@ -24,16 +24,26 @@
 
             <desc type="chapter" corresp="0 0.1 0.2 0.3 0.4 0.5">Bibliographien, Hilfsmittel,
                 Rezensionen</desc>
+            <desc type="subchapter" corresp="0.1">[Bibliographien, Hilfsmittel,
+                Rezensionen]</desc>
+            <desc type="subchapter" corresp="0.2">[Bibliographien, Hilfsmittel,
+                Rezensionen]</desc>
+            <desc type="subchapter" corresp="0.3">[Bibliographien, Hilfsmittel,
+                Rezensionen]</desc>
+            <desc type="subchapter" corresp="0.4">[Bibliographien, Hilfsmittel,
+                Rezensionen]</desc>
+            <desc type="subchapter" corresp="0.5">[Bibliographien, Hilfsmittel,
+                Rezensionen]</desc>
             <desc type="chapter" corresp="1 1.1 1.2 1.3">Zu Biographie und Persönlichkeit</desc>
             <desc type="subchapter" corresp="1.1">Biographische Darstellungen</desc>
             <desc type="subchapter" corresp="1.2">Biographisches Material</desc>
             <desc type="subchapter" corresp="1.3">Zur Persönlichkeit</desc>
             <desc type="chapter" corresp="2">Gesamtdarstellungen</desc>
             <desc type="chapter" corresp="3 3.1 3.2 3.3 3.4">Essayistische Darstellungen</desc>
-            <desc corresp="3.1">Deutungsversuche</desc>
-            <desc corresp="3.2">Polemiken (vor 1945)</desc>
-            <desc corresp="3.3">Polemiken (seit 1945)</desc>
-            <desc corresp="3.4">Kleine Äußerungen von Schriftstellern</desc>
+            <desc type="subchapter" corresp="3.1">Deutungsversuche</desc>
+            <desc type="subchapter" corresp="3.2">Polemiken (vor 1945)</desc>
+            <desc type="subchapter" corresp="3.3">Polemiken (seit 1945)</desc>
+            <desc type="subchapter" corresp="3.4">Kleine Äußerungen von Schriftstellern</desc>
             <desc type="chapter" corresp="4">Weltanschauliche Positionen</desc>
             <desc type="chapter" corresp="5 5.1 5.2">Der Satiriker</desc>
             <desc type="subchapter" corresp="5.1">Probleme der Satireninterpretation</desc>
