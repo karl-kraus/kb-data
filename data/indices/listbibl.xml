@@ -9844,7 +9844,7 @@
                 <listBibl n="2">
 
                     <bibl>
-                        <num type="id">1</num>
+                        <num type="category">1</num>
                         <author>Karl Kraus</author>
                         <title level="a">Max Halbe</title>
                         <note type="comment">Dieser Artikel, der als Ausschnitt im Karl-Kraus-Archiv
@@ -9859,7 +9859,7 @@
                             festgestellt. </note>
                     </bibl>
                     <bibl>
-                        <num type="id">3</num>
+                        <num type="category">3</num>
                         <author>Karl Kraus</author>
                         <title level="a">[Vorlesungsprogramme]</title>
                         <note type="comment">Die in KAB erwähnten Texte aus den letzten
@@ -9867,7 +9867,7 @@
                             "Nachträgliches zur 'Fackel'". Kraus-Hefte 1. 1977. S. 6–10.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">4</num>
+                        <num type="category">4</num>
                         <author>Karl Kraus</author>
                         <title level="m">Sittlichkeit und Kriminalität</title>
                         <date when="1908">1908</date>
@@ -9878,7 +9878,7 @@
                             Vorbemerkung von 1908 noch die Notiz von 1923.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">4</num>
+                        <num type="category">4</num>
                         <author>Karl Kraus</author>
                         <title level="m">Sprüche und Widersprüche</title>
                         <date when="1909">1909</date>
@@ -9889,7 +9889,7 @@
                             solche Bandangabe.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">4</num>
+                        <num type="category">4</num>
                         <author>Karl Kraus</author>
                         <author>Offenbach, Jacques</author>
                         <title level="m">Perichole</title>
@@ -9901,7 +9901,7 @@
                     </bibl>
 
                     <bibl>
-                        <num type="id">7</num>
+                        <num type="category">7</num>
                         <publisher>David Salomon. Antiquariat</publisher>
                         <pubPlace>Berlin-Halensee</pubPlace>
                         <title level="m">Katalog 34</title>. <date>September 1928</date>
@@ -9912,7 +9912,7 @@
                             Wien).</note>
                     </bibl>
                     <bibl>
-                        <num type="id">7</num>
+                        <num type="category">7</num>
                         <author>Pfäfflin, Friedrich</author>
                         <title level="a">Karl Kraus und Arnold Schönberg</title>
                         <editor>Heinz Ludwig Arnold</editor>
@@ -9927,7 +9927,7 @@
                             Redaktion der "Fackel" geben.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">7</num>
+                        <num type="category">7</num>
                         <title level="m">Briefe an Sidonie Nádhern&#xFD; von Borutin. 1913-1936. 2
                             Bände</title>
                         <editor>Heinrich Fischer und Michael Lazarus</editor>
@@ -9944,7 +9944,7 @@
                             Beziehungen Kraus– Sidonie Nádhern&#xFD;–Rilke eingeht.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">7</num>
+                        <num type="category">7</num>
                         <title level="a">Ein Brief aus Prag</title><title level="j"
                             >Kraus-Hefte</title><num>1</num><date when="1977">1977</date>
 <biblScope>S.
@@ -9953,7 +9953,7 @@
                             Marcel Ray vom 27. Februar 1934. Vor allem politisch interessant.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">7</num>
+                        <num type="category">7</num>
                         <title level="a">[Preßberichtigung zum Prozeß Karl Kraus –
                             "Sozialdemokrat"]</title>
                         <title level="j">Prager Presse</title>
@@ -9967,7 +9967,7 @@
                     </bibl>
 
                     <bibl>
-                        <num type="id">8</num>
+                        <num type="category">8</num>
                         <title level="m">Die Fackel. Photomechanischer Neudruck</title>
                         <editor>Heinrich Fischer</editor>
                         <edition>Sonderausgabe</edition>
@@ -9981,7 +9981,7 @@
                     </bibl>
 
                     <bibl xml:id="kab-entry-11.">
-                        <num type="id">11</num>
+                        <num type="category">11</num>
                         <title level="m">Die letzten Tage der Menschheit. Akt-Ausgabe.
                             Supplementband zur Sonderausgabe des Reprints der "Fackel"</title>
                         <pubPlace key="#kab-place-00037">München</pubPlace>
@@ -9995,7 +9995,7 @@
                     </bibl>
 
                     <bibl xml:id="kab-entry-12.">
-                        <num type="id">12</num>
+                        <num type="category">12</num>
                         <editor>Wunberg, Gotthart</editor>
                         <title level="m">Das Junge Wien. Österreichische Literatur- und Kunstkritik
                             1887-1902</title>
@@ -10009,7 +10009,7 @@
                             "Fackel".</note>
                     </bibl>
                     <bibl>
-                        <num type="id">12</num>
+                        <num type="category">12</num>
                         <author>Hirsch, Rudolf</author>
                         <title level="a">Eine Korrektur und ein Hinweis zu Heft 49, S. 548</title>
                         <title level="j">Literatur und Kritik</title>
@@ -10020,7 +10020,7 @@
                             <ref target="#kab-entry-0.1.2">0.1.2</ref>), Vf 58 a (Rezension von "Der Thor und der Tod", 1894).</note>
                     </bibl>
                     <bibl>
-                        <num type="id">12</num>
+                        <num type="category">12</num>
                         <editor>Wunberg, Gotthart</editor>
                         <title level="m">Hofmannsthal im Urteil seiner Kritiker</title>
                         <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
@@ -10032,7 +10032,7 @@
                             58 a wie Hirsch.</note>
                     </bibl>
                     <bibl>
-                        <num type="id">12</num>
+                        <num type="category">12</num>
                         <author>Goldschmidt, Hans Eberhard</author>
                         <title>Quer sacrum. Wiener Parodien und Karikaturen der
                             Jahrhundertwende</title>
@@ -11583,8 +11583,12 @@
                 <!--
                 <listBibl n="6">
 
+Max Halbe.
+Als Erscheinungsort dieses Beitrags wurde von Joh. J. Braakenburg die "Neue Freie
+Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
+
                     <bibl >
-<num type="id">5. </num>
+<num type="category">5. </num>
                         <author>Offenbach, Jacques</author>
                         <author>Kraus, Karl</author>
                         <title>Perichole</title>. <date when="1931">1931</date>. <note>Vgl. den Hinweis von
@@ -11592,14 +11596,14 @@
                             Gesänge" in Kraus-Heft 9, 17.</note></bibl>
 
                     <bibl >
-<num type="id">6. </num>
+<num type="category">6. </num>
                         <author>Kraus, Karl</author>
                         <title>Ski und Fiedel</title>. In: Kraus-Heft 9. 1979. S. 1. <note>Erstdruck
                             eines bisher unbekannten Scherzgedichtes von privatem Charakter aus dem
                             Jahre 1917. Vgl. auch den erläuternden Hinweis 26 von Christian
                             Wagenknecht auf S. 17 des gleichen Hefts.</note></bibl>
                     <bibl >
-<num type="id">6. </num>
+<num type="category">6. </num>
                         <author>Kraus, Karl</author>
                         <title>Unbekannte Aphorismen</title>. In: Kraus-Heft 3. 1977. S. 14.
                             <note>Neudruck von 4 nicht im eigentlichen Sinne unbekannten Aphorismen,
@@ -11608,7 +11612,7 @@
                             daher unbeachtet geblieben.</note></bibl>
 
                     <bibl xml:id="kab-entry-7. ">
-<num type="id">7. </num>
+<num type="category">7. </num>
                         <author>Goldschmidt, Hans Eberhard</author>: <title>Satirenanthologie und
                             Caféhausbeleidigung. Zwei Briefe an Julius Bauer</title>. In:
                         Kraus-Heft 8. 1978. S. 2–4. <note>Enthält zwei Briefe von K. an
@@ -11616,7 +11620,7 @@
                             Satirenanthologie betreffend) und vom 3. August 1895 (über ein
                             privates Mißverständnis). Kommentiert.</note></bibl>
                     <bibl >
-<num type="id">7. </num>
+<num type="category">7. </num>
                         <author>Unglaub, Erich</author>: <title>Detlev von Liliencron und Karl
                             Kraus. Regesten des Briefwechsels 1893–1895</title>. In:
                         Kraus-Heft 5. 1978. S. 5–9. <note>Enthält – so gut wie
@@ -11624,7 +11628,7 @@
                             und Karten sowohl von K. als auch von Liliencron, mit Nachweisen der
                             Standorte.</note></bibl>
                     <bibl >
-<num type="id">7. </num>
+<num type="category">7. </num>
                         <author>Unglaub, Erich</author>: <title>Karl Kraus – das private
                             Urteil. Ein unveröffentlichter Brief an Max Halbe</title>. In:
                         Literatur und Kritik 12. 1977. S. 557–566. <note>Enthält auf S.
@@ -11633,7 +11637,7 @@
                             diesem Brief zitiert Unglaub auch aus ungedruckten Briefen von K. an
                             Dehmel. Vgl. KAB 8, <ref target="#kab-entry-7.6.11">7.6.11</ref>.</note></bibl>
                     <bibl >
-<num type="id">7. </num>
+<num type="category">7. </num>
                         <author>Sauermann, Eberhard</author>: <title>Ludwig Erik Tesar als
                             Mitarbeiter der "Fackel"</title>. In: Kraus-Heft 9. 1979.
                         S. 8–12. <note>Enthält S. 9 f. den vollständigen Abdruck
@@ -11642,7 +11646,7 @@
                             von K. an Tesar.</note>
                     </bibl>
                     <bibl >
-<num type="id">8. </num>
+<num type="category">8. </num>
                         <author>Kraus, Karl</author><title>Die Fackel</title>. Fotomechanischer
                         Neudruck. 12 Bände. Frankfurt: Zweitausendeins 1977. Band 1 (Nr.
                         1–54; 1899–1900). 2 (Nr. 55–117; 1900–1902). 3
@@ -11665,7 +11669,7 @@
                         vgl. Kraus-Heft 9, 18.</bibl>
 
                     <bibl >
-<num type="id">10. </num>
+<num type="category">10. </num>
                         <author>Kraus, Karl</author><title>Die letzten Tage der Menschheit</title>.
                         Hrsg. von Kurt Krolop. 2 Bände. Berlin (DDR): Volk und Welt 1978. 640 +
                         392 S. = Ausgewählte Werke 5,1 und 5,2. <note>Der 1. Band enthält
@@ -11690,7 +11694,7 @@
                             haben.</note></bibl>
 
                     <bibl >
-<num type="id">11. </num>
+<num type="category">11. </num>
                         <author>Kraus, Karl</author><author>Shakespeare,
                             William</author><title>Shakespeare's Sonette</title>. Englisch
                         und deutsch. Nachdichtung und Nachwort von Karl Kraus. Zürich: Diogenes
@@ -11701,7 +11705,7 @@
                             F 885–87, 1932, 45–64).</note>
                     </bibl>
                     <bibl >
-<num type="id">12. </num>
+<num type="category">12. </num>
                         <author>Kraus, Karl</author><title>Frühe Schriften</title>. Hrsg. von
                         Joh. J. Braakenburg. Band 1: 1892–1896. Band 2: 1897– 1900.
                         München: Kösel 1979. 306 + 324 S. <note>Druckt alle bisher
