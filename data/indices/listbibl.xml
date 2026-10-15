@@ -6410,7 +6410,7 @@
                     <pubPlace key="#kab-place-00035">Marbach am Neckar</pubPlace>
                     <publisher key="#kab-org-00148">Schiller-Nationalmuseum</publisher>
                     
-                    <publisher key="#kab-org-00099" type="inCommission">(München: Kösel in Kommission)</publisher>
+                    <publisher key="#kab-org-00099">(München: Kösel in Kommission)</publisher>
                     
                     <date when="1975">1975</date>
                     <biblScope>VIII +360 S.</biblScope>
@@ -9404,7 +9404,7 @@
                     <pubPlace key="#kab-place-00035">Marbach am Neckar</pubPlace>
                     <publisher key="#kab-org-00148">Schiller-Nationalmuseum</publisher>
                     
-                    <publisher key="#kab-org-00099" type="inCommission">(München: Kösel in Kommission)</publisher>
+                    <publisher key="#kab-org-00099">(München: Kösel in Kommission)</publisher>
 
                     <date when="1974">1974</date>
                     <biblScope>445 S.</biblScope>
@@ -12254,7 +12254,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <pubPlace key="#kab-place-00082">Marbach</pubPlace>
                     <publisher key="#kab-org-00199">Deutsche Schillergesellschaft</publisher>
                     
-                    <publisher key="#kab-org-00099" type="inCommission">(München: Kösel in Kommission)</publisher>
+                    <publisher key="#kab-org-00099">(München: Kösel in Kommission)</publisher>
 
                     <date when="1980">1980</date>
                     <biblScope unit="page">336 S.</biblScope>
@@ -12568,7 +12568,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <pubPlace key="#kab-place-00082">Marbach</pubPlace>
                     <publisher key="#kab-org-00148">Schiller-Nationalmuseum</publisher>
                     
-                    <publisher key="#kab-org-00099" type="inCommission">(München: Kösel in Kommission)</publisher>
+                    <publisher key="#kab-org-00099">(München: Kösel in Kommission)</publisher>
 
                     <biblScope unit="page">S. 1 12 f.</biblScope>
 
@@ -15166,7 +15166,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <pubPlace key="#kab-place-00085">St. Mandé</pubPlace>
                     <publisher>Selbstverlag</publisher>
 
-                    <publisher type="distribution" key="#kab-org-00026">(Auslieferung über Böhlau, Wien)</publisher>
+                    <publisher key="#kab-org-00026">(Auslieferung über Böhlau, Wien)</publisher>
 
                     <date when="1985">1985</date>
                     <biblScope unit="page">S. 67–85</biblScope>
@@ -15206,7 +15206,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <pubPlace key="#kab-place-00085">St. Mandé</pubPlace>
                     <publisher>Selbstverlag</publisher>
 
-                    <publisher type="distribution" key="#kab-org-00026">(Auslieferung über Böhlau, Wien)</publisher>
+                    <publisher key="#kab-org-00026">(Auslieferung über Böhlau, Wien)</publisher>
                     
                     <date when="1985">1985</date>
                     <biblScope unit="page">S. 146 f.</biblScope>
@@ -15263,7 +15263,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <pubPlace key="#kab-place-00085">St. Mandé</pubPlace>
                     <publisher>Selbstverlag</publisher>
 
-                    <publisher type="distribution" key="#kab-org-00026">(Auslieferung über Böhlau, Wien)</publisher>
+                    <publisher key="#kab-org-00026">(Auslieferung über Böhlau, Wien)</publisher>
 
                     <date when="1985">1985</date>
                     <biblScope unit="page">S. 56–66</biblScope>
