@@ -512,12 +512,6 @@
                     <idno type="Wikidata">Q191415</idno>
                 </place>
 
-                <place xml:id="kab-place-00099">
-                    <placeName>Wolfenbüttel</placeName>
-                    <idno type="GND">4066832-0</idno>
-                    <idno type="Wikidata">Q4122</idno>
-                </place>
-
                 <place xml:id="kab-place-00100">
                     <placeName>Debrecen</placeName>
                     <idno type="GND">4090940-2</idno>

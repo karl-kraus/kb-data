@@ -1445,12 +1445,6 @@
                     <idno type="GND">2025548-2</idno>
                 </org>
 
-                <org xml:id="kab-org-00239">
-                    <orgName>Hamburger Kunsthalle</orgName>
-                    <idno type="GND">2013051-X</idno>
-                    <idno type="Wikidata">Q169542</idno>
-                </org>
-
                 <org xml:id="kab-org-00240">
                     <orgName>Institut für moderne Kunst Nürnberg</orgName>
                     <idno type="GND">2014078-2</idno>
@@ -1490,17 +1484,17 @@
                     <idno type="Wikidata">Q813868</idno>
                 </org>
 
-                <org xml:id="kab-org-00245">
-                    <orgName>Freie Universität Berlin</orgName>
-                    <idno type="GND">2114189-7</idno>
-                    <idno type="Wikidata">Q153006</idno>
-                </org>
-
                 <org xml:id="kab-org-00246">
                     <orgName>University of California, Los Angeles</orgName>
                     <orgName type="variant">University of California at Los Angeles</orgName>
                     <idno type="GND">2045111-8</idno>
                     <idno type="Wikidata">Q174710</idno>
+                </org>
+
+                <org xml:id="kab-org-00247">
+                    <orgName>Freie Universität Berlin</orgName>
+                    <idno type="GND">2114189-7</idno>
+                    <idno type="Wikidata">Q153006</idno>
                 </org>
 
             </listOrg>

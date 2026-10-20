@@ -203,7 +203,7 @@
                 </bibl>
 
                 <!-- 0.1.6 Aufsatz in Zeitschrift -->
-                <bibl xml:id="kab-entry-0.1.6a">
+                <bibl xml:id="kab-entry-0.1.6">
                     <num type="id">0.1.6</num>
                     <num type="category">0.1</num>
                     <author key="#kab-pers-00080">[Pfäfflin, Friedrich]</author>
@@ -955,7 +955,7 @@
                     <title level="a">Erinnerung an Karl Kraus (1936)</title>
                     <title level="m">Zur Sprache gebracht</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00104">Längen-Müller</publisher>
+                    <publisher key="#kab-org-00104">Langen-Müller</publisher>
                     <date when="1958">1958</date>
                     <biblScope>S. 229–240</biblScope>
                     <note type="comment">K.'s Sprachdenken habe in der Trennung des Gedanklichen vom
@@ -971,13 +971,17 @@
                 <bibl xml:id="kab-entry-1.2.11">
                     <num type="id">1.2.11</num>
                     <num type="category">1.2</num>
+
                     <author key="#kab-pers-00186">Lasker-Schüler, Else</author>
                     <title level="m">Briefe an Karl Kraus</title>
-                    <editor key="#kab-pers-00009">Astrid Gehlhoff-Claes</editor>
+                    <editor key="#kab-pers-00009">Gehlhoff-Claes, Astrid</editor>
+
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <publisher key="#kab-org-00089">Kiepenheuer &amp; Witsch</publisher>
+
                     <date>o. J. [1959]</date>
                     <biblScope>181 S.</biblScope>
+
                     <note type="comment">Für K. nicht besonders ergiebig. Zur editorischen
                         Problematik vgl. Carr (<ref target="#kab-entry-7.6.02.2.2">7.6.02.2.2</ref>). Mit einem ebenfalls von Carr berichtigten Nachwort über
                         die Dichterin, das mehrfach auf die Beziehungen zu K. eingeht.</note>
@@ -1011,7 +1015,7 @@
                     <author key="#kab-pers-00198">Malmberg, Helga</author>
                     <title level="m">Widerhall des Herzens. Ein Peter Altenberg-Buch</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00104">Längen-Müller</publisher>
+                    <publisher key="#kab-org-00104">Langen-Müller</publisher>
                     <date when="1961">1961</date>
                     <biblScope>276 S.</biblScope>
                     <note type="comment">Naive und im einzelnen vielleicht nicht immer zuverlässige
@@ -1046,10 +1050,11 @@
                     <num type="id">1.2.15</num>
                     <num type="category">1.2</num>
                     
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Erinnerungen an Karl Kraus</title>
                     
-                    <title level="m">SvR: Wie ich glaube</title>
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
+			        <title level="m">Wie ich glaube</title>
                     
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <pubPlace key="#kab-place-00065">Olten</pubPlace>
@@ -1350,13 +1355,17 @@
                 <bibl xml:id="kab-entry-2.1.03">
                     <num type="id">2.1.03</num>
                     <num type="category">2</num>
+
                     <author key="#kab-pers-00167">Kohn, Caroline</author>
                     <title level="m">Karl Kraus. Le polemiste et l'ecrivain, deienseur des droits de
                         l'individu</title>
+
                     <pubPlace key="#kab-place-00047">Paris</pubPlace>
-                    <publisher key="#kab-org-00035">Dicher</publisher>
+                    <publisher key="#kab-org-00035">Didier</publisher>
+
                     <date when="1962">1962</date>
                     <biblScope>425 S.</biblScope>
+
                     <title level="s">Germanica</title>
                     <num type="series">3</num>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
@@ -1524,7 +1533,7 @@
                     <title level="m">Karl Kraus oder die Macht der Ohnmacht</title>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <publisher key="#kab-org-00122">Melden</publisher>
+                    <publisher key="#kab-org-00122">Molden</publisher>
                     
                     <date when="1968">1968</date>
                     <biblScope>3 43 S.</biblScope>
@@ -1679,15 +1688,22 @@
                 <bibl xml:id="kab-entry-2.2.03.2">
                     <num type="id">2.2.03.2</num>
                     <num type="category">2</num>
-                    <author key="#kab-pers-00040">Cases, Cesare</author>
+
+                    <author role="analytic" key="#kab-pers-00040">Cases, Cesare</author>
                     <title level="a">Karl Kraus</title>
-                    <title level="m">CC: Saggi e note di letteratura tedesca</title>
+
+                    <author role="monogr" key="#kab-pers-00040">Cases, Cesare</author>
+                    <title level="m">Saggi e note di letteratura tedesca</title>
+
                     <pubPlace key="#kab-place-00059">Turin</pubPlace>
-                    <publisher key="#kab-org-00049">Einauch</publisher>
+                    <publisher key="#kab-org-00049">Einaudi</publisher>
+
                     <date when="1963">1963</date>
                     <biblScope>176–190</biblScope>
+
                     <title level="s">Saggi</title>
                     <num type="series">329</num>
+
                     <note type="comment">Wiederabdruck des Vorhergehenden.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -1746,15 +1762,22 @@
                 <bibl xml:id="kab-entry-2.2.06">
                     <num type="id">2.2.06</num>
                     <num type="category">2</num>
-                    <author key="#kab-pers-00118">Heller, Erich</author>
+
+                    <author role="analytic" key="#kab-pers-00118">Heller, Erich</author>
                     <title level="a">Karl Kraus (1954)</title>
-                    <title level="m">EH: Studien zur modernen Literatur</title>
+
+                    <author role="monogr" key="#kab-pers-00118">Heller, Erich</author>
+                    <title level="m">Studien zur modernen Literatur</title>
+
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00165">Suhrkamp</publisher>
+
                     <date when="1963">1963</date>
                     <biblScope>53–90</biblScope>
+
                     <title level="s">edition suhrkamp</title>
                     <num type="series">42</num>
+
                     <note type="comment">Identisch mit K 20 und K 2061. Geht von dem Konfuzius-Zitat
                         über die Sprache – das K. von Heller erfahren hatte – und von K.'s
                         Sprachauffassung aus, welche die <hi rendition="#italic">Distanziertheit des Gefühls vom Gedanken</hi>
@@ -1808,7 +1831,7 @@
                     <title level="m">Karl Kraus: Ausgewählte Werke. Hrsg. von Dietrich Simon, 3.
                         Band</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00104">Längen-Müller</publisher>
+                    <publisher key="#kab-org-00104">Langen-Müller</publisher>
                     <date when="1971">1971</date>
                     <biblScope>651–691</biblScope>
                     <note type="comment">Eine sehr ausgewogene, alle Seiten von K.'s Werk
@@ -1826,12 +1849,16 @@
                 <bibl xml:id="kab-entry-2.2.07.1">
                     <num type="id">2.2.07.1</num>
                     <num type="category">2</num>
-                    <author key="#kab-pers-00179">Krolop, Kurt</author>
+                    <author role="analytic" key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Dichtung und Satire bei Karl Kraus</title>
-                    <title level="m">Kurt Krolop und dietrich Simon: Kommentare zu Karl Kraus.
-                        Beiheft zur dreibändigen Karl-Kraus-Auswahl</title>
+
+                    <author role="monogr" key="#kab-pers-00179">Krolop, Kurt</author>
+                    <author role="monogr" key="#kab-pers-00284">Simon, Dietrich</author>
+                    <title level="m">Kommentare zu Karl Kraus. Beiheft zur dreibändigen Karl-Kraus-Auswahl</title>
+
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00179">Volk und Welt</publisher>
+
                     <date when="1971">1971</date>
                     <biblScope>89–127</biblScope>
                     <note type="comment">Identisch mit dem Vorhergehenden.</note>
@@ -2065,12 +2092,17 @@
                     <num type="category">2</num>
                     <author key="#kab-pers-00284">Simon, Dietrich</author>
                     <title level="a">Karl Kraus. Stimme gegen die Zeit</title>
-                    <title level="m">Kurt Krolop und DS: Kommentare zu Karl Kraus. Beiheft zur
-                        dreibändigen Karl-Kraus-Auswahl</title>
+
+                    <author role="monogr" key="#kab-pers-00179">Krolop, Kurt</author>
+                    <author role="monogr" key="#kab-pers-00284">Simon, Dietrich</author>
+                    <title level="m">Kommentare zu Karl Kraus. Beiheft zur dreibändigen Karl-Kraus-Auswahl</title>
+                    
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00179">Volk und Welt</publisher>
+
                     <date when="1971">1971</date>
                     <biblScope>3–88</biblScope>
+
                     <note type="comment">Eine, analog der Ausgabe, bis 1932 reichende Darstellung
                         der Entwicklung von K., ebenso interessant wie einseitig. Wertvoll das
                         Hintergrundsmaterial zu einigen Texten (z. B. zur ersten Kerr- und zur
@@ -2333,13 +2365,19 @@
                 <bibl xml:id="kab-entry-3.1.08">
                     <num type="id">3.1.08</num>
                     <num type="category">3.1</num>
-                    <author key="#kab-pers-00069">Fischer, Ernst</author>
+
+                    <author role="analytic" key="#kab-pers-00069">Fischer, Ernst</author>
                     <title level="a">Karl Kraus</title>
-                    <title level="m">EF: Von Grillparzer zu Kafka. Sechs Essays</title>
+
+                    <author role="monogr" key="#kab-pers-00069">Fischer, Ernst</author>
+                    <title level="m">Von Grillparzer zu Kafka. Sechs Essays</title>
+
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00065">Globus</publisher>
+
                     <date when="1962">1962</date>
                     <biblScope>S. 209–229</biblScope>
+
                     <note type="comment">Eine sehr differenzierende Deutung aus marxistischer Sicht.
                         K.'s Haltung wird als die eines <hi rendition="#italic">romantisch Revoltierenden</hi> definiert, der die
                         Entfremdung im Kapitalismus erlebt, aber als Gegenbild zu ihr den großen
@@ -2636,7 +2674,7 @@
                     <title level="a">Ansprache bei der Trauerfeier für Karl Kraus (1936)</title>
                     <title level="m">EK: Zur Sprache gebracht</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00104">Längen-Müller</publisher>
+                    <publisher key="#kab-org-00104">Langen-Müller</publisher>
                     <date when="1958">1958</date>
                     <biblScope>S. 224–228</biblScope>
                     <note type="comment">K 2232. Kreist um die Dialektik von Rationalität und
@@ -2784,7 +2822,7 @@
                     <title level="a">Karl Kraus (1933)</title>
                     <title level="m">RvS: Über Dichter</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00104">Längen-Müller</publisher>
+                    <publisher key="#kab-org-00104">Langen-Müller</publisher>
                     <date when="1966">1966</date>
                     <biblScope>S.259–291</biblScope>
                     <title level="s">RvS: Werke in Einzelausgaben</title>
@@ -3062,15 +3100,21 @@
                 <bibl xml:id="kab-entry-3.1.40">
                     <num type="id">3.1.40</num>
                     <num type="category">3.1</num>
-                    <author key="#kab-pers-00055">Ebner, Ferdinand</author>
+                    
+                    <author role="analytic" key="#kab-pers-00055">Ebner, Ferdinand</author>
                     <title level="a">[Karl Kraus]. Zum Problem der Sprache und des Wortes</title>
                     <title type="subtitle" level="a">Abschnitt 4. (1926)</title>
-                    <title level="m">FE: Fragmente. Aufsätze. Aphorismen</title>
+                    
+                    <author role="monogr" key="#kab-pers-00055">Ebner, Ferdinand</author>
+			        <title level="m">Fragmente. Aufsätze. Aphorismen</title>
                     <editor key="#kab-pers-00076">Franz Seyr</editor>
+                    
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher key="#kab-org-00099">Kösel</publisher>
+                    
                     <date when="1963">1963</date>
                     <biblScope unit="page">662–668</biblScope>
+                    
                     <title level="s">FE: Schriften</title>
                     <num type="series">1</num>
                     <note type="comment">Versuch einer philosophischen Deutung von K. Seine
@@ -3540,11 +3584,15 @@
                 <bibl xml:id="kab-entry-3.3.3">
                     <num type="id">3.3.3</num>
                     <num type="category">3.3</num>
-                    <author key="#kab-pers-00122">Kosten, Hermann</author>
+
+                    <author key="#kab-pers-00122">Kesten, Hermann</author>
                     <title level="a">Er hat Talente verschwendet</title>
+
                     <title level="j">Frankfurter Allgemeine Zeitung</title>
                     <date when="1974-04-27">27. April 1974</date>
+
                     <biblScope unit="page">Literaturbeilage S. 1 f.</biblScope>
+
                     <note type="comment">Verständnislos, nicht einmal zum Widerspruch
                         herausfordernd.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
@@ -4114,7 +4162,7 @@
                         Kraus</title>
                     <edition>Diss.</edition>
                     
-                    <publisher key="#kab-org-00245">Freie Universität Berlin</publisher>
+                    <publisher key="#kab-org-00247">Freie Universität Berlin</publisher>
                     
                     <date when="1958">1958</date>
                     <biblScope>133 S.</biblScope>
@@ -4283,18 +4331,25 @@
                 <bibl xml:id="kab-entry-5.2.8">
                     <num type="id">5.2.8</num>
                     <num type="category">5.2</num>
+
                     <author key="#kab-pers-00211">Mon, Franz</author>
                     <title level="a">collage in der literatur</title>
+
                     <title level="m">prinzip collage</title>
-                    <editor key="#kab-pers-00131">Institut für moderne Kunst Nürnberg</editor>
+                    <editor key="#kab-org-00240">Institut für moderne Kunst Nürnberg</editor>
                     <editor key="#kab-pers-00211">Franz Mon</editor>
                     <editor key="#kab-pers-00498">Heinz Neidel</editor>
+
                     <pubPlace key="#kab-place-00042">Neuwied</pubPlace>
                     <publisher key="#kab-org-00109">Luchterhand</publisher>
+
                     <date when="1968">1968</date>
+
                     <title level="s">interkunst</title>
                     <num type="series">1</num>
+
                     <biblScope>S. 50–62</biblScope>
+
                     <note type="comment">Sieht, S. 51 f., den Ansatz zu Collagetechniken in der
                         Literatur in dem zuerst von K. erkannten Auseinanderklaffen zwischen
                         Sprachschablonen und Realität. Der Impuls von K. wirke in vielen mit
@@ -4471,10 +4526,11 @@
                     <num type="id">6.1.09</num>
                     <num type="category">6.1</num>
                     
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Karl Kraus und die Sprache</title>
                     
-                    <title level="m">SvR: Wie ich glaube</title>
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
+			        <title level="m">Wie ich glaube</title>
                     
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <pubPlace key="#kab-place-00065">Olten</pubPlace>
@@ -4858,10 +4914,14 @@
                 <bibl xml:id="kab-entry-7.1.05">
                     <num type="id">7.1.05</num>
                     <num type="category">7.1</num>
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Rede über die Presse</title>
+                    
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="m">Das Schwarze sind die Buchstaben</title>
-                    <author key="#kab-pers-00299">SvR</author>
+                    
+                    
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <publisher key="#kab-org-00024">Burges</publisher>
                     <date when="1957">1957</date>
@@ -5038,14 +5098,19 @@
                 <bibl xml:id="kab-entry-7.3.2">
                     <num type="id">7.3.2</num>
                     <num type="category">7.3</num>
-                    <author key="#kab-pers-00097">Grimstad, Karl Anne</author>
+
+                    <author key="#kab-pers-00097">Grimstad, Kari Anne</author>
                     <title level="m">Karl Kraus as a Literary Critic with Particular Reference to
                         the Theater</title>
+
                     <pubPlace key="#kab-place-00058">Toronto</pubPlace>
                     <publisher key="#kab-org-00173">University of Toronto</publisher>
+
                     <date when="1973">1973</date>
                     <biblScope>[VII] + 376 S.</biblScope>
+
                     <edition>(Diss. masch.)</edition>
+
                     <note type="comment">Viel Material zur Kritik K.'s am Theater und am Drama
                         seiner Zeit (seine sonstige literarische Kritik wird nicht berücksichtigt).
                         die Interpretation ist eher dürftig, da K. nicht als Satiriker, sondern als
@@ -5554,12 +5619,16 @@
                 <bibl xml:id="kab-entry-7.4.4.2">
                     <num type="id">7.4.4.2</num>
                     <num type="category">7.4</num>
+
                     <author key="#kab-pers-00142">Jaromir [= Robert Ungar (?)]</author>
                     <title level="m">Letzten Endes. Eine Studie über Karl Kraus</title>
+
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00121">Moderna</publisher>
-                    <date>o. J. [recte: Brünn: Auslandsbüro österreichischer Sozialdemokraten
-                        1935]</date>
+
+                    <date>o. J.</date>
+                    <note>[recte: Brünn: Auslandsbüro österreichischer Sozialdemokraten 1935]</note>
+
                     <note type="comment">Diese seltene Schrift – die Wiener Stadtbibliothek scheint
                         das einzige Exemplar in einer öffentlichen Bibliothek zu besitzen – ist die
                         radikale Absage eines Sozialdemokraten an K. Sie setzt sich besonders mit F
@@ -5740,7 +5809,7 @@
                     <author key="#kab-pers-00336">Zohn, Harry</author>
                     <title level="a">Karl Kraus</title>
                     <title level="m">Wiener Juden in der deutschen Literatur</title>
-                    <editor key="#kab-pers-00102">HZ</editor>
+                    <editor key="#kab-pers-00336">Zohn, Harry</editor>
                     <pubPlace key="#kab-place-00057">Tel Aviv</pubPlace>
                     <publisher key="#kab-org-00125">Olamenu</publisher>
                     <date when="1964">1964</date>
@@ -6150,10 +6219,11 @@
                     <num type="id">7.6.03.2</num>
                     <num type="category">7.6</num>
                     
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Erinnerungen an Brecht</title>
                     
-                    <title level="m">SvR: Gesichtspunkte</title>
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
+			        <title level="m">Gesichtspunkte</title>
                     
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <pubPlace key="#kab-place-00065">Olten</pubPlace>
@@ -6596,15 +6666,22 @@
                 <bibl xml:id="kab-entry-8.01.4.1">
                     <num type="id">8.01.4.1</num>
                     <num type="category">8.01</num>
-                    <author key="#kab-pers-00161">Kimpel, Dieter</author>
+
+                    <author role="analytic" key="#kab-pers-00161">Kimpel, Dieter</author>
                     <title level="a">Nachwort</title>
-                    <title level="m">Karl Kraus: Die demolirte Literatur</title>
+
+                    <author role="monogr" key="#kab-pers-00175">Kraus, Karl</author>
+                    <title level="m">Die demolirte Literatur</title>
+
                     <pubPlace key="#kab-place-00055">Steinbach</pubPlace>
                     <publisher key="#kab-org-00011">Anabas</publisher>
+
                     <date when="1972">1972</date>
                     <biblScope>S. 54–64</biblScope>
+
                     <title level="s">Reihe Deutsche Satiren</title>
                     <num type="series">4</num>
+
                     <note type="comment">Gibt zunächst einige Hinweise auf die kulturelle Situation
                         Wiens um 1900 und bemüht sich dann um den Nachweis, daß K. dem
                         <hi rendition="#italic">transzendentalen sprachphilosophischen Ansatz sehr nahe</hi> komme. Auch der
@@ -6636,15 +6713,20 @@
                 <bibl xml:id="kab-entry-8.01.4.3">
                     <num type="id">8.01.4.3</num>
                     <num type="category">8.01</num>
+
                     <author key="#kab-pers-00329">Wernigg, Ferdinand</author>
                     <title level="a">60 Jahre demolierte Literatur</title>
+
                     <title level="m">Die Kleinausstellung in der wissenschaftlichen Bibliothek. Zur
                         100. Ausstellung</title>
-                    <editor key="#kab-pers-00341">Wiener Stadtbibliothek</editor>
+                    <editor key="#kab-org-00161">Wiener Stadtbibliothek</editor>
+
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00161">Stadtbibliothek</publisher>
-                    <date when="1960">1960</date>
+
+                    <date when="1960">1960</date>                    
                     <biblScope>S. I–XVI</biblScope>
+
                     <note type="comment">Bericht über eine Ausstellung aus dem Jahre 1957 mit viel
                         Material zum Wiener Literatencafé im allgemeinen und zur „Demolierten
                         Literatur" im besonderen, leider manchmal mit nicht ganz vollständigen
@@ -7028,15 +7110,20 @@
                 <bibl xml:id="kab-entry-8.03.7">
                     <num type="id">8.03.7</num>
                     <num type="category">8.03</num>
+                    
                     <author key="#kab-pers-00156">Kaufmann, Hans</author>
                     <title level="a">Zur literaturgeschichtlichen Stellung Erich Weinerts
                         (1971)</title>
+                    
                     <title level="m">Analysen, Argumente, Anregungen</title>
-                    <editor key="#kab-pers-00101">HK</editor>
+                    <editor key="#kab-pers-00156">Kaufmann, Hans</editor>
+
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00006">Akademie</publisher>
+                    
                     <date when="1973">1973</date>
                     <biblScope>S. 61–76</biblScope>
+
                     <note type="comment">S. 71 ff, ein Exkurs über die
                         <hi rendition="#italic">romantisch-antikapitalistischen Prämissen und Schlußfolgerungen</hi>, die K.'s
                         Kampf gegen den Journalismus zugrundelägen, und seinen mangelnden
@@ -7214,15 +7301,20 @@
                 <bibl xml:id="kab-entry-8.05.4">
                     <num type="id">8.05.4</num>
                     <num type="category">8.05</num>
-                    <author key="#kab-pers-00124">Hesse, Hermann</author>
+                    
+                    <author role="analytic" key="#kab-pers-00124">Hesse, Hermann</author>
                     <title level="a">[Rezension von:] Sprüche und Widersprüche (1910)</title>
-                    <title level="m">HH: Schriften zur Literatur 2. Eine Literaturgeschichte in
-                        Rezensionen und Aufsätzen</title>
+
+                    <author role="monogr" key="#kab-pers-00124">Hesse, Hermann</author>
+                    <title level="m">Schriften zur Literatur 2. Eine Literaturgeschichte in Rezensionen und Aufsätzen</title>
                     <editor key="#kab-pers-00316">Volker Michels</editor>
+
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
-                    <publisher key="#kab-org-00164">Suhkamp</publisher>
+                    <publisher key="#kab-org-00165">Suhrkamp</publisher>
+                    
                     <date when="1972">1972</date>
                     <biblScope>S. 429 f.</biblScope>
+                    
                     <note type="comment">K 707. Vor allem wegen des Autors interessant.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -7234,8 +7326,10 @@
                     <num type="category">8.05</num>
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Nachwort</title>
+
                     <title level="m">Karl Kraus: Anderthalb Wahrheiten. Aphorismen</title>
-                    <editor key="#kab-pers-00179">Kurt Krolop</editor>
+                    <editor key="#kab-pers-00179">Krolop, Kurt</editor>
+
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00144">Rütten &amp; Loening</publisher>
                     <date when="1969">1969</date>
@@ -7443,11 +7537,12 @@
                     <num type="id">8.07.2.01</num>
                     <num type="category">8.07</num>
                     
-                    <author key="#kab-pers-00041">Chiarini, Paolo</author>
+                    <author role="analytic" key="#kab-pers-00041">Chiarini, Paolo</author>
                     <title level="a">Le due apocalissi di Karl Kraus. Dalla grande guerra al Nazismo
                         (1954 bzw. 1955)</title>
                     
-                    <title level="m">PC: Romanticismo e realisrno nella letteratura tedesca</title>
+                    <author role="monogr" key="#kab-pers-00041">Chiarini, Paolo</author>
+			        <title level="m">Romanticismo e realisrno nella letteratura tedesca</title>
                     
                     <pubPlace key="#kab-place-00046">Padua</pubPlace>
                     <publisher key="#kab-org-00107">Liviana</publisher>
@@ -7647,7 +7742,7 @@
                         letzten Tage der Menschheit' von Karl Kraus</title>
                     <edition>Diss.</edition>
 
-                    <publisher key="#kab-org-00245">Freie Universität Berlin</publisher>
+                    <publisher key="#kab-org-00247">Freie Universität Berlin</publisher>
 
                     <date when="1973">1973</date>
                     <biblScope>298 S.</biblScope>
@@ -7733,16 +7828,20 @@
                 <bibl xml:id="kab-entry-8.07.2.14">
                     <num type="id">8.07.2.14</num>
                     <num type="category">8.07</num>
+
                     <author key="#kab-pers-00253">Rieder, Heinz</author>
                     <title level="a">Karl Kraus' "Die letzten Tage der Menschheit" in ihrer
                         Beziehung zur historischen Wirklichkeit</title>
-                    <title level="m">Geschichte in der Österreichischen Literatur des 19. und 20.
-                        Jahrhunderts</title>
-                    <editor key="#kab-pers-00135">Institut für Österreichkunde</editor>
+
+                    <title level="m">Geschichte in der Österreichischen Literatur des 19. und 20. Jahrhunderts</title>
+                    <editor key="#kab-org-00241">Institut für Österreichkunde</editor>
+
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00074">Hirt</publisher>
+                    
                     <date when="1970">1970</date>
                     <biblScope>S. 135–147</biblScope>
+
                     <title level="s">Schriften des Instituts für Österreichkunde</title>
                     <note type="comment">Im ganzen nur eine inhaltliche Paraphrase; eine
                         Kontrastierung des Werkes mit Fakten aus der Geschichte erfolgt nicht. So
@@ -8131,13 +8230,19 @@
                 <bibl xml:id="kab-entry-8.09.1.2">
                     <num type="id">8.09.1.2</num>
                     <num type="category">8.09</num>
+
                     <author key="#kab-pers-00167">Kohn, Caroline</author>
                     <title level="m">Karl Kraus als Lyriker</title>
+
                     <pubPlace key="#kab-place-00047">Paris</pubPlace>
-                    <publisher key="#kab-org-00035">Dicher</publisher>
+                    <publisher key="#kab-org-00035">Didier</publisher>
+
                     <date when="1968">1968</date>
                     <biblScope>VII + 183 S., 4 Seiten Beilage</biblScope>
-                    <title level="s">Germanica II</title>
+
+                    <title level="s">Germanica</title>
+                    <num type="series">11</num>
+
                     <note type="comment">Überarbeitete Diplomarbeit von 1954. Geht kaum über eine
                         inhaltliche Paraphrase der Gedichte, verbunden mit der Beteuerung ihres
                         hohen Wertes, hinaus. Nicht berücksichtigt werden die Epigramme. Von ganz
@@ -8174,10 +8279,11 @@
                     <num type="id">8.09.1.4</num>
                     <num type="category">8.09</num>
                     
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">über Karl Kraus' "Worte in Versen"</title>
                     
-                    <title level="m">SvR: Gesichtspunkte</title>
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
+			        <title level="m">Gesichtspunkte</title>
                     
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <pubPlace key="#kab-place-00065">Olten</pubPlace>
@@ -8500,13 +8606,17 @@
                 <bibl xml:id="kab-entry-8.11.1.3">
                     <num type="id">8.11.1.3</num>
                     <num type="category">8.11</num>
+
                     <author key="#kab-pers-00073">Flatter, Richard</author>
                     <title level="m">Karl Kraus als Nachdichter Shakespeares. Eine sprachkritische
                         Untersuchung</title>
+                        
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <publisher key="#kab-org-00017">Borger &amp; Fischer</publisher>
+                    <publisher key="#kab-org-00017">Berger &amp; Fischer</publisher>
+
                     <date when="1933">1933</date>
                     <biblScope>87 S.</biblScope>
+
                     <note type="comment">Polemisiert gegen K.'s Shakespeare-Übersetzung anhand einer
                         Analyse der Sonette 81, 116 und 150 sowie der Hexen-Szenen aus "Macbeth".
                         Flatter geht auf K.'s Voraussetzungen nicht ein und kommt über die
@@ -8540,13 +8650,19 @@
                 <bibl xml:id="kab-entry-8.11.1.5">
                     <num type="id">8.11.1.5</num>
                     <num type="category">8.11</num>
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Reim und Konjunktiv</title>
-                    <title level="m">SvR: Im Gegenteil</title>
+                    
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
+			        <title level="m">Im Gegenteil</title>
+                    
                     <pubPlace key="#kab-place-00063">Zürich</pubPlace>
                     <publisher key="#kab-org-00038">Diogenes</publisher>
+                    
                     <date when="1966">1966</date>
                     <biblScope>S. 43–56</biblScope>
+                    
                     <note type="comment">Eine Polemik gegen Kritiker der Sonette-Übersetzung, mit
                         einigen Beobachtungen zu sprachlichen Feinheiten dieser Übersetzung.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
@@ -8634,13 +8750,19 @@
                 <bibl xml:id="kab-entry-8.11.2.5">
                     <num type="id">8.11.2.5</num>
                     <num type="category">8.11</num>
-                    <author key="#kab-pers-00243">Radecki, Sigismund von</author>
+                    
+                    <author role="analytic" key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Blaubart. Betrachtung und Erinnerung</title>
-                    <title level="m">SvR: Der eiserne Schraubendampfer Hurricane</title>
+                    
+                    <author role="monogr" key="#kab-pers-00243">Radecki, Sigismund von</author>
+			        <title level="m">Der eiserne Schraubendampfer Hurricane</title>
+                    
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher key="#kab-org-00099">Kösel</publisher>
+                    
                     <date when="1955">1955</date>
                     <biblScope>104–113</biblScope>
+                    
                     <note type="comment">S. 109 ff. über eine Offenbach-Vorlesung von K. Identisch
                         mit K 1530. Zum "Theater der Dichtung" siehe unter den Gesamtdarstellungen
                         vor allem Weigel (<ref target="#kab-entry-2.1.09">2.1.09</ref>); ferner <ref target="#kab-entry-3.1.04">3.1.04</ref> (Cysarz), <ref target="#kab-entry-7.3.3">7.3.3</ref> (Hahnl), <ref target="#kab-entry-7.6.00.2">7.6.00.2</ref> (Kraft) und <ref target="#kab-entry-8.09.2.1">8.09.2.1</ref> (Bauer).</note>
@@ -8870,9 +8992,11 @@
                 <bibl xml:id="kab-entry-9.2.5">
                     <num type="id">9.2.5</num>
                     <num type="category">9.2</num>
+
                     <author key="#kab-pers-00262">Roth, Joseph</author>
                     <title level="m">Briefe 1911–1939</title>
-                    <editor key="#kab-pers-00122">Hermann Kosten</editor>
+                    <editor key="#kab-pers-00122">Kesten; Hermann</editor>
+
                     <pubPlace key="#kab-place-00028">Köln</pubPlace>
                     <publisher key="#kab-org-00089">Kiepenheuer &amp; Witsch</publisher>
                     <date when="1970">1970</date>
@@ -9375,7 +9499,7 @@
                     <title level="a">Alban Bergs "Lulu" (1937)</title>
                     <title level="m">EK: Zur Sprache gebracht</title>
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00104">Längen-Müller</publisher>
+                    <publisher key="#kab-org-00104">Langen-Müller</publisher>
                     <date when="1958">1958</date>
                     <biblScope>241–250</biblScope>
                     <note type="comment">S. 244 f. über die Wirkung K.'s auf Berg, dessen Auffassung
@@ -10204,9 +10328,11 @@
                 </listBibl>
 -->
 
-                <bibl xml:id="kab-entry-0.1.6b">
+                <bibl xml:id="kab-entry-0.1.7">
                     <num type="category">0.1</num>
-                    <num type="id">0.1.6</num>
+                    <num type="id">0.1.7</num>
+                    <num type="id" subtype="deprecated">0.1.6</num>
+
                     <author key="#kab-pers-00167">Kohn, Caroline</author>
                     <title level="a">Publications sur Kraus en France</title>
                     <title level="m">L'Herne. Karl Kraus (2.3.1)</title>
@@ -10216,7 +10342,9 @@
                         fehlerhaft.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 3. Fortsetzung. In: Kraus-Hefte 5
-                        (Januar 1978).</note>
+                        (Januar 1978).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 5. Fortsetzung. In: Kraus-Hefte 10/11 (Juli 1979).</note>
                 </bibl>
                 <bibl xml:id="kab-entry-0.6.1">
                     <num type="category">0.6</num>
@@ -10359,11 +10487,16 @@
                 <bibl xml:id="kab-entry-3.1.08.1">
                     <num type="category">3.1</num>
                     <num type="id">3.1.08.1</num>
+                    
                     <author key="#kab-pers-00069">Fischer, Ernst</author>
-                    <title level="m">Karl Kraus</title>
+                    <title level="a">Karl Kraus</title>
+
+                    <author key="#kab-pers-00069">Fischer, Ernst</author>
                     <title level="m">Von Grillparzer zu Kafka. Sechs Essays</title>
+                    
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00165">Suhrkamp</publisher>
+                    
                     <date when="1975">1975</date>
                     <biblScope unit="page">S. 243–266</biblScope>
                     <title level="s">suhrkamp taschenbuch</title>
@@ -10726,15 +10859,18 @@
                 <bibl xml:id="kab-entry-1.1.1.11">
                     <num type="category">1.1</num>
                     <num type="id">1.1.1.11</num>
+
                     <author key="#kab-pers-00080">Pfäfflin, Friedrich</author>
                     <title level="a">Der zweite Leser. Anmerkungen eines Herausgebers</title>
-                    <title level="m">Deutsche Akademie für Sprache und Dichtung Darmstadt.
-                        Jahrbuch</title>
-                    <date when="1975">1975</date>
+
+                    <title level="m">Deutsche Akademie für Sprache und Dichtung Darmstadt. Jahrbuch 1975</title>
+
                     <pubPlace key="#kab-place-00025">Heidelberg</pubPlace>
                     <publisher key="#kab-org-00151">Schneider</publisher>
+
                     <date when="1976">1976</date>
                     <biblScope unit="page">S. 134–145</biblScope>
+
                     <note type="comment">Fragen der Briefedition, mit einigen Hinweisen zu den
                         Handschriften der Briefe von K. an Sidonie Nádherný.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
@@ -10817,13 +10953,19 @@
                 <bibl xml:id="kab-entry-7.1.10">
                     <num type="category">7.1</num>
                     <num type="id">7.1.10</num>
+
                     <author key="#kab-pers-00008">Arntzen, Helmut</author>
                     <title level="m">Karl Kraus und die Presse</title>
+
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00183">Wilhelm Fink</publisher><date when="1975">1975</date>
+                    <publisher key="#kab-org-00055">Wilhelm Fink</publisher>
+
+                    <date when="1975">1975</date>
                     <biblScope unit="page">116 S.</biblScope>
+
                     <title level="s">Literatur und Presse. Karl-Kraus-Studien</title>
                     <num type="series">1</num>
+
                     <note type="comment">Der 1. Teil des Buches: "K. K. und die Presse" (9–58)
                         versucht, vom 'Totschweigen' K.'s durch die Presse ausgehend, den Nachweis,
                         daß Presse (Medien) nur ein <hi rendition="#italic">Selbstzweck</hi> sei. An frühen Texten K.'s
@@ -12369,12 +12511,17 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-9.2.4.2">
                     <num type="category">9.2</num>
                     <num type="id">9.2.4.2</num>
+
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="m">"Ich bin an meinen Punkt gebannt." Werner Kraft im Gespräch mit
                         Jörg Drews</title>
+
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00191">text + kritik</publisher><date when="1978">1978</date>
+                    <publisher key="#kab-org-00190">text + kritik</publisher>
+                    
+                    <date when="1978">1978</date>
                     <biblScope unit="page">32 S.</biblScope>
+
                     <note type="comment">K. ist für Kraft, der ihn 1914 zum ersten Mal gelesen hat,
                         eine nie in Frage gestellte moralische Instanz (6) gewesen, doch sieht Kraft
                         auch Grenzen von K.s Urteilsbildung, deren Hauptgewicht wesentlich auf
@@ -13079,7 +13226,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
 
 
-                <bibl xml:id="kab-entry-0.5.4.">
+                <bibl xml:id="kab-entry-0.5.4">
                     <num type="category">0.5</num>
                     <num type="id">0.5.4</num>
                     <author key="#kab-pers-00450">Schick, Sophie</author>
@@ -13325,11 +13472,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <author key="#kab-pers-00356">Bernhard Denscher, Red.</author>
                     <title level="m">Tagebuch der Straße. Geschichte in Plakaten</title>
-                    <editor key="#kab-pers-00341"> Wiener Stadt- und Landesbibliothek</editor>
+                    <editor key="#kab-org-00161"> Wiener Stadt- und Landesbibliothek</editor>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <publisher key="#kab-org-00194">Österreichischer Bundesverlag</publisher>
-					<publisher key="#kab-org-00194">Jugend &amp; Volk</publisher>
+                    <publisher key="#kab-org-00023">Österreichischer Bundesverlag</publisher>
+					<publisher key="#kab-org-00084">Jugend &amp; Volk</publisher>
 
                     <date when="1981">1981</date>
                     <biblScope unit="page">344 S.</biblScope>
@@ -13921,10 +14068,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-10.3.3">
                     <num type="category">10.3</num>
                     <num type="id">10.3.3</num>
-                    <editor key="#kab-pers-00393">Hofmann, Werner</editor>
-                    <title level="m">Experiment Weltuntergang. Wien um 1900.
-                        [Ausstellungskatalog der] Hamburger Kunsthalle</title>
-                    <editor key="#kab-pers-00514">Hamburger Kunsthalle</editor>
+
+                    <editor key="#kab-pers-00129">Hofmann, Werner</editor>
+                    <title level="m">Experiment Weltuntergang. Wien um 1900. [Ausstellungskatalog der] Hamburger Kunsthalle</title>
+
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher key="#kab-org-00131">Prestel</publisher>
                     <date when="1981">1981</date>
@@ -14080,7 +14227,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-8.07.2.20">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.19</num>
+                    <num type="id">8.07.2.20</num>
+                    <num type="id" subtype="deprecated">8.07.2.19</num>
                     
                     <author key="#kab-pers-00435">Pynsent, Robert</author>
                     <title level="a">The Last Days of Austria: Hašek and Kraus</title>
@@ -14106,23 +14254,32 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         des Weltkriegs ergeben sich Berührungspunkte.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.21">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.20</num>
+                    <num type="id">8.7.2.21</num>
+                    <num type="id" subtype="deprecated">8.07.2.20</num>
+
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Genesis und Geltung eines Warnstücks</title>
-                    <editor key="#kab-pers-00179">Kurt Krolop</editor>
+
+                    <editor key="#kab-pers-00179">Krolop, Kurt</editor>
                     <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien und
                         Kommentare</title>
+
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00179">Volk und Welt</publisher>
+
                     <date when="1978">1978</date>
                     <biblScope unit="page">S. 249–329</biblScope>
+
                     <title level="s">Karl Kraus: Ausgewählte Werke</title>
                     <num type="series">5,2</num>
+
                     <note type="comment">Souveräne und ungemein kenntnisreiche Darstellung der
                         Entstehung des Kriegsdramas im Rahmen der Kriegs-"Fackel" und der Briefe an
                         Sidonie Nádherný. Methodisch vorbildlich die detaillierte Auswertung der
@@ -14142,25 +14299,33 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         ist.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.22">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.21</num>
+                    <num type="id">8.07.2.22</num>
+                    <num type="id" subtype="deprecated">8.07.2.21</num>
+
                     <author key="#kab-pers-00254">Riha, Karl</author>
                     <title level="a">Veränderungen des Dramas in der Satire: Arno Holz, "Die
                         Blechschmiede", Karl Kraus, "Die letzten Tage der Menschheit" – ein
                         Vergleich</title>
+
                     <editor key="#kab-pers-00518">Hans-Peter Bayerdörfer</editor>
                     <editor key="#kab-pers-00528">Karl Otto Conrady</editor>
                     <editor key="#kab-pers-00520">Helmut Schanze</editor>
                     <title level="m">Literatur und Theater im Wilhelminischen Zeitalter [Festschrift
                         für Hans Schwerte]</title>
+
                     <pubPlace key="#kab-place-00087">Tübingen</pubPlace>
                     <publisher key="#kab-org-00123">Niemeyer</publisher>
+
                     <date when="1978">1978</date>
                     <biblScope unit="page">S. 107–120</biblScope>
+
                     <note type="comment">Vergleicht die beiden satirischen Monstre-Dramen (117) von
                         Holz und von K. Arbeitet an einigen Beispielen knapp vergleichbare Formen
                         des satirischen Dokumentartheaters (117) in beiden Werken heraus, zeigt aber
@@ -14168,21 +14333,29 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         veralteten Witz- und Komik-Konzeption verharrt (119 f.).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.23">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.22</num>
+                    <num type="id">8.07.2.23</num>
+                    <num type="id" subtype="deprecated">8.07.2.22</num>
+
                     <author key="#kab-pers-00447">Sander, Emil</author>
                     <title level="m">Gesellschaftliche Struktur und literarischer Ausdruck. Über
                         "Die letzten Tage der Menschheit" von Karl Kraus</title>
+
                     <pubPlace key="#kab-place-00080">Königstein/Ts.</pubPlace>
                     <publisher key="#kab-org-00156">Scriptor</publisher>
+
                     <date when="1979">1979</date>
                     <biblScope unit="page">[XIV +] 322 S.</biblScope>
+
                     <title level="s">Theorie – Kritik – Geschichte</title>
                     <num type="series">18</num>
+
                     <note type="comment">Zugleich Diss. Kassel 1977. Die Arbeit, deren Verfasser von
                         K., von seinem konkreten historischen Umfeld, von
                         literaturwissenschaftlichen Methoden und wohl überhaupt von Literatur
@@ -14202,21 +14375,29 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         in: Germanistik 21 (1980), Nr. 6153.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.24">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.23</num>
+                    <num type="id">8.07.2.24</num>
+                    <num type="id" subtype="deprecated">8.07.2.23</num>
+
                     <author key="#kab-pers-00444">Ruske, Norbert</author>
                     <title level="m">Szenische Realität und historische Wirklichkeit. Eine
                         Untersuchung zu Karl Kraus: "Die letzten Tage der Menschheit"</title>
+
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00139">Rita G. Fischer</publisher>
+
                     <date when="1981">1981</date>
                     <biblScope unit="page">[18 +] 300 S.</biblScope>
+
                     <title level="s">Literatur und Kommunikation</title>
                     <num type="series">6</num>
+
                     <note type="comment">Zugleich Diss. Mannheim 1980. Versucht, durch einen
                         Vergleich zwischen der Wirklichkeit des Ersten Weltkriegs und deren
                         Gestaltung in K.s Kriegsdrama die Perspektive zu ermitteln, <hi rendition="#italic">aus der
@@ -14235,47 +14416,63 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (1981), 16.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.25">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.24</num>
+                    <num type="id">8.07.2.25</num>
+                    <num type="id" subtype="deprecated">8.07.2.24</num>
+
                     <author key="#kab-pers-00363">Branscombe, Peter J.</author>
                     <title level="a">Some Depictions of the First World War in Austrian
                         Drama</title>
+
                     <editor key="#kab-pers-00503">Brian Oliver Murdoch</editor>
                     <editor key="#kab-pers-00534">Mark G. Ward</editor>
                     <title level="m">Studies in Modern Austrian Literature</title>
+
                     <pubPlace key="#kab-place-00076">Glasgow</pubPlace>
                     <publisher key="#kab-org-00155">Scottish Papers in Germanic Studies</publisher>
+
                     <date when="1981">1981</date>
                     <biblScope unit="page">S. 74–86</biblScope>
+
                     <title level="s">Scottish Papers in Germanic Studies</title>
                     <num type="series">1</num>
+
                     <note type="comment">Geht vor allem auf Weltkriegsdramen von Chlumberg und
                         Csokor ein und behandelt "Die letzten Tage der Menschheit" nur sehr global
                         (75–77); mit einem interessanten Gedanken über die Funktion des Schlusses
                         von V/53.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.26">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.25</num>
+                    <num type="id">8.07.2.26</num>
+                    <num type="id" subtype="deprecated">8.07.2.25</num>
+
                     <author key="#kab-pers-00052">Drews, Jörg</author>
                     <title level="a">"Denn wer den Bestien seiner Zeit genug hat angetan / der hat
                         gelebt". Notizen zu den Ähnlichkeiten zwischen Karl Kraus' "Die letzten Tage
                         der Menschheit" und Otto Nebels "Zuginsfeld"</title>
+
                     <editor key="#kab-pers-00052">Jörg Drews</editor>
-                    <title level="m">Das Tempo dieser Zeit ist keine Kleinigkeit. Zur Literatur um
-                        1918</title>
+                    <title level="m">Das Tempo dieser Zeit ist keine Kleinigkeit. Zur Literatur um 1918</title>
+
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00191">text + kritik</publisher>
+                    <publisher key="#kab-org-00190">text + kritik</publisher>
+
                     <date when="1981">1981</date>
                     <biblScope unit="page">S. 128–142</biblScope>
+
                     <note type="comment">Der Widerspruch zwischen Ideologie/Phraseologie einerseits
                         und Frontrealität andererseits (129) habe bei K. und dem gleichzeitig
                         schreibenden Otto Nebel (die erste Fassung von "Zuginsfeld" entstand 1918/19
@@ -14286,20 +14483,27 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Mystifizierung der Sprachauffassung beider Autoren.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
 
                 <bibl xml:id="kab-entry-8.07.2.27">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.26</num>
+                    <num type="id">8.07.2.27</num>
+                    <num type="id" subtype="deprecated">8.07.2.26</num>
+
                     <author key="#kab-pers-00413">Lensing, Leo A.</author>
                     <title level="a">"Kinodramatisch": Cinema in Karl Kraus' DIE FACKEL and DIE
                         LETZTEN TAGE DER MENSCHHEIT</title>
+
                     <title level="j">German Quarterly</title>
                     <num type="volume">55</num>
+
                     <date when="1982">1982</date>
                     <biblScope unit="page">S. 480–498</biblScope>
+
                     <note type="comment">Obwohl K. "kinodramatisch" schon früh mit pejorativer
                         Bedeutung verwendet (480), hat er sich mit dem Medium Film dennoch
                         intensiver auseinandergesetzt, als bisher angenommen worden ist. Verweist
@@ -14313,19 +14517,26 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (492 ff.). Sehr gründlich und informativ.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.28">
                     <num type="category">8.07</num>
-                    <num type="id">8.07.2.27</num>
+                    <num type="id">8.07.2.28</num>
+                    <num type="id" subtype="deprecated">8.07.2.27</num>
+
                     <author key="#kab-pers-00431">Pfotenhauer, Helmut</author>
                     <title level="a">Sprachsatire als Ursprung und Crux dramatischer Formen.
                         Überlegungen zu Karl Kraus</title>
+
                     <title level="j">Jahrbuch der Deutschen Schillergesellschaft</title>
                     <num type="volume">27</num>
+                    
                     <date when="1983">1983</date>
                     <biblScope unit="page">S. 326–344</biblScope>
+
                     <note type="comment">Geht, mit einem Schwerpunkt auf den "Letzten Tagen der
                         Menschheit", von Überlegungen zum Gattungsproblem aus. In der Bezeichnung
                         "Tragödie" komme K.s Wille zum Ausdruck, der tendenziell unendlichen Anzahl
@@ -14339,7 +14550,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         "Theater der Dichtung" und auf K.s Verstummen als Dramatiker ein.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 12. Fortsetzung. In: Kraus-Hefte 30
-                        (April 1984).</note>
+                        (April 1984).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33 (Januar 1985).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.3.5">
@@ -14369,11 +14582,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="category">8.07</num>
                     <num type="id">8.07.4.1</num>
                     <author key="#kab-pers-00361">Borosch, Helga</author>
-                    <author key="#kab-pers-00495">Christlieb</author>
+                    <author key="#kab-pers-00495">Hirte, Christlieb</author>
                     <author key="#kab-pers-00496">Hirte, Isolde</author>
                     <author>u. a.</author>
                     <title level="a">Register</title>
-                    <editor key="#kab-pers-00179">Kurt Krolop</editor>
+
+                    <editor key="#kab-pers-00179">Krolop, Kurt</editor>
                     <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien und
                         Kommentare</title>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -14396,7 +14610,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.07.4.2</num>
                     <author key="#kab-pers-00179">[Krolop, Kurt]</author>
                     <title level="a">Materialien</title>
-                    <editor key="#kab-pers-00179">Kurt Krolop</editor>
+                    <editor key="#kab-pers-00179">Krolop, Kurt</editor>
                     <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien und
                         Kommentare</title>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -14421,7 +14635,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.07.4.3</num>
                     <author key="#kab-pers-00179">[Krolop, Kurt]</author>
                     <title level="a">Szenenkonkordanz</title>
-                    <editor key="#kab-pers-00179">Kurt Krolop</editor>
+                    <editor key="#kab-pers-00179">Krolop, Kurt</editor>
                     <title level="m">Karl Kraus: Die letzten Tage der Menschheit. Materialien und
                         Kommentare</title>
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
@@ -14588,16 +14802,23 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-7.6.01.5">
                     <num type="category">7.6</num>
-                    <num type="id">7.6.01.4</num>
+                    <num type="id">7.6.01.5</num>
+                    <num type="id" subtype="deprecated">7.6.01.4</num>
+
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
-                    <title level="a">"Ahnenwertes Ahner". Zur Genesis und Funktion der
+                    <title level="a">"Ahnenwerthes Ahner". Zur Genesis und Funktion der
                         Traditionswahl bei Karl Kraus</title>
+
                     <title level="j">Wissenschaftliche Zeitschrift der Martin-Luther-Universität
                         Halle-Wittenberg</title>
                     <num type="volume">28</num>
+
                     <date when="1979">1979</date>
+
                     <num>Gesellschafts- und sprachwissenschaftliche Reihe. Heft 2</num>
+
                     <biblScope unit="page">S. 49–63</biblScope>
+
                     <note type="comment">Die Haltung K.s zur Tradition sei nie statisch gewesen,
                         sondern stets bewegte und bewegende Energie künstlerischer Praxis (61).
                         Übersicht über K.s Traditionswahl (51), in Hinblick u. a. auf die Zitate aus
@@ -14611,20 +14832,27 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         eine mögliche Zuschrift Gertrud Kolmars an K. (63) aufmerksam.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33
-                        (Januar 1985).</note>
+                        (Januar 1985).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 14. Fortsetzung. In: Kraus-Hefte 37 (Januar 1986).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-7.6.01.5.1">
+                <bibl xml:id="kab-entry-7.6.01.6.1">
                     <num type="category">7.6</num>
-                    <num type="id">7.6.01.5.1</num>
+                    <num type="id">7.6.01.6</num>
+                    <num type="id" subtype="deprecated">7.6.01.5</num>
+
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Ebenbild und Gegenbild. Goethe und "Goethes Volk" bei Karl
                         Kraus</title>
+
                     <title level="j">Impulse. Aufsätze, Quellen, Berichte zur deutschen Klassik und
                         Romantik</title>
                     <num type="volume">6</num>
+
                     <date when="1983">1983</date>
                     <biblScope unit="page">S. 225–251</biblScope>
+
                     <note type="comment">In einer gründlichen Interpretation von "Bekenntnis"
                         (226–229) arbeitet Krolop die kämpferische Botschaft dieses Gedichts heraus:
                         das Erbe der "alten Meister" sei für K. etwas täglich zu Eroberndes, einem
@@ -14639,12 +14867,16 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         "Faust II" in "Dritte Walpurgisnacht" nicht zitiert wird (242).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33
-                        (Januar 1985).</note>
+                        (Januar 1985).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 14. Fortsetzung. In: Kraus-Hefte 37 (Januar 1986).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-7.6.01.5.2">
+                <bibl xml:id="kab-entry-7.6.01.6.2">
                     <num type="category">7.6</num>
-                    <num type="id">7.6.01.5.2</num>
+                    <num type="id">7.6.1.6.2</num>
+                    <num type="id" subtype="deprecated">7.6.01.5.2</num>
+
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Ebenbild und Gegenbild. Goethe und "Goethes Volk" bei Karl
                         Kraus</title>
@@ -14660,7 +14892,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Identisch mit dem Vorhergehenden.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 13. Fortsetzung. In: Kraus-Hefte 33
-                        (Januar 1985).</note>
+                        (Januar 1985).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 14. Fortsetzung. In: Kraus-Hefte 37 (Januar 1986).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-7.6.02.5.10">
@@ -14670,7 +14904,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <author key="#kab-pers-00336">Zohn, Harry</author>
                     <title level="a">Trakl, Kraus, and the Brenner Circle</title>
                     
-                    <editor key="#kab-pers-00526">Joseph P. Strelka</editor>
+                    <editor key="#kab-pers-00526">Strelka, Joseph P.</editor>
                     <title level="m">Internationales Georg Trakl-Symposium. Albany, N. Y.</title> <!-- Original aus Heft 33: Internationales Georg Trakl-Symposium. Albany, N. Y. Bern: Lang 1984. Albany bezeichnet den Veranstaltungsort, nicht den Publikationsort; auch die DNB behandelt „Albany, NY“ als Bestandteil des Titels.-->
                     
                     <pubPlace key="#kab-place-00008">Bern</pubPlace>
@@ -14697,8 +14931,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <author key="#kab-pers-00428">Neumann, Peter Horst</author>
                     <title level="a">Trakl als Briefschreiber</title>
-                    <editor key="#kab-pers-00526">Joseph P. Strelka</editor>
                     
+                    <editor key="#kab-pers-00526">Strelka, Joseph P.</editor>
                     <title level="m">Internationales Georg Trakl-Symposium. Albany, N. Y.</title> <!-- Original aus Heft 33: Internationales Georg Trakl-Symposium. Albany, N. Y. Bern: Lang 1984. Albany bezeichnet den Veranstaltungsort, nicht den Publikationsort; auch die DNB behandelt „Albany, NY“ als Bestandteil des Titels.-->
                     
                     <pubPlace key="#kab-place-00008">Bern</pubPlace>
@@ -14958,7 +15192,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (Januar 1985).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.09">
+                <bibl xml:id="kab-entry-8.09.2.5">
                     <num type="category">8.09</num>
                     <num type="id">8.09</num>
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
@@ -15030,9 +15264,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (Januar 1985).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-9.1.13b">
+                <bibl xml:id="kab-entry-9.1.13">
                     <num type="category">9.1</num>
                     <num type="id">9.1.13</num>
+
                     <author key="#kab-pers-00481">Weyrer, Ursula</author>
                     <title level="m">"Das Silberboot" Eine österreichische Literaturzeitschrift
                         (1935–36, 1946–52)</title>
@@ -15330,10 +15565,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="category">3.1</num>
                     <num type="id">3.1.19</num>
                     
-                    <author key="#kab-pers-00153">Kars, Gustav</author>
+                    <author role="analytic" key="#kab-pers-00153">Kars, Gustav</author>
                     <title level="a">1874 (1974)</title>
                     
-                    <title level="m">GK: Spätlese. Lebensernte eines Außenseiters</title>
+                    <author role="monogr" key="#kab-pers-00153">Kars, Gustav</author>
+                    <title level="m">Spätlese. Lebensernte eines Außenseiters</title>
                     
                     <pubPlace key="#kab-place-00085">St. Mandé</pubPlace>
                     <publisher>Selbstverlag</publisher>
@@ -15370,10 +15606,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="category">3.1</num>
                     <num type="id">3.1.56</num>
                     
-                    <author key="#kab-pers-00153">Kars, Gustav</author>
+                    <author role="analytic" key="#kab-pers-00153">Kars, Gustav</author>
                     <title level="a">Die Wortprobe</title>
                     
-                    <title level="m">GK: Spätlese. Lebensernte eines Außenseiters</title>
+                    <author role="monogr" key="#kab-pers-00153">Kars, Gustav</author>
+                    <title level="m">Spätlese. Lebensernte eines Außenseiters</title>
                     
                     <pubPlace key="#kab-place-00085">St. Mandé</pubPlace>
                     <publisher>Selbstverlag</publisher>
@@ -15426,11 +15663,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="category">6.1</num>
                     <num type="id">6.1.04</num>
                     
-                    <author key="#kab-pers-00153">Kars, Gustav</author>
+                    <author role="analytic" key="#kab-pers-00153">Kars, Gustav</author>
                     <title level="a">L'esthétique de Karl Kraus</title>
                     <date when="1953">1953</date>
                     
-                    <title level="m">GK: Spätlese. Lebensernte eines Außenseiters</title>
+                    <author role="monogr" key="#kab-pers-00153">Kars, Gustav</author>
+                    <title level="m">Spätlese. Lebensernte eines Außenseiters</title>
                     
                     <pubPlace key="#kab-place-00085">St. Mandé</pubPlace>
                     <publisher>Selbstverlag</publisher>
@@ -15718,7 +15956,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (April 1986).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.09.2.6.">
+                <bibl xml:id="kab-entry-8.09.2.6">
                     <num type="category">8.09</num>
                     <num type="id">8.09.2.6</num>
                     <author key="#kab-pers-00174">Kraft, Werner</author>
@@ -15843,22 +16081,29 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (April 1986).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-9.1.13a">
+                <bibl xml:id="kab-entry-9.1.14.1">
                     <num type="category">9.1</num>
-                    <num type="id">9.1.13</num>
+                    <num type="id">9.1.14.1</num>
+                    <num type="id" subtype="deprecated">9.1.13</num>
+
                     <author key="#kab-pers-00108">Hartl, Edwin</author>
                     <title level="a">Hüben und drüben</title>
+
                     <title level="j">P.E.N.-Informationen (Wien)</title>
                     <num>13. Jahresbericht</num>
+
                     <date when="1985">1985</date>
                     <biblScope unit="page">S. 2–9</biblScope>
+
                     <note type="comment">Polemik gegen auf mangelnder Werkkenntnis beruhende
                         Fehlurteile über K., mit einigen wenig bekannten Fakten zur K.-Rezeption nach
                         1945. Akzentuiert vielleicht zu sehr die Schattenseiten der
                         K.-Rezeption.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 15. Fortsetzung. In: Kraus-Hefte 38
-                        (April 1986).</note>
+                        (April 1986).<lb/>
+                        Siehe auch: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
+	        			zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>
                 </bibl>
 
                 <bibl xml:id="kab-entry-9.1.15.1">
@@ -16058,12 +16303,16 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-1.2.30">
                     <num type="category">1.2</num>
                     <num type="id">1.2.30</num>
+
                     <author key="#kab-pers-00390">Halliday, John</author>
                     <title level="a">Satirist and Censor: Karl Kraus and the Censorship Authorities
                         during the First World War</title>
+
                     <title level="m">Karl Kraus in neuer Sicht (2.3.3)</title>
+
                     <date when="1986">1986</date>
                     <biblScope unit="page">S. 174–208</biblScope>
+
                     <note type="comment">Ausführliche Darstellung der K. betreffenden Wiener
                         Zensurverhältnisse, mit unveröffentlichtem Archivmaterial. Merkwürdigerweise
                         hatte K. ab 1916, als insgesamt eine Lockerung der staatlichen
@@ -16120,15 +16369,20 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-2.3.3">
                     <num type="category">2.3</num>
                     <num type="id">2.3.3</num>
+
                     <editor key="#kab-pers-00271">Scheichl, Sigurd Paul</editor>
-                    <editor key="#kab-pers-00304"> Edward Timms</editor>
+                    <editor key="#kab-pers-00304">Timms, Edward</editor>
                     <title level="m">Karl Kraus in neuer Sicht.Londoner Kraus-Symposium / Karl Kraus
                         in a New Perspective. London Kraus Symposium</title>
+
                     <pubPlace key="#kab-place-00037">München</pubPlace>
-                    <publisher key="#kab-org-00191">text + kritik</publisher>
+                    <publisher key="#kab-org-00190">text + kritik</publisher>
+
                     <date when="1986">1986</date>
                     <biblScope unit="page">255 S.</biblScope>
+
                     <title level="s">Sonderband der Kraus-Hefte</title>
+
                     <note type="comment">Alle Beiträge des zweisprachigen Bandes (jeweils mit
                         Zusammenfassungen in der anderen Sprache) sind einzeln verzeichnet.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
