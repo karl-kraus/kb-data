@@ -1475,6 +1475,34 @@
                     <idno type="Wikidata">Q134992897</idno>
                 </org>
 
+                <org xml:id="kab-org-00244">
+                    <orgName>Friedrich-Alexander-Universität Erlangen-Nürnberg</orgName>
+                    <orgName type="variant">Universität Erlangen-Nürnberg</orgName>
+                    <orgName type="variant">Erlangen-Nürnberg</orgName>
+                    <idno type="GND">2000862-4</idno>
+                    <idno type="Wikidata">Q40025</idno>
+                </org>
+
+                <org xml:id="kab-org-00245">
+                    <orgName>Bedford College</orgName>
+                    <orgName type="variant">University of London. Bedford College</orgName>
+                    <idno type="GND">1042259-6</idno>
+                    <idno type="Wikidata">Q813868</idno>
+                </org>
+
+                <org xml:id="kab-org-00245">
+                    <orgName>Freie Universität Berlin</orgName>
+                    <idno type="GND">2114189-7</idno>
+                    <idno type="Wikidata">Q153006</idno>
+                </org>
+
+                <org xml:id="kab-org-00246">
+                    <orgName>University of California, Los Angeles</orgName>
+                    <orgName type="variant">University of California at Los Angeles</orgName>
+                    <idno type="GND">2045111-8</idno>
+                    <idno type="Wikidata">Q174710</idno>
+                </org>
+
             </listOrg>
         </body>
     </text>

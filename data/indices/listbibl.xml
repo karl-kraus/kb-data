@@ -1045,13 +1045,19 @@
                 <bibl xml:id="kab-entry-1.2.15">
                     <num type="id">1.2.15</num>
                     <num type="category">1.2</num>
+                    
                     <author key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Erinnerungen an Karl Kraus</title>
+                    
                     <title level="m">SvR: Wie ich glaube</title>
-                    <pubPlace key="#kab-place-00030">Köln und Ölten</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00028">Köln</pubPlace>
+                    <pubPlace key="#kab-place-00065">Olten</pubPlace>
                     <publisher key="#kab-org-00070">Hegner</publisher>
+                    
                     <date when="1953">1953</date>
                     <biblScope>S. 21–45</biblScope>
+                    
                     <note type="comment">Zahlreiche kleine Anekdoten über den Menschen K., von denen
                         viele recht aufschlußreich scheinen. U. a. über K.'s Verhältnis zu Rilke,
                         über sein schauspielerisches Talent, über seine Beziehung zur Kirche. K
@@ -1714,14 +1720,19 @@
                 <bibl xml:id="kab-entry-2.2.05">
                     <num type="id">2.2.05</num>
                     <num type="category">2</num>
+                    
                     <author key="#kab-pers-00113">Heidemann, Christel</author>
                     <title level="a">Karl Kraus</title>
+                    
                     <title level="m">Deutsche Publizisten des 15. bis 20. Jahrhunderts</title>
                     <editor key="#kab-pers-00116">Heinz-Dietrich Fischer</editor>
+                    
                     <pubPlace key="#kab-place-00038">München-Pullach</pubPlace>
                     <publisher key="#kab-org-00039">Dokumentation</publisher>
+                    
                     <date when="1971">1971</date>
                     <biblScope>337–345</biblScope>
+                    
                     <title level="s">Publizistik-historische Beiträge</title>
                     <num type="series">I</num>
                     <note type="comment">Auszüge aus der Dissertation der Verfasserin (<ref target="#kab-entry-5.2.2">5.2.2</ref>), vor allem aus den allgemeinsten
@@ -2270,12 +2281,17 @@
                 <bibl xml:id="kab-entry-3.1.06">
                     <num type="id">3.1.06</num>
                     <num type="category">3.1</num>
+                    
                     <author key="#kab-pers-00060">Engelmann, Paul</author>
                     <title level="m">Ludwig Wittgenstein. Briefe und Begegnungen</title>
-                    <pubPlace key="#kab-place-00062">Wien und München</pubPlace>
+
+                    <pubPlace key="#kab-place-00061">Wien</pubPlace>
+                    <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher key="#kab-org-00126">Oldenbourg</publisher>
+
                     <date when="1970">1970</date>
                     <biblScope>127 S.</biblScope>
+
                     <note type="comment">Originalfassung von K 2113. Darin S. 101–110 Kapitel VII:
                         Kraus, Loos, Wittgenstein. Zeigt geistige Beziehungen Wittgensteins zu K.
                         (in Hinblick auf die Identität von Ethik und Ästhetik) und sieht in beiden
@@ -2407,13 +2423,19 @@
                 <bibl xml:id="kab-entry-3.1.11.1">
                     <num type="id">3.1.11.1</num>
                     <num type="category">3.1</num>
+                    
                     <author key="#kab-pers-00086">Fürnberg, Louis</author>
                     <title level="a">Zu einem Vorleseabend aus Werken von Karl Kraus. (1941)</title>
+                    
                     <title level="m">LF: Reden. Aufsätze. Literatur und Kunst</title>
-                    <pubPlace key="#kab-place-00007">Berlin (DDR) und Weimar</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
+                    <pubPlace key="#kab-place-00007">Weimar</pubPlace>
                     <publisher key="#kab-org-00015">Aufbau</publisher>
+                    
                     <date when="1971">1971</date>
                     <biblScope>S. 35–38</biblScope>
+                    
                     <title level="s">LF: Gesammelte Werke</title>
                     <num type="series">5</num>
                     <note type="comment">Identisch mit dem Vorhergehenden.</note>
@@ -3082,14 +3104,20 @@
                 <bibl xml:id="kab-entry-3.1.42">
                     <num type="id">3.1.42</num>
                     <num type="category">3.1</num>
+                    
                     <author key="#kab-pers-00086">Fürnberg, Louis</author>
                     <title level="a">Vorrede zu einem Karl-Kraus-Abend</title>
                     <title type="subtitle" level="a">(1942)</title>
+                    
                     <title level="m">LF: Reden. Aufsätze. Literatur und Kunst</title>
-                    <pubPlace key="#kab-place-00007">Berlin (DDR) und Weimar</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
+                    <pubPlace key="#kab-place-00007">Weimar</pubPlace>
                     <publisher key="#kab-org-00015">Aufbau</publisher>
+                    
                     <date when="1971">1971</date>
                     <biblScope unit="page">46–53</biblScope>
+                    
                     <title level="s">LF: Gesammelte Werke</title>
                     <num type="series">5</num>
                     <note type="comment">Sehr widersprüchlicher Essay, in dem K. einerseits als
@@ -4080,13 +4108,17 @@
                 <bibl xml:id="kab-entry-5.2.2">
                     <num type="id">5.2.2</num>
                     <num type="category">5.2</num>
+                    
                     <author key="#kab-pers-00113">Heidemann, Christel</author>
                     <title level="m">Satirische und polemische Formen in der Publizistik von Karl
                         Kraus</title>
                     <edition>Diss.</edition>
-                    <pubPlace key="#kab-place-00020">Freie Universität Berlin</pubPlace>
+                    
+                    <publisher key="#kab-org-00245">Freie Universität Berlin</publisher>
+                    
                     <date when="1958">1958</date>
                     <biblScope>133 S.</biblScope>
+                    
                     <note type="comment">Die Arbeit beschreibt zunächst K.'s zunehmende Abkehr vom
                         Publikum (wobei sie den Autor manchmal zu wörtlich nimmt). Zwischen Polemik
                         und Satire unterscheidet sie im Sinne Lieglers: aufgrund der Einschätzung
@@ -4126,11 +4158,13 @@
                 <bibl xml:id="kab-entry-5.2.3">
                     <num type="id">5.2.3</num>
                     <num type="category">5.2</num>
+                    
                     <author key="#kab-pers-00147">Jones, H. S.</author>
                     <title level="m">Forms of Satire in Karl Kraus</title>
                     <edition>Diss. (masch.)</edition>
-                    <pubPlace key="#kab-place-00033">University of London. Bedford
-                        College</pubPlace>
+                    
+                    <publisher key="#kab-org-00245">University of London. Bedford College</publisher>
+
                     <date when="1972">1971/72</date>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -4436,13 +4470,19 @@
                 <bibl xml:id="kab-entry-6.1.09">
                     <num type="id">6.1.09</num>
                     <num type="category">6.1</num>
+                    
                     <author key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Karl Kraus und die Sprache</title>
+                    
                     <title level="m">SvR: Wie ich glaube</title>
-                    <pubPlace key="#kab-place-00029">Köln und Olten</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00028">Köln</pubPlace>
+                    <pubPlace key="#kab-place-00065">Olten</pubPlace>
                     <publisher key="#kab-org-00070">Hegner</publisher>
+                    
                     <date when="1953">1953</date>
                     <biblScope>S. II–20</biblScope>
+                    
                     <note type="comment">K 1783. Betont das jüdische Element in K.'s Denken über die
                         Sprache.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
@@ -4604,14 +4644,19 @@
                 <bibl xml:id="kab-entry-6.2.2">
                     <num type="id">6.2.2</num>
                     <num type="category">6.2</num>
+                    
                     <author key="#kab-pers-00317">Wagenknecht, Christian Johannes</author>
                     <title level="m">Das Wortspiel bei Karl Kraus</title>
+                    
                     <pubPlace key="#kab-place-00023">Göttingen</pubPlace>
-                    <publisher key="#kab-org-00176">Vandenhoedt &amp; Ruprecht</publisher>
+                    <publisher key="#kab-org-00175">Vandenhoeck &amp; Ruprecht</publisher>
+                    
                     <date when="1965">1965</date>
                     <biblScope>175 S.</biblScope>
+                    
                     <title level="s">Palaestra</title>
                     <num type="series">242</num>
+                    
                     <note type="comment">Die wichtigste Arbeit zum Sprachgebrauch K.'s. Weist eine
                         zunehmende relative Häufigkeit der Wortspiele nach, die als Mittel der Kürze
                         und des Witzes analysiert werden. Ihre Funktion für K.'s Kritik der Phrase
@@ -5115,12 +5160,16 @@
                 <bibl xml:id="kab-entry-7.4.1.1">
                     <num type="id">7.4.1.1</num>
                     <num type="category">7.4</num>
+                    
                     <author key="#kab-pers-00068">Field, Frank</author>
                     <title level="m">The Last Days of Mankind. Karl Kraus and His Vienna</title>
+                    
                     <pubPlace key="#kab-place-00033">London</pubPlace>
                     <publisher key="#kab-org-00114">Macmillan</publisher>
+                    
                     <date when="1967">1967</date>
                     <biblScope>XII + 280 S.</biblScope>
+                    
                     <note type="comment">Eine historisch ausgerichtete Arbeit, der es nicht ganz
                         gelingt, die Verbindung zwischen politischer Geschichte und Literatur
                         herzustellen. K.'s kulturkritische Position ist wohl nicht ganz verstanden
@@ -5223,13 +5272,17 @@
                 <bibl xml:id="kab-entry-7.4.2.3">
                     <num type="id">7.4.2.3</num>
                     <num type="category">7.4</num>
+                    
                     <author key="#kab-pers-00330">Williams, Cedric E.</author>
                     <title level="m">The Broken Eagle. The Politics of Austrian Literature from
                         Empire to Anschluss</title>
+                    
                     <pubPlace key="#kab-place-00033">London</pubPlace>
                     <publisher key="#kab-org-00050">Elek</publisher>
+                    
                     <date when="1974">1974</date>
                     <biblScope>XXII + 281 S.</biblScope>
+                    
                     <note type="comment">Zuerst als Dissertation, Cambridge 1968/69. Behandelt K.'s
                         Reaktionen auf die Politik von 1914 bis 1934 relativ ausführlich (S. 187 bis
                         235); sie gelten dem Verfasser als die wichtigste literarische Antwort auf
@@ -5355,7 +5408,7 @@
                     <author key="#kab-pers-00194">Lusher, Harold E.</author>
                     <title level="m">Joseph Roth, Robert Musil and Karl Kraus: Their Image of the
                         Old Monarchy and the Emperor Franz Joseph</title>
-                    <pubPlace key="#kab-place-00002">Baltimore, Md.</pubPlace>
+                    <pubPlace key="#kab-place-00001">Baltimore, Md.</pubPlace>
                     <publisher key="#kab-org-00082">Johns Hopkins University</publisher>
                     <date when="1956">1956</date>
                     <biblScope>296 S.</biblScope>
@@ -5477,11 +5530,15 @@
                 <bibl xml:id="kab-entry-7.4.4.1">
                     <num type="id">7.4.4.1</num>
                     <num type="category">7.4</num>
+                    
                     <author key="#kab-pers-00032">Brügel, Johann Wolfgang</author>
                     <title level="m">Antwort an Karl Kraus</title>
+                    
                     <pubPlace key="#kab-place-00048">Prag</pubPlace>
                     <date when="1934">1934</date>
+                    
                     <biblScope>32 hektographierte Seiten.</biblScope>
+                    
                     <note type="comment">Kopien im Karl-Kraus-Archiv, Wien, und im Brenner-Archiv,
                         Innsbruck. Sozialdemokratische Reaktion auf „Warum Die Fackel nicht
                         erscheint" (F 890/905, Juli 1934); Brügel war in diesem Heft (253 ff.)
@@ -5813,12 +5870,16 @@
                 <bibl xml:id="kab-entry-7.6.02">
                     <num type="id">7.6.02</num>
                     <num type="category">7.6</num>
+                    
                     <author key="#kab-pers-00112">Haueis, Eduard</author>
-                    <title level="m">Karl Klaus und der Expressionismus</title>
+                    <title level="m">Karl Kraus und der Expressionismus</title>
                     <edition>Diss.</edition>
-                    <pubPlace key="#kab-place-00018">Erlangen-Nürnberg</pubPlace>
+                    
+                    <publisher key="#kab-org-00244">Erlangen-Nürnberg</publisher>
+                    
                     <date when="1968">1968</date>
                     <biblScope>[IV] + 193 S.</biblScope>
+                    
                     <note type="comment">Eine sehr reichhaltige und informative Arbeit, in der zunächst, zum Teil aufgrund von unveröffentlichtem Material, die Fakten von K. 's Kontakten zu Vorläufern des Expressionismus und zu Expressionisten dargestellt werden (Strindberg, Wedekind, Waiden und der "Sturm", Pfemfert und die "Aktion", Werfel, Ehrenstein, die Regisseure Jeßner und Piscator), dann aber auch die wesentlichen Übereinstimmungen und Differenzen zwischen K. und den Expressionisten analysiert werden. In den poetologischen Grundsätzen sieht Haueis dabei <hi rendition="#italic">weitgehende Übereinstimmung</hi> gegeben. Zum Abbruch der Beziehungen hätten die erste Kerr-Polemik sowie der Protest gegen den Ästhetizismus des Futuristischen Manifests beigetragen. S. 161 ff. wertvolle Gedanken zur "Dritten Walpurgisnacht"</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
@@ -5885,24 +5946,30 @@
                 <bibl xml:id="kab-entry-7.6.02.3.1">
                     <num type="id">7.6.02.3.1</num>
                     <num type="category">7.6</num>
+                    
                     <author key="#kab-pers-00286">Smith, Clyde Robert</author>
                     <title level="m">Karl Kraus and Franz Werfel. The Conflict Between Sorcerer and
                         Mystic</title>
                     <edition>Diss. (masch.)</edition>
-                    <pubPlace key="#kab-place-00060">University of California at Los
-                        Angeles</pubPlace>
+                    
+                    <publisher key="#kab-org-00246">University of California at Los Angeles</publisher>
+                    
                     <date when="1970">1970</date>
-                    <biblScope>IX + 209 S.</biblScope> Kurzfassung in: Dissertation Abstracts
-                    International Reihe A. Band 31. Nr. 12. Juni 1971. 6633 A. University Microfilm
-                    71–16.364. Standort des Mikrofilms in der Österreichischen Nationalbibliothek:
-                    MF 170. <note type="comment">Der Arbeit geht es vor allem um die Spuren der
+                    <biblScope>IX + 209 S.</biblScope>
+                    
+                    <note type="comment"> Kurzfassung in: Dissertation Abstracts
+                        International Reihe A. Band 31. Nr. 12. Juni 1971. 6633 A. University Microfilm
+                        71–16.364.
+                    
+                        Standort des Mikrofilms in der Österreichischen Nationalbibliothek:
+                        MF 170. Der Arbeit geht es vor allem um die Spuren der
                         K.-Polemik im Werk Werfeis. Für K. ergiebig ist die Kontrastierung der
                         Sprachauffassung der beiden Autoren zu Beginn (Sprachglaube bei K.,
                         Ungenügen der Sprache für Werfel), die Interpretation von "Elysisches", das
                         als Parodie von Werfeis "Vater und Sohn" (1913) erkannt wird, und von
                         "Literatur". Trägt sehr viel Material aus Werfeis Werk zusammen. Was die
                         Genese des Konflikts betrifft, zum Teil durch den Briefkommentar Pfäfflins
-                            (<ref target="#kab-entry-1.1.1">1.1.1</ref>) überholt.</note>
+                        (<ref target="#kab-entry-1.1.1">1.1.1</ref>) überholt.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. München: edition text + kritik
                         1975.</note>
@@ -6082,13 +6149,19 @@
                 <bibl xml:id="kab-entry-7.6.03.2">
                     <num type="id">7.6.03.2</num>
                     <num type="category">7.6</num>
+                    
                     <author key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">Erinnerungen an Brecht</title>
+                    
                     <title level="m">SvR: Gesichtspunkte</title>
-                    <pubPlace key="#kab-place-00030">Köln und Ölten</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00028">Köln</pubPlace>
+                    <pubPlace key="#kab-place-00065">Olten</pubPlace>
                     <publisher key="#kab-org-00070">Hegner</publisher>
+                    
                     <date when="1964">1964</date>
                     <biblScope>S. 80–88</biblScope>
+                    
                     <note type="comment">Mit einigen Erinnerungen an das Verhältnis K.-Brecht, Zu
                         den Beziehungen zwischen K. und Brecht siehe Brechts Äußerungen über K.
                         (3.4.2) und die Briefe Walter Benjamins (<ref target="#kab-entry-3.4.1.2">3.4.1.2</ref>); ferner <ref target="#kab-entry-1.1.3">1.1.3</ref>
@@ -6186,13 +6259,17 @@
                 <bibl xml:id="kab-entry-7.6.05.2">
                     <num type="id">7.6.05.2</num>
                     <num type="category">7.6</num>
+                    
                     <editor key="#kab-pers-00333">Wunberg, Gotthard</editor>
                     <title level="m">Hofmannsthal im Urteil seiner Kritiker. Dokumente zur
                         Wirkungsgeschichte Hugo von Hofmannsthals in Deutschland</title>
+                    
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00014">Athenäum</publisher>
+                    
                     <date when="1972">1972</date>
                     <biblScope>612 S.</biblScope>
+                    
                     <note type="comment">Druckt einige Texte K.'s über Hofmannsthal, gibt S. 476-479
                         einen Abriß der Beziehungen K.'s zu Hofmannsthal mit einer Bibliographie der
                         Äußerungen K. s über Hofmannsthal. S. 530 f. ein Kommentar zum „Großen
@@ -6624,7 +6701,7 @@
                     <title level="m">Literatur und Politik. Geschichte und Programme der
                         politisch-literarischen Zeitschriften im deutschen Sprachgebiet seit
                         1870</title>
-                    <pubPlace key="#kab-place-00065">Ölten</pubPlace>
+                    <pubPlace key="#kab-place-00065">Olten</pubPlace>
                     <publisher key="#kab-org-00182">Walter</publisher>
                     <date when="1963">1963</date>
                     <biblScope>376 S.</biblScope>
@@ -6973,13 +7050,17 @@
                 <bibl xml:id="kab-entry-8.04.1">
                     <num type="id">8.04.1</num>
                     <num type="category">8.04</num>
+                    
                     <author key="#kab-pers-00028">Brill, Siegfried</author>
                     <title level="m">Die Komödie der Sprache. Untersuchungen zum Werke Johann
                         Nestroys</title>
+                    
                     <pubPlace key="#kab-place-00045">Nürnberg</pubPlace>
                     <publisher key="#kab-org-00030">Carl</publisher>
+                    
                     <date when="1967">1967</date>
                     <biblScope>232 S.</biblScope>
+                    
                     <title level="s">Erlanger Beiträge zur Sprach- und Kunstwissenschaft</title>
                     <num type="series">28</num>
                     <note type="comment">Betont S. 11 f. den Wert von K.'s Essay für das Verständnis
@@ -7361,14 +7442,19 @@
                 <bibl xml:id="kab-entry-8.07.2.01">
                     <num type="id">8.07.2.01</num>
                     <num type="category">8.07</num>
+                    
                     <author key="#kab-pers-00041">Chiarini, Paolo</author>
                     <title level="a">Le due apocalissi di Karl Kraus. Dalla grande guerra al Nazismo
                         (1954 bzw. 1955)</title>
+                    
                     <title level="m">PC: Romanticismo e realisrno nella letteratura tedesca</title>
+                    
                     <pubPlace key="#kab-place-00046">Padua</pubPlace>
                     <publisher key="#kab-org-00107">Liviana</publisher>
+                    
                     <date when="1961">1961</date>
                     <biblScope>S. 175–191</biblScope>
+                    
                     <title level="s">Biblioteca di Cultura</title>
                     <note type="comment">Der erste der beiden hier vereinten Aufsätze behandelt die
                         "Letzten Tage" im Rahmen der Entwicklung des deutschen Dramas vom Barock zum
@@ -7406,13 +7492,18 @@
                 <bibl xml:id="kab-entry-8.07.2.03">
                     <num type="id">8.07.2.03</num>
                     <num type="category">8.07</num>
+                    
                     <author key="#kab-pers-00050">Dietze, Walter</author>
                     <title level="a">'die letzten Tage der Menschheit' von Karl Kraus –
                         Dramaturgische Besonderheiten eines Antikriegs-Schauspiels (1962)</title>
+                    
                     <title level="m">WD: Erbe und Gegenwart. Aufsätze zur vergleichenden
                         Literaturgeschichte</title>
-                    <pubPlace key="#kab-place-00007">Berlin (DDR) und Weimar</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
+                    <pubPlace key="#kab-place-00007">Weimar</pubPlace>
                     <publisher key="#kab-org-00015">Aufbau</publisher>
+
                     <date when="1972">1972</date>
                     <biblScope>S. 220 bis 246, 519–525</biblScope>
                     <note type="comment">K 174. die formalen Besonderheiten des Dramas erklären sich
@@ -7550,13 +7641,17 @@
                 <bibl xml:id="kab-entry-8.07.2.10">
                     <num type="id">8.07.2.10</num>
                     <num type="category">8.07</num>
+                    
                     <author key="#kab-pers-00205">Melzer, Gerhard</author>
                     <title level="m">Der Nörgler und die Anderen. Zur Anlage der Tragödie "Die
                         letzten Tage der Menschheit' von Karl Kraus</title>
                     <edition>Diss.</edition>
-                    <pubPlace key="#kab-place-00020">Freie Universität Berlin</pubPlace>
+
+                    <publisher key="#kab-org-00245">Freie Universität Berlin</publisher>
+
                     <date when="1973">1973</date>
                     <biblScope>298 S.</biblScope>
+
                     <note type="comment">Viele Beobachtungen zur Form des Kriegsdramas – etwa zu
                         einzelnen Leitmotiven (Frau und Moral, Operettentitel) und zur, in der
                         zweiten Fassung verschärften, Diskrepanz zwischen Szenenfolge und Ablauf der
@@ -7699,13 +7794,17 @@
                 <bibl xml:id="kab-entry-8.07.2.17">
                     <num type="id">8.07.2.17</num>
                     <num type="category">8.07</num>
+                    
                     <author key="#kab-pers-00293">Stempfer, Rene</author>
                     <title level="m">Les idees et la langue de Karl Kraus dans "Les derniers jours
                         de l'humanité"</title>
                     <edition>Diss. (masch.)</edition>
-                    <pubPlace key="#kab-place-00032">Lilie</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00032">Lille</pubPlace>
+                    
                     <date when="1963">1963</date>
                     <biblScope>234 S.</biblScope>
+                    
                     <note type="comment">Stellt zuerst Themen des Dramas zusammen (vor allem die
                         Variationen des Verfallsthemas), dann verschiedene sprachliche Mittel
                         (fehlerhaft!). Neben Detailbeobachtungen ist der Vergleich zwischen Aufbau
@@ -8074,13 +8173,19 @@
                 <bibl xml:id="kab-entry-8.09.1.4">
                     <num type="id">8.09.1.4</num>
                     <num type="category">8.09</num>
+                    
                     <author key="#kab-pers-00243">Radecki, Sigismund von</author>
                     <title level="a">über Karl Kraus' "Worte in Versen"</title>
+                    
                     <title level="m">SvR: Gesichtspunkte</title>
-                    <pubPlace key="#kab-place-00030">Köln und Ölten</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00028">Köln</pubPlace>
+                    <pubPlace key="#kab-place-00065">Olten</pubPlace>
                     <publisher key="#kab-org-00070">Hegner</publisher>
+                    
                     <date when="1964">1964</date>
                     <biblScope>S. 89–93</biblScope>
+                    
                     <note type="comment">Führt über eine Einführung in K.'s Biographie zum
                         Bewußtsein <hi rendition="#italic">der in Schöpfung und Welt beschlossenen Antithetik</hi> als der Wurzel
                         des K.'schen Denkens, zur Ursprungsidee und zu K.'s Bemühen um die
@@ -8861,13 +8966,18 @@
                 <bibl xml:id="kab-entry-9.2.10">
                     <num type="id">9.2.10</num>
                     <num type="category">9.2</num>
+                    
                     <author key="#kab-pers-00130">Hofmiller, Josef</author>
                     <title level="m">Ausgewählte Briefe</title>
+                    
                     <editor key="#kab-pers-00132">Hulda Hofmiller</editor>
+                    
                     <pubPlace key="#kab-place-00036">Memmingen</pubPlace>
                     <publisher key="#kab-org-00036">Dietrich</publisher>
+                    
                     <date when="1955">1955</date>
                     <biblScope>351 S.</biblScope>
+                    
                     <note type="comment">S. 148 über Spuren K.'scher Intoleranz bei Haecker; S. 186
                         f. über Hofmillers zunehmende Ablehnung von K.'s Werk, an dem er die frühen
                         "Fackel-Jahrgänge am meisten schätzt.</note>
@@ -9811,7 +9921,7 @@
                     <author key="#kab-pers-00381">Gilman, Sander L.</author>
                     <title level="m">The Parodic Sermon in European Perspective. Aspects of
                         Liturgical Parody from the Middle Ages to the Twentieth Century</title>
-                    <pubPlace key="#kab-place-00066">Wiesbaden</pubPlace>
+                    <pubPlace key="#kab-place-00089">Wiesbaden</pubPlace>
                     <publisher key="#kab-org-00162">Steiner</publisher>
                     <date when="1974">1974</date>
                     <biblScope unit="page">XI + 244 S.</biblScope>
@@ -10878,15 +10988,22 @@
                 <bibl xml:id="kab-entry-8.02.10">
                     <num type="category">8.02</num>
                     <num type="id">8.02.10</num>
+                    
                     <author key="#kab-pers-00418">Lunzer-Lindhausen, Marianne</author>
                     <title level="a">Die Fackel (1899–1936)</title>
+                    
                     <editor key="#kab-pers-00116">Heinz Dieter Fischer</editor>
                     <title level="m">Deutsche Zeitschriften des 17. bis 20. Jahrhunderts</title>
-                    <pubPlace key="#kab-place-00083">Pullach bei München</pubPlace>
-                    <publisher key="#kab-org-00039">Dokumentation</publisher><date when="1973">1973</date>
+                    
+                    <pubPlace key="#kab-place-00038">Pullach bei München</pubPlace>
+                    <publisher key="#kab-org-00039">Dokumentation</publisher>
+                    
+                    <date when="1973">1973</date>                    
                     <biblScope unit="page">S. 281–289</biblScope>
+                    
                     <title level="s">Publizistik-historische Beiträge</title>
                     <num type="series">3</num>
+                    
                     <note type="comment">Geht über Bekanntes nicht hinaus; bemerkenswert nur die –
                         überspitzte und nicht weiter begründete – Formulierung, das Wort "Presse"
                         sei bei K. eine <hi rendition="#italic">Metapher</hi> [...] <hi rendition="#italic">für die Gesamtheit der von der
@@ -10974,16 +11091,23 @@
                 <bibl xml:id="kab-entry-0.1.6.1">
                     <num type="category">0.1</num>
                     <num type="id">0.1.6.1</num>
+                    
                     <author key="#kab-pers-00451">Schlösser, Manfred</author>
                     <title level="a">Bibliographie aller Schriften und Einzelbeiträge von Werner
                         Kraft</title><author key="#kab-pers-00174">Werner Kraft</author>
+                    
                     <title level="m">Der Chandos-Brief und andere Aufsätze über Hofmannsthal</title>
-                    <pubPlace key="#kab-place-00071">Darmstadt-Berlin (W)</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00014">Darmstadt</pubPlace>
+                    <pubPlace key="#kab-place-00005">Berlin (W)</pubPlace>
                     <publisher key="#kab-org-00004">Agora</publisher>
+                    
                     <date when="1977">1977</date>
                     <biblScope unit="page">S. 81–99</biblScope>
+                    
                     <title level="s">Erato-Druck</title>
                     <num type="series">16</num>
+                    
                     <note type="comment">Vollständiger als <ref target="#kab-entry-0.1.6">0.1.6</ref>, erfaßt noch Veröffentlichungen des Jahres <date when="1977">1977</date></note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 5. Fortsetzung. In: Kraus-Hefte 10/11
@@ -11381,13 +11505,19 @@
                 <bibl xml:id="kab-entry-7.6.05.8a">
                     <num type="category">7.6</num>
                     <num type="id">7.6.05.8</num>
+                    
                     <author key="#kab-pers-00174">Kraft, Werner</author>
                     <title level="m">Der Chandos-Brief und andere Aufsätze über Hofmannsthal</title>
-                    <pubPlace key="#kab-place-00071">Darmstadt-Berlin (W)</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00014">Darmstadt</pubPlace>
+                    <pubPlace key="#kab-place-00005">Berlin (W)</pubPlace>
                     <publisher key="#kab-org-00004">Agora</publisher>
+                    
                     <date when="1977">1977</date>
+                    
                     <title level="s">Erato-Druck</title>
                     <num type="series">16</num>
+                    
                     <note type="comment">Mehrere Hinweise auf K.: auf den Unterschied zwischen der
                         Sprachauffassung K.s und der Hofmannsthals (36 f.); auf die Möglichkeit,
                         Hofmannsthals Stilkopien anders zu werten, als K. es getan hat (67 ff.): auf
@@ -11416,13 +11546,17 @@
                 <bibl xml:id="kab-entry-7.7.1">
                     <num type="category">7.7</num>
                     <num type="id">7.7.1</num>
+                    
                     <author key="#kab-pers-00469">Szasz, Thomas</author>
                     <title level="m">Karl Kraus and the Soul-Doctors: A Pioneer Critic and His
                         Criticism of Psychiatry and Psychoanalysis</title>
-                    <pubPlace key="#kab-place-00033">London</pubPlace><publisher key="#kab-org-00141">Routledge &amp;
-                        Kegan Paul</publisher>
+                    
+                    <pubPlace key="#kab-place-00033">London</pubPlace>
+                    <publisher key="#kab-org-00141">Routledge &amp; Kegan Paul</publisher>
+
                     <date when="1977">1977</date>
                     <biblScope unit="page">XVIII + 180 S.</biblScope>
+
                     <note type="comment">Dasselbe: Baton Rouge: Louisiana State University Press
                             <date when="1976">1976</date> Kein Buch über K., sondern eine Polemik
                         gegen die Psychoanalyse. K. wird nur als Kronzeuge gegen Freud verwendet
@@ -11504,14 +11638,20 @@
                 <bibl xml:id="kab-entry-8.05.6">
                     <num type="category">8.05</num>
                     <num type="id">8.05.6</num>
+                    
                     <author key="#kab-pers-00395">Huppert, Hugo</author>
                     <title level="a">Das Hauptwort ist der Kopf. Bemerkungen über
                         Karl-Kraus-Aphoristik (1956)</title>
+                    
                     <title level="m">HH: Minuten und Momente. Ausgewählte. Publizistik</title>
-                    <pubPlace key="#kab-place-00077">Halle-Leipzig</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00077">Halle</pubPlace>
+                    <pubPlace key="#kab-place-00031">Leipzig</pubPlace>
                     <publisher key="#kab-org-00120">Mitteldeutscher Verlag</publisher>
+                    
                     <date when="1978">1978</date>
                     <biblScope unit="page">S. 370–373</biblScope>
+                    
                     <title level="s">HH: Gesammelte Werke in Einzelausgaben</title>
                     <note type="comment">KKB K 126. Neben viel Lob für die Form der Aphorismen auch
                         Kritik aus marxistischer Sicht. In vielen Aphorismen habe nicht
@@ -12003,11 +12143,17 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-7.5.8">
                     <num type="category">7.5</num>
                     <num type="id">7.5.8</num>
+                    
                     <author key="#kab-pers-00472">Tietze, Hans</author>
                     <title level="m">Die Juden Wiens. Geschichte – Wirtschaft – Kultur</title>
-                    <pubPlace key="#kab-place-00081">Leipzig und Wien</pubPlace>
-                    <publisher key="#kab-org-00045">E. P. Tal</publisher><date when="1933">1933</date>
+                    
+                    <pubPlace key="#kab-place-00031">Leipzig</pubPlace>
+                    <pubPlace key="#kab-place-00061">Wien</pubPlace>
+                    <publisher key="#kab-org-00045">E. P. Tal</publisher>
+                    
+                    <date when="1933">1933</date>
                     <biblScope unit="page">301 S.</biblScope>
+                    
                     <note type="comment">KKB K 1248. Über K. 266 f. und 269 f. Betont den
                         Zusammenhang zwischen Judentum und Presse in Wien; K.s Kampf gegen die
                         Presse wird auf Selbsthaß gegenüber seinem Milieu zurückgeführt. Der
@@ -12246,12 +12392,14 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-0.2.2">
                     <num type="category">0.2</num>
                     <num type="id">0.2.2</num>
+                    
                     <editor key="#kab-pers-00096">Greve, Ludwig</editor>
                     <editor key="#kab-pers-00492">Meyer, Jochen</editor>
                     <title level="m">Das 20. Jahrhundert. Von Nietzsche bis zur Gruppe 47. Ständige
                         Ausstellung des Schiller-Nationalmuseums und des Deutschen Literaturarchivs
                         Marbach am Neckar</title>
-                    <pubPlace key="#kab-place-00082">Marbach</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00035">Marbach</pubPlace>
                     <publisher key="#kab-org-00199">Deutsche Schillergesellschaft</publisher>
                     
                     <publisher key="#kab-org-00099">(München: Kösel in Kommission)</publisher>
@@ -12565,7 +12713,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <date when="1978">1978</date>
 
-                    <pubPlace key="#kab-place-00082">Marbach</pubPlace>
+                    <pubPlace key="#kab-place-00035">Marbach</pubPlace>
                     <publisher key="#kab-org-00148">Schiller-Nationalmuseum</publisher>
                     
                     <publisher key="#kab-org-00099">(München: Kösel in Kommission)</publisher>
@@ -12843,7 +12991,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="j">The Psychoanalytic Review</title>
                     <num type="volume">65</num>
                     <title level="s">Special Issue of the Psychoanalytic Review</title>
-                    <pubPlace key="#kab-place-00088">New York</pubPlace>
+                    <pubPlace key="#kab-place-00043">New York</pubPlace>
                     <publisher key="#kab-org-00075">Human Sciences Press</publisher>
                     <date when="1978">1978</date>
                     <biblScope unit="page">S. 95–108</biblScope>
@@ -13100,13 +13248,19 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <author key="#kab-pers-00366">Bähr, Rudolf</author>
                     <title level="m">Grundlagen für Karl Kraus' Kritik an der Sprache im
                         nationalsozialistischen Deutschland</title>
-                    <pubPlace key="#kab-place-00079">Köln und Wien</pubPlace>
+                    
+                    <pubPlace key="#kab-place-00028">Köln</pubPlace>
+                    <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00026">Böhlau</publisher>
+                    
                     <date when="1977">1977</date>
                     <biblScope unit="page">VI + 156 S.</biblScope>
+                    
                     <title level="s">böhlauforum litterarum</title>
                     <num type="series">8</num>
+                    
                     <edition>Dissertation Freie Universität Berlin.</edition>
+                    
                     <note type="comment">Die dogmatisch marxistische Arbeit, im einzelnen wie im
                         gesamten fehlerhaft und K. gegenüber verständnislos, beschäftigt sich nur
                         auf einem Viertel ihres Raums mit K.s Kritik am nationalsozialistischen
@@ -13400,13 +13554,16 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-9.1.9.1">
                     <num type="category">9.1</num>
                     <num type="id">9.1.9.1</num>
+                    
                     <author key="#kab-pers-00358">Bilke, Martina</author>
                     <title level="m">Zeitgenossen der "Fackel". Ein Beitrag zur Wirkungsgeschichte
                         von Karl Kraus (1899–1936)</title>
                     <edition>Dissertation Mainz<date>1979.</date></edition>
+                    
                     <pubPlace key="#kab-place-00086">Trier</pubPlace>
                     <date when="1979">1979</date>
                     <biblScope unit="page">IV+ 390 S.</biblScope>
+                    
                     <note type="comment">Dissertationsfassung des Vorhergehenden.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte
                         Auswahlbibliographie zu Karl Kraus. 10. Fortsetzung. In: Kraus-Hefte 28
@@ -13924,16 +14081,21 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-8.07.2.20">
                     <num type="category">8.07</num>
                     <num type="id">8.07.2.19</num>
+                    
                     <author key="#kab-pers-00435">Pynsent, Robert</author>
                     <title level="a">The Last Days of Austria: Hašek and Kraus</title>
+                    
                     <editor key="#kab-pers-00523">Holger Klein</editor>
                     <title level="m">The First World War in Fiction. A Collection of Critical
                         Essays</title>
                     <edition>2. Aufl.</edition>
+                    
                     <pubPlace key="#kab-place-00033">London</pubPlace>
                     <publisher key="#kab-org-00114">Macmillan</publisher>
+                    
                     <date when="1978">1978</date>
                     <biblScope unit="page">S. 136–148, 227 f.</biblScope>
+                    
                     <note type="comment">Ausgangspunkt ist eher der volkstümliche "Schwejk" Hašeks
                         als das intellektuelle Kriegsdrama K.s (147). Gemeinsam sei beiden Werken
                         das Bewußtsein, daß man den Ersten Weltkrieg, der alle Regeln menschlichen
@@ -14509,9 +14671,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="a">Trakl, Kraus, and the Brenner Circle</title>
                     
                     <editor key="#kab-pers-00526">Joseph P. Strelka</editor>
-                    <title level="m">Internationales Georg Trakl-Symposium</title>
+                    <title level="m">Internationales Georg Trakl-Symposium. Albany, N. Y.</title> <!-- Original aus Heft 33: Internationales Georg Trakl-Symposium. Albany, N. Y. Bern: Lang 1984. Albany bezeichnet den Veranstaltungsort, nicht den Publikationsort; auch die DNB behandelt „Albany, NY“ als Bestandteil des Titels.-->
                     
-                    <pubPlace key="#kab-place-00067">Albany, N. Y.; Bern</pubPlace>
+                    <pubPlace key="#kab-place-00008">Bern</pubPlace>
                     <publisher key="#kab-org-00102">Lang</publisher>
                     
                     <date when="1984">1984</date>
@@ -14532,14 +14694,19 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-7.6.02.5.11">
                     <num type="category">7.6</num>
                     <num type="id">7.6.02.5.11</num>
+                    
                     <author key="#kab-pers-00428">Neumann, Peter Horst</author>
                     <title level="a">Trakl als Briefschreiber</title>
                     <editor key="#kab-pers-00526">Joseph P. Strelka</editor>
-                    <title level="m">Internationales Georg Trakl-Symposium</title>
-                    <pubPlace key="#kab-place-00067">Albany, N. Y.; Bern</pubPlace>
+                    
+                    <title level="m">Internationales Georg Trakl-Symposium. Albany, N. Y.</title> <!-- Original aus Heft 33: Internationales Georg Trakl-Symposium. Albany, N. Y. Bern: Lang 1984. Albany bezeichnet den Veranstaltungsort, nicht den Publikationsort; auch die DNB behandelt „Albany, NY“ als Bestandteil des Titels.-->
+                    
+                    <pubPlace key="#kab-place-00008">Bern</pubPlace>
                     <publisher key="#kab-org-00102">Lang</publisher>
+                    
                     <date when="1984">1984</date>
                     <biblScope unit="page">S. 37–4</biblScope>
+                    
                     <title level="s">Jahrbuch für Internationale Germanistik. Reihe A:
                         Kongreßberichte</title>
                     <num type="series">12</num>
@@ -14582,15 +14749,20 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 <bibl xml:id="kab-entry-7.6.05.8b">
                     <num type="category">7.6</num>
                     <num type="id">7.6.05.8</num>
+                    
                     <author key="#kab-pers-00304">Timms, Edward</author>
                     <title level="a">Hofmannsthal, Kraus and the THEATRUM MUNDI:</title>
+                    
                     <editor key="#kab-pers-00544">W. E. Yuil</editor>
                     <editor key="#kab-pers-00538"> Patricia Howe</editor>
                     <title level="m">Hugo von Hofmannsthal (1874–1929). Commemorative Essays</title>
+                    
                     <pubPlace key="#kab-place-00033">London</pubPlace>
                     <publisher key="#kab-org-00172">University of London</publisher>
+                    
                     <date when="1982">1982</date>
                     <biblScope unit="page">S. 123–132</biblScope>
+                    
                     <note type="comment">Hofmannsthals und K.s Werk können als Varianten einer
                         gemeinsamen Urform identifiziert werden: des Bildes der Welt als einer Bühne
                         (124). Überraschende Parallelen zwischen beiden Autoren werden von ihrer

@@ -21,157 +21,566 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="kab-place-00001"><placeName>Baltimore</placeName></place>
                 
-                <place xml:id="kab-place-00002"><placeName>Baltimore, Md.</placeName></place>
-                
-                <place xml:id="kab-place-00003"><placeName>Basel</placeName></place>
-                
-                <place xml:id="kab-place-00004"><placeName>Berkeley</placeName></place>
-                
-                <place xml:id="kab-place-00005"><placeName>Berlin</placeName></place>
-                
-                <place xml:id="kab-place-00006"><placeName>Berlin (DDR)</placeName></place>
-                
-                <place xml:id="kab-place-00007"><placeName>Berlin (DDR) und Weimar</placeName></place>
-                
-                <place xml:id="kab-place-00008"><placeName>Bern</placeName></place>
-                
-                <place xml:id="kab-place-00009"><placeName>Bonn</placeName></place>
-                
-                <place xml:id="kab-place-00010"><placeName>Bordeaux</placeName></place>
-                
-                <place xml:id="kab-place-00011"><placeName>Bremen</placeName></place>
-                
-                <place xml:id="kab-place-00012"><placeName>Cambridge (England)</placeName></place>
-                
-                <place xml:id="kab-place-00013"><placeName>Cleveland</placeName></place>
-                
-                <place xml:id="kab-place-00014"><placeName>Darmstadt</placeName></place>
-                
-                <place xml:id="kab-place-00015"><placeName>Den Haag</placeName></place>
-                
-                <place xml:id="kab-place-00016"><placeName>Dresden</placeName></place>
-                
-                <place xml:id="kab-place-00017"><placeName>Durham</placeName></place>
-                
-                <place xml:id="kab-place-00018"><placeName>Erlangen-Nürn-berg</placeName></place>
-                
-                <place xml:id="kab-place-00019"><placeName>Frankfurt</placeName></place>
-                
-                <place xml:id="kab-place-00020"><placeName>Freie Universität Berlin</placeName></place>
-                
-                <place xml:id="kab-place-00021"><placeName>Graz</placeName></place>
-                
-                <place xml:id="kab-place-00022"><placeName>Gräfelfing</placeName></place>
-                
-                <place xml:id="kab-place-00023"><placeName>Göttingen</placeName></place>
-                
-                <place xml:id="kab-place-00024"><placeName>Hamburg</placeName></place>
-                
-                <place xml:id="kab-place-00025"><placeName>Heidelberg</placeName></place>
-                
-                <place xml:id="kab-place-00026"><placeName>Innsbruck</placeName></place>
-                
-                <place xml:id="kab-place-00027"><placeName>Kronberg (Taunus)</placeName></place>
-                
-                <place xml:id="kab-place-00028"><placeName>Köln</placeName></place>
-                
-                <place xml:id="kab-place-00029"><placeName>Köln und Olten</placeName></place>
-                
-                <place xml:id="kab-place-00030"><placeName>Köln und Ölten</placeName></place>
-                
-                <place xml:id="kab-place-00031"><placeName>Leipzig</placeName></place>
-                
-                <place xml:id="kab-place-00032"><placeName>Lilie</placeName></place>
-                
-                <place xml:id="kab-place-00033"><placeName>London</placeName></place>
-                
-                <place xml:id="kab-place-00034"><placeName>Mailand</placeName></place>
-                
-                <place xml:id="kab-place-00035"><placeName>Marbach am Neckar</placeName></place>
-                
-                <place xml:id="kab-place-00036"><placeName>Memmingen</placeName></place>
-                
-                <place xml:id="kab-place-00037"><placeName>München</placeName></place>
-                
-                <place xml:id="kab-place-00038"><placeName>München-Pullach</placeName></place>
-                
-                <place xml:id="kab-place-00039"><placeName>Münster</placeName></place>
-                
-                <place xml:id="kab-place-00041"><placeName>Nendeln (Liechtenstein)</placeName></place>
-                
-                <place xml:id="kab-place-00042"><placeName>Neuwied</placeName></place>
-                
-                <place xml:id="kab-place-00043"><placeName>New York</placeName></place>
-                
-                <place xml:id="kab-place-00044"><placeName>Newcastle upon Tyne</placeName></place>
-                
-                <place xml:id="kab-place-00045"><placeName>Nürnberg</placeName></place>
-                
-                <place xml:id="kab-place-00046"><placeName>Padua</placeName></place>
-                
-                <place xml:id="kab-place-00047"><placeName>Paris</placeName></place>
-                
-                <place xml:id="kab-place-00048"><placeName>Prag</placeName></place>
-                
-                <place xml:id="kab-place-00049"><placeName>Reichenberg</placeName></place>
-                
-                <place xml:id="kab-place-00050"><placeName>Reinbek</placeName></place>
-                
-                <place xml:id="kab-place-00051"><placeName>Rudolstadt (DDR)</placeName></place>
-                
-                <place xml:id="kab-place-00052"><placeName>Salzburg</placeName></place>
-                
-                <place xml:id="kab-place-00053"><placeName>Southampton</placeName></place>
-                
-                <place xml:id="kab-place-00054"><placeName>St. Andrews (Schottland)</placeName></place>
-                
-                <place xml:id="kab-place-00055"><placeName>Steinbach</placeName></place>
-                
-                <place xml:id="kab-place-00056"><placeName>Stuttgart</placeName></place>
-                
-                <place xml:id="kab-place-00057"><placeName>Tel Aviv</placeName></place>
-                
-                <place xml:id="kab-place-00058"><placeName>Toronto</placeName></place>
-                
-                <place xml:id="kab-place-00059"><placeName>Turin</placeName></place>
-                
-                <place xml:id="kab-place-00060"><placeName>University of California at Los Angeles</placeName></place>
-                
-                <place xml:id="kab-place-00061"><placeName>Wien</placeName></place>
-                
-                <place xml:id="kab-place-00062"><placeName>Wien und München</placeName></place>
-                
-                <place xml:id="kab-place-00063"><placeName>Zürich</placeName></place>
-                
-                <place xml:id="kab-place-00065"><placeName>Ölten</placeName></place>
-                <place xml:id="kab-place-00066"><placeName>Ölten</placeName></place>
-                <place xml:id="kab-place-00067"><placeName>Albany, N. Y.; Bern</placeName></place>
-<place xml:id="kab-place-00068"><placeName>Bad Homburg v. d. H.</placeName></place>
-<place xml:id="kab-place-00069"><placeName>Budapest</placeName></place>
-<place xml:id="kab-place-00070"><placeName>Columbia, S. C.</placeName></place>
-<place xml:id="kab-place-00071"><placeName>Darmstadt-Berlin (W)</placeName></place>
-<place xml:id="kab-place-00072"><placeName>Dublin</placeName></place>
-<place xml:id="kab-place-00073"><placeName>Durham (GB)</placeName></place>
-<place xml:id="kab-place-00074"><placeName>Edinburgh</placeName></place>
-<place xml:id="kab-place-00075"><placeName>Eisenstadt</placeName></place>
-<place xml:id="kab-place-00076"><placeName>Glasgow</placeName></place>
-<place xml:id="kab-place-00077"><placeName>Halle-Leipzig</placeName></place>
-<place xml:id="kab-place-00078"><placeName>Hildesheim</placeName></place>
-<place xml:id="kab-place-00079"><placeName>Köln und Wien</placeName></place>
-<place xml:id="kab-place-00080"><placeName>Königstein/Ts.</placeName></place>
-<place xml:id="kab-place-00081"><placeName>Leipzig und Wien</placeName></place>
-<place xml:id="kab-place-00082"><placeName>Marbach</placeName></place>
-<place xml:id="kab-place-00083"><placeName>Pullach bei München</placeName></place>
-<place xml:id="kab-place-00084"><placeName>Rom</placeName></place>
-<place xml:id="kab-place-00085"><placeName>St. Mandé</placeName></place>
-<place xml:id="kab-place-00086"><placeName>Trier</placeName></place>
-<place xml:id="kab-place-00087"><placeName>Tübingen</placeName></place>
-<place xml:id="kab-place-00088"><placeName>New York</placeName></place>
-<place xml:id="kab-place-00089"><placeName>Wiesbaden</placeName></place>
-<place xml:id="kab-place-00090"><placeName>Worms</placeName></place>
-</listPlace>
+                <place xml:id="kab-place-00001">
+                    <placeName>Baltimore, Md.</placeName>
+                    <idno type="GND">4004380-0</idno>
+                    <idno type="Wikidata">Q5092</idno>
+                </place>
+
+                <place xml:id="kab-place-00003">
+                    <placeName>Basel</placeName>
+                    <idno type="GND">4004617-5</idno>
+                    <idno type="Wikidata">Q78</idno>
+                </place>
+
+                <place xml:id="kab-place-00004">
+                    <placeName>Berkeley</placeName>
+                    <idno type="GND">4005720-3</idno>
+                    <idno type="Wikidata">Q484678</idno>
+                </place>
+
+                <place xml:id="kab-place-00005">
+                    <placeName>Berlin</placeName>
+                     <idno type="GND">4005728-8</idno>
+                    <idno type="Wikidata">Q64</idno>
+                </place>
+
+                <place xml:id="kab-place-00006">
+                    <placeName>Berlin (DDR)</placeName>
+                    <idno type="GND">4087295-6</idno>
+                    <idno type="Wikidata">Q56037</idno>
+                </place>
+
+                <place xml:id="kab-place-00007">
+                    <placeName>Weimar</placeName>
+                    <idno type="GND">4065105-8</idno>
+                    <idno type="Wikidata">Q3955</idno>
+                </place>
+
+                <place xml:id="kab-place-00008">
+                    <idno type="GND">4005762-8</idno>
+                    <idno type="Wikidata">Q70</idno>
+                </place>
+
+                <place xml:id="kab-place-00009">
+                    <placeName>Bonn</placeName>
+                    <idno type="GND">4007666-0</idno>
+                    <idno type="Wikidata">Q586</idno>
+                </place>
+
+                <place xml:id="kab-place-00010">
+                    <placeName>Bordeaux</placeName>
+                    <idno type="GND">4088072-2</idno>
+                    <idno type="Wikidata">Q1479</idno>
+                </place>
+
+                <place xml:id="kab-place-00011">
+                    <placeName>Bremen</placeName>
+                    <idno type="GND">4008135-7</idno>
+                    <idno type="Wikidata">Q24879</idno>
+                </place>
+
+                <place xml:id="kab-place-00012">
+                    <placeName>Cambridge</placeName>
+                    <placeName type="variant">Cambridge (England)</placeName>
+                    <idno type="GND">4009351-7</idno>
+                    <idno type="Wikidata">Q350</idno>
+                </place>
+
+                <place xml:id="kab-place-00013">
+                    <placeName type="variant">Cleveland</placeName>
+                    <idno type="GND">4010292-0</idno>
+                    <idno type="Wikidata">Q37320</idno>
+                </place>
+
+                <place xml:id="kab-place-00014">
+                    <idno type="GND">4011077-1</idno>
+                    <idno type="Wikidata">Q2973</idno>
+                </place>
+
+                <place xml:id="kab-place-00015">
+                    <idno type="GND">4011446-6</idno>
+                    <idno type="Wikidata">Q36600</idno>
+                </place>
+
+                <place xml:id="kab-place-00016">
+                    <placeName>Dresden</placeName>
+                    <idno type="GND">4012995-0</idno>
+                    <idno type="Wikidata">Q1731</idno>
+                </place>
+
+                <place xml:id="kab-place-00019">
+                    <placeName>Frankfurt am Main</placeName>
+                    <placeName type="variant">Frankfurt</placeName>
+                    <placeName type="variant">Frankfurt/M.</placeName>
+                    <idno type="GND">4018118-2</idno>
+                    <idno type="Wikidata">Q1794</idno>
+                </place>
+
+                <place xml:id="kab-place-00021">
+                    <placeName>Graz</placeName>
+                    <idno type="GND">4021912-4</idno>
+                    <idno type="Wikidata">Q13298</idno>
+                </place>
+
+                <place xml:id="kab-place-00022">
+                    <placeName>Gräfelfing</placeName>
+                    <idno type="GND">4093848-7</idno>
+                    <idno type="Wikidata">Q504854</idno>
+                </place>
+
+                <place xml:id="kab-place-00023">
+                    <placeName>Göttingen</placeName>
+                    <idno type="GND">4021477-1</idno>
+                    <idno type="Wikidata">Q3033</idno>
+                </place>
+
+                <place xml:id="kab-place-00024">
+                    <placeName>Hamburg</placeName>
+                    <idno type="GND">4023118-5</idno>
+                    <idno type="Wikidata">Q1055</idno>
+                </place>
+
+                <place xml:id="kab-place-00025">
+                    <placeName>Heidelberg</placeName>
+                    <idno type="GND">4023996-2</idno>
+                    <idno type="Wikidata">Q2966</idno>
+                </place>
+
+                <place xml:id="kab-place-00026">
+                    <placeName>Innsbruck</placeName>
+                    <idno type="GND">4027096-8</idno>
+                    <idno type="Wikidata">Q1735</idno>
+                </place>
+
+                <place xml:id="kab-place-00027">
+                    <placeName>Kronberg im Taunus</placeName>
+                    <placeName type="variant">Kronberg (Taunus)</placeName>
+                    <idno type="GND">4033265-2</idno>
+                    <idno type="Wikidata">Q569634</idno>
+                </place>
+
+                <place xml:id="kab-place-00028">
+                    <placeName>Köln</placeName>
+                    <idno type="GND">4031483-2</idno>
+                    <idno type="Wikidata">Q365</idno>
+                </place>
+
+                <place xml:id="kab-place-00031">
+                    <placeName>Leipzig</placeName>
+                    <idno type="GND">4035206-7</idno>
+                    <idno type="Wikidata">Q2079</idno>
+                </place>
+
+                <place xml:id="kab-place-00032">
+                    <placeName>Lille</placeName>
+                    <idno type="GND">4114418-1</idno>
+                    <idno type="Wikidata">Q648</idno>
+                </place>
+
+                <place xml:id="kab-place-00033">
+                    <placeName>London</placeName>
+                    <idno type="GND">4074335-4</idno>
+                    <idno type="Wikidata">Q84</idno>
+                </place>
+
+                <place xml:id="kab-place-00034">
+                    <placeName>Mailand</placeName>
+                    <idno type="GND">4037100-1</idno>
+                    <idno type="Wikidata">Q490</idno>
+                </place>
+
+                <place xml:id="kab-place-00035">
+                    <placeName>Marbach am Neckar</placeName>
+                    <placeName type="variant">Marbach</placeName>
+                    <idno type="GND">4037443-9</idno>
+                    <idno type="Wikidata">Q61890</idno>
+                </place>
+
+                <place xml:id="kab-place-00036">
+                    <placeName>Memmingen</placeName>
+                    <idno type="GND">4038586-3</idno>
+                    <idno type="Wikidata">Q14825</idno>
+                </place>
+
+                <place xml:id="kab-place-00037">
+                    <placeName>München</placeName>
+                    <idno type="GND">4127793-4</idno>
+                    <idno type="Wikidata">Q1726</idno>
+                </place>
+
+                <place xml:id="kab-place-00038">
+                    <placeName>Pullach im Isartal</placeName>
+                    <placeName type="variant">München-Pullach</placeName>
+                    <placeName type="variant">Pullach (München)</placeName>
+                    <placeName type="variant">Pullach bei München</placeName>
+                    <idno type="GND">4047820-8</idno>
+                    <idno type="Wikidata">Q202116</idno>
+                </place>
+
+                <place xml:id="kab-place-00039">
+                    <placeName>Münster</placeName>
+                    <idno type="GND">4040608-8</idno>
+                    <idno type="Wikidata">Q2742</idno>
+                </place>
+
+                <place xml:id="kab-place-00041">
+                    <placeName>Nendeln (Liechtenstein)</placeName>
+                    <idno type="GND">4654482-3</idno>
+                    <idno type="Wikidata">Q991615</idno>
+                </place>
+
+                <place xml:id="kab-place-00042">
+                    <placeName>Neuwied</placeName>
+                    <idno type="GND">4041991-5</idno>
+                    <idno type="Wikidata">Q3967</idno>
+                </place>
+
+                <place xml:id="kab-place-00043">
+                    <placeName>New York City</placeName>
+                    <placeName type="variant">New York</placeName>
+                    <idno type="GND">4042011-5</idno>
+                    <idno type="Wikidata">Q60</idno>
+                </place>
+
+                <place xml:id="kab-place-00044">
+                    <placeName>Newcastle upon Tyne</placeName>
+                    <idno type="GND">4117860-9</idno>
+                    <idno type="Wikidata">Q1425428</idno>
+                </place>
+
+                <place xml:id="kab-place-00045">
+                    <placeName>Nürnberg</placeName>
+                    <idno type="GND">4042742-0</idno>
+                    <idno type="Wikidata">Q2090</idno>
+                </place>
+
+                <place xml:id="kab-place-00046">
+                    <placeName>Padua</placeName>
+                    <idno type="GND">4044295-0</idno>
+                    <idno type="Wikidata">Q617</idno>
+                </place>
+
+                <place xml:id="kab-place-00047">
+                    <placeName>Paris</placeName>
+                    <idno type="GND">4044660-8</idno>
+                    <idno type="Wikidata">Q90</idno>
+                </place>
+
+                <place xml:id="kab-place-00048">
+                    <placeName>Prag</placeName>
+                    <idno type="GND">4076310-9</idno>
+                    <idno type="Wikidata">Q1085</idno>
+                </place>
+
+                <place xml:id="kab-place-00049">
+                    <placeName>Liberec (Reichenberg)</placeName>
+                    <placeName type="variant">Reichenberg</placeName>
+                    <idno type="GND">4103609-8</idno>
+                    <idno type="Wikidata">Q146351</idno>
+                </place>
+
+                <place xml:id="kab-place-00050">
+                    <placeName>Reinbek</placeName>
+                    <idno type="GND">4049222-9</idno>
+                    <idno type="Wikidata">Q516405</idno>
+                </place>
+
+                <place xml:id="kab-place-00051">
+                    <placeName>Rudolstadt</placeName>
+                    <placeName type="variant">Rudolstadt (DDR)</placeName>
+                    <idno type="GND">4105066-6</idno>
+                    <idno type="Wikidata">Q517107</idno>
+                </place>
+
+                <place xml:id="kab-place-00052">
+                    <placeName>Salzburg</placeName>
+                    <idno type="GND">4076982-3</idno>
+                    <idno type="Wikidata">Q34713</idno>
+                </place>
+
+                <place xml:id="kab-place-00053">
+                    <placeName>Southampton</placeName>
+                    <idno type="GND">4118746-5</idno>
+                    <idno type="Wikidata">Q79848</idno>
+                </place>
+
+                <place xml:id="kab-place-00054">
+                    <placeName>St. Andrews (Schottland)</placeName>
+                    <idno type="GND">4118218-2</idno>
+                    <idno type="Wikidata">Q207736</idno>
+                </place>
+
+                <place xml:id="kab-place-00055">
+                    <placeName>Steinbach</placeName>
+                    <idno type="GND">500300-3</idno>
+                    <idno type="Wikidata">Q1294684</idno>
+                </place>
+
+                <place xml:id="kab-place-00056">
+                    <placeName>Stuttgart</placeName>
+                    <idno type="GND">4058282-6</idno>
+                    <idno type="Wikidata">Q1022</idno>
+                </place>
+
+                <place xml:id="kab-place-00057">
+                    <placeName>Tel Aviv</placeName>
+                    <idno type="GND">4059353-8</idno>
+                    <idno type="Wikidata">Q33935</idno>
+                </place>
+
+                <place xml:id="kab-place-00058">
+                    <placeName>Toronto</placeName>
+                    <idno type="GND">4060459-7</idno>
+                    <idno type="Wikidata">Q172</idno>
+                </place>
+
+                <place xml:id="kab-place-00059">
+                    <placeName>Turin</placeName>
+                    <idno type="GND">4061245-4</idno>
+                    <idno type="Wikidata">Q495</idno>
+                </place>
+
+                <place xml:id="kab-place-00061">
+                    <placeName>Wien</placeName>
+                    <idno type="GND">4066009-6</idno>
+                    <idno type="Wikidata">Q1741</idno>
+                </place>
+
+                <place xml:id="kab-place-00063">
+                    <placeName>Zürich</placeName>
+                    <idno type="GND">4068038-1</idno>
+                    <idno type="Wikidata">Q72</idno>
+                </place>
+
+                <place xml:id="kab-place-00065">
+                    <placeName>Olten</placeName>
+                    <idno type="GND">4043506-4</idno>
+                    <idno type="Wikidata">Q68129</idno>
+                </place>
+
+                <place xml:id="kab-place-00068">
+                    <placeName>Bad Homburg vor der Höhe</placeName>
+                    <placeName type="variant">Bad Homburg v. d. H.</placeName>
+                    <idno type="GND">4025770-8</idno>
+                    <idno type="Wikidata">Q4165</idno>
+                </place>
+
+                <place xml:id="kab-place-00069">
+                    <placeName>Budapest</placeName>
+                    <idno type="GND">4008684-7</idno>
+                    <idno type="Wikidata">Q1781</idno>
+                </place>
+
+                <place xml:id="kab-place-00070">
+                    <placeName>Columbia (South Carolina)</placeName>
+                    <placeName type="variant">Columbia</placeName>
+                    <placeName type="variant">Columbia, S. C.</placeName>
+                    <idno type="GND">4230917-7</idno>
+                    <idno type="Wikidata">Q38453</idno>
+                </place>
+
+                <place xml:id="kab-place-00072">
+                    <placeName>Dublin</placeName>
+                    <idno type="GND">4013170-1</idno>
+                    <idno type="Wikidata">Q1761</idno>
+                </place>
+
+                <place xml:id="kab-place-00073">
+                    <placeName>Durham (GB)</placeName>
+                    <idno type="GND">4085513-2</idno>
+                    <idno type="Wikidata">Q179815</idno>
+                </place>
+
+                <place xml:id="kab-place-00074">
+                    <placeName>Edinburgh</placeName>
+                    <idno type="GND">4013557-3</idno>
+                    <idno type="Wikidata">Q23436</idno>
+                </place>
+
+                <place xml:id="kab-place-00075">
+                    <placeName>Eisenstadt</placeName>
+                    <idno type="GND">4014087-8</idno>
+                    <idno type="Wikidata">Q126321</idno>
+                </place>
+
+                <place xml:id="kab-place-00076">
+                    <placeName>Glasgow</placeName>
+                    <idno type="GND">4021159-9</idno>
+                    <idno type="Wikidata">Q4093</idno>
+                </place>
+
+                <place xml:id="kab-place-00077">
+                    <placeName>Halle</placeName>
+                    <idno type="GND">4023025-9</idno>
+                    <idno type="Wikidata">Q2814</idno>
+                </place>
+
+                <place xml:id="kab-place-00078">
+                    <placeName>Hildesheim</placeName>
+                    <idno type="GND">4024881-1</idno>
+                    <idno type="Wikidata">Q3185</idno>
+                </place>
+
+                <place xml:id="kab-place-00080">
+                    <placeName>Königstein im Taunus</placeName>
+                    <placeName type="variant">Königstein/Ts.</placeName>
+                    <idno type="GND">4031559-9</idno>
+                    <idno type="Wikidata">Q569661</idno>
+                </place>
+
+                <place xml:id="kab-place-00084">
+                    <placeName>Rom</placeName>
+                    <idno type="GND">4050471-2</idno>
+                    <idno type="Wikidata">Q220</idno>
+                </place>
+
+                <place xml:id="kab-place-00085">
+                    <placeName>Saint-Mandé</placeName>
+                    <placeName type="variant">St. Mandé</placeName>
+                    <idno type="GND">4407932-1</idno>
+                    <idno type="Wikidata">Q18102</idno>
+                </place>
+
+                <place xml:id="kab-place-00086">
+                    <placeName>Trier</placeName>
+                    <idno type="GND">4060877-3</idno>
+                    <idno type="Wikidata">Q3138</idno>
+                </place>
+
+                <place xml:id="kab-place-00087">
+                    <placeName>Tübingen</placeName>
+                    <idno type="GND">4061147-4</idno>
+                    <idno type="Wikidata">Q3806</idno>
+                </place>
+
+                <place xml:id="kab-place-00089">
+                    <placeName>Wiesbaden</placeName>
+                    <idno type="GND">4066043-6</idno>
+                    <idno type="Wikidata">Q1721</idno>
+                </place>
+
+                <place xml:id="kab-place-00090">
+                    <placeName>Worms</placeName>
+                    <idno type="GND">4066942-7</idno>
+                    <idno type="Wikidata">Q3852</idno>
+                </place>
+
+                <place xml:id="kab-place-00092">
+                    <placeName>Passau</placeName>
+                    <idno type="GND">4044828-9</idno>
+                    <idno type="Wikidata">Q4190</idno>
+                </place>
+
+                <place xml:id="kab-place-00093">
+                    <placeName>Rouen</placeName>
+                    <idno type="GND">4050751-8</idno>
+                    <idno type="Wikidata">Q30974</idno>
+                </place>
+
+                <place xml:id="kab-place-00094">
+                    <placeName>Kingston upon Hull</placeName>
+                    <placeName type="variant">Hull</placeName>
+                    <idno type="GND">4072650-2</idno>
+                    <idno type="Wikidata">Q128147</idno>
+                </place>
+
+                <place xml:id="kab-place-00095">
+                    <placeName>Saskatoon</placeName>
+                    <placeName type="variant">Saskatoon, Canada</placeName>
+                    <idno type="GND">4259002-4</idno>
+                    <idno type="Wikidata">Q10566</idno>
+                </place>
+
+                <place xml:id="kab-place-00096">
+                    <placeName>Klagenfurt</placeName>
+                    <idno type="GND">4030921-6</idno>
+                    <idno type="Wikidata">Q41753</idno>
+                </place>
+
+                <place xml:id="kab-place-00097">
+                    <placeName>Toulouse</placeName>
+                    <idno type="GND">4060518-8</idno>
+                    <idno type="Wikidata">Q7880</idno>
+                </place>
+
+                <place xml:id="kab-place-00098">
+                    <placeName>Asnières-sur-Seine</placeName>
+                    <placeName type="variant">Asnières</placeName>
+                    <idno type="GND">4235654-4</idno>
+                    <idno type="Wikidata">Q191415</idno>
+                </place>
+
+                <place xml:id="kab-place-00099">
+                    <placeName>Wolfenbüttel</placeName>
+                    <idno type="GND">4066832-0</idno>
+                    <idno type="Wikidata">Q4122</idno>
+                </place>
+
+                <place xml:id="kab-place-00100">
+                    <placeName>Debrecen</placeName>
+                    <idno type="GND">4090940-2</idno>
+                    <idno type="Wikidata">Q79880</idno>
+                </place>
+
+                <place xml:id="kab-place-00101">
+                    <idno type="GND">4001783-7</idno>
+                    <idno type="Wikidata">Q727</idno>
+                </place>
+
+                <place xml:id="kab-place-00102">
+                    <placeName>Erlangen</placeName>
+                    <idno type="GND">4015299-6</idno>
+                    <idno type="Wikidata">Q3126</idno>
+                </place>
+
+                <place xml:id="kab-place-00103">
+                    <placeName>Ville LaSalle, Québec</placeName>
+                    <idno type="GND">4700392-3</idno>
+                    <idno type="Wikidata">Q1629121</idno>
+                </place>
+
+                <place xml:id="kab-place-00104">
+                    <placeName>Linz</placeName>
+                    <idno type="GND">4074255-6</idno>
+                    <idno type="Wikidata">Q41329</idno>
+                </place>
+
+                <place xml:id="kab-place-00105">
+                    <placeName>Poznań</placeName>
+                    <placeName type="variant">Posen</placeName>
+                    <idno type="GND">4046868-9</idno>
+                    <idno type="Wikidata">Q268</idno>
+                </place>
+
+                <place xml:id="kab-place-00107">
+                    <placeName>Ljubljana</placeName>
+                    <placeName type="variant">Ljubljana/Laibach</placeName>
+                    <idno type="GND">4073953-3</idno>
+                    <idno type="Wikidata">Q437</idno>
+                </place>
+
+                <place xml:id="kab-place-00108">
+                    <placeName>Dunedin</placeName>
+                    <idno type="GND">4239149-0</idno>
+                    <idno type="Wikidata">Q133073</idno>
+                </place>
+
+                <place xml:id="kab-place-00109">
+                    <placeName>Opladen</placeName>
+                    <idno type="GND">4102096-0</idno>
+                    <idno type="Wikidata">Q315138</idno>
+                </place>
+
+                <place xml:id="kab-place-00110">
+                    <placeName>Aix-en-Provence</placeName>
+                    <placeName type="variant">Aix en Provence</placeName>
+                    <idno type="GND">4000860-5</idno>
+                    <idno type="Wikidata">Q47465</idno>
+                </place>
+
+            </listPlace>
         </body>
     </text>
 </TEI>
