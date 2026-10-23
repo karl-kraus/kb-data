@@ -2306,10 +2306,11 @@
                     <num type="id">2.2.09</num>
                     <num type="category">2</num>
 
-                    <author key="#kab-pers-00204">Mayer, Hans</author>
+                    <author role="analytic" key="#kab-pers-00204">Mayer, Hans</author>
                     <title level="a">Karl Kraus (1957)</title>
-                    <title level="m">HM: Der Repräsentant und der Märtyrer, Konstellationen der
-                        Literatur</title>
+
+                    <author role="monogr" key="#kab-pers-00204">Mayer, Hans</author>
+                    <title level="m">Der Repräsentant und der Märtyrer, Konstellationen der Literatur</title>
                     
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00165">Suhrkamp</publisher>
@@ -9044,8 +9045,8 @@
                     <title level="a">'die letzten Tage der Menschheit' von Karl Kraus –
                         Dramaturgische Besonderheiten eines Antikriegs-Schauspiels (1962)</title>
                     
-                    <title level="m">WD: Erbe und Gegenwart. Aufsätze zur vergleichenden
-                        Literaturgeschichte</title>
+                    <editor key="#kab-pers-00050">Dietze, Walter</editor>
+                    <title level="m">Erbe und Gegenwart. Aufsätze zur vergleichenden Literaturgeschichte</title>
                     
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <pubPlace key="#kab-place-00007">Weimar</pubPlace>
@@ -13362,11 +13363,12 @@
                     <num type="id">8.09.2.1.1</num>
                     <num type="category">8.09</num>
 
-                    <author key="#kab-pers-00014">Bauer, Roger</author>
+                    <author role="analytic" key="#kab-pers-00014">Bauer, Roger</author>
                     <title level="a">Karl Kraus: Von der Prosa zum Vers. Bemerkungen zum ersten Band
                         der "Worte in Versen" und zum Gedicht "Sonnenthal"</title>
-                    <title level="m">RB: Laßt sie koaxen, Die kritischen Frösch' in Preußen und
-                        Sachsen! Zwei Jahrhunderte Literatur in Österreich</title>
+                    
+                    <author role="monogr" key="#kab-pers-00014">Bauer, Roger</author>
+                    <title level="m">Laßt sie koaxen, Die kritischen Frösch' in Preußen und Sachsen! Zwei Jahrhunderte Literatur in Österreich</title>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00051">Europa</publisher><date when="1977">1977</date>
@@ -13388,7 +13390,7 @@
                     <title level="a">Die Presse und Karl Kraus. Zur Kraus-Rezeption</title>
 
                     <author role="monogr" key="#kab-pers-00008">Arntzen, Helmut</author>
-                    <title level="m">HA: Karl Kraus und die Presse. (<ref target="#kab-entry-7.1.10">7.1.10</ref>)</title>
+                    <title level="m">Karl Kraus und die Presse. (<ref target="#kab-entry-7.1.10">7.1.10</ref>)</title>
                     
                     <date when="1975">1975</date>
                     
@@ -13690,10 +13692,11 @@
                     <num type="id">6.1.10.1</num>
                     <num type="category">6.1</num>
 
-                    <author key="#kab-pers-00265">Rühmkorf, Peter</author>
-                    <title level="a">Die soziale Stellung des Reims. Karl Kraus oder die Grenzen der
-                        Wesensbeschwörung</title><title level="m">PR: Strömungslehre I.
-                        Poesie</title>
+                    <author role="analytic" key="#kab-pers-00265">Rühmkorf, Peter</author>
+                    <title level="a">Die soziale Stellung des Reims. Karl Kraus oder die Grenzen der Wesensbeschwörung</title>
+                    
+                    <author role="monogr" key="#kab-pers-00265">Rühmkorf, Peter</author>
+                    <title level="m">Strömungslehre I. Poesie</title>
                     
                     <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                     <publisher key="#kab-org-00142">Rowohlt</publisher>
@@ -14881,9 +14884,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.10.7</num>
                     <num type="category">8.10</num>
 
-                    <author key="#kab-pers-00433">Polgar Alfred</author>
-                    <title level="a">Die dritte Walpurgisnacht (1952)</title><title level="m">AP:
-                        Taschenspiegel</title>
+                    <author role="analytic" key="#kab-pers-00433">Polgar Alfred</author>
+                    <title level="a">Die dritte Walpurgisnacht (1952)</title>
+                    
+                    <author role="monogr" key="#kab-pers-00433">Polgar Alfred</author>
+                    <title level="m">Taschenspiegel</title>
                     <editor key="#kab-pers-00479">Ulrich Weinzierl</editor>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -17990,11 +17995,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.05.8.1.1</num>
                     <num type="category">8.05</num>
 
-                    <author key="#kab-pers-00422">Mieder, Wolfgang</author>
-                    <title level="a">Sprichwörter im modernen Sprachgebrauch</title>
-                    <date when="1975">1975</date>
-                    <title level="m">WM: Deutsche Sprichwörter in Literatur, Politik, Presse und
-                        Werbung</title>
+                    <author role="analytic" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="a">Sprichwörter im modernen Sprachgebrauch (1975)</title>
+
+                    <author role="monogr" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="m">Deutsche Sprichwörter in Literatur, Politik, Presse und Werbung</title>
+
                     
                     <pubPlace key="#kab-place-00024">Hamburg</pubPlace>
                     <publisher key="#kab-org-00025">Buske</publisher>
@@ -18012,11 +18018,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.05.8.2.1</num>
                     <num type="category">8.05</num>
 
-                    <author key="#kab-pers-00422">Mieder, Wolfgang</author>
-                    <title level="a">Karl Kraus und der sprichwörtliche Aphorismus</title>
-                    <date when="1979">1979</date>
-                    <title level="m">WM: Deutsche Sprichwörter in Literatur, Politik, Presse und
-                        Werbung</title>
+                    <author role="analytic" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="a">Karl Kraus und der sprichwörtliche Aphorismus (1979)</title>
+
+                    <author role="monogr" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="m">Deutsche Sprichwörter in Literatur, Politik, Presse und Werbung</title>
                     
                     <pubPlace key="#kab-place-00024">Hamburg</pubPlace>
                     <publisher key="#kab-org-00025">Buske</publisher>
@@ -18359,10 +18365,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">7.1.12</num>
                     <num type="category">7.1</num>
 
-                    <author key="#kab-pers-00408">Kähler, Hermann</author>
+                    <author role="analytic" key="#kab-pers-00408">Kähler, Hermann</author>
                     <title level="a">Karl Kraus, der Kritiker der Presse</title>
-                    <title level="m">HK: Von Hofmannsthal bis Benjamin. Ein Streifzug durch die
-                        Essayistik der zwanzigerJahre</title>
+
+                    <author role="monogr" key="#kab-pers-00408">Kähler, Hermann</author>
+                    <title level="m">Von Hofmannsthal bis Benjamin. Ein Streifzug durch die Essayistik der zwanzigerJahre</title>
                     
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00015">Aufbau</publisher>
