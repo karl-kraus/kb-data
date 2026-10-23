@@ -3259,8 +3259,8 @@
                     <author role="analytic" key="#kab-pers-00177">Krenek, Ernst</author>
                     <title level="a">Karl Kraus und Schönberg (1934)</title>
 
-                    <author key="#kab-pers-00177">Krenek, Ernst</author>
-                    <title role="monogr" level="m">Zur Sprache gebracht</title>
+                    <author role="monogr" key="#kab-pers-00177">Krenek, Ernst</author>
+                    <title level="m">Zur Sprache gebracht</title>
                     
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher key="#kab-org-00104">Langen-Müller</publisher>
@@ -3421,8 +3421,8 @@
                     <author role="analytic" key="#kab-pers-00270">Schaukal, Richard von</author>
                     <title level="a">Karl Kraus (1933)</title>
 
-                    <author key="#kab-pers-00270">Schaukal, Richard von</author>
-                    <title role="monogr" level="m">Über Dichter</title>
+                    <author role="monogr" key="#kab-pers-00270">Schaukal, Richard von</author>
+                    <title level="m">Über Dichter</title>
                     
                     <pubPlace key="#kab-place-00037">München</pubPlace>
                     <publisher key="#kab-org-00104">Langen-Müller</publisher>
@@ -4510,8 +4510,8 @@
                     <title level="a">Zu den Epigrammen. III</title>
                     <title type="subtitle" level="a">(1940)</title>
 
-                    <author key="#kab-pers-00027">Brecht, Bertolt</author>
-                    <title role="monogr" level="m">Über Lyrik</title>
+                    <author role="monogr" key="#kab-pers-00027">Brecht, Bertolt</author>
+                    <title level="m">Über Lyrik</title>
                     
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00165">Suhrkamp</publisher>
@@ -20150,7 +20150,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Tages und die Klassiker der vorangegangenen Jahrhunderte gelesen hatte</hi> (25), da der
                         Zusammenhang zwischen dem ‚Bildungsgut‘ seiner Zeit und der Zeitungsaktualität 
                         des Tages sein satirisches Verfahren bestimme, ist K.s Satire für
-                        uns hermetisch geworden (<hi>Hermetik <LANG iso="la">ex post</LANG></hi>; 31). Die <hi>Verzögerungen und Umwege
+                        uns hermetisch geworden (<hi>Hermetik ex post</hi>; 31). Die <hi>Verzögerungen und Umwege
                         des Begreifens</hi> (28), auf die ein Kommentar die Leser führt, werden der
                         auf schnelle Wirkung hin konzipierten Satire nicht gerecht: <hi>die Erläuterung
                         der Satire</hi> ist <hi>ihr Meuchler</hi> (29). <hi>Der resignative Zug des späten Kraus</hi> beruht vielleicht 
@@ -20266,7 +20266,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">Eindrucksvolle polemische Aktualisierung der „Dritten Walpurgisnacht“,
                         mit wichtigen Bemerkungen zur politischen Funktion des Anfangssatzes
-                        für die K.-Eingemeindung nach <DATE>1945</DATE> (154). Betont immer wieder K.s
+                        für die K.-Eingemeindung nach 1945 (154). Betont immer wieder K.s
                         Scharfsicht.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 19. Fortsetzung. In: Kraus-Hefte 45 (Januar 1988).</note>
@@ -20282,7 +20282,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="j">Falter</title>
 
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <date when="1986-07-03/1986-07-16">3.–16. Juli 1986</date>
+                    <date notBefore="1986-07-03" notAfter="1986-07-16">3.–16. Juli 1986</date>
                     
                     <biblScope>S. 5 f.</biblScope>
                     
@@ -20334,7 +20334,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="category">5.2</num>
                     
                     <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
-                    <title level="a">Zur Struktur Kraus’scher Polemiken – am Beispiel „Innsbruck und Anderes“ (<DATE>1920</DATE>)</title>
+                    <title level="a">Zur Struktur Kraus’scher Polemiken – am Beispiel „Innsbruck und Anderes“ (1920)</title>
                     
                     <title level="j">Literatur und Kritik</title>
                     <num>22</num>
@@ -20342,8 +20342,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 131–140</biblScope>
                     
-                    <note type="comment">Untersucht den Aufbau der bis dahin längsten Polemik von K. (<LINK>F 531–43,
-                        <DATE>1920</DATE></LINK>), die trotz allen Einschüben sehr wohl von einer <hi>überlegten Gesamtstrategie
+                    <note type="comment">Untersucht den Aufbau der bis dahin längsten Polemik von K. (F 531–43,
+                        1920), die trotz allen Einschüben sehr wohl von einer <hi>überlegten Gesamtstrategie
                         </hi> (139) bestimmt sei, nämlich der einer globalen Verteidigung der jungen
                         Republik.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -20436,12 +20436,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">Sorgfältige, wenn auch etwas unsystematische Darstellung einiger für den
                         Wiener Expressionismus charakteristischer Zeitschriften, darunter „Torpedo“,
-                        <LANG iso="en">„Knockabout“</LANG>, „Daimon“ (mit Polemiken gegen K.). Betont die
+                        „Knockabout“, „Daimon“ (mit Polemiken gegen K.). Betont die
                         Bedeutung von K.s Haltung für die Wiener Expressionisten (35), behandelt
-                        aber die ‚literarische‘ „Fackel“ nicht. Die Polemik des <LANG iso="en">„Knockabout“</LANG>
+                        aber die ‚literarische‘ „Fackel“ nicht. Die Polemik des „Knockabout“
                         wird als Versuch verstanden, <hi>der Institutionalisierung der „Fackel“ zu begegnen</hi>
-                        (77). Lob für K. findet sich im „Ziel“ von <DATE>1913</DATE> (69) und in Bleis und
-                        Güterslohs „Rettung“ von <DATE>1918</DATE> (179). Auch in Details für den Hintergrund
+                        (77). Lob für K. findet sich im „Ziel“ von 1913 (69) und in Bleis und
+                        Güterslohs „Rettung“ von 1918 (179). Auch in Details für den Hintergrund
                         von K.s Werk interessant.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 19. Fortsetzung. In: Kraus-Hefte 45 (Januar 1988).</note>
@@ -20485,10 +20485,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 40–54</biblScope>
                     
                     <note type="comment">Sorgfältige Darstellungen der Beziehungen zwischen Rilke und K. bis
-                        <DATE>1919</DATE>. Die persönliche Bekanntschaft scheint auf das Jahr <DATE>1896</DATE> zurückzugehen
+                        1919. Die persönliche Bekanntschaft scheint auf das Jahr 1896 zurückzugehen
                         (41). In den frühen Jahren gibt es Parallelen zwischen den beiden
                         Autoren. Am wichtigsten der überzeugende Nachweis (48 ff.), daß Rilkes
-                        Brief an Sidonie Nádherný vom <DATE>21. Februar 1915</DATE> mit der Warnung vor
+                        Brief an Sidonie Nádherný vom 21. Februar 1915 mit der Warnung vor
                         einer Ehe mit K. nicht ein Dokument von Rilkes ‚Antisemitismus‘ sei, wie
                         bisher häufig behauptet worden ist.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -20512,7 +20512,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Hamburger Bibliographien</title>
                     <num type="series">12</num>
 
-                    <note type="comment">In zwei Briefen an Richard Dehmel vom <DATE>21. 12.</DATE> und <DATE>27. 12. 1913</DATE> bekennt
+                    <note type="comment">In zwei Briefen an Richard Dehmel vom 21. 12. und 27. 12. 1913 bekennt
                         Brod, <hi>von solchen Typen meiner Rasse wie Karl Kraus auf das Widerlichste
                         abgestoßen</hi> zu sein, <hi>weil ich in ihnen all das verkörpert sehe, was seit Jahrtausenden
                         mein Volk erniedrigt hat</hi> (29). Im zweiten Brief (30 ff.) stellt Brod den Ablauf
@@ -20537,8 +20537,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <pubPlace key="#kab-place-00048">Prag</pubPlace>
                     <biblScope>S. 5–35</biblScope>
                     
-                    <note type="comment">Skizziert sorgfältig die Entwicklung K.s zwischen <DATERANGE>1892 und 1899</DATERANGE>, wobei er
-                        zwei Phasen – vor und ab <DATE>1897</DATE> – unterscheidet. Beachtet besonders die Vorformen von K.s späterer Verwendung des kommentarlosen Zitats und
+                    <note type="comment">Skizziert sorgfältig die Entwicklung K.s zwischen 1892 und 1899, wobei er
+                        zwei Phasen – vor und ab 1897 – unterscheidet. Beachtet besonders die Vorformen von K.s späterer Verwendung des kommentarlosen Zitats und
                         frühe Reflexionen über diese Vorgangsweise; untersucht eingehend das
                         Schüler-Verhältnis K.s zu Daniel Spitzer, dessen Einfluß Krolop auch in
                         nachweist.</note>
@@ -20598,8 +20598,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 81–95</biblScope>
                     
-                    <note type="comment">Unterscheidet mit einer anregenden Formulierung zwischen <LANG iso="en"><I>impressionistic</I></LANG>
-                        und <LANG iso="en"><I>epiphanic</I></LANG> Aphorismen (82). K.s Aphorismen werden der zweiten, erkenntnisfördernden
+                    <note type="comment">Unterscheidet mit einer anregenden Formulierung zwischen <hi rendition="#italic">impressionistic</hi>
+                        und <hi rendition="#italic">epiphanic</hi> Aphorismen (82). K.s Aphorismen werden der zweiten, erkenntnisfördernden
                         Kategorie zugeordnet (88–93), die die aktive Teilnahme
                         des Lesers fordere; sie seien auch als <hi>Revolte gegen die hohlen aphoristischen
                         Äußerungen</hi> der zeitgenössischen Wiener Gesellschaft zu verstehen (92).</note>
@@ -20621,8 +20621,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 175–177</biblScope>
                     
                     <note type="comment">Zusammenstellung einiger Informationen über K.s Shakespeare-Rezeption; erwähnt
-                        Lindtberg-Inszenierungen von K.s Bearbeitungen des „Timon“ von <DATE>1943</DATE> und
-                        des „Wintermärchen“ von <DATE>1956</DATE> (177).</note>
+                        Lindtberg-Inszenierungen von K.s Bearbeitungen des „Timon“ von 1943 und
+                        des „Wintermärchen“ von 1956 (177).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 19. Fortsetzung. In: Kraus-Hefte 45 (Januar 1988).</note>
                 </bibl>
@@ -20699,9 +20699,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 5–10</biblScope>
                     
-                    <note type="comment">Überblick vor allem über die publizistische K.-Rezeption nach <DATE>1945</DATE>; verweilt
+                    <note type="comment">Überblick vor allem über die publizistische K.-Rezeption nach 1945; verweilt
                         genüßlich auf Zeugnissen der Unkenntnis. Im positiven wichtig die
-                        Erwähnung einer Inszenierung von „Madame L’Archiduc“ in K.s Fassung, Wien <DATE>1947</DATE> (8).</note>
+                        Erwähnung einer Inszenierung von „Madame L’Archiduc“ in K.s Fassung, Wien 1947 (8).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 19. Fortsetzung. In: Kraus-Hefte 45 (Januar 1988).</note>
                 </bibl>
@@ -20829,9 +20829,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Dichter A., der alle gängigen Klischees der Wiener K.-Feindschaft im Munde
                         führt, einschließlich des Gerüchts, Goebbels habe K. gelobt (132). A. läßt
                         allein K.s <hi>offenes Ohr für die Wiener Stimmen</hi> (126) gelten. Krleža betont in
-                        seiner Erwiderung, bestimmt von der Situation nach <DATE>1934</DATE>, K.s politische
+                        seiner Erwiderung, bestimmt von der Situation nach 1934, K.s politische
                         Aktualität und Radikalität (142), seinen <hi>hochgradigen politischen Haß</hi> (140).
-                        Nicht nur als Rezeptions-Zeugnis bemerkenswert. Vgl. Kraus-Heft 44. <DATE>1987</DATE>. S. 1–9.</note>
+                        Nicht nur als Rezeptions-Zeugnis bemerkenswert. Vgl. Kraus-Heft 44. 1987. S. 1–9.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 20. Fortsetzung. In: Kraus-Hefte 46 (April 1988).</note>
                 </bibl>
@@ -20856,7 +20856,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">S. 178–300 das Kapitel „Tinte, Technik, Tod“, in dem Ungar über seine
                         K.-Lektüre und den Einfluß von K. auf sein Denken berichtet. Betont
                         besonders den Vorleser, mit Details über eine Lesung von „Madame
-                        l’Archiduc“ (182 f.) Erwähnt auch die Vorlesungen für Schüler. <ERR sug="Wichtige">Wichtig</ERR>
+                        l’Archiduc“ (182 f.) Erwähnt auch die Vorlesungen für Schüler. <choice><sic>Wichtig</sic><corr>Wichtig</corr></choice>
                         Gedanken über K.s Verhältnis zum Religiösen: <hi>wie er das Wort GOTT
                         ausgesprochen hat, hat fast schon einen Offenbarungscharakter gehabt</hi> (189). Berichtet ein
                         interessantes Detail über K.s persönliche Zuneigung zu Dollfuß (192). Auch
@@ -20883,15 +20883,15 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Eine Sammlung von Angriffen auf K., die zur Gänze oder in entscheidenden
                         Passagen neu gedruckt werden, mit knappen Informationen zu Anlässen und
                         Autoren. Enthält Texte von Robert Müller (KKB K 1202), Victor Tausk,
-                        Fritz Wittels (KAB <ref target="#kab-entry-1.3.1">1.3.1</ref> deutsch; KKB K 1300), Karlweis (vgl. <LINK>F 84, <DATE>1901</DATE>,
-                        1–10</LINK>), Werfel (KKB K 787, K 2022), Harry Pross (KKB K 535), Ehrenstein
+                        Fritz Wittels (KAB <ref target="#kab-entry-1.3.1">1.3.1</ref> deutsch; KKB K 1300), Karlweis (vgl. F 84, 1901,
+                        1–10), Werfel (KKB K 787, K 2022), Harry Pross (KKB K 535), Ehrenstein
                         (KKB K 1564), Karl Adler (KKB K 1561), De Gal (= Karl Huffnagl) (KKB
                         Nachtrag K 1577g), Anton Kuh (KKB K 1326), Leschnitzer (KKB K 1612),
                         Pollak (KKB K 1618), Kisch (KKB Nachtrag K 1577f), Kesten (KAB <ref target="#kab-entry-3.3.3">3.3.3</ref>),
                         Haas (KKB K 942c), Habe (KKB Nachtrag K 841b), Rühmkorf (KKB K
                         1045), Flatter (KKB K 1735), Reich-Ranicki (KAB 10, <ref target="#kab-entry-3.3.4">3.3.4</ref>), Raddatz
                         (KKB K 1670), Borries (KKB Nachtrag K 1123a). Auffällig das Aussparen
-                        der meisten das Jahr <DATE>1934</DATE> und den ‚jüdischen Selbsthaß‘ betreffenden
+                        der meisten das Jahr 1934 und den ‚jüdischen Selbsthaß‘ betreffenden
                         Polemiken. Sehr nützliche Anthologie entlegener Texte.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 20. Fortsetzung. In: Kraus-Hefte 46 (April 1988).</note>
@@ -20914,7 +20914,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">S. 220–268, 324–329 das Kapitel „Karl Kraus in der hohlen Gasse“ über
                         „Tell“-Zitate und überhaupt Schiller-Zitate in der „Fackel“ und den „Letzten
                         Tagen der Menschheit“ sowie über die Polemik gegen die Schiller-Feiern von
-                        <DATE>1905</DATE>. Sowohl im Detail durch Nachweise von Zitaten erhellend wie durch
+                        1905. Sowohl im Detail durch Nachweise von Zitaten erhellend wie durch
                         Interpretationen ergiebig. Die von K. zitierten Schiller-Zitate seiner Umwelt
                         werden zu Recht der Kategorie des <hi>Ornaments</hi> (255) zugeordnet. Betont auch
                         <hi>die Vielfalt des rettenden Schiller-Zitates</hi> bei K. selbst, das eine Beschwörung der
@@ -20938,7 +20938,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">S. 39–43 über die Schwierigkeiten, die Limbach, eine Randfigur des „Brenner-Kreises,
                         vor allem aus religiösen Gründen mit dem Werk von K. hatte.
-                        Mit unveröffentlichten Belegen aus den Jahren <DATE>1914</DATE> und <DATE>1919</DATE>.</note>
+                        Mit unveröffentlichten Belegen aus den Jahren 1914 und 1919.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 20. Fortsetzung. In: Kraus-Hefte 46 (April 1988).</note>
                 </bibl>
@@ -20954,7 +20954,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num>10</num>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <date when="1982/1983">1982/83</date>
+                    <date notBefore="1982" notAfter="1983">1982/83</date>
                     
                     <biblScope>S. 43–59</biblScope>
                     
@@ -20988,10 +20988,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">Genaue Darstellung der komplizierten Beziehungen zwischen K. und dem
                         Herausgeber der „Aktion“, die auch einige „Fackel“-Stellen erläutert (56:
-                        <LINK>F 319–20, 1</LINK>; 192: <LINK>F 437–42, 61</LINK>; 48: <LINK>F 329–30, 7</LINK> [?]). Sehr ergiebig sind
+                        F 319–20, 1; 192: F 437–42, 61; 48: F 329–30, 7 [?]). Sehr ergiebig sind
                         die vergleichenden Passagen, in denen zahlreiche Parallelen zwischen K. und dem Umfeld des Expressionismus deutlich werden, etwa in einer gewissen
                         Mischung zwischen demokratischen und konservativen Positionen (z. B. 13 f.,
-                        18, 78 u. ö.). Zwischen K.s Polemik vor <DATE>1914</DATE> und der Pfemferts sieht Halliday
+                        18, 78 u. ö.). Zwischen K.s Polemik vor 1914 und der Pfemferts sieht Halliday
                         allerdings den wesentlichen Unterschied: jene sei dem franz-josephinischen
                         Staat gegenüber im Grunde affirmativ, diese gegenüber dem wilhelminischen
                         subversiv gewesen (80). Trotz zeitweiligen Polemiken zwischen
@@ -21044,7 +21044,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 127–153</biblScope>
                     
                     <note type="comment">Informationsreicher Aufsatz über die Beziehungen zwischen K. und Kokoschka
-                        vor allem in der Zeit des engeren Kontakts vor <DATE>1914</DATE>, weniger in der Zeit
+                        vor allem in der Zeit des engeren Kontakts vor 1914, weniger in der Zeit
                         einer gewissen Entfremdung in späteren Jahren. U. a. über Kokoschkas K.-Porträts,
                         zu denen der Porträtierte eine <hi>zwiespältige Beziehung</hi> (141) gehabt
                         habe; über deren Verhältnis zu den von K. <hi>gezielt</hi> (132) veröffentlichten
@@ -21074,7 +21074,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="series">27</num>
 
                     <note type="comment">Weist die Wirkung von K. auf wichtige Neuerer der kroatischen Dichtung im
-                        <DATERANGE>20. Jahrhundert</DATERANGE> nach: Anton Branko Šimić, Stanislav Šimić, vor allem
+                        20. Jahrhundert nach: Anton Branko Šimić, Stanislav Šimić, vor allem
                         Miroslav Krleža. K.s Einfluß führt sogar zur Übernahme seiner Urteile über
                         deutsche Autoren. Sowohl die Überzeugung von der Sprache als <hi>einzigem Maß
                         für die Wahrheit der Aussage</hi> (39) als auch der Widerstand gegen die <hi>Vereinnahmung
@@ -21105,7 +21105,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Innsbrucker Beiträge zur Kulturwissenschaft, Germanistische Reihe</title>
                     <num type="series">28</num>
                     
-                    <note type="comment">Geht besonders auf Krležas Essay von <DATE>1938</DATE> ein (KAB 46, <ref target="#kab-entry-3.1.60">3.1.60</ref>); der
+                    <note type="comment">Geht besonders auf Krležas Essay von 1938 ein (KAB 46, <ref target="#kab-entry-3.1.60">3.1.60</ref>); der
                         kroatische Autor habe sich darin mit K. <hi>weitgehend identifiziert</hi> (33 f.).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 20. Fortsetzung. In: Kraus-Hefte 46 (April 1988).</note>
@@ -21130,9 +21130,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 109–117</biblScope>
                     
                     <note type="comment">Erfaßt die Übersetzungen von Werken K.s ins Französische (auch die
-                        unselbständig erschienenen) – seit <DATE>1913</DATE> – sowie die französischsprachige und
+                        unselbständig erschienenen) – seit 1913 – sowie die französischsprachige und
                         die in Frankreich erschienene Literatur über K., zum Teil auch bloße
-                        Erwähnungen (darunter eine bei Apollinaire, <DATE>1913</DATE>). Nicht überprüfbare
+                        Erwähnungen (darunter eine bei Apollinaire, 1913). Nicht überprüfbare
                         Zitate sind gekennzeichnet. Die chronologische Anordnung gestattet es, den
                         Ablauf der französischen K.-Rezeption in groben Zügen zu verfolgen.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -21187,7 +21187,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         einschlägiger Texte und Dokumente, durchwegs in französischer Übersetzung.
                         Bisher unbekannt war eine hier (40), im Original, abgedruckte
                         Unterstützungserklärung von Upton Sinclair und anderen für die Nobelpreiskandidatur
-                        von K. (<DATE>1925</DATE>).</note>
+                        von K. (1925).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 21. Fortsetzung. In: Kraus-Hefte 47 (Juli 1988).</note>
                 </bibl>
@@ -21249,7 +21249,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 153–169</biblScope>
                     
                     <note type="comment">Im Rahmen einer Darstellung <hi>einer gewissen elegischen Grundeinstellung</hi> der
-                        Wiener Schriftsteller um <DATE>1900</DATE> <hi>zur historisch verstandenen Gegenwart</hi> (153) auch
+                        Wiener Schriftsteller um 1900 <hi>zur historisch verstandenen Gegenwart</hi> (153) auch
                         einige interessante Bemerkungen zu K. (164 ff.): bei ihm eröffne <hi>die
                         rückblickende Betrachtungs- und Denkweise</hi> […] <hi>utopische Perspektiven</hi> (164). Seine
                         Urteile über Sonnenthal und Wolter zeigen, wie die Erinnerung das Bild
@@ -21320,10 +21320,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 47–62</biblScope>
                     
-                    <note type="comment">Berichtet über einen erst <DATE>1937</DATE> durch einen Vergleich beendeten Ehrenbeleidigungsprozeß, 
+                    <note type="comment">Berichtet über einen erst 1937 durch einen Vergleich beendeten Ehrenbeleidigungsprozeß, 
                         den K. gegen die in Brünn erscheinende Exil-„Arbeiter-Zeitung“
                         und ihren Mitarbeiter Hugo Sonnenschein / Sonka wegen Artikeln
-                        vom <DATE>15. 9. 1934</DATE> angestrengt hat. Vor allem wegen der ausführlichen Zitate
+                        vom 15. 9. 1934 angestrengt hat. Vor allem wegen der ausführlichen Zitate
                         aus den Akten wichtig, in denen K. sich eindeutig von der Demokratie als
                         <hi>Regierungsform</hi> (58) distanziert, aber doch auch sich <hi>gegen eine unterstellte
                         Gesinnungsidentität mit dem austrofaschistischen Regime zur Wehr setzt</hi> (61). Auch
@@ -21351,11 +21351,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         dem „März“ und dem Albert Langen-Verlag andererseits anhand
                         unveröffentlichter Briefe und Dokumente dar. Die Mitarbeit an den Münchener
                         Zeitschriften wird in Zusammenhang mit K.s Bemühungen um ein
-                        stärkeres Echo in Deutschland gesehen; K. habe <DATERANGE>1909/10</DATERANGE> daran gedacht, die
+                        stärkeres Echo in Deutschland gesehen; K. habe 1909/10 daran gedacht, die
                         „Fackel“ aufzugeben und nur noch Bücher zu publizieren. Enthält den
-                        Abdruck von Roda Rodas Angriff auf K. (vgl. <LINK>F 400–03, <DATE>1914</DATE>, 30–40</LINK>) und
+                        Abdruck von Roda Rodas Angriff auf K. (vgl. F 400–03, 1914, 30–40) und
                         weist nach, daß ein, ebenfalls abgedruckter, antisemitischer Angriff auf K.
-                        aus dem Jahre <DATE>1921</DATE> (vgl. <LINK>F 568–71, <DATE>1921</DATE>, 50 f.</LINK>) von Thoma stammt.</note>
+                        aus dem Jahre 1921 (vgl. F 568–71, 1921, 50 f.) von Thoma stammt.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 21. Fortsetzung. In: Kraus-Hefte 47 (Juli 1988).</note>
                 </bibl>
@@ -21408,7 +21408,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         dem Ergebnis, daß Strindberg an einem näheren Kontakt zu K. wohl wenig
                         Interesse gehabt (u. a. 138) und auch die „Fackel“ nicht gelesen hat. In die
                         Übersetzungen Scherings hat K. <hi>redigierend eingegriffen</hi> (141). S. 146 f. Überlegungen
-                        zur Aufnahme von Strindbergs „Attila“ in V 167 (<DATE>1920</DATE>).</note>
+                        zur Aufnahme von Strindbergs „Attila“ in V 167 (1920).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 21. Fortsetzung. In: Kraus-Hefte 47 (Juli 1988).</note>
                 </bibl>
@@ -21451,12 +21451,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 309–331</biblScope>
                     
-                    <note type="comment">Ein hervorragender ungarischer Aufsatz von <DATE>1936</DATE>, mit exakter Schwerpunktsetzung
+                    <note type="comment">Ein hervorragender ungarischer Aufsatz von 1936, mit exakter Schwerpunktsetzung
                         und viel Sensibilität für Wesentliches an K.s Person und Werk.
                         Betont die <hi>Menschenliebe</hi> und eine <hi>Grundhaltung des Opfers</hi>, die von dem
                         Menschen K. ausgestrahlt hätten (313). Kritisiert aus eher konservativer
                         Sicht K.s Einstellung zur Sexualität und seinen Pazifismus. Mit wichtigen
-                        Gedanken über K.s Verhalten <DATE>1934</DATE>: dieses sei ein eindrucksvolles Anerkennen
+                        Gedanken über K.s Verhalten 1934: dieses sei ein eindrucksvolles Anerkennen
                         der Realität (330); K.s Schweigen sei auch Ausdruck der Einsicht, daß
                     <hi>seine Zeit vorbei</hi> sei (330).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -21495,15 +21495,15 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 1–17</biblScope>
                     
-                    <note type="comment">Betont vor allem den Wandel in K.s Urteil über die Tschechen vor <DATE>1914</DATE>, vom
-                    deutschliberalen Engagement von <DATE>1893</DATE> zur Kritik an <hi>deutschvölkischer Kulturträgerarroganz
-                    </hi> (8) beispielsweise <DATE>1901</DATE> und zur <hi>Anerkennung tschechischer Kulturwerte
+                    <note type="comment">Betont vor allem den Wandel in K.s Urteil über die Tschechen vor 1914, vom
+                    deutschliberalen Engagement von 1893 zur Kritik an <hi>deutschvölkischer Kulturträgerarroganz
+                    </hi> (8) beispielsweise 1901 und zur <hi>Anerkennung tschechischer Kulturwerte
                     </hi> (9) sowie zu den Kontakten mit tschechischen Abgeordneten in Fällen der
                     Konfiskation der „Fackel“. Erwähnt auch, sehr nuanciert, K.s Kritik an der
-                    tschechoslowakischen Innenpolitik nach <DATE>1918</DATE> (13 f.). Spricht kurz von
+                    tschechoslowakischen Innenpolitik nach 1918 (13 f.). Spricht kurz von
                     Parallelen zwischen den „Letzten Tagen der Menschheit“ und Hašeks
-                    „Schwejk“ und skizziert einige Fälle verdeckter K.-Rezeption in den <DATERANGE>dreißiger
-                    Jahren</DATERANGE>.</note>
+                    „Schwejk“ und skizziert einige Fälle verdeckter K.-Rezeption in den dreißiger
+                    Jahren.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
@@ -21526,7 +21526,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Sehr knapper Vergleich zwischen der „Fackel“ und der bis heute erscheinenden
                         französischen satirischen Zeitschrift, untermauert durch einige in der
                         Tat thematische Verwandtschaft beweisende Zitate aus deren Jahrgängen
-                        <DATE>1916</DATE> und <DATE>1917</DATE> (zum Ersten Weltkrieg).</note>
+                        1916 und 1917 (zum Ersten Weltkrieg).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
@@ -21590,9 +21590,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 17–19</biblScope>
                     
-                    <note type="comment">Vor allem über die K.-Rezeption in Österreich nach <DATE>1945</DATE>, in Schönwieses
+                    <note type="comment">Vor allem über die K.-Rezeption in Österreich nach 1945, in Schönwieses
                         Zeitschrift „das silberboot“ und im Rundfunk (Sendung der „Letzten Tage
-                        der Menschheit“, <DATE>1951</DATE>).</note>
+                        der Menschheit“, 1951).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
@@ -21644,7 +21644,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 36–45</biblScope>
                     
                     <note type="comment">Stimmt weitgehend mit den Veröffentlichungen von Loužil und Šolle in den
-                        „Kraus-Heften“ 12 (<DATE>1979</DATE>) und 15 (<DATE>1980</DATE>) überein.</note>
+                        „Kraus-Heften“ 12 (1979) und 15 (1980) überein.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
@@ -21890,18 +21890,18 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num>15</num>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <date when="1982/1983">1987/88</date> 
+                    <date notBefore="1982" notAfter="1983">1987/88</date> 
                     
                     <biblScope>S. 315–336</biblScope>
                     
                     <note type="comment">Dokumentiert die Beziehungen zwischen K. und den österreichischen
-                        Kommunisten von <DATERANGE>1927 bis 1936</DATERANGE>, vor allem durch Zitate aus KP-Veröffentlichungen. 
+                        Kommunisten von 1927 bis 1936, vor allem durch Zitate aus KP-Veröffentlichungen. 
                         <hi>Politisch war das Echo, das Karl Kraus im kommunistischen
                         Blätterwald auslöste, vor allem</hi> […] (326). Verschweigt auch die Differenzen
-                        zwischen Partei und Satiriker nicht. <DATE>1934</DATE> sei K. den Kommunisten <hi>lediglich
+                        zwischen Partei und Satiriker nicht. 1934 sei K. den Kommunisten <hi>lediglich
                         auf realpolitischem Wege vorangegangen</hi> (332). Mit neuen Informationen zu
                         Polemiken gegen die Sozialdemokratie (besonders zu Anspielungen auf
-                        Renner in <LINK>F 771–76, <DATE>1927</DATE>, 13, 16</LINK>) (318); zum Prozeß gegen Loos von <DATE>1928</DATE>
+                        Renner in F 771–76, 1927, 13, 16) (318); zum Prozeß gegen Loos von 1928
                         (321 f.); zum Amsterdamer Antikriegskongreß, den K. bejaht, aber an dem
                         er nicht teilgenommen hat (326 f.).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -22212,7 +22212,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Literatur (11 f.). Hinweise zur Wirkung Ruskins auf Loos und K. (10 f.),
                         gerade in Hinblick auf den Begriff ‚Ornament‘. Die Konzentration beider
                         auf die Analyse des Alltäglichen wird mit der Allgegenwart der (u. a.
-                        politischen) Konflikte im Wien von <DATE>1900</DATE> erklärt (12 f.).</note>
+                        politischen) Konflikte im Wien von 1900 erklärt (12 f.).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 23. Fortsetzung. In: Kraus-Hefte 49 (Januar 1989).</note>
                 </bibl>
@@ -22300,7 +22300,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 27–57</biblScope>
                     
                     <note type="comment"><hi>Gegenstand der Betrachtung sind vor allem die antifaschistischen Satiren Brechts zwischen
-                        <DATERANGE>1933 und 1945</DATERANGE> unter dem besonderen Aspekt der Aufnahme und Verarbeitung Karl
+                        1933 und 1945 unter dem besonderen Aspekt der Aufnahme und Verarbeitung Karl
                         Kraus’scher Methoden</hi> (27). Detaillierter Nachweis von Brechts Übernahme
                         einer auf dokumentarisches Material sich stützenden satirischen Verfahrensweise, 
                         sowohl in Prosa- als auch in wichtigen dramatischen Texten.
@@ -22332,7 +22332,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>187 S.</biblScope>
                     
                     <note type="comment">Nur in geringem Ausmaß überarbeitete Übersetzung der nach wie vor 
-                        brauchbaren Einführung Zohns von <DATE>1971</DATE>. Ergänzungen vor allem in
+                        brauchbaren Einführung Zohns von 1971. Ergänzungen vor allem in
                         Kapitel 3 (S. 35 ff.) über K.s Verhältnis zum Judentum und im Literaturverzeichnis.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
@@ -22378,7 +22378,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>432 S.</biblScope>
                     
                     <note type="comment">Neben anderen Bemerkungen über K. (Register) auf S. 252 f. (Brief vom
-                        <DATE>27.8.1911</DATE>) ein sehr kritischer Vergleich zwischen K. und Hegel (zugunsten
+                        27.8.1911) ein sehr kritischer Vergleich zwischen K. und Hegel (zugunsten
                         des Philosophen).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
@@ -22398,7 +22398,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>213 S.</biblScope>
                     
-                    <note type="comment">S. 24–27, 174, 177 Aufzeichnungen aus den Jahren <DATE>1974</DATE> und <DATE>1983</DATE> sowohl
+                    <note type="comment">S. 24–27, 174, 177 Aufzeichnungen aus den Jahren 1974 und 1983 sowohl
                         über Canettis Verhältnis zu K. als auch über diesen und dessen <hi>Panzersätze</hi>
                         und über das <hi>Absolute</hi> seiner <hi>Forderung. Wissen ist ihm gleichgültig, da es sich nicht
                         verdammm läßt</hi>. (25)</note>
@@ -22442,9 +22442,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>237 S.</biblScope>
                     
                     <note type="comment">Auf eine genaue politische Analyse folgt eine Darstellung literarischer
-                        Transformationen der Ereignisse des <DATE>15. Juli 1927</DATE>, in deren Mittelpunkt Canetti steht. Betont die Rolle K.s in den (und seine Reaktion auf die)
+                        Transformationen der Ereignisse des 15. Juli 1927, in deren Mittelpunkt Canetti steht. Betont die Rolle K.s in den (und seine Reaktion auf die)
                         internen Debatten der österreichischen Sozialdemokratie (65 ff., 75), weist
-                        den Titel „Blut und Schmutz“ (<LINK>F 778–80, <DATE>1928</DATE></LINK>) als Otto Bauer-Anspielung
+                        den Titel „Blut und Schmutz“ (F 778–80, 1928) als Otto Bauer-Anspielung
                         nach (75 f.), zeigt judenfeindliche Aspekte der Polemik K.s gegen Schober
                         (125 f.). Wichtige Analyse des letzten Akts der „Unüberwindlichen“
                         (167 ff.), mit besonderer Berücksichtigung der Musik. Vor allem wegen der
@@ -22474,7 +22474,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Ludwig Thoma: Werke in Einzelausgaben</title>
                     
                     <note type="comment">Eine wüste antisemitische Polemik gegen K., vielleicht die wüsteste überhaupt;
-                        vgl. <LINK>F 568–71, <DATE>1921</DATE>, 50 f.</LINK> Der Band nimmt in Thomas Glossen
+                        vgl. F 568–71, 1921, 50 f. Der Band nimmt in Thomas Glossen
                         und im Kommentar noch mehrfach Bezug auf K. (Register).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
@@ -22547,7 +22547,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">Geht auch auf Kontakte zwischen K. und Rilke ein, <hi>der gerade in den
                         Kriegsjahren, als fleißiger Leser der „Fackel“, der Position ihres Herausgebers nähersteht,
-                        als dieser zu glauben scheint</hi> (35), vor allem <DATE>1916</DATE>; vgl. S. 22, 24, 40.</note>
+                        als dieser zu glauben scheint</hi> (35), vor allem 1916; vgl. S. 22, 24, 40.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                 </bibl>
@@ -22566,7 +22566,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 58–61</biblScope>
 
                     <note type="comment">Überblicksartige Darstellung (mit Texten) des Verhältnisses des Psychoanalytikers
-                        Viktor Tausk (<DATERANGE>1879–1919</DATERANGE>) zu K., mit Bemerkungen zu den Spannungen
+                        Viktor Tausk (1879–1919) zu K., mit Bemerkungen zu den Spannungen
                         zwischen K. und den Psychoanalytikern. Vgl. 9.2.23.</note><note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -22640,7 +22640,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Veröffentlicht den Entwurf einer vermutlich für die „Fackel‘“ bestimmten
                         Polemik Tesars gegen Otto Hausers Artikel über die Literatur in Österreich
                         in einem deutschen Lexikon. Das Manuskript Tesars enthält möglicherweise
-                        schon Korrektureingriffe K.s. Erläutert <LINK>F 484–98, <DATE>1918</DATE>, 140</LINK> und gibt ein
+                        schon Korrektureingriffe K.s. Erläutert F 484–98, 1918, 140 und gibt ein
                         exakteres Bild der Beziehungen zwischen K. und Tesar. In manchem freilich
                         auch recht spekulativ.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -22668,7 +22668,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="series">3</num>
 
                     <note type="comment">Übersicht über die Fakten, die den beiden Polemiken „Aus Redaktion und
-                        Irrenhaus“ (<LINK>F 781–86, <DATE>1928</DATE></LINK>; <LINK>F 800–05, <DATE>1929</DATE></LINK>) zugrundeliegen. Im Anhang
+                        Irrenhaus“ (F 781–86, 1928; F 800–05, 1929) zugrundeliegen. Im Anhang
                         (124–128) Abdruck des Aufsatzes von Alfred Sperber, der K.s Reaktion
                         ausgelöst hat.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -22692,7 +22692,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 252–257</biblScope>
 
-                    <note type="comment">Nachdruck des Aufsatzes von <DATE>1968</DATE>.</note>
+                    <note type="comment">Nachdruck des Aufsatzes von 1968.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                 </bibl>
@@ -22708,7 +22708,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <date when="1986-09-09">9.9.1982</date>
                     
                     <note type="comment">Berichtet über die Uraufführung von „Wolkenkuckucksheim“ in Salzburg,
-                        <DATE>1982</DATE>. Kritisch über K.s <hi>epigonale</hi> Sprache und die <hi>unfreiwillige Komik</hi> seiner
+                        1982. Kritisch über K.s <hi>epigonale</hi> Sprache und die <hi>unfreiwillige Komik</hi> seiner
                         Reime; lobt K.s parodistische Kräfte. Wenig über die Aufführung.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
@@ -22745,7 +22745,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="j">Die Presse</title>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
-                    <date when="1990-03-17/1990-03-18">17./18.3.1990</date>
+                    <date notBefore="1990-03-17" notAfter="1990-03-18">17./18.3.1990</date>
                     
                     <biblScope>S. VI</biblScope>
                     
@@ -22769,7 +22769,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 59</biblScope>
                     
                     <note type="comment">Vgl. 7.7.6. Ein vom Herausgeber (Alfred Pfabigan) nicht datierter, wohl um
-                        <DATERANGE>1910/12</DATERANGE> entstandener Text des Psychoanalytikers Tausk, der mehr über
+                        1910/12 entstandener Text des Psychoanalytikers Tausk, der mehr über
                         seinen Verfasser als über seinen Gegenstand aussagt, aber zweifellos ein interessantes
                         Dokument ist.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -22793,8 +22793,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 71–77</biblScope>
                     
-                    <note type="comment">Kafka, dessen Anwesenheit in V 13 in Prag (<DATE>1911</DATE>) erwähnt wird (77, Anm.
-                        8), habe, vor allem im Brief an Brod vom <DATE>Juni 1921</DATE>, auch K. – wie sich selbst – als einen aus
+                    <note type="comment">Kafka, dessen Anwesenheit in V 13 in Prag (1911) erwähnt wird (77, Anm.
+                        8), habe, vor allem im Brief an Brod vom Juni 1921, auch K. – wie sich selbst – als einen aus
                         dem Reich der deutschen Sprache Ausgeschlossenen angesehen. Diesen Zweifel an dem Verhältnis des Juden K. 
                         zur deutschen Sprache artikuliere vor allem eine Nebenbemerkung über K.s „langweilige Gedichte“.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -22824,7 +22824,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Sprache (vgl. 9.3.2.2.5);in seiner (denkbaren) Verarbeitung der K.-Werfel-Polemik
                         in der Figur des Barnabas im „Schloß“: was Kafka an dessen
                         Kleidung beobachtet – schmutzige Unterwäsche unter einer glänzenden
-                        Uniform – <hi>entspricht aufs Haar der satirische<ADD>n</ADD> Anatomie, die K.</hi> [in „Literatur“] <hi>an
+                        Uniform – <hi>entspricht aufs Haar der satirische[n] Anatomie, die K.</hi> [in „Literatur“] <hi>an
                         Werfels abendländischem Gestus vorgenommen hat</hi>. (106).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
@@ -22854,7 +22854,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         notierte Zitate aus der „Fackel“, Bergs Anstreichungen in seinen Heften der
                         Zeitschrift und zahlreiche K. betreffende Stellen in Briefen von und an Berg.
                         Besondere Bedeutung für den Komponisten hatte K.s Einführungsrede zur
-                        „Büchse der Pandora“ (<DATE>1905</DATE>), von der Bergs Wedekind-Verständnis und
+                        „Büchse der Pandora“ (1905), von der Bergs Wedekind-Verständnis und
                         damit die Arbeit an „Lulu“ mitgeprägt sind. K.s <hi>Meisterschaft sprachlicher
                         Variation</hi> habe auch auf Bergs Kompositionstechnik gewirkt (66). Anregungen
                         Bergs dürften in der „Fackel“ ihren Niederschlag gefunden haben (161).
@@ -22901,10 +22901,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>323 S.</biblScope>
 
                     <note type="comment">Geht gelegentlich auf Benjamins Beziehung zu K. ein: auf Übereinstimmungen
-                        im Heine-Verständnis (20); auf frühe Distanz zu K. im Jahre <DATE>1916</DATE> (58);
+                        im Heine-Verständnis (20); auf frühe Distanz zu K. im Jahre 1916 (58);
                         auf die Rezension der Lesung von „Pariser Leben“ (196); auf K.s Bemerkung
                         über Benjamins K.-Essay (218 f.); auf einen Plan für einen Vortragszyklus
-                        im Pariser Exil <LANG iso="fr">„L‘avantgarde allemande“</LANG>, in den K. einbezogen worden wäre (241); auf Parallelen zwischen dem „Passagenwerk“ und den
+                        im Pariser Exil „L‘avantgarde allemande“, in den K. einbezogen worden wäre (241); auf Parallelen zwischen dem „Passagenwerk“ und den
                         „Letzten Tagen der Menschheit“ (270).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
@@ -22953,8 +22953,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 4592–4597</biblScope>
                     
                     <note type="comment">Aus einer anfänglich zwiespältigen Haltung gegenüber K. kommt Webern
-                        um <DATERANGE>1913/14</DATERANGE> zu neuer Hochschätzung von K., die zur Komposition mehrerer
-                        K.-Gedichte <DATERANGE>zwischen 1913 und 1924</DATERANGE> führt. In den <DATERANGE>20er Jahren</DATERANGE> erhält
+                        um 1913/14 zu neuer Hochschätzung von K., die zur Komposition mehrerer
+                        K.-Gedichte zwischen 1913 und 1924 führt. In den 20er Jahren erhält
                         Weberns Einstellung zu K. durch die Begegnung mit Hildegard Jone (deren
                         K.-Rezeption hier ebenfalls dargestellt wird) und mit dem „Brenner“ eine
                         neue Richtung. Wesentliche Motive von K.s Sprachauffassung – Naturgesetzlichkeit
@@ -23101,7 +23101,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 37–47</biblScope>
                     
                     <note type="comment">Detailreicher, vielleicht mehr an der Forschung als am Normalleser orientierter
-                        Kommentar zum Aufsatz K.s von <DATE>1912</DATE> (S 3, 161–172), mit genauem
+                        Kommentar zum Aufsatz K.s von 1912 (S 3, 161–172), mit genauem
                         Nachweis fast aller Quellen, auf die K.s Angriffe Bezug nehmen. Ein
                         Schwerpunkt liegt auf Besonderheiten von K.s Sprachgebrauch.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -23150,7 +23150,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Sehr gründlich dokumentierte – vgl. auch den Anhang – Darstellung des
                         „Akademischen Verbandes“, der die ersten Vorlesungen von K. in Wien
                         organisiert hat, und verwandter Vereinigungen. Veröffentlicht einschlägige
-                        Briefe an K., stellt die Organisation der K.-Vorlesungen von <DATERANGE>1910 bis 1912</DATERANGE>
+                        Briefe an K., stellt die Organisation der K.-Vorlesungen von 1910 bis 1912
                         detailreich dar und zeigt deren Einbettung in das Wiener Kulturleben. Stellt
                         auch die für die K.-Rezeption aufschlußreichen Konflikte um K. dar,
                         insbesondere den von Edgar Zilsel ausgelösten. Im Zusammenhang mit dem
@@ -23286,7 +23286,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         solchen Haltung heraus entsteht eine ‚ästhetische Opposition‘ gegen die
                         normative Ästhetik; in dieser Opposition hat auch K. seinen Platz. Als ein
                         wesentlicher Indikator dieser Haltung wird die <hi>Entfaltung des Materialbegriffs</hi>
-                        (37) analysiert. In der „Fackel“ hat schon <DATE>1911</DATE> Richard Weiß Gedanken
+                        (37) analysiert. In der „Fackel“ hat schon 1911 Richard Weiß Gedanken
                         zum <hi>Material der Wortkunst</hi> vorweggenommen, wie sie dann im russischen
                         Formalismus diskutiert worden sind (38 f.). Unter diesem Aspekt sind Leo
                         Popper und Franz Grüner besonders interessante Mitarbeiter der Zeitschrift. 
@@ -23483,7 +23483,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 83–102</biblScope>
                     
-                    <note type="comment">In der Polemik von <DATERANGE>1928/29</DATERANGE> steht die Frage nach der <hi>Stellung von Literatur in
+                    <note type="comment">In der Polemik von 1928/29 steht die Frage nach der <hi>Stellung von Literatur in
                         der Gesellschaft und zur Gesellschaft</hi> (87) im Vordergrund; der Künstler muß für
                         K. Außenseiter sein, um der Zerstörung durch die Zivilisation Widerstand
                         leisten zu können. K.s Begeisterung für die dem irrsinnigen Schuster
@@ -23510,12 +23510,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 103–115</biblScope>
                     
-                    <note type="comment">Die in „Bekenntnisse“ (<LINK>F 185, <DATE>1905</DATE></LINK>) programmatisch verkündete ‚ästhetische
+                    <note type="comment">Die in „Bekenntnisse“ (F 185, 1905) programmatisch verkündete ‚ästhetische
                         Wendung‘ wird in Hinblick auf ihre Voraussetzungen und, vor allem,
                         ihre Folgen analysiert, zu denen u.a. auch die Wahl des Aphorismus (und
                         gleich auch des Epigramms) als Artikulationsform und die in K.s literaturkritischen
                         Schriften gesetzten Akzente zählen, wohl auch die Vorlesungen,
-                        als deren <hi>heimlichen Beginn</hi> man die Wedekind-Aufführung von <DATE>1905</DATE> ansehen
+                        als deren <hi>heimlichen Beginn</hi> man die Wedekind-Aufführung von 1905 ansehen
                         müsse (112).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
@@ -23533,8 +23533,6 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <date when="1990">1990</date> 
                     
                     <biblScope>114 S.</biblScope>
-                    
-                    <repository>Universitätsbibliothek Innsbruck</repository>
                     <idno type="callNumber">DG 21122</idno>
                     
                     <note type="comment">Behandelt ausführlich die verschiedenen Tätigkeiten von Castiglioni, geht
@@ -23596,7 +23594,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Ausgangspunkt der Überlegungen ist die <hi>Parallelität von Schönbergs Dodekaphonie
                         und der Technik der Aneinanderreihung von kakophonen Geräuschen in Kraus’
                         Tragödie</hi> (179). Das <hi>strukturorganisierende Prinzip</hi>, das das chaotische Nebeneinander
-                        zusammenhält, ist in K.s schon <DATE>1909</DATE> artikulierter <hi>einmaligen Operettenästhetik
+                        zusammenhält, ist in K.s schon 1909 artikulierter <hi>einmaligen Operettenästhetik
                         </hi> zu finden (180). Beruft sich auf die <hi>ästhetische Reflexion</hi> Bachtins als
                         geeigneten Ansatz für das Verständnis der „Letzten Tage der Menschheit“
                         (183). Untersucht in dieser Perspektive einige Szenen, vor allem jene mit
@@ -23772,13 +23770,13 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         und erhaltener Briefe von Fritz Wittels) die Beziehung zwischen K. und
                         seinem ehemaligen Mitarbeiter Wittels detailliert dar und geht auch auf
                         dessen Schlüsselroman „Ezechiel der Zugereiste“ sowie auf das <hi>aggressive
-                        öffentliche Auftreten von K.</hi> (69) im (Berliner) Prozeß um dieses Buch (<DATE>1910</DATE>) ein.
-                        K.s Angriffe auf die Psychoanalyse (ab <DATE>1908</DATE>) sind nicht eine Reaktion auf
-                        Wittels’ Vortrag von <DATE>1910</DATE>. Gibt auch Einblicke in K.s Lebensweise (63),
+                        öffentliche Auftreten von K.</hi> (69) im (Berliner) Prozeß um dieses Buch (1910) ein.
+                        K.s Angriffe auf die Psychoanalyse (ab 1908) sind nicht eine Reaktion auf
+                        Wittels’ Vortrag von 1910. Gibt auch Einblicke in K.s Lebensweise (63),
                         besonders in seine Beziehung zur Schauspielerin Irma Karczewska. Mit
                         vielen Hinweisen auf K.s Verhältnis zur Psychoanalyse und zum besseren
                         Verständnis von „Fackel“-Stellen. Mit einem vielleicht authentischen Zitat
-                        aus einem Brief K.s an Wittels von <DATE>1906</DATE> (?) (63).</note>
+                        aus einem Brief K.s an Wittels von 1906 (?) (63).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
                 </bibl>
@@ -23801,7 +23799,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 87–107</biblScope>
                     
                     <note type="comment">Interessante biographische Informationen aufgrund von Wittels’ unveröffentlichter
-                        Autobiographie: Freud habe <DATE>1907</DATE> regelmäßig die „Fackel“
+                        Autobiographie: Freud habe 1907 regelmäßig die „Fackel“
                         gelesen (88); durch Wittels sei K. zum Besuch von Freuds Vorlesungen
                         angeregt worden (88); Überlegungen zu den verschiedenen Rollen, die K.
                         Frauen in seinem Leben zuwies (93). Recht ausführlich über K.s Bemühungen, 
@@ -23809,7 +23807,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Roman „Ezechiel der Zugereiste“ (97 f.). Das Fehlen persönlicher Angriffe
                         K.s auf Freud wird mit dessen Haltung im Konflikt um Wittels erklärt (101).
                         Ausblicke auf den Hetärenkult K.s und der Zeit und auf sein Verschwinden
-                        aus der „Fackel“ nach <DATE>1918</DATE> (94).</note>
+                        aus der „Fackel“ nach 1918 (94).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
                 </bibl>
@@ -23825,15 +23823,15 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num>10</num>
                     
                     <pubPlace key="#kab-place-00052">Salzburg</pubPlace> <!--Vgl. In 7.6.2.7.2 wird Wien angegeben?-->
-                    <date when="1982/1983">1982/83</date>
+                    <date notBefore="1982" notAfter="1983">1982/83</date>
 
                     <biblScope>S. 405–434</biblScope>
                     
                     <note type="comment">K. ist <hi>in seinen jungen Jahren ein nahezu kritikloser Verehrer Chamberlains gewesen</hi>
                         (405). In dieser Einschätzung trifft er sich mit Harden (428). Zitate aus der
-                        (<DATE>Ende 1904</DATE> endenden) Korrespondenz zwischen K. und Chamberlain enthalten
+                        (Ende 1904 endenden) Korrespondenz zwischen K. und Chamberlain enthalten
                         Interessantes über die Redaktion der frühen „Fackel“, auch über die
-                        noch <DATE>1901</DATE> an „alle großen deutschen Blätter“ ausgeschickten Rezensionsexemplare
+                        noch 1901 an „alle großen deutschen Blätter“ ausgeschickten Rezensionsexemplare
                         der Zeitschrift. Informiert über verborgene Absichten Chamberlains, 
                         an dem der Aufsatz mehr orientiert ist als an K., und, sehr detailverliebt, 
                         über die breite Auseinandersetzung zum Thema der katholischen
@@ -23854,11 +23852,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <title level="j">Wirkendes Wort"</title>
                     <num type="volume">41</num>
-                    <date when="1991°´">1991</date>
+                    <date when="1991">1991</date>
                     
                     <biblScope>S. 62–72</biblScope>
                     
-                    <note type="comment">Der <DATE>1903</DATE> einsetzende, vor allem <DATERANGE>zwischen 1908 und 1912</DATERANGE> intensive Briefwechsel
+                    <note type="comment">Der 1903 einsetzende, vor allem zwischen 1908 und 1912 intensive Briefwechsel
                         (130 Poststücke von K.) wird als <hi>Zeugnis von K.’s Freundschaftsfähigkeit</hi>
                         (63) dargestellt. Erwähnt recht allgemein frühe anonyme Mitarbeit Stoessls
                         an der „Fackel“ (63) und entnimmt den Briefen Informationen über die Redaktionspraxis
@@ -23888,7 +23886,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="series">10</num>
 
                     <note type="comment">Veröffentlicht die Vorträge des Kraus-Kolloquiums im Centre Pompidou,
-                        Paris, <DATE>1986</DATE>; mit deutschen und englischen Zusammenfassungen. Alle Beiträge
+                        Paris, 1986; mit deutschen und englischen Zusammenfassungen. Alle Beiträge
                         sind im folgenden einzeln verzeichnet.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
@@ -24020,7 +24018,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">K. und Tucholsky gehörten zu den ersten Schriftstellern, die die Entwicklung
                         der Fotografie zum Massenmedium aufmerksam verfolgten, und sind
                         Vorläufer der Theorie und Praxis der Fotomontage. Analysiert exemplarisch
-                        den „Sieger“ von <DATE>1911</DATE>, das Foto der Battisti-Hinrichtung in den
+                        den „Sieger“ von 1911, das Foto der Battisti-Hinrichtung in den
                         „Letzten Tagen der Menschheit“ und das zu „Nachruf“ gehörende Berchtold-Porträt. 
                         Mit vielen Detailinformationen über <hi>die überraschende Vielfalt</hi> der
                         Bildkompositionen (560) bei K. und über das Verhältnis zwischen Bild und
@@ -24184,11 +24182,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 53–64</biblScope>
                     
-                    <note type="comment">K. hat <DATE>1933</DATE> seinen Politikbegriff verändert; es ist ihm unter dem Eindruck
+                    <note type="comment">K. hat 1933 seinen Politikbegriff verändert; es ist ihm unter dem Eindruck
                         des Nationalsozialismus <hi>spät und mißverständlich</hi> gelungen, <hi>zwischen absolutem
                         Moralismus und relativierendem Pragmatismus eine Verbindung herzustellen</hi> (62). K.s
                         Eintreten für einen gemeinsamen Widerstand gegen Hitler ist <hi>ein Vorgriff auf
-                        den Geist von <DATE>1945</DATE></hi> in Österreich gewesen, auch in der Betonung der Anschluß-Frage
+                        den Geist von 1945</hi> in Österreich gewesen, auch in der Betonung der Anschluß-Frage
                         (61). Durch die Nicht-Einbeziehung der langjährigen Polemiken
                         gegen die Sozialdemokratie etwas einseitig, unterschätzt K.s positive
                         Bindung an das Dollfuß-Regime.</note>
@@ -24320,7 +24318,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         an K. und auf dessen Anstreichungen in seinem Exemplar der „Fackel“. K. hat noch lange nach Beginn des Weltkriegs <hi>die Ansicht führender Offiziere über den
                         Krieg geteilt</hi> und war mit ihnen in der konservativen Abneigung gegen den
                         <hi>„inneren Feind“</hi> einig (96). Zum <hi>großen Gegner des Militarismus</hi> ist K. erst im
-                        <DATERANGE>Sommer 1917</DATERANGE> geworden (98).</note>
+                        Sommer 1917 geworden (98).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
                 </bibl>
@@ -24342,9 +24340,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 101–110</biblScope>
                     
-                    <note type="comment">Erst im <DATE>Jänner 1917</DATE>, nach der Thronbesteigung Karls I., ist in der „Fackel“
+                    <note type="comment">Erst im Jänner 1917, nach der Thronbesteigung Karls I., ist in der „Fackel“
                         explizit vom Frieden die Rede (102), in Zusammenhang mit Lammasch.
-                        Das Heft der Zeitschrift vom <DATE>Mai 1918</DATE> ist dann fast zur Gänze diesem
+                        Das Heft der Zeitschrift vom Mai 1918 ist dann fast zur Gänze diesem
                         Thema gewidmet, vor allem als Reaktion auf Äußerungen Czernins, aber
                         ohne Eingehen auf Details von dessen Vorschlägen. Auch die Berufung auf
                         Kant zeigt, daß K. mehr an ethischen als an politischen Fragen interessiert
@@ -24425,7 +24423,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 67–83</biblScope>
                     
                     <note type="comment">Beschäftigt sich vor allem mit K.s früher Gleichsetzung der Intentionen des
-                        Zionismus und des Antisemitismus (<DATE>1898</DATE>), zu der er eine Reihe von Parallelen
+                        Zionismus und des Antisemitismus (1898), zu der er eine Reihe von Parallelen
                         bei den im Titel genannten Autoren nachweist. Der Schwerpunkt liegt
                         auf diesen Parallelen.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -24452,12 +24450,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Eine psychologische Analyse von K.s Verhältnis zum Judentum, im Sinne
                         der ‚Selbsthaß‘-Hypothese. Im Detail sehr ungenau. Die Ausgrenzung der
                         Juden aus der Gesellschaft hat K. sozusagen an Salten, die „Neue Freie
-                        Presse“, Herzl weitergereicht (<LANG iso="en"><I>the creation of the Jewish Other as <ERR sug="a">s</ERR> substitute for the
-                        hatred of the self</I></LANG>) für sich selbst als ebenfalls ‚anderen‘ Schriftsteller fand er in
+                        Presse“, Herzl weitergereicht (<hi rendition="#italic">the creation of the Jewish Other as <choice><sic>s</sic><corr>s</corr></choice> substitute for the
+                        hatred of the self</hi>) für sich selbst als ebenfalls ‚anderen‘ Schriftsteller fand er in
                         Oscar Wilde eine Identifikationsmöglichkeit (14). K.s Auffassung der Perversität
                         der Sprache der Juden lasse sich auf seine Kenntnis von Wildes
                         „Salome“ (und der Judenfiguren in diesem Stück) zurückführen (16). Analysiert genau den Angriff auf Friedrich Schütz’ Wilde-Besprechung von
-                        <DATE>1903</DATE>. Sehr hypothetisch. Zum Teil identisch mit KAB 49, <ref target="#kab-entry-7.5.12">7.5.12</ref>.</note>
+                        1903. Sehr hypothetisch. Zum Teil identisch mit KAB 49, <ref target="#kab-entry-7.5.12">7.5.12</ref>.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
                 </bibl>
@@ -24510,7 +24508,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zusammen, dessen Aufgabe nicht das Anbieten von Lösungen, dessen
                         Rolle nicht die eines Lehrers ist (204 f.). Dementsprechend gering ist das
                         Echo der zeitgenössischen pädagogischen Diskussion in der „Fackel“, das
-                        sich auf die <DATERANGE>Vorkriegszeit</DATERANGE> und oft auf frühe Beiträge von Mitarbeitern
+                        sich auf die Vorkriegszeit und oft auf frühe Beiträge von Mitarbeitern
                         beschränkt. Zweifellos ist K. kein Anhänger pädagogischer Reformen.
                         Nützliche und auch im Detail genaue Übersicht der einschlägigen Äußerungen
                         , mit Ausblicken auf K.s letztlich doch erzieherische Wirkung.</note>
@@ -24561,7 +24559,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 155–171</biblScope>
 
                     <note type="comment">Wichtige Darstellung formaler und inhaltlicher Aspekte der großen Polemik
-                        von <DATE>1933</DATE>, die auf der Kontrastierung Potsdam gegen Weimar, Goethe gegen
+                        von 1933, die auf der Kontrastierung Potsdam gegen Weimar, Goethe gegen
                         Hitler beruhe (156). Die 106 Goethe-Zitate bilden eine <hi>fiktionale Gegenebene</hi>
                         gegen die Darstellung sowohl der Greuel im nationalsozialistischen Deutschland
                         als auch dessen intellektueller Repräsentanten (158). Für die Angriffe
@@ -24622,7 +24620,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>134 S.</biblScope>
 
-                    <note type="comment">Verhältnismäßig wenig über Hartls geistige Begegnung mit K. (seit <DATE>1924</DATE>),
+                    <note type="comment">Verhältnismäßig wenig über Hartls geistige Begegnung mit K. (seit 1924),
                         der gleichwohl seine <hi>Weltsicht entscheidend beeinflußt hat</hi> (75). Kritisch über die
                         ‚Krausianer‘ (78 f.); knapp, aber gewichtig über die Wirkung der Vorlesungen
                         (97).</note>
@@ -24800,7 +24798,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="series">1</num>
 
                     <note type="comment">Enthält (leider nur) einen Großteil der Vorträge des Kraus-Symposiums in
-                        Albany, New York, <DATE>1986</DATE>, sowie einige davon unabhängige Aufsätze. Alle
+                        Albany, New York, 1986, sowie einige davon unabhängige Aufsätze. Alle
                         Beiträge sind im folgenden einzeln verzeichnet. Der Band weist unnötig viele
                         Druckfehler auf.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -24925,7 +24923,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">Unterscheidet sehr normativ zwischen einem auf Montaigne zurückgehenden
                         <hi>schöpfungspoetologischen</hi> (112) und einem von Bacon ausgehenden <hi>schöngeistigen
-                        </hi> (113) Essay; dieser hat sich im <DATERANGE>19. Jahrhundert</DATERANGE> in Deutschland durchgesetzt
+                        </hi> (113) Essay; dieser hat sich im 19. Jahrhundert in Deutschland durchgesetzt
                         und ist zum Feuilleton geworden. K.s Essays entwickeln sich zur
                         ersten Kategorie hin, vor allem durch die Wirkung seines <hi>aphoristischen
                         Erkenntnisverfahrens</hi> (117). Konzentriert sich auf „Heine und die Folgen“,
@@ -24958,7 +24956,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Katalog von Stilmitteln, die K. selbst offensichtlich für Pathos bewirkend
                         hielt; als Beispiele dienen die (mißglückt pathetische) Ansprache ‚eines
                         Wieners‘ aus den „Letzten Tagen der Menschheit“ (I/1) und „Vorspruch
-                        und Nachruf“ von <DATE>1935</DATE>. Unterstreicht den <hi>Widerspruch zwischen K.s Kritik an
+                        und Nachruf“ von 1935. Unterstreicht den <hi>Widerspruch zwischen K.s Kritik an
                         pathetischem Sprechen</hi> und <hi>seiner eigenen intensiven Anwendung von Stilmitteln mit
                         pathetischer</hi> […] <hi>Wirkung</hi> (168).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -25119,7 +25117,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         über die Beziehungen zwischen beiden Autoren; im zweiten Teil
                         werden die Gemeinsamkeiten herausgearbeitet: beide waren <hi>radikale Neinsager</hi> 
                         (277), beide arbeiten in ähnlicher Weise mit Zitaten (279 f.), vergleichbar
-                        sei auch ihre Position nach <DATE>1933</DATE> (281 ff.). Interessante Überlegungen zur
+                        sei auch ihre Position nach 1933 (281 ff.). Interessante Überlegungen zur
                         „Dritten Walpurgisnacht“ (283 ff.); anregend der Gedanke, die „Fackel“ in
                         Hinblick auf ihren Montage-Charakter als <hi>Kollektivleistung</hi> (279) zu verstehen.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -25176,7 +25174,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">Beschäftigt sich an einigen Stellen detailliert und materialreich mit Polemiken
                         zwischen K. und Tucholsky bzw. mit der „Weltbühne“: S. 90–95 mit
-                        dem Anlaß zum „Fall Jacobsohn“ (<LINK>F 686–90, <DATE>1925</DATE>, 54–69</LINK>); S. 249–252, 303
+                        dem Anlaß zum „Fall Jacobsohn“ (F 686–90, 1925, 54–69); S. 249–252, 303
                         über direkte Angriffe K.s auf Tucholsky; S. 321 f. das Zitat des von K.
                         mehrfach erwähnten Kriegsanleihe-Gedichts von Tucholsky; S. 347 f. eine
                         scharfe Äußerung Tucholskys über K.; S. 618 eine interessante Berufung des
@@ -25232,7 +25230,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 67–76</biblScope>
                     
-                    <note type="comment">Weist die in „Apokalypse“ (<DATE>1908</DATE>) enthaltenen Anspielungen auf politische
+                    <note type="comment">Weist die in „Apokalypse“ (1908) enthaltenen Anspielungen auf politische
                         Ereignisse, auf Entwicklungen in Kultur und Gesellschaft und auf andere
                         Texte nach und setzt zu einer Interpretation der Satire unter Einbeziehung
                         dieser Informationen an. Vor allem die Ironie der Distanzierung K.s von
@@ -25328,7 +25326,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Taschenbuch der Künste</title>
 
                     <note type="comment">S. 63 behauptet Rösler, leider ohne Beleg (vielleicht aus einem Mißverständnis
-                        von <LINK>F 192, <DATE>1906</DATE>, 27</LINK> heraus), K. habe <DATERANGE>1906/07</DATERANGE> bei einem Einakter im
+                        von F 192, 1906, 27 heraus), K. habe 1906/07 bei einem Einakter im
                         Wiener Kabarett „Nachtlicht“ Regie geführt. 136–138: der Vortrag der
                         ‚Zeitstrophen‘ wird als <hi>exzellentes satirisches Einmann-Kabarett</hi> (138) interpretiert, 
                         zu einer Zeit, als das Wiener Kabarett politischen Fragen noch
@@ -25353,7 +25351,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Neben zahlreichen (durch das Register erschlossenen) Angaben zum Verhältnis
                         K.s zu Wiener Kabaretts vor allem S. 159–162 ein Kapitel über die
                         „Zeitstrophen“ als kabarettistische Form. K.s Abwendung von ihr nach
-                        <DATE>1933</DATE> fällt mit der stärkeren politischen Orientierung der Wiener Kleinkunstbühnen, 
+                        1933 fällt mit der stärkeren politischen Orientierung der Wiener Kleinkunstbühnen, 
                         unter seinem Einfluß, zusammen (162). Referiert weitgehend
                         Knepler.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -25379,10 +25377,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Edition Orpheus</title>
                     <num type="series">1</num>
                     
-                    <note type="comment">Weist zahlreiche K.-Echos im <DATE>1926</DATE> ins Leben gerufenen Politischen Kabarett
+                    <note type="comment">Weist zahlreiche K.-Echos im 1926 ins Leben gerufenen Politischen Kabarett
                         der österreichischen Sozialdemokratie, in den satirischen Beiträgen der
                         „Arbeiter-Zeitung“ und, mit besonderer Liebe, in der Wiener Kabarett-Subkultur
-                        seit <DATE>1934</DATE> nach; ein Schwerpunkt liegt auf den entsprechenden
+                        seit 1934 nach; ein Schwerpunkt liegt auf den entsprechenden
                         Stellen bei Jura Soyfer, etwa auch auf dessen Wortspielen (189). Besonders
                         stark war die Wirkung der „Letzten Tage der Menschheit“ (184 f.). Sehr
                         informativ.</note>
@@ -25411,7 +25409,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">Die im Detail ungenaue Darstellung betont die starke Wirkung K.s, besonders
                         seiner Sprachlehre, auf die Autorinnen und Autoren der Bukowina.
-                        Alfred Margul-Sperber hat – auch noch nach <DATE>1945</DATE> – K.s Sprachauffassung
+                        Alfred Margul-Sperber hat – auch noch nach 1945 – K.s Sprachauffassung
                         ziemlich direkt übernommen. Celan dagegen greift <hi>traditionsverpflichtete Versuche
                         an, Sprache zu erneuern</hi> (341).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -25434,10 +25432,10 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 77–84</biblScope>
                     
                     <note type="comment">Übersicht über das ungarische Presse-Echo auf K. bis zu den Nachrufen von
-                        <DATE>1936</DATE>. Die ungarische K.-Rezeption war nicht auf Übersetzungen angewiesen
+                        1936. Die ungarische K.-Rezeption war nicht auf Übersetzungen angewiesen
                         (78); allerdings war sie damit auf die großstädtische Budapester Literaturszene
                         konzentriert (78, 83). Um die Nachrufe gab es Polemiken, die K.s
-                        Einstellung im Jahre <DATE>1934</DATE> betroffen haben (82). Enthält einige in dem
+                        Einstellung im Jahre 1934 betroffen haben (82). Enthält einige in dem
                         (insgesamt aber viel vollständiger dokumentierten) Beitrag von Szabó
                         (Kraus-Heft 15) fehlende (leider recht ungenaue) bibliographische Nachweise.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -25491,8 +25489,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 55–64</biblScope>
                     
                     <note type="comment">Nr. 83: Kreisky nennt sich einen <hi>K.-Schüler</hi> (4); S. 5 f. heftige Kritik an K.s
-                        Verhalten im Jahr <DATE>1934</DATE> (<hi>er war die große Enttäuschung unseres Lebens</hi>, 6), auch
-                        an seinem Verhalten im <DATE>Juli 1927</DATE> und überraschenderweise an der Art seiner
+                        Verhalten im Jahr 1934 (<hi>er war die große Enttäuschung unseres Lebens</hi>, 6), auch
+                        an seinem Verhalten im Juli 1927 und überraschenderweise an der Art seiner
                         Taufe.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 28. Fortsetzung. In: Kraus-Hefte 60 (Jannuar 1992).<lb/>
@@ -25643,7 +25641,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>249 S.</biblScope>
                     
                     <note type="comment">Ausführliche Erläuterungen (sowie vereinzelte textkritische Informationen
-                        und Ergänzungen) zur Ausgabe der „Frühen Schriften“ von <DATE>1979</DATE>. Der
+                        und Ergänzungen) zur Ausgabe der „Frühen Schriften“ von 1979. Der
                         betont positivistische Kommentar beschränkt sich auf Angaben zu Fakten
                         (auch zu wenig wichtigen) und beachtet nicht deren besondere Bedeutung für
                         K. und andere Zeitgenossen. Doch hat Braakenburg sorgfältig Informationen
@@ -25671,7 +25669,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 19–29</biblScope>
                     
                     <note type="comment">Schildert aufgrund unveröffentlichter Briefe Sidonie Nádhernýs an einen
-                        tschechischen Kunsthistoriker aus den <DATERANGE>vierziger Jahren</DATERANGE> ihre Probleme in der
+                        tschechischen Kunsthistoriker aus den vierziger Jahren ihre Probleme in der
                         Ära der deutschen Besetzung Böhmens. Interessant, weil diese Briefe die
                         Persönlichkeit der Verfasserin besser erkennen lassen. Die Erinnerung an
                         K. wird mehrfach beschworen (25 f.). Auch in Hinblick auf K. ist das
@@ -25699,14 +25697,14 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">Eine stark an der politischen Entwicklung K.s orientierte, formale Fragen
                         weniger beachtende, recht knappe, gelegentlich – etwa in Hinblick auf K.s
-                        Position des <hi>allwissenden Richters</hi> (92, auch 56) – kritische Übersicht über das Werk von K., die den Forschungsstand der <DATERANGE>achtziger Jahre</DATERANGE> zusammenfaßt,
+                        Position des <hi>allwissenden Richters</hi> (92, auch 56) – kritische Übersicht über das Werk von K., die den Forschungsstand der achtziger Jahre zusammenfaßt,
                         an einzelnen Stellen darüber auch hinausgeht. Am wichtigsten ist die
                         Einbettung von K.s Satire in einen größeren ostmitteleuropäischen (und
                         damit über das deutsche Sprachgebiet hinausgehenden) Zusammenhang
                         (vor allem in der Einleitung, besonders 27 ff., und im Anhang über die
                         ungarische K.-Rezeption). Interessante Beobachtungen über die Funktion
                         des Frauenbilds (48), über die Lyrik (76 ff.), über den Aufbau eines
-                        „Fackel“-Hefts (<LINK>F 418–22</LINK>) (82 f.), den <hi>Wechsel von Satire zu Polemik</hi> (100) in
+                        „Fackel“-Hefts (F 418–22) (82 f.), den <hi>Wechsel von Satire zu Polemik</hi> (100) in
                         der Ersten Republik, über K.s Auffassung von Deutsch als <hi>einer völlig
                         logischen, systematischen Sprache</hi>, als <hi>einer Art modernisiertem Schullatein</hi> (127).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -25750,12 +25748,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <title level="s">Literatur und Gesellschaft</title>
 
-                    <note type="comment">Rezensionen von G. J. Carr (in: <LANG iso="en">Modern Language Review</LANG> 84. 1989.
+                    <note type="comment">Rezensionen von G. J. Carr (in: Modern Language Review 84. 1989.
                         S. 528 f.) mit zusätzlichen Informationen zu den Goethe- und Klopstock-Aufsätzen; 
                         Günter Hartung (in: Zeitschrift für Germanistik 10. 1989.
                         S. 224–227) mit Ergänzungen zum Verhältnis K. – Brecht und einigen
                         kleinen Korrekturen; Helmut Arntzen (in: Arbitrium 7. 1989. S. 344–348)
-                        mit wichtigen Gedanken zu K. im Jahr <DATE>1934</DATE>.</note>
+                        mit wichtigen Gedanken zu K. im Jahr 1934.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>
                 </bibl>
@@ -25798,7 +25796,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 169–181</biblScope>
                     
-                    <note type="comment">S. 180 f. ein ausführlicher Brief Werfels an Haas vom <DATE>6.12.1916</DATE>, in dem er
+                    <note type="comment">S. 180 f. ein ausführlicher Brief Werfels an Haas vom 6.12.1916, in dem er
                         sich ausschließlich mit dem <hi>Fall K.</hi> beschäftigt. K. wird <hi>ein Kulminationspunkt der
                         jüdischen assimilatorischen Degeneration</hi> genannt (180); er sei <hi>der größte Dreh der Weltliteratur</hi>(180). 
                         Spricht auch von der emotionalen Seite des Umgangs mit K.</note>
@@ -25857,8 +25855,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (178–186). Neue Aspekte enthält der Abschnitt über Schobers Verhalten
                         gegenüber Békessy (186–193), das nicht mit einer Erpressung des Journalisten
                         , sondern mit der Geringschätzung des Polizeipräsidenten für K. als
-                        moralischen Faktor erklärt wird. Zitiert (219) einen Brief von <DATE>1928</DATE>, in dem
-                        Schober über K.s Angriffe klagt. Wenig über die Folgen des <DATE>15. Juli 1927</DATE>.</note>
+                        moralischen Faktor erklärt wird. Zitiert (219) einen Brief von 1928, in dem
+                        Schober über K.s Angriffe klagt. Wenig über die Folgen des 15. Juli 1927.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>
                 </bibl>
@@ -25974,7 +25972,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         <hi>Sprachliches</hi> (81), zeigt aber auch, daß mit diesem Begriff sehr beliebig
                         argumentiert werden kann (85). Mißt dann vor allem K.s Polemik gegen
                         Gedichte von Arp, Kulka und Carl Einstein an dem Begriff der <hi>Wortgestalt</hi>,
-                        wobei mindestens Einsteins in <LINK>F 454–56, <DATE>1917</DATE>, 37 f.</LINK> angegriffener „Tötlicher
+                        wobei mindestens Einsteins in F 454–56, 1917, 37 f. angegriffener „Tötlicher
                         Baum“ diesem Kriterium entspreche. Ein bemerkenswerter Beitrag zu
                         K.s literarischen Urteilen, zu seiner Sprachauffassung und zu seiner Lyrik.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -26070,7 +26068,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">Der ungemein materialreiche und mancherlei „Fackel“-Stellen erhellende
                         Aufsatz behandelt die Beziehungen K.s zu (und auch seine Wirkungen auf)
-                        Prager Literaten vor <DATE>1914</DATE>, wobei besondere Akzente auf dem Stil des
+                        Prager Literaten vor 1914, wobei besondere Akzente auf dem Stil des
                         ‚Prager Schmocks‘ (95 ff.), der Mitarbeit Max Steiners (98 ff.), der <hi>rund
                         siebenjährigen Geschichte satirischer</hi> [Hugo] <hi>Salus-Demontage</hi> (100 ff., Zitat 102),
                         den frühen Prager Vorlesungen, dem Verhältnis zu Brod (105 f.) und der
@@ -26198,7 +26196,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Schiller-Anspielungen in der „Fackel“ auch auf verschiedene Weisen des
                         Zitat-Gebrauchs bei K. ein. Erhellt gewichtige Wortspiele, weist unbekannte
                         Quellen nach (Hans Kyser, 236 ff.), macht einen Beginn der Arbeit K.s an
-                        diesem Werk vor der Reichstagswahl vom <DATE>5.3.1933</DATE> wahrscheinlich. Abschließend
+                        diesem Werk vor der Reichstagswahl vom 5.3.1933 wahrscheinlich. Abschließend
                         eine thesenhafte Übersicht über K.s produktive Rezeption Schillers, 
                         dem in der „Fackel“ <hi>eine privilegierte Sonderstellung</hi> (245) zukommt.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -26361,7 +26359,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Sammlung Luchterhand</title>
                     <num type="series">844</num>
 
-                    <note type="comment">K. sei der <hi>einzige Lehrer</hi> des bedeutenden Biochemikers (geboren <DATE>1905</DATE>)
+                    <note type="comment">K. sei der <hi>einzige Lehrer</hi> des bedeutenden Biochemikers (geboren 1905)
                         gewesen (29 f.). Erinnert sich vor allem an die genau beschriebenen Vorlesungen
                         (41–47); deren <hi>Publikum war in der Hauptsacht jung und von hysterischem
                         Enthusiasmus</hi> (44).</note>
@@ -26413,7 +26411,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 104–115</biblScope>
                     
                     <note type="comment">Weitgehend Rechenschaft über eine persönliche Lektüre von Benjamins K.-Essay
-                        aus dem Jahr <DATE>1931</DATE> (KAB <ref target="#kab-entry-3.1.02">3.1.2</ref>). Betont daraus den Aspekt von K. als
+                        aus dem Jahr 1931 (KAB <ref target="#kab-entry-3.1.02">3.1.2</ref>). Betont daraus den Aspekt von K. als
                         Autorität – für Benjamin, der nie ein ‚Anhänger‘ war, und für Canetti.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>  
@@ -26459,7 +26457,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 304–307, 360 f</biblScope>
                     
                     <note type="comment">Čapeks K.-Kenntnis führt zu einem Echo des „Reim“-Essays in seinem
-                        Roman „Der Krieg mit den Molchen“ (<DATE>1936</DATE>).</note>
+                        Roman „Der Krieg mit den Molchen“ (1936).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>    
                 </bibl>
@@ -26538,8 +26536,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="reprint">
                         Auch in: 
                         <title level="m">Lesezirkel. Literatur Magazin. Sammelband 1986 (3. Jg.)</title>
-                        <pubPlace key="#kab-place-00061">Wien</pubPlace>:
-                        <publisher key="#kab-org-00192">Österreichische Staatsdruckerei</publisher>,
+                        <placeName key="#kab-place-00061">Wien</placeName>:
+                        <orgName key="#kab-org-00192">Österreichische Staatsdruckerei</orgName>,
                         <date when="1987">1987</date>.
                     </note>
                     
@@ -26705,7 +26703,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Die vor allem am Begriff ‚Glosse‘ interessierte Arbeit – für den Begriff
                         scheint die Entwicklung der Form bei K. übrigens keine Rolle gespielt zu
                         haben – behandelt K. auf S. 197–218. Die wichtigsten Ergebnisse des wenig
-                        textnahen Abschnitts: die Einführung der Bezeichnung ‚Glosse‘ <DATE>1908</DATE> könnte
+                        textnahen Abschnitts: die Einführung der Bezeichnung ‚Glosse‘ 1908 könnte
                         eine Reaktion auf Bahr sein (214); die Möglichkeit der extremen Verkürzung
                         der Glosse ist allein <hi>eine Folge der kontinuierlichen Verwendung der Textsorte</hi> in
                         der „Fackel“ (215); eine Beschreibung der Glossen-Form bei K. kann durch
@@ -26734,8 +26732,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 13 f.</biblScope>
                     
                     <note type="comment">Knappe Zusammenfassung von K.s Auffassung der Sprache, vor allem der
-                        Phrase. K. habe als erster den <hi>Sinnzerfall</hi> […] <hi>der späten Neuzeit als 
-                        <SPC>Sprecherproblem</SPC></hi>, nicht als <hi><SPC>Sprachproblem</SPC></hi> begriffen (13).</note>
+                        Phrase. K. habe als erster den <hi rendition="#italic">Sinnzerfall</hi> […] <hi rendition="#italic">der späten Neuzeit als 
+                            <hi rendition="#spacing">Sprecherproblem</hi></hi>, nicht als <hi rendition="#spacing">Sprachproblem</hi> begriffen (13).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
@@ -26760,7 +26758,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <note type="comment">Nach ausführlichen, in Zusammenhang mit K.s Sprachgebrauch nicht
                         unwichtigen theoretischen Überlegungen zum österreichischen Deutsch und
-                        zu Stilfragen werden am Beispiel der „Staackmänner“ (<DATE>1914</DATE>; S 3, 292–298)
+                        zu Stilfragen werden am Beispiel der „Staackmänner“ (1914; S 3, 292–298)
                         beispielhaft Form, stilistische Funktion und Zusammenspiel der Austriazismen
                         in einem Text (54–69) untersucht. Als Funktionen ergeben sich:
                         regionale Verankerung des Texts; Abwertung durch stärkere Expressivität;
@@ -26790,7 +26788,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <biblScope>S. 215–231</biblScope>
                     
-                    <note type="comment">Mehr allgemein über K.s politische Haltung <DATERANGE>zwischen 1932 und 1936</DATERANGE> als
+                    <note type="comment">Mehr allgemein über K.s politische Haltung zwischen 1932 und 1936 als
                         über eine spezifisch vom österreichischen Patriotismus geprägte Einstellung
                         (215–221). Gegenüber Dollfuß habe K. den Fehler gemacht, dessen Gegner
                         mit den Nationalsozialisten gleichzusetzen (221). Die Parallelen zwischen K.
@@ -26847,7 +26845,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         über K. (vgl. das Register), die diesen auf einen abgelehnten <hi>jüdischen
                         Anpassungs-Typ</hi> (113) reduzieren, einen <hi>verlogenen Abtrünnigen</hi> (147). Die K.-Verehrung
                         junger Juden sei ein <hi>Glaubensersatz</hi> gewesen (152). Deutet einen
-                        Bruch zwischen K. und Viertel im Jahr <DATE>1934</DATE> an (152).</note>
+                        Bruch zwischen K. und Viertel im Jahr 1934 an (152).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
@@ -26873,7 +26871,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">K. hat Grillparzer (dessen Dramen er recht gut kannte) lange als unhinterfragten
                         Bildungsbesitz akzeptiert und gelegentlich sein Schicksal gegen den
-                        Liberalismus ausgespielt. Erst die Grillparzer-Feiern von <DATE>1922</DATE> lösen negative
+                        Liberalismus ausgespielt. Erst die Grillparzer-Feiern von 1922 lösen negative
                         Urteile aus, zumal wegen der Versuche, Grillparzer zum Staatsdichter zu
                         machen; aber dieser mißfiel K. auch deshalb, weil er weder den Normen der
                         Klassik noch denen des Volkstheaters entsprach. Doch gibt es auch noch spät
@@ -26905,7 +26903,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Hofmannsthal reagierte auf Angriffe von K. nur in Briefen, stellte dem
                         Medium <hi>der öffentlichen Anklage, Namensnennung und Bloßstellung</hi> das <hi>der Intrige</hi>
                         entgegen (22). Analysiert vor allem Hofmannsthals K. betreffenden Brief an
-                        Rychner vom <DATE>24. November 1924</DATE>.</note>
+                        Rychner vom 24. November 1924.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
@@ -26932,7 +26930,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Behandelt eine Berichtigungsaffäre K.s mit der linken Wiener Zeitung „Der
                         Abend“, die mit seinem Eintreten für die „Rote Hilfe“ und für einen von
                         der Auslieferung durch Österreich bedrohten Kommunisten zu tun hat
-                        (<LINK>F 806–09, <DATE>1929</DATE>, 21 f.</LINK>)</note>
+                        (F 806–09, 1929, 21 f.)</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
@@ -26961,7 +26959,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         Vorstellung vermitteln</hi> (9); <hi>er war Hörspieler</hi> (10). Sein <hi>akustisches Gedächtnis</hi> habe
                         ihm gestattet, <hi>bis in die kleinste Nuance</hi> […] <hi>mit seiner Stimme die Kunst eines
                         Sonnenthal oder Mitterwurzer zu reproduzieren</hi> (10). K. hat nicht im Stil des
-                        Theaters seiner Zeit gesprochen, sondern diesem die Kraft des <DATERANGE>19. Jahrhunderts</DATERANGE> entgegengehalten.</note>
+                        Theaters seiner Zeit gesprochen, sondern diesem die Kraft des 19. Jahrhunderts entgegengehalten.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
@@ -26988,7 +26986,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Die neueste K.-Rezeption (nach den ersten Übersetzungen) in Frankreich
                         bestätige K.s Meinung über die Presse. Ausführlicher über die französischen
                         Bemühungen um den Nobelpreis für K. (beruhend auf Werner, KAB 47,
-                        <ref target="#kab-entry-1.1.9">1.1.9</ref>) und zum Vergleich zwischen K. und dem <LANG iso="fr">„Canard enchainé“</LANG> (wie
+                        <ref target="#kab-entry-1.1.9">1.1.9</ref>) und zum Vergleich zwischen K. und dem „Canard enchainé“ (wie
                         KAB 48, <ref target="#kab-entry-8.2.16">8.2.16</ref>).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
@@ -27044,11 +27042,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">Enthält neben anderen durch ein Register erschlossenen Erwähnungen
                         von K. auch die wertvolle „Erinnerung an Karl
-                        Kraus“ (<DATE>1947</DATE>; ausführlichere Fassung von KKB K 1013) (184–
+                        Kraus“ (1947; ausführlichere Fassung von KKB K 1013) (184–
                         192), mit Erinnerungen an K.s Darstellung des Kungu Poti
-                        (<DATE>1905</DATE>) (185), an den freundschaftlichen Umgang mit ihm, an
+                        (1905) (185), an den freundschaftlichen Umgang mit ihm, an
                         Viertels achtstündiges Gespräch mit K. über dessen Einstellung
-                        zu Dollfuß (<DATERANGE>Weihnachten 1935</DATERANGE>) (191 f.); K. habe damals das Angebot
+                        zu Dollfuß (Weihnachten 1935) (191 f.); K. habe damals das Angebot
                         eines Exils in den U.S.A. abgelehnt, er <hi>wollte Wien nicht verlassen, 
                         was auch kommen möge</hi> (192).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -27138,7 +27136,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <note type="comment">Vollständige Fassung von KKB K 2167. Kurzer Essay, der K. in
                         eine <hi>Tradition der Ungemütlichen, der Anti-Wiener, der Spielverderber</hi>
-                        (17) einordnet und sein Schweigen im Jahr <DATE>1934</DATE> erklärt aus
+                        (17) einordnet und sein Schweigen im Jahr 1934 erklärt aus
                         dem <hi>schwersten Schicksal</hi>, dem <hi>Schicksal des Propheten, den das Unglück
                         bestätigt</hi> (19).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -27308,7 +27306,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="series">Nr. 24</num>
 
                     <note type="comment">Gibt überzeugend als einen Grund für das Fehlen ausgesprochener
-                        Avantgarde-Gruppen in Wien nach <DATE>1918</DATE> an, daß K., <hi>der Präzeptor
+                        Avantgarde-Gruppen in Wien nach 1918 an, daß K., <hi>der Präzeptor
                         der jungen Literaten</hi> (82), sich gegenüber avantgardistischen
                         Strömungen (80 ff.) zu <hi>Eruptionen</hi> wie dem (schlecht interpretierten) 
                         Gedicht „Dichterschule“ hinreißen ließ.</note>
@@ -27333,7 +27331,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     
                     <biblScope>S. 33–43</biblScope>
                     
-                    <note type="comment">Gibt vor allem einige Informationen zu den Beziehungen Walter  Serners zu K. Serner brach spätestens <DATE>1919</DATE> <hi>mit seinem geistigen
+                    <note type="comment">Gibt vor allem einige Informationen zu den Beziehungen Walter  Serners zu K. Serner brach spätestens 1919 <hi>mit seinem geistigen
                         Übervater</hi> (40). Wahrscheinlich schickte Serner K. diverse Dada-Zeitschriften
                         zu (40, 43), auf die dieser dann reagierte.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
@@ -27386,8 +27384,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <biblScope>S. 83–110</biblScope>
                     
                     <note type="comment">Insgesamt eine anregende Präsentation der Wiener Kaffeehauskultur
-                        um <DATE>1900</DATE> und in diesem Rahmen auch von K. „Die demolirte
-                        Literatur“ hat ihre späteren Auflagen erst ab <DATE>April 1899</DATE> erlebt, 
+                        um 1900 und in diesem Rahmen auch von K. „Die demolirte
+                        Literatur“ hat ihre späteren Auflagen erst ab April 1899 erlebt, 
                         also dank der Werbung durch die „Fackel“ (90). Betont
                         nachdrücklich die große Jugend aller in dieser Satire und in der
                         „Krone für Zion“ vorkommenden Personen (108). (In einem
@@ -27440,7 +27438,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="comment">Eine genaue Analyse wohl so gut wie aller Dokumente, die den
                         Plan der im Umfeld der Münchner „Gesellschaft“ stehenden
                         (insgesamt nicht rekonstruierbaren) Satirenanthologie betreffen. 
-                        K. arbeitete daran bis weit in das Jahr <DATE>1893</DATE> hinein, und de
+                        K. arbeitete daran bis weit in das Jahr 1893 hinein, und de
                         Plan könnte an materiellen Problemen der Veröffentlichung gescheitert
                         sein (125); auch die Qualität der in Frage kommenden
                         Beiträger war nicht überragend. Mit vielen Zitaten u.a. aus Briefen, 
@@ -27547,8 +27545,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <note type="reprint">
                         Auch in: 
                         <title level="m">Lesezirkel. Literatur Magazin. Sammelband 1985 (2. Jg.)</title>
-                        <pubPlace key="#kab-place-00061">Wien</pubPlace>:
-                        <publisher key="#kab-org-00192">Österreichische Staatsdruckerei</publisher>,
+                        <placeName key="#kab-place-00061">Wien</placeName>:
+                        <orgName key="#kab-org-00192">Österreichische Staatsdruckerei</orgName>,
                         <date when="1986">1986</date>.
                     </note>
                     
@@ -27578,7 +27576,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <edition>Überarbeitete Dissertation, Wien 1985</edition>
 
-                    <note type="comment">S. 90–93 einige Stichworte zur K.-Rezeption in Wien nach <DATE>1945</DATE>
+                    <note type="comment">S. 90–93 einige Stichworte zur K.-Rezeption in Wien nach 1945
                         (Matejka, Pollak, Basil). Zunächst wollte man sich während des
                         Nationalsozialismus verbotene Traditionen wieder aneignen,
                         doch setzte sich am Ende <hi>die Stilisierung zu einem entpolitisierten
