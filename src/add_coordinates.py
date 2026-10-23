@@ -13,7 +13,7 @@ doc = TeiReader(listplace)
 for x in tqdm(
     doc.any_xpath(
         ".//tei:body//tei:listPlace/tei:place[./tei:idno[@type='Wikidata'] and not(.//tei:geo)]"
-    )[:4]
+    )
 ):
     try:
         coords = any_xpath(x, "./tei:location/tei:geo")[0]
