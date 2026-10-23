@@ -1,0 +1,21 @@
+name: Enrich data
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Enrich data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Install uv and set the Python version
+        uses: astral-sh/setup-uv@v10.3.0
+        with:
+          python-version: "3.14"
+      - name: Run tests
+        run: uv run src/add_coordinates.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: enriched data
+      
