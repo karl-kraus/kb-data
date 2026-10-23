@@ -59,6 +59,7 @@
                 </place>
 
                 <place xml:id="kab-place-00008">
+                    <placeName>Bern</placeName>
                     <idno type="GND">4005762-8</idno>
                     <idno type="Wikidata">Q70</idno>
                 </place>
@@ -95,11 +96,13 @@
                 </place>
 
                 <place xml:id="kab-place-00014">
+                    <placeName>Darmstadt</placeName>
                     <idno type="GND">4011077-1</idno>
                     <idno type="Wikidata">Q2973</idno>
                 </place>
 
                 <place xml:id="kab-place-00015">
+                    <placeName>Den Haag</placeName>
                     <idno type="GND">4011446-6</idno>
                     <idno type="Wikidata">Q36600</idno>
                 </place>
@@ -519,6 +522,7 @@
                 </place>
 
                 <place xml:id="kab-place-00101">
+                    <placeName>Amsterdam</placeName>
                     <idno type="GND">4001783-7</idno>
                     <idno type="Wikidata">Q727</idno>
                 </place>
