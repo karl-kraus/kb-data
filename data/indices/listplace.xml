@@ -77,21 +77,33 @@
             </place>
             <place xml:id="kab-place-00009">
                <placeName>Bonn</placeName>
+               <location type="coordinates">
+                  <geo>50.735277777777775 7.102222222222222</geo>
+               </location>
                <idno type="GND">4007666-0</idno>
                <idno type="Wikidata">Q586</idno>
             </place>
             <place xml:id="kab-place-00010">
                <placeName>Bordeaux</placeName>
+               <location type="coordinates">
+                  <geo>44.837777777778 -0.57944444444444</geo>
+               </location>
                <idno type="GND">4088072-2</idno>
                <idno type="Wikidata">Q1479</idno>
             </place>
             <place xml:id="kab-place-00011">
                <placeName>Bremen</placeName>
+               <location type="coordinates">
+                  <geo>53.075833333333335 8.807222222222222</geo>
+               </location>
                <idno type="GND">4008135-7</idno>
                <idno type="Wikidata">Q24879</idno>
             </place>
             <place xml:id="kab-place-00012">
                <placeName>Cambridge</placeName>
+               <location type="coordinates">
+                  <geo>52.208055555556 0.1225</geo>
+               </location>
                <placeName type="variant">Cambridge (England)</placeName>
                <idno type="GND">4009351-7</idno>
                <idno type="Wikidata">Q350</idno>
