@@ -110,26 +110,41 @@
             </place>
             <place xml:id="kab-place-00013">
                <placeName type="variant">Cleveland</placeName>
+               <location type="coordinates">
+                  <geo>41.49916666666667 -81.69472222222223</geo>
+               </location>
                <idno type="GND">4010292-0</idno>
                <idno type="Wikidata">Q37320</idno>
             </place>
             <place xml:id="kab-place-00014">
                <placeName>Darmstadt</placeName>
+               <location type="coordinates">
+                  <geo>49.866666666667 8.65</geo>
+               </location>
                <idno type="GND">4011077-1</idno>
                <idno type="Wikidata">Q2973</idno>
             </place>
             <place xml:id="kab-place-00015">
                <placeName>Den Haag</placeName>
+               <location type="coordinates">
+                  <geo>52.08 4.31</geo>
+               </location>
                <idno type="GND">4011446-6</idno>
                <idno type="Wikidata">Q36600</idno>
             </place>
             <place xml:id="kab-place-00016">
                <placeName>Dresden</placeName>
+               <location type="coordinates">
+                  <geo>51.0493286 13.7381437</geo>
+               </location>
                <idno type="GND">4012995-0</idno>
                <idno type="Wikidata">Q1731</idno>
             </place>
             <place xml:id="kab-place-00019">
                <placeName>Frankfurt am Main</placeName>
+               <location type="coordinates">
+                  <geo>50.11055555555556 8.682222222222222</geo>
+               </location>
                <placeName type="variant">Frankfurt</placeName>
                <placeName type="variant">Frankfurt/M.</placeName>
                <idno type="GND">4018118-2</idno>
@@ -137,83 +152,131 @@
             </place>
             <place xml:id="kab-place-00021">
                <placeName>Graz</placeName>
+               <location type="coordinates">
+                  <geo>47.07083333333333 15.438611111111111</geo>
+               </location>
                <idno type="GND">4021912-4</idno>
                <idno type="Wikidata">Q13298</idno>
             </place>
             <place xml:id="kab-place-00022">
                <placeName>Gräfelfing</placeName>
+               <location type="coordinates">
+                  <geo>48.118888888889 11.428888888889</geo>
+               </location>
                <idno type="GND">4093848-7</idno>
                <idno type="Wikidata">Q504854</idno>
             </place>
             <place xml:id="kab-place-00023">
                <placeName>Göttingen</placeName>
+               <location type="coordinates">
+                  <geo>51.533888888889 9.9355555555556</geo>
+               </location>
                <idno type="GND">4021477-1</idno>
                <idno type="Wikidata">Q3033</idno>
             </place>
             <place xml:id="kab-place-00024">
                <placeName>Hamburg</placeName>
+               <location type="coordinates">
+                  <geo>53.55 10</geo>
+               </location>
                <idno type="GND">4023118-5</idno>
                <idno type="Wikidata">Q1055</idno>
             </place>
             <place xml:id="kab-place-00025">
                <placeName>Heidelberg</placeName>
+               <location type="coordinates">
+                  <geo>49.4093582 8.694724</geo>
+               </location>
                <idno type="GND">4023996-2</idno>
                <idno type="Wikidata">Q2966</idno>
             </place>
             <place xml:id="kab-place-00026">
                <placeName>Innsbruck</placeName>
+               <location type="coordinates">
+                  <geo>47.268333333333 11.393333333333</geo>
+               </location>
                <idno type="GND">4027096-8</idno>
                <idno type="Wikidata">Q1735</idno>
             </place>
             <place xml:id="kab-place-00027">
                <placeName>Kronberg im Taunus</placeName>
+               <location type="coordinates">
+                  <geo>50.179652777777775 8.508541666666666</geo>
+               </location>
                <placeName type="variant">Kronberg (Taunus)</placeName>
                <idno type="GND">4033265-2</idno>
                <idno type="Wikidata">Q569634</idno>
             </place>
             <place xml:id="kab-place-00028">
                <placeName>Köln</placeName>
+               <location type="coordinates">
+                  <geo>50.942222222222 6.9577777777778</geo>
+               </location>
                <idno type="GND">4031483-2</idno>
                <idno type="Wikidata">Q365</idno>
             </place>
             <place xml:id="kab-place-00031">
                <placeName>Leipzig</placeName>
+               <location type="coordinates">
+                  <geo>51.3406321 12.3747329</geo>
+               </location>
                <idno type="GND">4035206-7</idno>
                <idno type="Wikidata">Q2079</idno>
             </place>
             <place xml:id="kab-place-00032">
                <placeName>Lille</placeName>
+               <location type="coordinates">
+                  <geo>50.631944444444 3.0575</geo>
+               </location>
                <idno type="GND">4114418-1</idno>
                <idno type="Wikidata">Q648</idno>
             </place>
             <place xml:id="kab-place-00033">
                <placeName>London</placeName>
+               <location type="coordinates">
+                  <geo>51.507222222222 -0.1275</geo>
+               </location>
                <idno type="GND">4074335-4</idno>
                <idno type="Wikidata">Q84</idno>
             </place>
             <place xml:id="kab-place-00034">
                <placeName>Mailand</placeName>
+               <location type="coordinates">
+                  <geo>45.466944444444 9.19</geo>
+               </location>
                <idno type="GND">4037100-1</idno>
                <idno type="Wikidata">Q490</idno>
             </place>
             <place xml:id="kab-place-00035">
                <placeName>Marbach am Neckar</placeName>
+               <location type="coordinates">
+                  <geo>48.940555555556 9.2575</geo>
+               </location>
                <placeName type="variant">Marbach</placeName>
                <idno type="GND">4037443-9</idno>
                <idno type="Wikidata">Q61890</idno>
             </place>
             <place xml:id="kab-place-00036">
                <placeName>Memmingen</placeName>
+               <location type="coordinates">
+                  <geo>47.987777777778 10.181111111111</geo>
+               </location>
                <idno type="GND">4038586-3</idno>
                <idno type="Wikidata">Q14825</idno>
             </place>
             <place xml:id="kab-place-00037">
                <placeName>München</placeName>
+               <location type="coordinates">
+                  <geo>48.1375 11.575</geo>
+               </location>
                <idno type="GND">4127793-4</idno>
                <idno type="Wikidata">Q1726</idno>
             </place>
             <place xml:id="kab-place-00038">
                <placeName>Pullach im Isartal</placeName>
+               <location type="coordinates">
+                  <geo>48.05 11.516666666666667</geo>
+               </location>
                <placeName type="variant">München-Pullach</placeName>
                <placeName type="variant">Pullach (München)</placeName>
                <placeName type="variant">Pullach bei München</placeName>
@@ -222,135 +285,213 @@
             </place>
             <place xml:id="kab-place-00039">
                <placeName>Münster</placeName>
+               <location type="coordinates">
+                  <geo>51.9625 7.6255555555556</geo>
+               </location>
                <idno type="GND">4040608-8</idno>
                <idno type="Wikidata">Q2742</idno>
             </place>
             <place xml:id="kab-place-00041">
                <placeName>Nendeln (Liechtenstein)</placeName>
+               <location type="coordinates">
+                  <geo>47.2 9.5472222222222</geo>
+               </location>
                <idno type="GND">4654482-3</idno>
                <idno type="Wikidata">Q991615</idno>
             </place>
             <place xml:id="kab-place-00042">
                <placeName>Neuwied</placeName>
+               <location type="coordinates">
+                  <geo>50.428611111111 7.4613888888889</geo>
+               </location>
                <idno type="GND">4041991-5</idno>
                <idno type="Wikidata">Q3967</idno>
             </place>
             <place xml:id="kab-place-00043">
                <placeName>New York City</placeName>
+               <location type="coordinates">
+                  <geo>40.71277777777778 -74.00611111111111</geo>
+               </location>
                <placeName type="variant">New York</placeName>
                <idno type="GND">4042011-5</idno>
                <idno type="Wikidata">Q60</idno>
             </place>
             <place xml:id="kab-place-00044">
                <placeName>Newcastle upon Tyne</placeName>
+               <location type="coordinates">
+                  <geo>54.977777777778 -1.6133333333333</geo>
+               </location>
                <idno type="GND">4117860-9</idno>
                <idno type="Wikidata">Q1425428</idno>
             </place>
             <place xml:id="kab-place-00045">
                <placeName>Nürnberg</placeName>
+               <location type="coordinates">
+                  <geo>49.45388888888889 11.0775</geo>
+               </location>
                <idno type="GND">4042742-0</idno>
                <idno type="Wikidata">Q2090</idno>
             </place>
             <place xml:id="kab-place-00046">
                <placeName>Padua</placeName>
+               <location type="coordinates">
+                  <geo>45.40777777777778 11.873333333333333</geo>
+               </location>
                <idno type="GND">4044295-0</idno>
                <idno type="Wikidata">Q617</idno>
             </place>
             <place xml:id="kab-place-00047">
                <placeName>Paris</placeName>
+               <location type="coordinates">
+                  <geo>48.85666666666667 2.352222222222222</geo>
+               </location>
                <idno type="GND">4044660-8</idno>
                <idno type="Wikidata">Q90</idno>
             </place>
             <place xml:id="kab-place-00048">
                <placeName>Prag</placeName>
+               <location type="coordinates">
+                  <geo>50.0875 14.421388888888888</geo>
+               </location>
                <idno type="GND">4076310-9</idno>
                <idno type="Wikidata">Q1085</idno>
             </place>
             <place xml:id="kab-place-00049">
                <placeName>Liberec (Reichenberg)</placeName>
+               <location type="coordinates">
+                  <geo>50.766666666666666 15.05</geo>
+               </location>
                <placeName type="variant">Reichenberg</placeName>
                <idno type="GND">4103609-8</idno>
                <idno type="Wikidata">Q146351</idno>
             </place>
             <place xml:id="kab-place-00050">
                <placeName>Reinbek</placeName>
+               <location type="coordinates">
+                  <geo>53.508888888889 10.248333333333</geo>
+               </location>
                <idno type="GND">4049222-9</idno>
                <idno type="Wikidata">Q516405</idno>
             </place>
             <place xml:id="kab-place-00051">
                <placeName>Rudolstadt</placeName>
+               <location type="coordinates">
+                  <geo>50.716944444444 11.3275</geo>
+               </location>
                <placeName type="variant">Rudolstadt (DDR)</placeName>
                <idno type="GND">4105066-6</idno>
                <idno type="Wikidata">Q517107</idno>
             </place>
             <place xml:id="kab-place-00052">
                <placeName>Salzburg</placeName>
+               <location type="coordinates">
+                  <geo>47.8 13.045</geo>
+               </location>
                <idno type="GND">4076982-3</idno>
                <idno type="Wikidata">Q34713</idno>
             </place>
             <place xml:id="kab-place-00053">
                <placeName>Southampton</placeName>
+               <location type="coordinates">
+                  <geo>50.906666666666666 -1.4044444444444444</geo>
+               </location>
                <idno type="GND">4118746-5</idno>
                <idno type="Wikidata">Q79848</idno>
             </place>
             <place xml:id="kab-place-00054">
                <placeName>St. Andrews (Schottland)</placeName>
+               <location type="coordinates">
+                  <geo>56.338888888889 -2.7988888888889</geo>
+               </location>
                <idno type="GND">4118218-2</idno>
                <idno type="Wikidata">Q207736</idno>
             </place>
             <place xml:id="kab-place-00055">
                <placeName>Steinbach</placeName>
+               <location type="coordinates">
+                  <geo>50.551 8.78001</geo>
+               </location>
                <idno type="GND">500300-3</idno>
                <idno type="Wikidata">Q1294684</idno>
             </place>
             <place xml:id="kab-place-00056">
                <placeName>Stuttgart</placeName>
+               <location type="coordinates">
+                  <geo>48.7775 9.18</geo>
+               </location>
                <idno type="GND">4058282-6</idno>
                <idno type="Wikidata">Q1022</idno>
             </place>
             <place xml:id="kab-place-00057">
                <placeName>Tel Aviv</placeName>
+               <location type="coordinates">
+                  <geo>32.08 34.78</geo>
+               </location>
                <idno type="GND">4059353-8</idno>
                <idno type="Wikidata">Q33935</idno>
             </place>
             <place xml:id="kab-place-00058">
                <placeName>Toronto</placeName>
+               <location type="coordinates">
+                  <geo>43.670277777778 -79.386666666667</geo>
+               </location>
                <idno type="GND">4060459-7</idno>
                <idno type="Wikidata">Q172</idno>
             </place>
             <place xml:id="kab-place-00059">
                <placeName>Turin</placeName>
+               <location type="coordinates">
+                  <geo>45.079166666666666 7.676111111111111</geo>
+               </location>
                <idno type="GND">4061245-4</idno>
                <idno type="Wikidata">Q495</idno>
             </place>
             <place xml:id="kab-place-00061">
                <placeName>Wien</placeName>
+               <location type="coordinates">
+                  <geo>48.208333333333336 16.3725</geo>
+               </location>
                <idno type="GND">4066009-6</idno>
                <idno type="Wikidata">Q1741</idno>
             </place>
             <place xml:id="kab-place-00063">
                <placeName>Zürich</placeName>
+               <location type="coordinates">
+                  <geo>47.37444444444444 8.54111111111111</geo>
+               </location>
                <idno type="GND">4068038-1</idno>
                <idno type="Wikidata">Q72</idno>
             </place>
             <place xml:id="kab-place-00065">
                <placeName>Olten</placeName>
+               <location type="coordinates">
+                  <geo>47.353055555556 7.9077777777778</geo>
+               </location>
                <idno type="GND">4043506-4</idno>
                <idno type="Wikidata">Q68129</idno>
             </place>
             <place xml:id="kab-place-00068">
                <placeName>Bad Homburg vor der Höhe</placeName>
+               <location type="coordinates">
+                  <geo>50.22923611111111 8.610486111111111</geo>
+               </location>
                <placeName type="variant">Bad Homburg v. d. H.</placeName>
                <idno type="GND">4025770-8</idno>
                <idno type="Wikidata">Q4165</idno>
             </place>
             <place xml:id="kab-place-00069">
                <placeName>Budapest</placeName>
+               <location type="coordinates">
+                  <geo>47.498333333333 19.040833333333</geo>
+               </location>
                <idno type="GND">4008684-7</idno>
                <idno type="Wikidata">Q1781</idno>
             </place>
             <place xml:id="kab-place-00070">
                <placeName>Columbia (South Carolina)</placeName>
+               <location type="coordinates">
+                  <geo>34.000555555556 -81.044166666667</geo>
+               </location>
                <placeName type="variant">Columbia</placeName>
                <placeName type="variant">Columbia, S. C.</placeName>
                <idno type="GND">4230917-7</idno>
@@ -358,163 +499,256 @@
             </place>
             <place xml:id="kab-place-00072">
                <placeName>Dublin</placeName>
+               <location type="coordinates">
+                  <geo>53.34972222222222 -6.260277777777778</geo>
+               </location>
                <idno type="GND">4013170-1</idno>
                <idno type="Wikidata">Q1761</idno>
             </place>
             <place xml:id="kab-place-00073">
                <placeName>Durham (GB)</placeName>
+               <location type="coordinates">
+                  <geo>54.783333333333 -1.5666666666667</geo>
+               </location>
                <idno type="GND">4085513-2</idno>
                <idno type="Wikidata">Q179815</idno>
             </place>
             <place xml:id="kab-place-00074">
                <placeName>Edinburgh</placeName>
+               <location type="coordinates">
+                  <geo>55.95333333333333 -3.1891666666666665</geo>
+               </location>
                <idno type="GND">4013557-3</idno>
                <idno type="Wikidata">Q23436</idno>
             </place>
             <place xml:id="kab-place-00075">
                <placeName>Eisenstadt</placeName>
+               <location type="coordinates">
+                  <geo>47.845649 16.52327</geo>
+               </location>
                <idno type="GND">4014087-8</idno>
                <idno type="Wikidata">Q126321</idno>
             </place>
             <place xml:id="kab-place-00076">
                <placeName>Glasgow</placeName>
+               <location type="coordinates">
+                  <geo>55.861111111111114 -4.25</geo>
+               </location>
                <idno type="GND">4021159-9</idno>
                <idno type="Wikidata">Q4093</idno>
             </place>
             <place xml:id="kab-place-00077">
                <placeName>Halle</placeName>
+               <location type="coordinates">
+                  <geo>51.48277777777778 11.969722222222222</geo>
+               </location>
                <idno type="GND">4023025-9</idno>
                <idno type="Wikidata">Q2814</idno>
             </place>
             <place xml:id="kab-place-00078">
                <placeName>Hildesheim</placeName>
+               <location type="coordinates">
+                  <geo>52.15 9.95</geo>
+               </location>
                <idno type="GND">4024881-1</idno>
                <idno type="Wikidata">Q3185</idno>
             </place>
             <place xml:id="kab-place-00080">
                <placeName>Königstein im Taunus</placeName>
+               <location type="coordinates">
+                  <geo>50.183125 8.463541666666666</geo>
+               </location>
                <placeName type="variant">Königstein/Ts.</placeName>
                <idno type="GND">4031559-9</idno>
                <idno type="Wikidata">Q569661</idno>
             </place>
             <place xml:id="kab-place-00084">
                <placeName>Rom</placeName>
+               <location type="coordinates">
+                  <geo>41.893055555556 12.482777777778</geo>
+               </location>
                <idno type="GND">4050471-2</idno>
                <idno type="Wikidata">Q220</idno>
             </place>
             <place xml:id="kab-place-00085">
                <placeName>Saint-Mandé</placeName>
+               <location type="coordinates">
+                  <geo>48.841388888889 2.4177777777778</geo>
+               </location>
                <placeName type="variant">St. Mandé</placeName>
                <idno type="GND">4407932-1</idno>
                <idno type="Wikidata">Q18102</idno>
             </place>
             <place xml:id="kab-place-00086">
                <placeName>Trier</placeName>
+               <location type="coordinates">
+                  <geo>49.75565 6.63935</geo>
+               </location>
                <idno type="GND">4060877-3</idno>
                <idno type="Wikidata">Q3138</idno>
             </place>
             <place xml:id="kab-place-00087">
                <placeName>Tübingen</placeName>
+               <location type="coordinates">
+                  <geo>48.52 9.0555555555556</geo>
+               </location>
                <idno type="GND">4061147-4</idno>
                <idno type="Wikidata">Q3806</idno>
             </place>
             <place xml:id="kab-place-00089">
                <placeName>Wiesbaden</placeName>
+               <location type="coordinates">
+                  <geo>50.0825 8.24</geo>
+               </location>
                <idno type="GND">4066043-6</idno>
                <idno type="Wikidata">Q1721</idno>
             </place>
             <place xml:id="kab-place-00090">
                <placeName>Worms</placeName>
+               <location type="coordinates">
+                  <geo>49.6302618 8.3620898</geo>
+               </location>
                <idno type="GND">4066942-7</idno>
                <idno type="Wikidata">Q3852</idno>
             </place>
             <place xml:id="kab-place-00092">
                <placeName>Passau</placeName>
+               <location type="coordinates">
+                  <geo>48.5748229 13.4609744</geo>
+               </location>
                <idno type="GND">4044828-9</idno>
                <idno type="Wikidata">Q4190</idno>
             </place>
             <place xml:id="kab-place-00093">
                <placeName>Rouen</placeName>
+               <location type="coordinates">
+                  <geo>49.443055555556 1.1025</geo>
+               </location>
                <idno type="GND">4050751-8</idno>
                <idno type="Wikidata">Q30974</idno>
             </place>
             <place xml:id="kab-place-00094">
                <placeName>Kingston upon Hull</placeName>
+               <location type="coordinates">
+                  <geo>53.74444444444445 -0.33249999999999996</geo>
+               </location>
                <placeName type="variant">Hull</placeName>
                <idno type="GND">4072650-2</idno>
                <idno type="Wikidata">Q128147</idno>
             </place>
             <place xml:id="kab-place-00095">
                <placeName>Saskatoon</placeName>
+               <location type="coordinates">
+                  <geo>52.133333333333 -106.68333333333</geo>
+               </location>
                <placeName type="variant">Saskatoon, Canada</placeName>
                <idno type="GND">4259002-4</idno>
                <idno type="Wikidata">Q10566</idno>
             </place>
             <place xml:id="kab-place-00096">
                <placeName>Klagenfurt</placeName>
+               <location type="coordinates">
+                  <geo>46.616666666667 14.3</geo>
+               </location>
                <idno type="GND">4030921-6</idno>
                <idno type="Wikidata">Q41753</idno>
             </place>
             <place xml:id="kab-place-00097">
                <placeName>Toulouse</placeName>
+               <location type="coordinates">
+                  <geo>43.60444444444445 1.4433333333333334</geo>
+               </location>
                <idno type="GND">4060518-8</idno>
                <idno type="Wikidata">Q7880</idno>
             </place>
             <place xml:id="kab-place-00098">
                <placeName>Asnières-sur-Seine</placeName>
+               <location type="coordinates">
+                  <geo>48.911111111111 2.2855555555556</geo>
+               </location>
                <placeName type="variant">Asnières</placeName>
                <idno type="GND">4235654-4</idno>
                <idno type="Wikidata">Q191415</idno>
             </place>
             <place xml:id="kab-place-00100">
                <placeName>Debrecen</placeName>
+               <location type="coordinates">
+                  <geo>47.53 21.639166666667</geo>
+               </location>
                <idno type="GND">4090940-2</idno>
                <idno type="Wikidata">Q79880</idno>
             </place>
             <place xml:id="kab-place-00101">
                <placeName>Amsterdam</placeName>
+               <location type="coordinates">
+                  <geo>52.36666666666667 4.883333333333333</geo>
+               </location>
                <idno type="GND">4001783-7</idno>
                <idno type="Wikidata">Q727</idno>
             </place>
             <place xml:id="kab-place-00102">
                <placeName>Erlangen</placeName>
+               <location type="coordinates">
+                  <geo>49.5925 11.005</geo>
+               </location>
                <idno type="GND">4015299-6</idno>
                <idno type="Wikidata">Q3126</idno>
             </place>
             <place xml:id="kab-place-00103">
                <placeName>Ville LaSalle, Québec</placeName>
+               <location type="coordinates">
+                  <geo>45.4286 -73.6634</geo>
+               </location>
                <idno type="GND">4700392-3</idno>
                <idno type="Wikidata">Q1629121</idno>
             </place>
             <place xml:id="kab-place-00104">
                <placeName>Linz</placeName>
+               <location type="coordinates">
+                  <geo>48.30583333333333 14.286388888888888</geo>
+               </location>
                <idno type="GND">4074255-6</idno>
                <idno type="Wikidata">Q41329</idno>
             </place>
             <place xml:id="kab-place-00105">
                <placeName>Poznań</placeName>
+               <location type="coordinates">
+                  <geo>52.40833333333333 16.933611111111112</geo>
+               </location>
                <placeName type="variant">Posen</placeName>
                <idno type="GND">4046868-9</idno>
                <idno type="Wikidata">Q268</idno>
             </place>
             <place xml:id="kab-place-00107">
                <placeName>Ljubljana</placeName>
+               <location type="coordinates">
+                  <geo>46.05138888888889 14.50611111111111</geo>
+               </location>
                <placeName type="variant">Ljubljana/Laibach</placeName>
                <idno type="GND">4073953-3</idno>
                <idno type="Wikidata">Q437</idno>
             </place>
             <place xml:id="kab-place-00108">
                <placeName>Dunedin</placeName>
+               <location type="coordinates">
+                  <geo>-45.87416666666667 170.5036111111111</geo>
+               </location>
                <idno type="GND">4239149-0</idno>
                <idno type="Wikidata">Q133073</idno>
             </place>
             <place xml:id="kab-place-00109">
                <placeName>Opladen</placeName>
+               <location type="coordinates">
+                  <geo>51.0678 7.00278</geo>
+               </location>
                <idno type="GND">4102096-0</idno>
                <idno type="Wikidata">Q315138</idno>
             </place>
             <place xml:id="kab-place-00110">
                <placeName>Aix-en-Provence</placeName>
+               <location type="coordinates">
+                  <geo>43.527777777778 5.4455555555556</geo>
+               </location>
                <placeName type="variant">Aix en Provence</placeName>
                <idno type="GND">4000860-5</idno>
                <idno type="Wikidata">Q47465</idno>
