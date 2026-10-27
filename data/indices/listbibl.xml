@@ -6747,7 +6747,7 @@
                     <num type="id">7.4.4.3</num>
                     <num type="category">7.4</num>
 
-                    <author>Leschitzer, Franz</author>
+                    <author key="kab-pers-00707">Leschitzer, Franz</author>
                     <title level="a">An Karl Kraus (1934)</title>
                     
                     <title level="j">Die Weltbühne</title>
@@ -6797,7 +6797,7 @@
                     <num type="id">7.4.4.5</num>
                     <num type="category">7.4</num>
 
-                    <author>Brügel, Johann Wolfgang</author>
+                    <author key="#kab-pers-00032">Brügel, Johann Wolfgang</author>
                     <title level="a">Einige Bemerkungen zur Karl-Kraus-Renaissance</title>
                     
                     <title level="j">Gewerkschaftliche Monatshefte</title>
@@ -6817,7 +6817,7 @@
                     <num type="id">7.4.4.6</num>
                     <num type="category">7.4</num>
 
-                    <author>Brügel, Johann Wolfgang</author>
+                    <author key="#kab-pers-00032">Brügel, Johann Wolfgang</author>
                     <title level="a">Karl Kraus. Ein notwendig erscheinendes Nachwort</title>
                     
                     <title level="j">Die Zukunft</title>
@@ -6842,7 +6842,7 @@
                     <num type="id">7.4.4.7</num>
                     <num type="category">7.4</num>
 
-                    <author>Nemo, Korbinian [= Friedrich M. Reifferscheidt]</author>
+                    <author key="#kab-pers-00222">Nemo, Korbinian [= Friedrich M. Reifferscheidt]</author>
                     <title level="a">Kotau vor der Macht oder Kleineres Übel?</title>
                     
                     <title level="j">Die Weltbühne</title>
