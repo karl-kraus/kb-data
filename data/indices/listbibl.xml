@@ -29,6 +29,12 @@
                 <desc type="subchapter" corresp="0.3">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
                 <desc type="subchapter" corresp="0.4">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
                 <desc type="subchapter" corresp="0.5">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
+                <desc type="subchapter" corresp="0.6">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
+                <desc type="subchapter" corresp="0.7">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
+                <desc type="subchapter" corresp="0.8">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
+                <desc type="subchapter" corresp="0.9">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
+                <desc type="subchapter" corresp="0.10">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
+                <desc type="subchapter" corresp="0.11">[Bibliographien, Hilfsmittel, Rezensionen]</desc>
 
             <desc type="chapter" corresp="1 1.1 1.2 1.3">Zu Biographie und Persönlichkeit</desc>
 
@@ -66,6 +72,12 @@
                 <desc type="subchapter" corresp="7.4">Die Politik</desc>
                 <desc type="subchapter" corresp="7.5">Judentum und Antisemitismus</desc>
                 <desc type="subchapter" corresp="7.6">Literatur (und literarische Beziehungen)</desc>
+                <desc type="subchapter" corresp="7.7">[Psychoanalyse]</desc>
+                <desc type="subchapter" corresp="7.8">[Sozialkritik]</desc>
+                <desc type="subchapter" corresp="7.9">[Film und Rundfunk]</desc>
+                <desc type="subchapter" corresp="7.10">[Wiener Moderne — Bildende Kunst, Architektur]</desc>
+                <desc type="subchapter" corresp="7.11">[Technik]</desc>
+                <desc type="subchapter" corresp="7.12">[Wirtschaft]</desc>
 
             <desc type="chapter" corresp="8 8.01 8.02 8.03 8.04 8.05 8.06 8.07 8.08 8.09 8.10 8.11">Das Werk</desc>
 
@@ -2306,10 +2318,11 @@
                     <num type="id">2.2.09</num>
                     <num type="category">2</num>
 
-                    <author key="#kab-pers-00204">Mayer, Hans</author>
+                    <author role="analytic" key="#kab-pers-00204">Mayer, Hans</author>
                     <title level="a">Karl Kraus (1957)</title>
-                    <title level="m">HM: Der Repräsentant und der Märtyrer, Konstellationen der
-                        Literatur</title>
+
+                    <author role="monogr" key="#kab-pers-00204">Mayer, Hans</author>
+                    <title level="m">Der Repräsentant und der Märtyrer, Konstellationen der Literatur</title>
                     
                     <pubPlace key="#kab-place-00019">Frankfurt</pubPlace>
                     <publisher key="#kab-org-00165">Suhrkamp</publisher>
@@ -6734,7 +6747,7 @@
                     <num type="id">7.4.4.3</num>
                     <num type="category">7.4</num>
 
-                    <author>Leschitzer, Franz</author>
+                    <author key="kab-pers-00707">Leschitzer, Franz</author>
                     <title level="a">An Karl Kraus (1934)</title>
                     
                     <title level="j">Die Weltbühne</title>
@@ -6784,7 +6797,7 @@
                     <num type="id">7.4.4.5</num>
                     <num type="category">7.4</num>
 
-                    <author>Brügel, Johann Wolfgang</author>
+                    <author key="#kab-pers-00032">Brügel, Johann Wolfgang</author>
                     <title level="a">Einige Bemerkungen zur Karl-Kraus-Renaissance</title>
                     
                     <title level="j">Gewerkschaftliche Monatshefte</title>
@@ -6804,7 +6817,7 @@
                     <num type="id">7.4.4.6</num>
                     <num type="category">7.4</num>
 
-                    <author>Brügel, Johann Wolfgang</author>
+                    <author key="#kab-pers-00032">Brügel, Johann Wolfgang</author>
                     <title level="a">Karl Kraus. Ein notwendig erscheinendes Nachwort</title>
                     
                     <title level="j">Die Zukunft</title>
@@ -6829,7 +6842,7 @@
                     <num type="id">7.4.4.7</num>
                     <num type="category">7.4</num>
 
-                    <author>Nemo, Korbinian [= Friedrich M. Reifferscheidt]</author>
+                    <author key="#kab-pers-00222">Nemo, Korbinian [= Friedrich M. Reifferscheidt]</author>
                     <title level="a">Kotau vor der Macht oder Kleineres Übel?</title>
                     
                     <title level="j">Die Weltbühne</title>
@@ -9044,8 +9057,8 @@
                     <title level="a">'die letzten Tage der Menschheit' von Karl Kraus –
                         Dramaturgische Besonderheiten eines Antikriegs-Schauspiels (1962)</title>
                     
-                    <title level="m">WD: Erbe und Gegenwart. Aufsätze zur vergleichenden
-                        Literaturgeschichte</title>
+                    <editor key="#kab-pers-00050">Dietze, Walter</editor>
+                    <title level="m">Erbe und Gegenwart. Aufsätze zur vergleichenden Literaturgeschichte</title>
                     
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <pubPlace key="#kab-place-00007">Weimar</pubPlace>
@@ -13362,11 +13375,12 @@
                     <num type="id">8.09.2.1.1</num>
                     <num type="category">8.09</num>
 
-                    <author key="#kab-pers-00014">Bauer, Roger</author>
+                    <author role="analytic" key="#kab-pers-00014">Bauer, Roger</author>
                     <title level="a">Karl Kraus: Von der Prosa zum Vers. Bemerkungen zum ersten Band
                         der "Worte in Versen" und zum Gedicht "Sonnenthal"</title>
-                    <title level="m">RB: Laßt sie koaxen, Die kritischen Frösch' in Preußen und
-                        Sachsen! Zwei Jahrhunderte Literatur in Österreich</title>
+                    
+                    <author role="monogr" key="#kab-pers-00014">Bauer, Roger</author>
+                    <title level="m">Laßt sie koaxen, Die kritischen Frösch' in Preußen und Sachsen! Zwei Jahrhunderte Literatur in Österreich</title>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
                     <publisher key="#kab-org-00051">Europa</publisher><date when="1977">1977</date>
@@ -13388,7 +13402,7 @@
                     <title level="a">Die Presse und Karl Kraus. Zur Kraus-Rezeption</title>
 
                     <author role="monogr" key="#kab-pers-00008">Arntzen, Helmut</author>
-                    <title level="m">HA: Karl Kraus und die Presse. (<ref target="#kab-entry-7.1.10">7.1.10</ref>)</title>
+                    <title level="m">Karl Kraus und die Presse. (<ref target="#kab-entry-7.1.10">7.1.10</ref>)</title>
                     
                     <date when="1975">1975</date>
                     
@@ -13690,10 +13704,11 @@
                     <num type="id">6.1.10.1</num>
                     <num type="category">6.1</num>
 
-                    <author key="#kab-pers-00265">Rühmkorf, Peter</author>
-                    <title level="a">Die soziale Stellung des Reims. Karl Kraus oder die Grenzen der
-                        Wesensbeschwörung</title><title level="m">PR: Strömungslehre I.
-                        Poesie</title>
+                    <author role="analytic" key="#kab-pers-00265">Rühmkorf, Peter</author>
+                    <title level="a">Die soziale Stellung des Reims. Karl Kraus oder die Grenzen der Wesensbeschwörung</title>
+                    
+                    <author role="monogr" key="#kab-pers-00265">Rühmkorf, Peter</author>
+                    <title level="m">Strömungslehre I. Poesie</title>
                     
                     <pubPlace key="#kab-place-00050">Reinbek</pubPlace>
                     <publisher key="#kab-org-00142">Rowohlt</publisher>
@@ -14881,9 +14896,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.10.7</num>
                     <num type="category">8.10</num>
 
-                    <author key="#kab-pers-00433">Polgar Alfred</author>
-                    <title level="a">Die dritte Walpurgisnacht (1952)</title><title level="m">AP:
-                        Taschenspiegel</title>
+                    <author role="analytic" key="#kab-pers-00433">Polgar Alfred</author>
+                    <title level="a">Die dritte Walpurgisnacht (1952)</title>
+                    
+                    <author role="monogr" key="#kab-pers-00433">Polgar Alfred</author>
+                    <title level="m">Taschenspiegel</title>
                     <editor key="#kab-pers-00479">Ulrich Weinzierl</editor>
                     
                     <pubPlace key="#kab-place-00061">Wien</pubPlace>
@@ -16790,9 +16807,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (Januar 1984).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.4.6">
-                    <num type="id">8.4.6</num>
-                    <num type="category">8.4</num>
+                <bibl xml:id="kab-entry-8.04.6">
+                    <num type="id">8.04.6</num>
+                    <num type="category">8.04</num>
 
                     <author key="#kab-pers-00402">Kling, Vincent</author>
                     <title level="a">[Sammelrezension von drei Kraus-Auswahlbänden in englischer
@@ -17043,7 +17060,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                 </bibl>
 
                 <bibl xml:id="kab-entry-8.07.2.21">
-                    <num type="id">8.7.2.21</num>
+                    <num type="id">8.07.2.21</num>
                     <num type="category">8.07</num>
 
                     <num type="id" subtype="deprecated">8.07.2.20</num>
@@ -17990,11 +18007,12 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.05.8.1.1</num>
                     <num type="category">8.05</num>
 
-                    <author key="#kab-pers-00422">Mieder, Wolfgang</author>
-                    <title level="a">Sprichwörter im modernen Sprachgebrauch</title>
-                    <date when="1975">1975</date>
-                    <title level="m">WM: Deutsche Sprichwörter in Literatur, Politik, Presse und
-                        Werbung</title>
+                    <author role="analytic" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="a">Sprichwörter im modernen Sprachgebrauch (1975)</title>
+
+                    <author role="monogr" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="m">Deutsche Sprichwörter in Literatur, Politik, Presse und Werbung</title>
+
                     
                     <pubPlace key="#kab-place-00024">Hamburg</pubPlace>
                     <publisher key="#kab-org-00025">Buske</publisher>
@@ -18012,11 +18030,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">8.05.8.2.1</num>
                     <num type="category">8.05</num>
 
-                    <author key="#kab-pers-00422">Mieder, Wolfgang</author>
-                    <title level="a">Karl Kraus und der sprichwörtliche Aphorismus</title>
-                    <date when="1979">1979</date>
-                    <title level="m">WM: Deutsche Sprichwörter in Literatur, Politik, Presse und
-                        Werbung</title>
+                    <author role="analytic" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="a">Karl Kraus und der sprichwörtliche Aphorismus (1979)</title>
+
+                    <author role="monogr" key="#kab-pers-00422">Mieder, Wolfgang</author>
+                    <title level="m">Deutsche Sprichwörter in Literatur, Politik, Presse und Werbung</title>
                     
                     <pubPlace key="#kab-place-00024">Hamburg</pubPlace>
                     <publisher key="#kab-org-00025">Buske</publisher>
@@ -18318,7 +18336,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.6">
                     <num type="id">4.6</num>
-                    <num type="category">4.6</num>
+                    <num type="category">4</num>
 
                     <author key="#kab-pers-00297">Gerald Stieg</author>
                     <title level="a">Ferdinand Ebners Kulturkritik. Am Beispiel der Salzburger
@@ -18359,10 +18377,11 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <num type="id">7.1.12</num>
                     <num type="category">7.1</num>
 
-                    <author key="#kab-pers-00408">Kähler, Hermann</author>
+                    <author role="analytic" key="#kab-pers-00408">Kähler, Hermann</author>
                     <title level="a">Karl Kraus, der Kritiker der Presse</title>
-                    <title level="m">HK: Von Hofmannsthal bis Benjamin. Ein Streifzug durch die
-                        Essayistik der zwanzigerJahre</title>
+
+                    <author role="monogr" key="#kab-pers-00408">Kähler, Hermann</author>
+                    <title level="m">Von Hofmannsthal bis Benjamin. Ein Streifzug durch die Essayistik der zwanzigerJahre</title>
                     
                     <pubPlace key="#kab-place-00006">Berlin (DDR)</pubPlace>
                     <publisher key="#kab-org-00015">Aufbau</publisher>
@@ -19509,7 +19528,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.7">
                     <num type="id">4.7</num>
-                    <num type="category">4.7</num>
+                    <num type="category">4</num>
 
                     <author key="#kab-pers-00427">Müller-Dietz, Heinz</author>
                     <title level="a">Diktat, Diktatur und Geist. Anmerkungen zu Anmerkungen Robert
@@ -19823,9 +19842,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (Juli 1986).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.1.7">
-                    <num type="id">8.1.7</num>
-                    <num type="category">8.1</num>
+                <bibl xml:id="kab-entry-8.01.7">
+                    <num type="id">8.01.7</num>
+                    <num type="category">8.01</num>
 
                     <author key="#kab-pers-00039">Carr, Gilbert J.</author>
                     <title level="a">Kraus's Reception of Satire in his Early Career</title>
@@ -19850,9 +19869,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         (Juli 1986).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.4.5">
-                    <num type="id">8.7.4.5</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.4.5">
+                    <num type="id">8.07.4.5</num>
+                    <num type="category">8.07</num>
 
                     <author key="#kab-pers-00082">Früh, Eckart</author>
                     <title level="a">Die "Arbeiter-Zeitung als Quelle der "Letzten Tage der
@@ -21508,9 +21527,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.16">
-                    <num type="id">8.2.16</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.16">
+                    <num type="id">8.02.16</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00297">Stieg, Gérald</author>
                     <title level="a">Deux oiseaux qui souillent leur propre nid. Quelques remarques sur la parenté entre la FACKEL et le CANARD ENCHAINE</title>
@@ -21531,9 +21550,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.4.7">
-                    <num type="id">8.4.7</num>
-                    <num type="category">8.4</num>
+                <bibl xml:id="kab-entry-8.04.7">
+                    <num type="id">8.04.7</num>
+                    <num type="category">8.04</num>
                     
                     <author key="kab-pers-00440">Rogers, Michael</author>
                     <title level="a">Kraus und Nestroy</title>
@@ -21552,9 +21571,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 22. Fortsetzung. In: Kraus-Hefte 48 (Oktober 1988).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.2.30">
-                    <num type="id">8.7.2.30</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.2.30">
+                    <num type="id">8.07.2.30</num>
+                    <num type="category">8.07</num>
                     
                     <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                     <title level="a">Die Schalek. Quelques remarques sur le thème de la femme dans LES DERNIERS JOURS DE L’HUMANITE</title>
@@ -22238,9 +22257,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 23. Fortsetzung. In: Kraus-Hefte 49 (Januar 1989).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.6.3">
-                    <num type="id">8.2.6.3</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.6.3">
+                    <num type="id">8.02.6.3</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00599">Rohner, Ludwig</author>
                     <title level="m">Die literarische Streitschrift. Themen. Motive. Formen</title>
@@ -22624,9 +22643,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.17">
-                    <num type="id">8.2.17</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.17">
+                    <num type="id">8.02.17</num>
+                    <num type="category">8.02</num>
 
                     <author key="#kab-pers-00448">Sauermann, Eberhard</author>
                     <title level="a">Ludwig Erik Tesar als heimlicher Mitarbeiter der ‚Fackel“</title>
@@ -22647,9 +22666,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.18.1">
-                    <num type="id">8.2.18.1</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.18.1">
+                    <num type="id">8.02.18.1</num>
+                    <num type="category">8.02</num>
 
                     <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                     <title level="a">Eine Czernowitzer Literaturaffäre in der „Fackel“. „Aus Redaktion und Irrenhaus“</title>
@@ -22675,9 +22694,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.8.1.2.2">
-                    <num type="id">8.8.1.2.2</num>
-                    <num type="category">8.8</num>
+                <bibl xml:id="kab-entry-8.08.1.2.2">
+                    <num type="id">8.08.1.2.2</num>
+                    <num type="category">8.08</num>
 
                     <author key="#kab-pers-00105">Hahnl, Hans Heinz</author>
                     <title level="a">Harald Brüller und Ekkehard Meyer</title>
@@ -22697,9 +22716,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 25. Fortsetzung. In: Kraus-Hefte 57 (Januar 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.8.4.1">
-                    <num type="id">8.8.4.1</num>
-                    <num type="category">8.8</num>
+                <bibl xml:id="kab-entry-8.08.4.1">
+                    <num type="id">8.08.4.1</num>
+                    <num type="category">8.08</num>
                     
                     <author key="#kab-pers-00292">Spiel, Hilde</author>
                     <title level="a">Der Wiener Aristophanes. Weltpremiere in Hellbrunn: Stück von Karl Kraus</title>
@@ -23265,7 +23284,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.8">
                     <num type="id">4.8</num>
-                    <num type="category">4.8</num>
+                    <num type="category">4</num>
                     
                     <author key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Ästhetische Kritik als Kritik der Ästhetik</title>
@@ -23300,7 +23319,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.9">
                     <num type="id">4.9</num>
-                    <num type="category">4.9</num>
+                    <num type="category">4</num>
                     
                     <author key="kab-pers-00304">Timms, Edward</author>
                     <title level="a">„Rächer der Natur“: Zur Ästhetik der Satire bei Karl Kraus und Rosa Luxemburg</title>
@@ -23441,9 +23460,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.1.4.5">
-                    <num type="id">8.1.4.5</num>
-                    <num type="category">8.1</num>
+                <bibl xml:id="kab-entry-8.01.4.5">
+                    <num type="id">8.01.4.5</num>
+                    <num type="category">8.01</num>
                     
                     <author key="#kab-pers-00626">Brandys, Brygida</author>
                     <title level="a">Satirisch-polemische Formen in Karl Kraus’ Skizze „Die demolirte Literatur“</title>
@@ -23466,9 +23485,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.18.2">
-                    <num type="id">8.2.18.2</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.18.2">
+                    <num type="id">8.02.18.2</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                     <title level="a">„Aus Redaktion und Irrenhaus“ – Literaturtheoretische und  literaturkritische Aspekte einer Krausschen Polemik</title>
@@ -23493,9 +23512,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.19">
-                    <num type="id">8.2.19</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.19">
+                    <num type="id">8.02.19</num>
+                    <num type="category">8.02</num>
                     
                     <author key="kab-pers-00317">Wagenknecht, Christian</author>
                     <title level="a">Die ästhetische Wendung der „Fackel“</title>
@@ -23521,9 +23540,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.20">
-                    <num type="id">8.2.20</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.20">
+                    <num type="id">8.02.20</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00627">Attlmayr, Claudia</author>
                     <title level="m">Die Verwandlung des Bankiers Camillo Castiglioni in eine satirische Figur von Karl Kraus</title>
@@ -23547,9 +23566,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.5.12">
-                    <num type="id">8.5.12</num>
-                    <num type="category">8.5</num>
+                <bibl xml:id="kab-entry-8.05.12">
+                    <num type="id">8.05.12</num>
+                    <num type="category">8.05</num>
                     
                     <author key="#kab-pers-00620">Kaszyński, Stefan H.</author>
                     <title level="a">Überlegungen zur Poetik der Aphorismen von Karl Kraus</title>
@@ -23574,9 +23593,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 26. Fortsetzung. In: Kraus-Hefte 58 (April 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.2.31">
-                    <num type="id">8.7.2.31</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.2.31">
+                    <num type="id">8.07.2.31</num>
+                    <num type="category">8.07</num>
                     
                     <author key="#kab-pers-00628">Przybecki, Marek</author>
                     <title level="a">„Die letzten Tage der Menschheit“ – Operette in fünf Akten mit Vorspiel und Epilog</title>
@@ -23894,7 +23913,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.10">
                     <num type="id">4.10</num>
-                    <num type="category">4.10</num>
+                    <num type="category">4</num>
                     
                     <author key="#kab-pers-00362">Bouveresse, Jacques</author>
                     <title level="a">Kraus, Spengler et le déclin de l’occident</title>
@@ -23922,7 +23941,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.11">
                     <num type="id">4.11</num>
-                    <num type="category">4.11</num>
+                    <num type="category">4</num>
                     
                     <author key="kab-pers-00304">Timms, Edward</author>
                     <title level="a">Der Satiriker und der Christ – ein unvereinbarer Gegensatz?</title>
@@ -23947,7 +23966,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.12">
                     <num type="id">4.12</num>
-                    <num type="category">4.12</num>
+                    <num type="category">4</num>
                     
                     <author key="#kab-pers-00633">Lengauer, Hubert</author>
                     <title level="m">Ästhetik und liberale Opposition. Zur Rollenproblematik des Schriftstellers in der österreichischen Literatur um 1848</title>
@@ -24487,9 +24506,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.21">
-                    <num type="id">8.2.21</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.21">
+                    <num type="id">8.02.21</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00631">Krebs, Gilbert</author>
                     <title level="a">Karl Kraus éducateur</title>
@@ -24516,9 +24535,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 27. Fortsetzung. In: Kraus-Hefte 60 (Oktober 1991).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.2.32">
-                    <num type="id">8.7.2.32</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.2.32">
+                    <num type="id">8.07.2.32</num>
+                    <num type="category">8.07</num>
                     
                     <author key="#kab-pers-00644">Paul, Jean-Marie</author>
                     <title level="a">Kraus’ DIE LETZTEN TAGE DER MENSCHHEIT und Brochs MASSENWAHNTHEORIE. Die Masse und die Geschichte</title>
@@ -25215,9 +25234,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 28. Fortsetzung. In: Kraus-Hefte 60 (Jannuar 1992).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.22">
-                    <num type="id">8.2.22</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.22">
+                    <num type="id">8.02.22</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00271">Scheichl, Sigurd Paul</author>
                     <title level="a">Karl Kraus: Apokalypse. Satire im zeitgenössischen Kontext</title>
@@ -25241,9 +25260,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 28. Fortsetzung. In: Kraus-Hefte 60 (Jannuar 1992).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.5.13">
-                    <num type="id">8.5.13</num>
-                    <num type="category">8.5</num>
+                <bibl xml:id="kab-entry-8.05.13">
+                    <num type="id">8.05.13</num>
+                    <num type="category">8.05</num>
                     
                     <author key="#kab-pers-00657">Marahrens, Gerwin</author>
                     <title level="a">Über die sprachliche Struktur und Genesis der Aphorismen von Karl Kraus</title>
@@ -25278,9 +25297,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 28. Fortsetzung. In: Kraus-Hefte 60 (Jannuar 1992).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.9.1.6">
-                    <num type="id">8.9.1.6</num>
-                    <num type="category">8.9</num>
+                <bibl xml:id="kab-entry-8.09.1.6">
+                    <num type="id">8.09.1.6</num>
+                    <num type="category">8.09</num>
                     
                     <author key="#kab-pers-00650">Weissenberger, Klaus</author>
                     <title level="a">Zum Rhythmus der Lyrik von Karl Kraus. Das schöpferische Prinzip eines „Epigonen“</title>
@@ -26077,9 +26096,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.5.12.2">
-                    <num type="id">8.5.12.2</num>
-                    <num type="category">8.5</num>
+                <bibl xml:id="kab-entry-8.05.12.2">
+                    <num type="id">8.05.12.2</num>
+                    <num type="category">8.05</num>
                     
                     <author role="analytic" key="#kab-pers-00620">Kaszyński, Stefan H.</author>
                     <title level="a">Neue Überlegungen zur Poetik der Aphorismen von Karl Kraus</title>
@@ -26095,14 +26114,14 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                     <title level="s">Uniwersytet Im. Adama Mickiewicza w Poznanu. Seria filologia Germańska</title>
                     <num type="series">33</num>
 
-                    <note type="comment">KAB 58, <ref target="#kab-entry-8.5.12">8.5.12</ref>.</note>
+                    <note type="comment">KAB 58, <ref target="#kab-entry-8.05.12">8.5.12</ref>.</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.2.21.2">
-                    <num type="id">8.7.2.21.2</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.2.21.2">
+                    <num type="id">8.07.2.21.2</num>
+                    <num type="category">8.07</num>
                     
                     <author role="analytic" key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Genesis und Geltung eines Warnstücks(1978)</title>
@@ -26123,9 +26142,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 29. Fortsetzung. In: Kraus-Hefte 63 (Juli 1992).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.9.2.5.2">
-                    <num type="id">8.9.2.5.2</num>
-                    <num type="category">8.9</num>
+                <bibl xml:id="kab-entry-8.09.2.5.2">
+                    <num type="id">8.09.2.5.2</num>
+                    <num type="category">8.09</num>
                     
                     <author role="analytic" key="#kab-pers-00179">Krolop, Kurt</author>
                     <title level="a">Klopstock und Karl Kraus (1978)</title>
@@ -26599,7 +26618,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.14">
                     <num type="id">4.14</num>
-                    <num type="category">4.14</num>
+                    <num type="category">4</num>
                     
                     <author key="#kab-pers-00153">Kars, Gustave</author>
                     <title level="a">La philosophie de l’art autrichien au tournant du siècle</title>
@@ -26908,9 +26927,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.23">
-                    <num type="id">8.2.23</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.23">
+                    <num type="id">8.02.23</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00082">Früh, Eckart</author>
                     <title level="a">Karl Kraus stückweis, gegenstückweis im „Abend“</title>
@@ -26987,7 +27006,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         bestätige K.s Meinung über die Presse. Ausführlicher über die französischen
                         Bemühungen um den Nobelpreis für K. (beruhend auf Werner, KAB 47,
                         <ref target="#kab-entry-1.1.9">1.1.9</ref>) und zum Vergleich zwischen K. und dem „Canard enchainé“ (wie
-                        KAB 48, <ref target="#kab-entry-8.2.16">8.2.16</ref>).</note>
+                        KAB 48, <ref target="#kab-entry-8.02.16">8.2.16</ref>).</note>
                     <note type="source">Aus: Scheichl, Sigurd Paul: Kommentierte Auswahlbibliographie
                         zu Karl Kraus. 30. Fortsetzung. In: Kraus-Hefte 66 (April 1993).</note>
                 </bibl>
@@ -27145,7 +27164,7 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                 <bibl xml:id="kab-entry-4.15">
                     <num type="id">4.15</num>
-                    <num type="category">4.15</num>
+                    <num type="category">4</num>
                     
                     <author key="#kab-pers-00297">Stieg, Gerald</author>
                     <title level="a">Heidegger und Kraus</title>
@@ -27367,9 +27386,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.1.4.6">
-                    <num type="id">8.1.4.6</num>
-                    <num type="category">8.1</num>
+                <bibl xml:id="kab-entry-8.01.4.6">
+                    <num type="id">8.01.4.6</num>
+                    <num type="category">8.01</num>
                     
                     <author role="analytic" key="#kab-pers-00059">Endler, Franz</author>
                     <title level="a">1900, oder: „Literatur und Kaffeehaus“</title>
@@ -27395,9 +27414,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.1.4.7">
-                    <num type="id">8.1.4.7</num>
-                    <num type="category">8.1</num>
+                <bibl xml:id="kab-entry-8.01.4.7">
+                    <num type="id">8.01.4.7</num>
+                    <num type="category">8.01</num>
                     
                     <author key="#kab-pers-00039">Carr, Gilbert J.</author>
                     <title level="a">Großstadt und Kaffeehaus in der Wiener Literatur um 1900</title>
@@ -27421,9 +27440,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.1.9">
-                    <num type="id">8.1.9</num>
-                    <num type="category">8.1</num>
+                <bibl xml:id="kab-entry-8.01.9">
+                    <num type="id">8.01.9</num>
+                    <num type="category">8.01</num>
                     
                     <author key="#kab-pers-00039">Carr, Gilbert J.</author>
                     <title level="a">Satire from the German Naturalists? Karl Kraus’s Planned Anthology</title>
@@ -27448,9 +27467,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.24">
-                    <num type="id">8.2.24</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.24">
+                    <num type="id">8.02.24</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00704">Jäckle, Renate</author>
                     <title level="m">Streiflichter aus der Dermatologe in der „Fackel“ von Karl Kraus</title>
@@ -27478,9 +27497,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.2.25">
-                    <num type="id">8.2.25</num>
-                    <num type="category">8.2</num>
+                <bibl xml:id="kab-entry-8.02.25">
+                    <num type="id">8.02.25</num>
+                    <num type="category">8.02</num>
                     
                     <author key="#kab-pers-00705">Collomb, Michel</author>
                     <title level="a">Le tumulte noir: Joséphine Baker à Berlin et à Vienne</title>
@@ -27505,9 +27524,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.2.22.2">
-                    <num type="id">8.7.2.22.2</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.2.22.2">
+                    <num type="id">8.07.2.22.2</num>
+                    <num type="category">8.07</num>
                     
                     <author role="analytic" key="#kab-pers-00254">Riha, Karl</author>
                     <title level="a">Veränderungen des Dramas in der Satire: Arno Holz, „Die Blechschmiede“, Karl Kraus, „Die letzten Tage der Menschheit“ – ein Vergleich</title>
@@ -27526,9 +27545,9 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
                         zu Karl Kraus. 31. Fortsetzung. In: Kraus-Hefte 67 (Juli 1993).</note>
                 </bibl>
 
-                <bibl xml:id="kab-entry-8.7.4.6">
-                    <num type="id">8.7.4.6</num>
-                    <num type="category">8.7</num>
+                <bibl xml:id="kab-entry-8.07.4.6">
+                    <num type="id">8.07.4.6</num>
+                    <num type="category">8.07</num>
                     
                     <author key="#kab-pers-00082">Früh, Eckart</author>
                     <title level="a">Venedig bombardiert! Die Apokalypse des Karl Kraus</title>
