@@ -3870,7 +3870,8 @@
                     <author role="monogr" key="#kab-pers-00175">Kraus, Karl</author>
                     <title level="m">The Last Days of Mankind</title>
                     <editor key="#kab-pers-00078">Frederick Ungar</editor>
-                    <author role="translator">Übersetzt von Alexander Code und Sue Ellen
+                    <author role="translator">Alexander Code</author>
+                    <author role="translator">Sue Ellen
                         Wright</author>
                     
                     <pubPlace key="#kab-place-00043">New York</pubPlace>
@@ -3917,10 +3918,11 @@
                     <num type="id">3.1.45</num>
                     <num type="category">3.1</num>
 
-                    <author role="translator" key="#kab-pers-00037">Calasso, Roberto</author>
+                    <author key="#kab-pers-00037">Calasso, Roberto</author>
                     <title level="m">Una muraglia cinese</title>
                     <title type="subtitle" level="m">Vorwort zu: Karl Kraus: Detti e
                         contradetti</title>
+                    <author role="translator_monogr" key="#kab-pers-00037">Calasso, Roberto</author>
                     
                     <pubPlace key="#kab-place-00034">Mailand</pubPlace>
                     <publisher key="#kab-org-00002">Adelphi</publisher>
@@ -17498,8 +17500,8 @@ Montags-Presse" (Wien), Jg. 1, Nr. 51, 22. Dezember 1895, festgestellt.
 
                     <author role="monogr" key="#kab-pers-00175">Kraus, Karl</author>
                     <title level="m">Gli ultimi giorni dell'umanità</title>
-                    <author role="translator" key="#kab-pers-00345">Braun, Ernesto</author>
-                    <author role="translator" key="#kab-pers-00376">Carpitella, Mario</author>
+                    <author role="translator_monogr" key="#kab-pers-00345">Braun, Ernesto</author>
+                    <author role="translator_monogr" key="#kab-pers-00376">Carpitella, Mario</author>
 
                     <pubPlace key="#kab-place-00034">Mailand</pubPlace>
                     <publisher key="#kab-org-00002">Adelphi</publisher>
