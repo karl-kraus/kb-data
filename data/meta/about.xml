@@ -8,6 +8,7 @@
          <titleStmt>
             <title type="main">Über das Projekt</title>
             <title type="subtitle">Digitale Karl-Kraus-Bibliographie. Basierend auf Sigurd Paul Scheichls Kommentierter Auswahlbibliographie zu Karl Kraus</title>
+            <respStmt><resp>Unter Mitarbeit von</resp><name>Patrick J. Klug</name></respStmt>
             <editor ref="https://d-nb.info/gnd/1036708799">Bernhard Oberreither</editor>
 			<editor ref="https://d-nb.info/gnd/1043833846">Peter Andorfer</editor>
          </titleStmt>
