@@ -479,7 +479,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00122">
-                    <persName>Kosten, Hermann</persName>
+                    <persName>Kesten, Hermann</persName>
                 </person>
 
                 <person xml:id="kab-pers-00123">
@@ -1266,7 +1266,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00333">
-                    <persName>Wunberg, Gotthard</persName>
+                    <persName>Wunberg, Gotthart</persName>
                 </person>
 
                 <person xml:id="kab-pers-00334">
@@ -1806,7 +1806,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00478">
-                    <persName>Webhofer, Erika</persName>
+                    <persName>Wimmer-Webhofer, Erika</persName>
+                    <persName type="variant">Webhofer, Erika</persName>
                 </person>
 
                 <person xml:id="kab-pers-00479">
@@ -1835,10 +1836,6 @@
 
                 <person xml:id="kab-pers-00486">
                     <persName>Yates, W. E.</persName>
-                </person>
-
-                <person xml:id="kab-pers-00487">
-                    <persName>Harry, Zohn</persName>
                 </person>
 
                 <person xml:id="kab-pers-00537">
@@ -1903,10 +1900,6 @@
 
                 <person xml:id="kab-pers-00546">
                     <persName>Paulsen, Wolfgang</persName>
-                </person>
-
-                <person xml:id="kab-pers-00521">
-                    <persName>Kesten, Hermann</persName>
                 </person>
 
                 <person xml:id="kab-pers-00524">
@@ -1990,7 +1983,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00501">
-                    <persName>Mád, Antal</persName>
+                    <persName>Mádl, Antal</persName>
                 </person>
 
                 <person xml:id="kab-pers-00502">
@@ -2014,11 +2007,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00530">
-                    <persName>Aman, Klaus</persName>
-                </person>
-
-                <person xml:id="kab-pers-00547">
-                    <persName>Wunberg, Gotthart</persName>
+                    <persName>Amann, Klaus</persName>
                 </person>
 
                 <person xml:id="kab-pers-00548">
@@ -2237,10 +2226,6 @@
                     <persName>Haase, Horst</persName>
                 </person>
 
-                <person xml:id="kab-pers-00602">
-                    <persName>Mádl, Antal</persName>
-                </person>
-
                 <person xml:id="kab-pers-00603">
                     <persName>Karádi, Eva</persName>
                 </person>
@@ -2349,10 +2334,6 @@
                     <persName>Kranz, Gisbert</persName>
                 </person>
 
-                <person xml:id="kab-pers-00630">
-                    <persName>Wimmer-Webhofer, Erika</persName>
-                </person>
-
                 <person xml:id="kab-pers-00631">
                     <persName>Krebs, Gilbert</persName>
                 </person>
@@ -2391,10 +2372,6 @@
 
                 <person xml:id="kab-pers-00640">
                     <persName>Grab, Walter</persName>
-                </person>
-
-                <person xml:id="kab-pers-00641">
-                    <persName>LeRider, Jacques</persName>
                 </person>
 
                 <person xml:id="kab-pers-00642">
@@ -2559,10 +2536,6 @@
 
                 <person xml:id="kab-pers-00682">
                     <persName>Reemtsma, Jan Philipp</persName>
-                </person>
-
-                <person xml:id="kab-pers-00683">
-                    <persName>Amann, Klaus</persName>
                 </person>
 
                 <person xml:id="kab-pers-00684">
