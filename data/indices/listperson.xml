@@ -1446,7 +1446,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00387">
-                    <persName>Hagen, Waltraud u. a.</persName>
+                    <persName>Hagen, Waltraud</persName>
                 </person>
 
                 <person xml:id="kab-pers-00388">
@@ -1462,11 +1462,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00391">
-                    <persName>Nibbrig, Hart</persName>
-                </person>
-
-                <person xml:id="kab-pers-00497">
-                    <persName>Lucas, Christiaan</persName>
+                    <persName>Hart Nibbrig, Christiaan Lucas</persName>
                 </person>
 
                 <person xml:id="kab-pers-00392">
@@ -2442,7 +2438,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00652">
-                    <persName>Barber, Klaus</persName>
+                    <persName>Garber, Klaus</persName>
                 </person>
 
                 <person xml:id="kab-pers-00653">
@@ -2661,8 +2657,12 @@
                     <persName>Roessler, Peter</persName>
                 </person>
 
-                <person xml:id="kab-pers-00707">
-                    <persName>Leschitzer, Franz</persName>
+                <person xml:id="kab-pers-00708">
+                    <persName>Gode, Alexander</persName>
+                </person>
+
+                <person xml:id="kab-pers-00709">
+                    <persName>Wright, Sue Ellen</persName>
                 </person>
 
             </listPerson>
