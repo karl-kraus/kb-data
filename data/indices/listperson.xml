@@ -25,50 +25,75 @@
                 
                 <person xml:id="kab-pers-00001">
                     <persName>Frisé, Adolf</persName>
+                    <idno type="GND">11895542X</idno>
+                    <idno type="Wikidata">Q361755</idno>
                 </person>
 
                 <person xml:id="kab-pers-00002">
-                    <persName>Adorno, Theodor Wiesengrund</persName>
+                    <persName>Adorno, Theodor W.</persName>
+                    <persName type="variant">Adorno, Theodor Wiesengrund</persName>
+                    <idno type="GND">118500775</idno>
+                    <idno type="Wikidata">Q152388</idno>
                 </person>
 
                 <person xml:id="kab-pers-00003">
                     <persName>Massiczek, Albert</persName>
+                    <idno type="GND">118844237</idno>
+                    <idno type="Wikidata">Q1801082</idno>
                 </person>
 
                 <person xml:id="kab-pers-00004">
                     <persName>Albert-Lasard, Lou</persName>
+                    <idno type="GND">118501526</idno>
+                    <idno type="Wikidata">Q273197</idno>
                 </person>
 
                 <person xml:id="kab-pers-00005">
                     <persName>Alff, Wilhelm</persName>
+                    <idno type="GND">116286466</idno>
+                    <idno type="Wikidata">Q1732730</idno>
                 </person>
 
                 <person xml:id="kab-pers-00006">
                     <persName>Eichstaedt, Alfons</persName>
+                    <idno type="GND">1074118677</idno>
+                    <idno type="Wikidata">Q95817270</idno>
                 </person>
 
                 <person xml:id="kab-pers-00007">
                     <persName>Alker, Ernst</persName>
+                    <idno type="GND">118644742</idno>
+                    <idno type="Wikidata">Q13472435</idno>
                 </person>
 
                 <person xml:id="kab-pers-00008">
                     <persName>Arntzen, Helmut</persName>
+                    <idno type="GND">118988697</idno>
+                    <idno type="Wikidata">Q1603354</idno>
                 </person>
 
                 <person xml:id="kab-pers-00009">
                     <persName>Gehlhoff-Claes, Astrid</persName>
+                    <idno type="GND">119089211</idno>
+                    <idno type="Wikidata">Q750563</idno>
                 </person>
 
                 <person xml:id="kab-pers-00010">
                     <persName>Aufricht, Ernst Josef</persName>
+                    <idno type="GND">118651064</idno>
+                    <idno type="Wikidata">Q1358871</idno>
                 </person>
 
                 <person xml:id="kab-pers-00011">
                     <persName>Austerlitz, Friedrich</persName>
+                    <idno type="GND">130095664</idno>
+                    <idno type="Wikidata">Q1458300</idno>
                 </person>
 
                 <person xml:id="kab-pers-00012">
                     <persName>Balthasar, Hans Urs von</persName>
+                    <idno type="GND">118506323</idno>
+                    <idno type="Wikidata">Q122976</idno>
                 </person>
 
                 <person xml:id="kab-pers-00013">
@@ -77,54 +102,81 @@
 
                 <person xml:id="kab-pers-00014">
                     <persName>Bauer, Roger</persName>
+                    <idno type="GND">131592599</idno>
+                    <idno type="Wikidata">Q59530725</idno>
                 </person>
 
                 <person xml:id="kab-pers-00015">
                     <persName>Baumgart, Reinhard</persName>
+                    <idno type="GND">118507591</idno>
+                    <idno type="Wikidata">Q125448</idno>
                 </person>
 
                 <person xml:id="kab-pers-00016">
                     <persName>Becher, Hubert</persName>
+                    <idno type="GND">116099518</idno>
+                    <idno type="Wikidata">Q59528704</idno>
                 </person>
 
                 <person xml:id="kab-pers-00017">
-                    <persName>Beigel-Ujhely, Margarete</persName>
+                    <persName>Ujhely-Beigel, Margarete</persName>
+                    <idno type="GND">1045410519</idno>
+                    <idno type="Wikidata">Q95185796</idno>
                 </person>
 
                 <person xml:id="kab-pers-00018">
                     <persName>Benjamin, Walter</persName>
+                    <idno type="GND">118509039</idno>
+                    <idno type="Wikidata">Q61078</idno>
                 </person>
 
                 <person xml:id="kab-pers-00019">
                     <persName>Blume, Bernhard</persName>
+                    <idno type="GND">118664107</idno>
+                    <idno type="Wikidata">Q55411305</idno>
                 </person>
 
                 <person xml:id="kab-pers-00020">
                     <persName>Oberreither, Bernhard</persName>
+                    <idno type="GND">1036708799</idno>
+                    <idno type="Wikidata">Q133518528</idno>
                 </person>
 
                 <person xml:id="kab-pers-00021">
                     <persName>Betz, Albrecht</persName>
+                    <idno type="GND">116156236</idno>
+                    <idno type="Wikidata">Q53618080</idno>
                 </person>
 
                 <person xml:id="kab-pers-00023">
-                    <persName>Bode, Ingrid</persName>
+                    <persName>Hannich-Bode, Ingrid</persName>
+                    <persName type="variant">Bode, Ingrid</persName>
+                    <idno type="GND">11645444X</idno>
+                    <idno type="Wikidata">Q95695882</idno>
                 </person>
 
                 <person xml:id="kab-pers-00024">
                     <persName>Bohn, Volker</persName>
+                    <idno type="GND">1128756528</idno>
+                    <idno type="Wikidata">Q94876280</idno>
                 </person>
 
                 <person xml:id="kab-pers-00025">
                     <persName>Borgmeier, Raimund</persName>
+                    <idno type="GND">122147421</idno>
+                    <idno type="Wikidata">Q113716322</idno>
                 </person>
 
                 <person xml:id="kab-pers-00026">
                     <persName>Borries, Mechthild</persName>
+                    <idno type="GND">171985257</idno>
+                    <idno type="Wikidata">Q139158307</idno>
                 </person>
 
                 <person xml:id="kab-pers-00027">
                     <persName>Brecht, Bertolt</persName>
+                    <idno type="GND">118514768</idno>
+                    <idno type="Wikidata">Q38757</idno>
                 </person>
 
                 <person xml:id="kab-pers-00028">
@@ -133,22 +185,32 @@
 
                 <person xml:id="kab-pers-00029">
                     <persName>Brock-Sulzer, Elisabeth</persName>
+                    <idno type="GND">11652667X</idno>
+                    <idno type="Wikidata">Q1329816</idno>
                 </person>
 
                 <person xml:id="kab-pers-00030">
                     <persName>Brod, Max</persName>
+                    <idno type="GND">118515624</idno>
+                    <idno type="Wikidata">Q28480</idno>
                 </person>
 
                 <person xml:id="kab-pers-00031">
                     <persName>Broer, Wolfgang</persName>
+                    <idno type="GND">1138137197</idno>
+                    <idno type="Wikidata">Q124625134</idno>
                 </person>
 
                 <person xml:id="kab-pers-00032">
                     <persName>Brügel, Johann Wolfgang</persName>
+                    <idno type="GND">116742739</idno>
+                    <idno type="Wikidata">Q1666162</idno>
                 </person>
 
                 <person xml:id="kab-pers-00033">
                     <persName>Burgert, Helmuth</persName>
+                    <idno type="GND">117167835</idno>
+                    <idno type="Wikidata">Q55675106</idno>
                 </person>
 
                 <person xml:id="kab-pers-00034">
@@ -157,6 +219,13 @@
 
                 <person xml:id="kab-pers-00035">
                     <persName>Bäuml, Franz H.</persName>
+                    <idno type="GND">123230160</idno>
+                    <idno type="Wikidata">Q112397650</idno>
+                    <!-- Plausibilitätsprüfung: Identifizierung plausibel: Franz H. Bäuml ist als Sohn von Gustav Heinrich Bäuml dokumentiert.
+                     (https://de.wikipedia.org/wiki/Franz_H._B%C3%A4uml) Beide werden 1974 gemeinsam als Autoren des „Namenverzeichnisses zu Karl
+                     Kraus DIE FACKEL“ und 1975 des „Sachnamen- und Jargonregisters“ geführt. Die gemeinsame Arbeit an den Kraus-Registern belegt
+                     Franz H. Bäumls konkrete Beschäftigung mit Karl Kraus; seine germanistische und literaturwissenschaftliche Tätigkeit passt
+                     fachlich dazu. Vater-Sohn-Beziehung, gemeinsame Publikationen und fachlicher Hintergrund stützen die Zuordnung zu GND 123230160. -->
                 </person>
 
                 <person xml:id="kab-pers-00036">
@@ -165,22 +234,32 @@
 
                 <person xml:id="kab-pers-00037">
                     <persName>Calasso, Roberto</persName>
+                    <idno type="GND">119349353</idno>
+                    <idno type="Wikidata">Q669956</idno>
                 </person>
 
                 <person xml:id="kab-pers-00038">
                     <persName>Canetti, Elias</persName>
+                    <idno type="GND">118518801</idno>
+                    <idno type="Wikidata">Q80064</idno>
                 </person>
 
                 <person xml:id="kab-pers-00039">
                     <persName>Carr, Gilbert J.</persName>
+                    <idno type="GND">115595147</idno>
+                    <idno type="Wikidata">Q112353174</idno>
                 </person>
 
                 <person xml:id="kab-pers-00040">
                     <persName>Cases, Cesare</persName>
+                    <idno type="GND">119355485</idno>
+                    <idno type="Wikidata">Q3665376</idno>
                 </person>
 
                 <person xml:id="kab-pers-00041">
                     <persName>Chiarini, Paolo</persName>
+                    <idno type="GND">119364158</idno>
+                    <idno type="Wikidata">Q3893894</idno>
                 </person>
 
                 <person xml:id="kab-pers-00042">
@@ -189,14 +268,24 @@
 
                 <person xml:id="kab-pers-00043">
                     <persName>Clemen, Wolfgang</persName>
+                    <idno type="GND">116543167</idno>
+                    <idno type="Wikidata">Q2589392</idno>
+                    <!-- Plausibilitätsprüfung: Der Beitrag „Shakespeares Sonette. Nachdichtung von Karl Kraus“ ist 1964 in den Nachrichten
+                     aus dem Kösel-Verlag ausdrücklich Wolfgang Clemen zugeschrieben. Der GND-Datensatz 116543167 bezeichnet Wolfgang Hermann
+                     Eduard Percy Clemen (1909–1990), einen renommierten Anglisten und Shakespeare-Forscher. Seine ausgewiesene fachliche
+                     Spezialisierung auf Shakespeare passt unmittelbar zum Gegenstand des Beitrags. -->
                 </person>
 
                 <person xml:id="kab-pers-00044">
                     <persName>Cwojdrak, Günther</persName>
+                    <idno type="GND">122239954</idno>
+                    <idno type="Wikidata">Q55676037</idno>
                 </person>
 
                 <person xml:id="kab-pers-00045">
                     <persName>Cysarz, Herbert</persName>
+                    <idno type="GND">118523147</idno>
+                    <idno type="Wikidata">Q114354</idno>
                 </person>
 
                 <person xml:id="kab-pers-00046">
@@ -205,22 +294,38 @@
 
                 <person xml:id="kab-pers-00047">
                     <persName>Daviau, Donald G.</persName>
+                    <idno type="GND">130279226</idno>
+                    <idno type="Wikidata">Q95330638</idno>
+                    <!-- Plausibilitätsprüfung: Umfangreiches Publikationsprofil zur österreichischen Literatur, insbesondere Hermann Bahr,
+                     Karl Kraus und Wiener Moderne. Alle fünf Beiträge thematisch sehr gut mit den nachgewiesenen Forschungs- und
+                     Publikationsschwerpunkten vereinbar; keine inhaltlichen Widersprüche. -->
                 </person>
 
                 <person xml:id="kab-pers-00048">
                     <persName>Bablet, Denis</persName>
+                    <idno type="GND">116021721</idno>
+                    <idno type="Wikidata">Q59524541</idno>
                 </person>
 
                 <person xml:id="kab-pers-00488">
                     <persName>Jacquot, Jean</persName>
+                    <idno type="GND">132876922</idno>
+                    <idno type="Wikidata">Q54156064</idno>
                 </person>
 
                 <person xml:id="kab-pers-00049">
                     <persName>Deutsch, Otto Erich</persName>
+                    <idno type="GND">118678043</idno>
+                    <idno type="Wikidata">Q78559</idno>
+                    <!-- Plausibilitätsprüfung: Beitrag „Offenbach, Kraus und die Anderen“ (1963) in späterer Offenbach-Fachliteratur ausdrücklich
+                     Otto Erich Deutsch zugeschrieben (ÖMZ 18, S. 408–412). Fachlicher Hintergrund als Musikhistoriker und ehemaliger Musikkritiker
+                     passt; zudem Brief des Verlags Die Fackel an Deutsch von 1911 mit Karl Kraus als Beteiligtem nachgewiesen. -->
                 </person>
 
                 <person xml:id="kab-pers-00050">
                     <persName>Dietze, Walter</persName>
+                    <idno type="GND">11852562X</idno>
+                    <idno type="Wikidata">Q17417897</idno>
                 </person>
 
                 <person xml:id="kab-pers-00051">
@@ -229,34 +334,51 @@
 
                 <person xml:id="kab-pers-00052">
                     <persName>Drews, Jörg</persName>
+                    <idno type="GND">122101812</idno>
+                    <idno type="Wikidata">Q1326884</idno>
                 </person>
 
                 <person xml:id="kab-pers-00053">
                     <persName>Durzak, Manfred</persName>
+                    <idno type="GND">128923865</idno>
+                    <idno type="Wikidata">Q15833514</idno>
                 </person>
 
                 <person xml:id="kab-pers-00054">
                     <persName>Dürrenmatt, Friedrich</persName>
+                    <idno type="GND">118527908</idno>
+                    <idno type="Wikidata">Q23481</idno>
                 </person>
 
                 <person xml:id="kab-pers-00055">
                     <persName>Ebner, Ferdinand</persName>
+                    <idno type="GND">118528653</idno>
+                    <idno type="Wikidata">Q79149</idno>
                 </person>
 
                 <person xml:id="kab-pers-00056">
                     <persName>Castle, Eduard</persName>
+                    <idno type="GND">118667440</idno>
+                    <idno type="Wikidata">Q87204</idno>
                 </person>
 
                 <person xml:id="kab-pers-00057">
-                    <persName>Benyoetz, Elazar</persName>
+                    <persName>Benyoets, Elʿazar</persName>
+                    <persName type="variant">Benyoetz, Elazar</persName>
+                    <idno type="GND">11887800X</idno>
+                    <idno type="Wikidata">Q1325024</idno>
                 </person>
 
                 <person xml:id="kab-pers-00059">
                     <persName>Endler, Franz</persName>
+                    <idno type="GND">120512955</idno>
+                    <idno type="Wikidata">Q1446664</idno>
                 </person>
 
                 <person xml:id="kab-pers-00060">
                     <persName>Engelmann, Paul</persName>
+                    <idno type="GND">119294753</idno>
+                    <idno type="Wikidata">Q85557</idno>
                 </person>
 
                 <person xml:id="kab-pers-00062">
@@ -265,10 +387,14 @@
 
                 <person xml:id="kab-pers-00063">
                     <persName>Ginsberg, Ernst</persName>
+                    <idno type="GND">118695045</idno>
+                    <idno type="Wikidata">Q1358294</idno>
                 </person>
 
                 <person xml:id="kab-pers-00064">
                     <persName>Federn, Ernst</persName>
+                    <idno type="GND">119182351</idno>
+                    <idno type="Wikidata">Q88028</idno>
                 </person>
 
                 <person xml:id="kab-pers-00065">
@@ -279,10 +405,14 @@
                     <persName>Feigenwinter, Gunild</persName>
                     <persName type="variant">Feigenwinter-Schimmel, Gunild</persName>
                     <persName type="variant">Schimmel, Gunild</persName>
+                    <idno type="GND">1090744625</idno>
+                    <idno type="Wikidata">Q1554682</idno>
                 </person>
 
                 <person xml:id="kab-pers-00067">
                     <persName>Ficker, Ludwig von</persName>
+                    <idno type="GND">118532871</idno>
+                    <idno type="Wikidata">Q89625</idno>
                 </person>
 
                 <person xml:id="kab-pers-00068">
@@ -291,106 +421,169 @@
 
                 <person xml:id="kab-pers-00069">
                     <persName>Fischer, Ernst</persName>
+                    <idno type="GND">118691163</idno>
+                    <idno type="Wikidata">Q79072</idno>
                 </person>
 
                 <person xml:id="kab-pers-00070">
                     <persName>Fischer, Heinrich</persName>
+                    <idno type="GND">116556250</idno>
+                    <idno type="Wikidata">Q1597227</idno>
                 </person>
 
                 <person xml:id="kab-pers-00071">
                     <persName>Fischer, Jens Malte</persName>
+                    <idno type="GND">116556692</idno>
+                    <idno type="Wikidata">Q1687291</idno>
                 </person>
 
                 <person xml:id="kab-pers-00072">
                     <persName>Fischer, Otokar</persName>
+                    <idno type="GND">119006774</idno>
+                    <idno type="Wikidata">Q993835</idno>
                 </person>
 
                 <person xml:id="kab-pers-00073">
                     <persName>Flatter, Richard</persName>
+                    <idno type="GND">116589434</idno>
+                    <idno type="Wikidata">Q23139226</idno>
                 </person>
 
                 <person xml:id="kab-pers-00074">
-                    <persName>Fließbach, Holger</persName>
+                    <persName>Fliessbach, Holger</persName>
+                    <persName type="variant">Fließbach, Holger</persName>
+                    <idno type="GND">1126753955</idno>
+                    <idno type="Wikidata">Q15456875</idno>
                 </person>
 
                 <person xml:id="kab-pers-00075">
                     <persName>Forst de Battaglia, Otto</persName>
+                    <idno type="GND">105624446</idno>
+                    <idno type="Wikidata">Q11801059</idno>
                 </person>
 
                 <person xml:id="kab-pers-00076">
                     <persName>Seyr, Franz</persName>
+                    <idno type="GND">135937264</idno>
+                    <idno type="Wikidata">Q137131308</idno>
                 </person>
 
                 <person xml:id="kab-pers-00077">
                     <persName>Franzel, Emil</persName>
+                    <idno type="GND">11853503X</idno>
+                    <idno type="Wikidata">Q1336062</idno>
                 </person>
 
                 <person xml:id="kab-pers-00078">
                     <persName>Ungar, Frederick</persName>
+                    <idno type="GND">117292370</idno>
+                    <idno type="Wikidata">Q55847105</idno>
                 </person>
 
                 <person xml:id="kab-pers-00079">
-                    <persName>Frenzel, lvo</persName>
+                    <persName>Frenzel, Ivo</persName>
+                    <idno type="GND">116771542</idno>
+                    <idno type="Wikidata">Q59531285</idno>
                 </person>
 
                 <person xml:id="kab-pers-00080">
                     <persName>Pfäfflin, Friedrich</persName>
+                    <idno type="GND">116139722</idno>
+                    <idno type="Wikidata">Q95219514</idno>
                 </person>
 
                 <person xml:id="kab-pers-00082">
                     <persName>Früh, Eckart</persName>
+                    <idno type="GND">1017736529</idno>
+                    <idno type="Wikidata">Q1281324</idno>
                 </person>
 
                 <person xml:id="kab-pers-00083">
                     <persName>Frühwald, Wolfgang</persName>
+                    <idno type="GND">115683070</idno>
+                    <idno type="Wikidata">Q1749575</idno>
+                    <!-- Plausibilitätsprüfung: Frühwalds Forschung und Publikationen betreffen deutsche Literaturgeschichte, Romantik und
+                     insbesondere Brentano, zugleich aber auch Sprache, Sprachkritik und politische Rhetorik. Seine Arbeiten zu Ernst Toller
+                     sowie seine spätere eigenständige Publikation zu Karl Kraus, dessen Sprachkritik und der Dritten Walpurgisnacht (2010)
+                     weisen eine unmittelbare fachliche Nähe zum Themenfeld des Aufsatzes auf. -->
                 </person>
 
                 <person xml:id="kab-pers-00084">
                     <persName>Fuchs, Albert</persName>
+                    <idno type="GND">129015202</idno>
+                    <idno type="Wikidata">Q1707278</idno>
                 </person>
 
                 <person xml:id="kab-pers-00085">
                     <persName>Fässler, Peter</persName>
+                    <persName type="variant">Faessler, Peter</persName>
+                    <idno type="GND">125344236</idno>
+                    <idno type="Wikidata">Q94909137</idno>
                 </person>
 
                 <person xml:id="kab-pers-00086">
                     <persName>Fürnberg, Louis</persName>
+                    <idno type="GND">118536702</idno>
+                    <idno type="Wikidata">Q97096</idno>
                 </person>
 
                 <person xml:id="kab-pers-00087">
                     <persName>Fritsch, Gerhard</persName>
+                    <idno type="GND">118536133</idno>
+                    <idno type="Wikidata">Q87532</idno>
                 </person>
 
                 <person xml:id="kab-pers-00088">
                     <persName>Scholem, Gershom</persName>
+                    <idno type="GND">118610295</idno>
+                    <idno type="Wikidata">Q138850</idno>
                 </person>
 
                 <person xml:id="kab-pers-00089">
                     <persName>Heidenreich, Gert</persName>
+                    <idno type="GND">119008742</idno>
+                    <idno type="Wikidata">Q1515211</idno>
                 </person>
 
                 <person xml:id="kab-pers-00091">
                     <persName>Goblot, Germaine</persName>
+                    <idno type="GND">1011662213</idno>
+                    <idno type="Wikidata">Q3104184</idno>
                 </person>
 
                 <person xml:id="kab-pers-00092">
                     <persName>Goldmann, Lucien</persName>
+                    <idno type="GND">118540483</idno>
+                    <idno type="Wikidata">Q513448</idno>
                 </person>
 
                 <person xml:id="kab-pers-00093">
                     <persName>Goldstücker, Eduard</persName>
+                    <idno type="GND">118886894</idno>
+                    <idno type="Wikidata">Q114605</idno>
                 </person>
 
                 <person xml:id="kab-pers-00094">
                     <persName>Grabowsky, Adolf</persName>
+                    <idno type="GND">118696866</idno>
+                    <idno type="Wikidata">Q88774</idno>
+                    <!-- Plausibilitätsprüfung: Konkreter Nachweis der Rezension durch den Kommentarband Karl Kraus im Urteil literarischer und
+                     publizistischer Kritik: Adolf Grabowsky, 15.10.1909, Juristisches Literaturblatt, Nr. 10. GND-Person durch Lebensdaten,
+                     juristische Ausbildung und zeitgenössische Publikationen eindeutig fachlich passend. Siehe dazu:
+                     https://api.pageplace.de/preview/DT0400.9783503163595_A41545686/preview-9783503163595_A41545686.pdf -->
                 </person>
 
                 <person xml:id="kab-pers-00095">
-                    <persName>Grebenickova, Ruzena</persName>
+                    <persName>Grebeníčková, Růžena</persName>
+                    <persName type="variant">Grebenickova, Ruzena</persName>
+                    <idno type="GND">110655028</idno>
+                    <idno type="Wikidata">Q7386944</idno>
                 </person>
 
                 <person xml:id="kab-pers-00096">
                     <persName>Greve, Ludwig</persName>
+                    <idno type="GND">119138824</idno>
+                    <idno type="Wikidata">Q1634544</idno>
                 </person>
 
                 <person xml:id="kab-pers-00097">
@@ -399,6 +592,8 @@
 
                 <person xml:id="kab-pers-00098">
                     <persName>Grossberg, Mimi</persName>
+                    <idno type="GND">121228223</idno>
+                    <idno type="Wikidata">Q47321261</idno>
                 </person>
 
                 <person xml:id="kab-pers-00099">
@@ -407,43 +602,71 @@
 
                 <person xml:id="kab-pers-00100">
                     <persName>Erdmann, Gustav</persName>
+                    <idno type="GND">122183746</idno>
+                    <idno type="Wikidata">Q94934013</idno>
                 </person>
 
                 <person xml:id="kab-pers-00103">
                     <persName>Hackert, Fritz</persName>
+                    <idno type="GND">133228053</idno>
+                    <idno type="Wikidata">Q59532186</idno>
                 </person>
 
                 <person xml:id="kab-pers-00104">
-                    <persName>Haensel, Ludwig</persName>
+                    <persName>Hänsel, Ludwig</persName>
+                    <persName type="variant">Haensel, Ludwig</persName>
+                    <idno type="GND">119235137</idno>
+                    <idno type="Wikidata">Q100782614</idno>
+                    <!-- Plausibilitätsprüfung: Ludwig Hänsel studierte Germanistik, Romanistik und Philosophie und war neben seiner langjährigen
+                     Tätigkeit als Gymnasiallehrer und Schuldirektor publizistisch zu Literatur und Philosophie tätig. Seine fachliche Qualifikation
+                     passt zum Gegenstand des Kraus-Aufsatzes. 1934 war er als Pädagoge und Autor bereits etabliert; die zeitliche Zuordnung
+                     zur GND-Person (1886–1959) ist stimmig. GND 119235137 plausibel. (siehe auch: https://data.onb.ac.at/nlv/nlv_lex/perslex/H/Haensel_Ludwig.htm) -->
                 </person>
 
                 <person xml:id="kab-pers-00105">
                     <persName>Hahnl, Hans Heinz</persName>
+                    <idno type="GND">115497102</idno>
+                    <idno type="Wikidata">Q1580129</idno>
                 </person>
 
                 <person xml:id="kab-pers-00106">
                     <persName>Hannak, Jacques</persName>
+                    <idno type="GND">126366497</idno>
+                    <idno type="Wikidata">Q1677997</idno>
                 </person>
 
                 <person xml:id="kab-pers-00107">
                     <persName>Hanser, Richard</persName>
+                    <idno type="GND">127018360</idno>
+                    <idno type="Wikidata">Q55946664</idno>
+                    <!-- Plausibilitätsprüfung: Richard Hanser (1909–1981) ist als Codirettore der American-German Review nachgewiesen. Die
+                     redaktionelle Verbindung zur Zeitschrift und die zeitliche Übereinstimmung stützen die Zuordnung des Autors.
+                     (https://www.9colonne.it/103501/putsch-hanser-br-racconta-l-ascesa-br-di-hitler) -->
                 </person>
 
                 <person xml:id="kab-pers-00108">
                     <persName>Hartl, Edwin</persName>
+                    <idno type="GND">118974424</idno>
+                    <idno type="Wikidata">Q1294656</idno>
                 </person>
 
                 <person xml:id="kab-pers-00110">
                     <persName>Hartwich, Alexander</persName>
+                    <idno type="GND">116503394</idno>
+                    <idno type="Wikidata">Q105828398</idno>
                 </person>
 
                 <person xml:id="kab-pers-00111">
                     <persName>Hirsch, Paul</persName>
                     <persName type="alias">Hatvani, Paul</persName>
+                    <idno type="GND">11651955X</idno>
+                    <idno type="Wikidata">Q2060028</idno>
                 </person>
 
                 <person xml:id="kab-pers-00112">
                     <persName>Haueis, Eduard</persName>
+                    <idno type="GND">116522038</idno>
+                    <idno type="Wikidata">Q132267208</idno>
                 </person>
 
                 <person xml:id="kab-pers-00113">
@@ -452,54 +675,85 @@
 
                 <person xml:id="kab-pers-00115">
                     <persName>Hein, Jürgen</persName>
+                    <idno type="GND">116658606</idno>
+                    <idno type="Wikidata">Q15441268</idno>
                 </person>
 
                 <person xml:id="kab-pers-00116">
                     <persName>Fischer, Heinz-Dietrich</persName>
+                    <idno type="GND">119481375</idno>
+                    <idno type="Wikidata">Q15449841</idno>
                 </person>
 
                 <person xml:id="kab-pers-00117">
                     <persName>Heißenbüttel, Helmut</persName>
+                    <idno type="GND">118548700</idno>
+                    <idno type="Wikidata">Q77754</idno>
                 </person>
 
                 <person xml:id="kab-pers-00118">
                     <persName>Heller, Erich</persName>
+                    <idno type="GND">118548840</idno>
+                    <idno type="Wikidata">Q215444</idno>
                 </person>
 
                 <person xml:id="kab-pers-00119">
                     <persName>Hennecke, Hans</persName>
+                    <idno type="GND">116711027</idno>
+                    <idno type="Wikidata">Q1580172</idno>
                 </person>
 
                 <person xml:id="kab-pers-00120">
-                    <persName>Heringer, Hans-Jürgen</persName>
+                    <persName>Heringer, Hans Jürgen</persName>
+                    <persName type="variant">Heringer, Hans-Jürgen</persName>
+                    <idno type="GND">118774085</idno>
+                    <idno type="Wikidata">Q1500256</idno>
                 </person>
 
                 <person xml:id="kab-pers-00121">
                     <persName>Friedmann, Hermann</persName>
+                    <idno type="GND">118703153</idno>
+                    <idno type="Wikidata">Q68968</idno>
                 </person>
 
                 <person xml:id="kab-pers-00122">
-                    <persName>Kosten, Hermann</persName>
+                    <persName>Kesten, Hermann</persName>
+                    <idno type="GND">118561715</idno>
+                    <idno type="Wikidata">Q65504</idno>
                 </person>
 
                 <person xml:id="kab-pers-00123">
                     <persName>Hermlin, Stephan</persName>
+                    <idno type="GND">118549812</idno>
+                    <idno type="Wikidata">Q77744</idno>
                 </person>
 
                 <person xml:id="kab-pers-00124">
                     <persName>Hesse, Hermann</persName>
+                    <idno type="GND">11855042X</idno>
+                    <idno type="Wikidata">Q25973</idno>
                 </person>
 
                 <person xml:id="kab-pers-00125">
                     <persName>Hillach, Ansgar</persName>
+                    <idno type="GND">1037416333</idno>
+                    <idno type="Wikidata">Q95340374</idno>
                 </person>
 
                 <person xml:id="kab-pers-00126">
                     <persName>Hiller, Kurt</persName>
+                    <idno type="GND">118551132</idno>
+                    <idno type="Wikidata">Q66458</idno>
                 </person>
 
                 <person xml:id="kab-pers-00127">
                     <persName>Himmel, Hellmuth</persName>
+                    <idno type="GND">118551213</idno>
+                    <idno type="Wikidata">Q1348326</idno>
+                    <!-- Plausibilitätsprüfung: Identifizierung durch mehrere bibliografische Nachweise des konkreten Aufsatzes, darunter
+                     der Nachlasskatalog Viktor Suchys. Lebensdaten (1919–1983), Tätigkeit als österreichischer Germanist und Hochschullehrer
+                     am Germanistischen Institut der Universität Graz sowie fachliches Profil stimmen mit dem 1966 erschienenen Aufsatz über
+                     Hofmannsthal und Karl Kraus überein. Die Zuordnung ist daher biografisch und bibliografisch sehr plausibel. -->
                 </person>
 
                 <person xml:id="kab-pers-00128">
@@ -508,46 +762,68 @@
 
                 <person xml:id="kab-pers-00129">
                     <persName>Hofmann, Werner</persName>
+                    <idno type="GND">120644398</idno>
+                    <idno type="Wikidata">Q89629</idno>
                 </person>
 
                 <person xml:id="kab-pers-00130">
                     <persName>Hofmiller, Josef</persName>
+                    <idno type="GND">118706195</idno>
+                    <idno type="Wikidata">Q1704832</idno>
                 </person>
 
                 <person xml:id="kab-pers-00498">
                     <persName>Neidel, Heinz</persName>
+                    <idno type="GND">1056189681</idno>
+                    <idno type="Wikidata">Q112687542</idno>
                 </person>
 
                 <person xml:id="kab-pers-00132">
                     <persName>Hofmiller, Hulda</persName>
+                    <idno type="GND">11695261X</idno>
+                    <idno type="Wikidata">Q94752302</idno>
                 </person>
 
                 <person xml:id="kab-pers-00133">
                     <persName>Iggers, Wilma Abeles</persName>
+                    <idno type="GND">124203868</idno>
+                    <idno type="Wikidata">Q50320801</idno>
                 </person>
 
                 <person xml:id="kab-pers-00134">
                     <persName>Ihering, Herbert</persName>
+                    <idno type="GND">118708627</idno>
+                    <idno type="Wikidata">Q1608503</idno>
                 </person>
 
                 <person xml:id="kab-pers-00137">
                     <persName>Irmer, Hans-Jochen</persName>
+                    <idno type="GND">104755951X</idno>
+                    <idno type="Wikidata">Q95232359</idno>
                 </person>
 
                 <person xml:id="kab-pers-00138">
                     <persName>Jacobsohn, Siegfried</persName>
+                    <idno type="GND">118556371</idno>
+                    <idno type="Wikidata">Q66477</idno>
                 </person>
 
                 <person xml:id="kab-pers-00139">
                     <persName>Zeidler, Jakob</persName>
+                    <idno type="GND">133191230</idno>
+                    <idno type="Wikidata">Q26825294</idno>
                 </person>
 
                 <person xml:id="kab-pers-00140">
                     <persName>Janik, Allan</persName>
+                    <idno type="GND">120204444</idno>
+                    <idno type="Wikidata">Q12155711</idno>
                 </person>
 
                 <person xml:id="kab-pers-00141">
                     <persName>Janouch, Gustav</persName>
+                    <idno type="GND">118711768</idno>
+                    <idno type="Wikidata">Q328537</idno>
                 </person>
 
                 <person xml:id="kab-pers-00142">
@@ -557,14 +833,20 @@
 
                 <person xml:id="kab-pers-00143">
                     <persName>Jenaczek, Friedrich</persName>
+                    <idno type="GND">117101613</idno>
+                    <idno type="Wikidata">Q94842232</idno>
                 </person>
 
                 <person xml:id="kab-pers-00144">
                     <persName>Nagl, Johann Willibald</persName>
+                    <idno type="GND">116880414</idno>
+                    <idno type="Wikidata">Q55847953</idno>
                 </person>
 
                 <person xml:id="kab-pers-00146">
                     <persName>Johnston, William M.</persName>
+                    <idno type="GND">124875262</idno>
+                    <idno type="Wikidata">Q16104470</idno>
                 </person>
 
                 <person xml:id="kab-pers-00147">
@@ -573,38 +855,61 @@
 
                 <person xml:id="kab-pers-00148">
                     <persName>Just, Klaus Günther</persName>
+                    <idno type="GND">117242470</idno>
+                    <idno type="Wikidata">Q94898661</idno>
                 </person>
 
                 <person xml:id="kab-pers-00149">
                     <persName>Kafka, Franz</persName>
+                    <idno type="GND">118559230</idno>
+                    <idno type="Wikidata">Q905</idno>
                 </person>
 
                 <person xml:id="kab-pers-00150">
                     <persName>Kaiser, Joachim</persName>
+                    <idno type="GND">119252287</idno>
+                    <idno type="Wikidata">Q90709</idno>
+                    <!-- Plausibilitätsprüfung: Joachim Kaiser war seit 1959 Kritiker und leitender Feuilletonredakteur der Süddeutschen Zeitung.
+                     Als ausgewiesener Theater-, Literatur- und Musikkritiker sowie promovierter Germanist (Dissertation über Grillparzers
+                     dramatischen Stil) war er fachlich für beide Kraus-Beiträge qualifiziert. Beide Erscheinungsdaten (1964 und 1967) liegen
+                     innerhalb seiner Tätigkeit bei der SZ. (siehe https://de.wikipedia.org/wiki/Joachim_Kaiser) -->
                 </person>
 
                 <person xml:id="kab-pers-00151">
                     <persName>Kann, Helene</persName>
+                    <idno type="GND">116044527</idno>
+                    <idno type="Wikidata">Q94748359</idno>
                 </person>
 
                 <person xml:id="kab-pers-00152">
-                    <persName>Weimar, Karl S.</persName>
+                    <persName>Weimar, Karl Siegfried</persName>
+                    <persName type="variant">Weimar, Karl S.</persName>
+                    <idno type="GND">126600716</idno>
+                    <idno type="Wikidata">Q137137621</idno>
                 </person>
 
                 <person xml:id="kab-pers-00153">
                     <persName>Kars, Gustav</persName>
+                    <idno type="GND">114561261X</idno>
+                    <idno type="Wikidata">Q22211732</idno>
                 </person>
 
                 <person xml:id="kab-pers-00155">
                     <persName>Kauffmann, Stanley</persName>
+                    <idno type="GND">118910744</idno>
+                    <idno type="Wikidata">Q7599719</idno>
                 </person>
 
                 <person xml:id="kab-pers-00156">
                     <persName>Kaufmann, Hans</persName>
+                    <idno type="GND">122674618</idno>
+                    <idno type="Wikidata">Q1580700</idno>
                 </person>
 
                 <person xml:id="kab-pers-00158">
                     <persName>Kaufmann, Harald</persName>
+                    <idno type="GND">119207842</idno>
+                    <idno type="Wikidata">Q1584570</idno>
                 </person>
 
                 <person xml:id="kab-pers-00159">
@@ -613,42 +918,62 @@
 
                 <person xml:id="kab-pers-00160">
                     <persName>Kerry, Otto</persName>
+                    <idno type="GND">130209066</idno>
+                    <idno type="Wikidata">Q2791922</idno>
                 </person>
 
                 <person xml:id="kab-pers-00161">
                     <persName>Kimpel, Dieter</persName>
+                    <idno type="GND">107512602</idno>
+                    <idno type="Wikidata">Q95316312</idno>
                 </person>
 
                 <person xml:id="kab-pers-00162">
                     <persName>Kipphoff, Petra</persName>
+                    <idno type="GND">11618146X</idno>
+                    <idno type="Wikidata">Q15434732</idno>
                 </person>
 
                 <person xml:id="kab-pers-00163">
                     <persName>Kisch, Egon Erwin</persName>
+                    <idno type="GND">118562533</idno>
+                    <idno type="Wikidata">Q78791</idno>
                 </person>
 
                 <person xml:id="kab-pers-00164">
                     <persName>Kanzog, Klaus</persName>
+                    <idno type="GND">115877789</idno>
+                    <idno type="Wikidata">Q55879984</idno>
                 </person>
 
                 <person xml:id="kab-pers-00165">
                     <persName>Schröter, Klaus</persName>
+                    <idno type="GND">119145669</idno>
+                    <idno type="Wikidata">Q47150130</idno>
                 </person>
 
                 <person xml:id="kab-pers-00166">
                     <persName>Koeppen, Wolfgang</persName>
+                    <idno type="GND">118564471</idno>
+                    <idno type="Wikidata">Q64248</idno>
                 </person>
 
                 <person xml:id="kab-pers-00167">
                     <persName>Kohn, Caroline</persName>
+                    <idno type="GND">116308540</idno>
+                    <idno type="Wikidata">Q95686732</idno>
                 </person>
 
                 <person xml:id="kab-pers-00168">
                     <persName>Kokoschka, Oskar</persName>
+                    <idno type="GND">118564722</idno>
+                    <idno type="Wikidata">Q154260</idno>
                 </person>
 
                 <person xml:id="kab-pers-00169">
                     <persName>Kolb, Annette</persName>
+                    <idno type="GND">118713698</idno>
+                    <idno type="Wikidata">Q71112</idno>
                 </person>
 
                 <person xml:id="kab-pers-00170">
@@ -661,30 +986,48 @@
 
                 <person xml:id="kab-pers-00172">
                     <persName>Kornauth, Egon</persName>
+                    <idno type="GND">118813412</idno>
+                    <idno type="Wikidata">Q1298722</idno>
+                    <!-- Plausibilitätsprüfung: Der DLA-Katalog weist den Erinnerungsbeitrag „Meine Erinnerungen an Karl Kraus“ (1954, S. 81–82)
+                     Egon Kornauth zu. Die darin geschilderte musikalische Begleitung von Kraus’ Nestroy-Vorlesungen 1916/17 wird durch die
+                     historischen Vorlesungsprogramme bestätigt. (siehe hier: https://www.kraus-vorleser.wienbibliothek.at/der-vorleser/700%20Vorlesungen?page=0,10&)
+                     Kornauths Tätigkeit als Pianist und Korrepetitor sowie die biographischen Angaben stimmen mit GND 118813412 überein. -->
                 </person>
 
                 <person xml:id="kab-pers-00174">
                     <persName>Kraft, Werner</persName>
+                    <idno type="GND">118566016</idno>
+                    <idno type="Wikidata">Q216536</idno>
                 </person>
 
                 <person xml:id="kab-pers-00175">
                     <persName>Kraus, Karl</persName>
+                    <idno type="GND">118566288</idno>
+                    <idno type="Wikidata">Q44328</idno>
                 </person>
 
                 <person xml:id="kab-pers-00176">
                     <persName>Krebs, Helmut</persName>
+                    <idno type="GND">1185786546</idno>
+                    <idno type="Wikidata">Q1469248</idno>
                 </person>
 
                 <person xml:id="kab-pers-00177">
                     <persName>Krenek, Ernst</persName>
+                    <idno type="GND">118566636</idno>
+                    <idno type="Wikidata">Q158436</idno>
                 </person>
 
                 <person xml:id="kab-pers-00178">
                     <persName>Kreuzer, Helmut</persName>
+                    <idno type="GND">118832816</idno>
+                    <idno type="Wikidata">Q1603812</idno>
                 </person>
 
                 <person xml:id="kab-pers-00179">
                     <persName>Krolop, Kurt</persName>
+                    <idno type="GND">116552794</idno>
+                    <idno type="Wikidata">Q19971273</idno>
                 </person>
 
                 <person xml:id="kab-pers-00180">
@@ -693,10 +1036,15 @@
 
                 <person xml:id="kab-pers-00181">
                     <persName>Kuh, Anton</persName>
+                    <idno type="GND">119302616</idno>
+                    <idno type="Wikidata">Q88062</idno>
                 </person>
 
                 <person xml:id="kab-pers-00183">
-                    <persName>Kurzweil, Baruch</persName>
+                    <persName>Ḳurtsṿail, Barukh</persName>
+                    <persName type="variant">Kurzweil, Baruch</persName>
+                    <idno type="GND">116626445</idno>
+                    <idno type="Wikidata">Q4865860</idno>
                 </person>
 
                 <person xml:id="kab-pers-00184">
@@ -704,31 +1052,45 @@
                 </person>
 
                 <person xml:id="kab-pers-00185">
-                    <persName>Brion-Guerry, L.</persName>
+                    <persName>Brion-Guerry, Liliane</persName>
+                    <idno type="GND">1089542283</idno>
+                    <idno type="Wikidata">Q19357711</idno>
                 </person>
 
                 <person xml:id="kab-pers-00186">
                     <persName>Lasker-Schüler, Else</persName>
+                    <idno type="GND">118569880</idno>
+                    <idno type="Wikidata">Q58033</idno>
                 </person>
 
                 <person xml:id="kab-pers-00187">
                     <persName>Leschnitzer, Franz</persName>
+                    <idno type="GND">116948272</idno>
+                    <idno type="Wikidata">Q19059904</idno>
                 </person>
 
                 <person xml:id="kab-pers-00188">
                     <persName>Lessing, Theodor</persName>
+                    <idno type="GND">11872780X</idno>
+                    <idno type="Wikidata">Q61446</idno>
                 </person>
 
                 <person xml:id="kab-pers-00189">
                     <persName>Lichnowsky, Mechtilde</persName>
+                    <idno type="GND">118572601</idno>
+                    <idno type="Wikidata">Q95272</idno>
                 </person>
 
                 <person xml:id="kab-pers-00190">
                     <persName>Lichtenstein, Alfred</persName>
+                    <idno type="GND">118832891</idno>
+                    <idno type="Wikidata">Q72568</idno>
                 </person>
 
                 <person xml:id="kab-pers-00191">
                     <persName>Liegler, Leopold</persName>
+                    <idno type="GND">13578834X</idno>
+                    <idno type="Wikidata">Q55677424</idno>
                 </person>
 
                 <person xml:id="kab-pers-00192">
@@ -741,86 +1103,132 @@
 
                 <person xml:id="kab-pers-00195">
                     <persName>Lützeler, Paul Michael</persName>
+                    <idno type="GND">122869192</idno>
+                    <idno type="Wikidata">Q98091</idno>
                 </person>
 
                 <person xml:id="kab-pers-00196">
-                    <persName>Machácková-Riegerova, Vera</persName>
+                    <persName>Machácková-Riegrová, Věra</persName>
+                    <persName type="variant">Macháčková, Věra</persName>
+                    <idno type="GND">1057567361</idno>
+                    <idno type="Wikidata">Q43783775</idno>
                 </person>
 
                 <person xml:id="kab-pers-00197">
                     <persName>Magris, Claudio</persName>
+                    <idno type="GND">119130513</idno>
+                    <idno type="Wikidata">Q274404</idno>
                 </person>
 
                 <person xml:id="kab-pers-00198">
                     <persName>Malmberg, Helga</persName>
+                    <idno type="GND">1024300188</idno>
+                    <idno type="Wikidata">Q136854786</idno>
                 </person>
 
                 <person xml:id="kab-pers-00199">
-                    <persName>Roth, Marie-Luise</persName>
+                    <persName>Roth, Marie-Louise</persName>
+                    <persName type="variant">Roth, Marie-Luise</persName>
+                    <idno type="GND">118824120</idno>
+                    <idno type="Wikidata">Q1897168</idno>
                 </person>
 
                 <person xml:id="kab-pers-00200">
                     <persName>Gerold-Tucholsky, Mary</persName>
+                    <idno type="GND">118984888</idno>
+                    <idno type="Wikidata">Q1906262</idno>
                 </person>
 
                 <person xml:id="kab-pers-00202">
                     <persName>Matejka, Viktor</persName>
+                    <idno type="GND">119176920</idno>
+                    <idno type="Wikidata">Q2524333</idno>
                 </person>
 
                 <person xml:id="kab-pers-00203">
                     <persName>Mautner, Franz H.</persName>
+                    <idno type="GND">11685832X</idno>
+                    <idno type="Wikidata">Q1330957</idno>
                 </person>
 
                 <person xml:id="kab-pers-00204">
                     <persName>Mayer, Hans</persName>
+                    <idno type="GND">118579568</idno>
+                    <idno type="Wikidata">Q70737</idno>
                 </person>
 
                 <person xml:id="kab-pers-00205">
                     <persName>Melzer, Gerhard</persName>
+                    <idno type="GND">120205904</idno>
+                    <idno type="Wikidata">Q95315118</idno>
                 </person>
 
                 <person xml:id="kab-pers-00206">
                     <persName>Mendel, Rüdiger</persName>
+                    <idno type="GND">1175698075</idno>
                 </person>
 
                 <person xml:id="kab-pers-00207">
                     <persName>Mensching, Gerhard</persName>
+                    <idno type="GND">122870921</idno>
+                    <idno type="Wikidata">Q1512136</idno>
                 </person>
 
                 <person xml:id="kab-pers-00208">
                     <persName>Methlagl, Walter</persName>
+                    <idno type="GND">119015293</idno>
+                    <idno type="Wikidata">Q15853540</idno>
                 </person>
 
                 <person xml:id="kab-pers-00209">
                     <persName>Missac, Pierre</persName>
+                    <idno type="GND">1177096889</idno>
+                    <idno type="Wikidata">Q132959918</idno>
+                    <!-- Plausibilitätsprüfung: Tätigkeitsfeld und Werkprofil plausibel: Missac publizierte 1967 den Kraus-Beitrag in Critique
+                     und beschäftigte sich intensiv mit deutschsprachiger Literatur sowie Walter Benjamin, dessen persönlicher Freund er war.
+                     Sein Buch Passage de Walter Benjamin (1987) bestätigt dieses Profil; keine widersprüchlichen biographischen Angaben. -->
                 </person>
 
                 <person xml:id="kab-pers-00210">
                     <persName>Mittler, Franz</persName>
+                    <idno type="GND">119171155</idno>
+                    <idno type="Wikidata">Q215241</idno>
                 </person>
 
                 <person xml:id="kab-pers-00211">
                     <persName>Mon, Franz</persName>
+                    <idno type="GND">118583433</idno>
+                    <idno type="Wikidata">Q1302558</idno>
                 </person>
 
                 <person xml:id="kab-pers-00212">
                     <persName>Muschg, Walter</persName>
+                    <idno type="GND">119361108</idno>
+                    <idno type="Wikidata">Q1639011</idno>
                 </person>
 
                 <person xml:id="kab-pers-00213">
                     <persName>Musil, Robert</persName>
+                    <idno type="GND">118585916</idno>
+                    <idno type="Wikidata">Q78487</idno>
                 </person>
 
                 <person xml:id="kab-pers-00214">
                     <persName>Mühlher, Robert</persName>
+                    <idno type="GND">123051010</idno>
+                    <idno type="Wikidata">Q15051338</idno>
                 </person>
 
                 <person xml:id="kab-pers-00215">
                     <persName>Mühsam, Erich</persName>
+                    <idno type="GND">118584758</idno>
+                    <idno type="Wikidata">Q61722</idno>
                 </person>
 
                 <person xml:id="kab-pers-00216">
                     <persName>Müller, Gerd</persName>
+                    <idno type="GND">102890245X</idno>
+                    <idno type="Wikidata">Q94890453</idno>
                 </person>
 
                 <person xml:id="kab-pers-00217">
@@ -833,6 +1241,8 @@
 
                 <person xml:id="kab-pers-00219">
                     <persName>Naumann, Michael</persName>
+                    <idno type="GND">120924005</idno>
+                    <idno type="Wikidata">Q87412</idno>
                 </person>
 
                 <person xml:id="kab-pers-00220">
@@ -840,16 +1250,27 @@
                 </person>
 
                 <person xml:id="kab-pers-00221">
-                    <persName>Nemeth, Andre</persName>
+                    <persName>Németh, André</persName>
+                    <idno type="GND">140060936</idno>
+                    <idno type="Wikidata">Q1220633</idno>
                 </person>
 
                 <person xml:id="kab-pers-00222">
                     <persName>Reifferscheidt, Friedrich M.</persName>
                     <persName type="alias">Nemo, Korbinian</persName>
+                    <idno type="GND">116404485</idno>
+                    <idno type="Wikidata">Q94859208</idno>
+                    <!-- Plausibilitätsprüfung: Pseudonym: siehe https://api.pageplace.de/preview/DT0400.9783503165100_A41433800/preview-9783503165100_A41433800.pdf
+                     „Korbinian Nemo“ alias Friedrich Mayer-Reifferscheidt“ Goltschnigg (Hg.), Karl Kraus im Urteil literarischer und publizistischer Kritik,
+                     Bd. 2 (2017), löst Korbinian Nemo ausdrücklich als Friedrich Mayer-Reifferscheidt auf und nennt dessen journalistische Tätigkeit.
+                     Vollständiger Name und Beruf stimmen mit GND 116404485 (Journalist, Schriftsteller) überein. Die bei Goltschnigg dokumentierte publizistische
+                     Beschäftigung mit Karl Kraus deckt sich mit den beiden unter Nemo in der Weltbühne nachgewiesenen Beiträgen (1954, 1956). Lebensdaten 1900–1957 plausibel. -->
                 </person>
 
                 <person xml:id="kab-pers-00223">
                     <persName>Nunberg, Herman</persName>
+                    <idno type="GND">106854518</idno>
+                    <idno type="Wikidata">Q87965</idno>
                 </person>
 
                 <person xml:id="kab-pers-00224">
@@ -858,22 +1279,32 @@
 
                 <person xml:id="kab-pers-00225">
                     <persName>Breicha, Otto</persName>
+                    <idno type="GND">116469986</idno>
+                    <idno type="Wikidata">Q2038348</idno>
                 </person>
 
                 <person xml:id="kab-pers-00226">
                     <persName>Mann, Otto</persName>
+                    <idno type="GND">116943033</idno>
+                    <idno type="Wikidata">Q94883341</idno>
                 </person>
 
                 <person xml:id="kab-pers-00227">
                     <persName>Paulmichl, Leonhard</persName>
+                    <idno type="GND">1221199358</idno>
+                    <idno type="Wikidata">Q107352590</idno>
                 </person>
 
                 <person xml:id="kab-pers-00228">
                     <persName>Perl, Walter H.</persName>
+                    <idno type="GND">116079487</idno>
+                    <idno type="Wikidata">Q95219759</idno>
                 </person>
 
                 <person xml:id="kab-pers-00229">
                     <persName>Pfabigan, Alfred</persName>
+                    <idno type="GND">120891751</idno>
+                    <idno type="Wikidata">Q2645651</idno>
                 </person>
 
                 <person xml:id="kab-pers-00230">
@@ -886,14 +1317,21 @@
 
                 <person xml:id="kab-pers-00234">
                     <persName>Plard, Henri</persName>
+                    <idno type="GND">129923664</idno>
+                    <idno type="Wikidata">Q3131796</idno>
                 </person>
 
                 <person xml:id="kab-pers-00235">
                     <persName>Politzer, Heinz</persName>
+                    <idno type="GND">118741373</idno>
+                    <idno type="Wikidata">Q90009</idno>
                 </person>
 
                 <person xml:id="kab-pers-00236">
-                    <persName>Pollak, Oskar</persName>
+                    <persName>Pollak, Oscar</persName>
+                    <persName type="variant">Pollak, Oskar</persName>
+                    <idno type="GND">122391160</idno>
+                    <idno type="Wikidata">Q2032893</idno>
                 </person>
 
                 <person xml:id="kab-pers-00237">
@@ -906,82 +1344,125 @@
 
                 <person xml:id="kab-pers-00239">
                     <persName>Pross, Harry</persName>
+                    <idno type="GND">118511238</idno>
+                    <idno type="Wikidata">Q121546</idno>
                 </person>
 
                 <person xml:id="kab-pers-00240">
                     <persName>Pötschke, Joachim</persName>
+                    <idno type="GND">1145958680</idno>
+                    <idno type="Wikidata">Q139159082</idno>
                 </person>
 
                 <person xml:id="kab-pers-00241">
                     <persName>Raabe, Paul</persName>
+                    <idno type="GND">118597434</idno>
+                    <idno type="Wikidata">Q1667711</idno>
                 </person>
 
                 <person xml:id="kab-pers-00242">
                     <persName>Raddatz, Fritz Joachim</persName>
+                    <idno type="GND">118787624</idno>
+                    <idno type="Wikidata">Q118059</idno>
                 </person>
 
                 <person xml:id="kab-pers-00243">
                     <persName>Radecki, Sigismund von</persName>
+                    <idno type="GND">118597620</idno>
+                    <idno type="Wikidata">Q2284831</idno>
                 </person>
 
                 <person xml:id="kab-pers-00244">
                     <persName>Radler, Rudolf</persName>
+                    <idno type="GND">1072443384</idno>
+                    <idno type="Wikidata">Q95287207</idno>
+                    <!-- Plausibilitätsprüfung: Rudolf Radler ist als Herausgeber bzw. Chefredakteur von Kindlers Literatur-Lexikon nachgewiesen.
+                     Der konkrete Eintrag „Literatur und Lüge“ über Karl Kraus lässt sich in der späteren Ausgabe zwar nachweisen, eine persönliche
+                     Verfasserschaft Radlers ist damit jedoch nicht belegt. Die Zuordnung beruht daher vor allem auf seiner redaktionellen Verbindung zum Lexikon; -->
                 </person>
 
                 <person xml:id="kab-pers-00245">
                     <persName>Ramus, Pierre</persName>
+                    <idno type="GND">118833197</idno>
+                    <idno type="Wikidata">Q89911</idno>
                 </person>
 
                 <person xml:id="kab-pers-00246">
                     <persName>Rauscher, Otto</persName>
+                    <idno type="GND">116366532</idno>
                 </person>
 
                 <person xml:id="kab-pers-00247">
                     <persName>Reich-Ranicki, Marcel</persName>
+                    <idno type="GND">118599194</idno>
+                    <idno type="Wikidata">Q33637</idno>
                 </person>
 
                 <person xml:id="kab-pers-00248">
-                    <persName>Reichert, Herbert W.</persName>
+                    <persName>Reichert, Herbert William</persName>
+                    <persName type="variant">Reichert, Herbert W.</persName>
+                    <idno type="GND">122179390</idno>
+                    <idno type="Wikidata">Q108811104</idno>
                 </person>
 
                 <person xml:id="kab-pers-00249">
                     <persName>Döhl, Reinhard</persName>
+                    <idno type="GND">118680013</idno>
+                    <idno type="Wikidata">Q2140661</idno>
                 </person>
 
                 <person xml:id="kab-pers-00250">
                     <persName>Grimm, Reinhold</persName>
+                    <idno type="GND">118988700</idno>
+                    <idno type="Wikidata">Q59533096</idno>
                 </person>
 
                 <person xml:id="kab-pers-00251">
                     <persName>Wiedemann, Conrad</persName>
+                    <idno type="GND">124978487</idno>
+                    <idno type="Wikidata">Q1127032</idno>
                 </person>
 
                 <person xml:id="kab-pers-00252">
                     <persName>Reinprecht, Hansheinz</persName>
+                    <idno type="GND">130202339</idno>
+                    <idno type="Wikidata">Q18819998</idno>
                 </person>
 
                 <person xml:id="kab-pers-00253">
                     <persName>Rieder, Heinz</persName>
+                    <idno type="GND">120670577</idno>
+                    <idno type="Wikidata">Q92462944</idno>
                 </person>
 
                 <person xml:id="kab-pers-00254">
                     <persName>Riha, Karl</persName>
+                    <idno type="GND">11927745X</idno>
+                    <idno type="Wikidata">Q102321</idno>
                 </person>
 
                 <person xml:id="kab-pers-00255">
                     <persName>Rilke, Rainer Maria</persName>
+                    <idno type="GND">118601024</idno>
+                    <idno type="Wikidata">Q76483</idno>
                 </person>
 
                 <person xml:id="kab-pers-00256">
                     <persName>Rischbieter, Henning</persName>
+                    <idno type="GND">116557990</idno>
+                    <idno type="Wikidata">Q1605546</idno>
                 </person>
 
                 <person xml:id="kab-pers-00257">
                     <persName>Boyers, Robert</persName>
+                    <idno type="GND">127363238</idno>
+                    <idno type="Wikidata">Q95399463</idno>
                 </person>
 
                 <person xml:id="kab-pers-00258">
                     <persName>Fischl, Johann</persName>
+                    <idno type="GND">136174442</idno>
+                    <idno type="Wikidata">Q113170</idno>
                 </person>
 
                 <person xml:id="kab-pers-00259">
@@ -991,26 +1472,41 @@
                 <person xml:id="kab-pers-00260">
                     <persName>Adler, Bruno</persName>
                     <persName type="alias">Roedl, Urban</persName>
+                    <idno type="GND">1131171683</idno>
+                    <idno type="Wikidata">Q114482</idno>
                 </person>
 
                 <person xml:id="kab-pers-00261">
                     <persName>Rollett, Edwin</persName>
+                    <idno type="GND">130136573</idno>
+                    <idno type="Wikidata">Q1294936</idno>
                 </person>
 
                 <person xml:id="kab-pers-00262">
                     <persName>Roth, Joseph</persName>
+                    <idno type="GND">118603140</idno>
+                    <idno type="Wikidata">Q78509</idno>
                 </person>
 
                 <person xml:id="kab-pers-00263">
                     <persName>Rychner, Max</persName>
+                    <idno type="GND">118750526</idno>
+                    <idno type="Wikidata">Q117997</idno>
                 </person>
 
                 <person xml:id="kab-pers-00264">
                     <persName>Rühle, Günther</persName>
+                    <idno type="GND">11571894X</idno>
+                    <idno type="Wikidata">Q1561770</idno>
+                    <!-- Plausibilitätsprüfung: Günther Rühle (1924–2021) war von 1960 bis 1985 Feuilletonredakteur der FAZ und ab 1974 Feuilletonleiter;
+                     zugleich war er ausgewiesener Theaterkritiker. Name, berufliches Tätigkeitsfeld, Zeitung und Erscheinungszeitpunkt des KAB-Beitrags
+                     stimmen mit dem GND-Datensatz überein. -->
                 </person>
 
                 <person xml:id="kab-pers-00265">
                     <persName>Rühmkorf, Peter</persName>
+                    <idno type="GND">118603957</idno>
+                    <idno type="Wikidata">Q67921</idno>
                 </person>
 
                 <person xml:id="kab-pers-00266">
@@ -1019,10 +1515,14 @@
 
                 <person xml:id="kab-pers-00267">
                     <persName>Schalk, Fritz</persName>
+                    <idno type="GND">118606379</idno>
+                    <idno type="Wikidata">Q1468144</idno>
                 </person>
 
                 <person xml:id="kab-pers-00268">
                     <persName>Scharang, Michael</persName>
+                    <idno type="GND">118841769</idno>
+                    <idno type="Wikidata">Q112999</idno>
                 </person>
 
                 <person xml:id="kab-pers-00269">
@@ -1031,26 +1531,38 @@
 
                 <person xml:id="kab-pers-00270">
                     <persName>Schaukal, Richard von</persName>
+                    <idno type="GND">118606662</idno>
+                    <idno type="Wikidata">Q86947</idno>
                 </person>
 
                 <person xml:id="kab-pers-00271">
                     <persName>Scheichl, Sigurd Paul</persName>
+                    <idno type="GND">115795561</idno>
+                    <idno type="Wikidata">Q15441311</idno>
                 </person>
 
                 <person xml:id="kab-pers-00272">
                     <persName>Scheu, Robert</persName>
+                    <idno type="GND">117222879</idno>
+                    <idno type="Wikidata">Q94806149</idno>
                 </person>
 
                 <person xml:id="kab-pers-00273">
                     <persName>Schick, Paul</persName>
+                    <idno type="GND">1027816762</idno>
+                    <idno type="Wikidata">Q72159627</idno>
                 </person>
 
                 <person xml:id="kab-pers-00274">
                     <persName>Schmid, Richard</persName>
+                    <idno type="GND">118759582</idno>
+                    <idno type="Wikidata">Q1648613</idno>
                 </person>
 
                 <person xml:id="kab-pers-00275">
                     <persName>Schnitzler, Arthur</persName>
+                    <idno type="GND">118609807</idno>
+                    <idno type="Wikidata">Q44331</idno>
                 </person>
 
                 <person xml:id="kab-pers-00276">
@@ -1063,10 +1575,14 @@
 
                 <person xml:id="kab-pers-00278">
                     <persName>Schweiger, Werner J.</persName>
+                    <idno type="GND">136923550</idno>
+                    <idno type="Wikidata">Q1387395</idno>
                 </person>
 
                 <person xml:id="kab-pers-00279">
                     <persName>Schäfer, Hans Dieter</persName>
+                    <idno type="GND">122418972</idno>
+                    <idno type="Wikidata">Q1579176</idno>
                 </person>
 
                 <person xml:id="kab-pers-00280">
@@ -1075,6 +1591,8 @@
 
                 <person xml:id="kab-pers-00281">
                     <persName>Sieburg, Friedrich</persName>
+                    <idno type="GND">118765191</idno>
+                    <idno type="Wikidata">Q95833</idno>
                 </person>
 
                 <person xml:id="kab-pers-00282">
@@ -1083,10 +1601,16 @@
 
                 <person xml:id="kab-pers-00284">
                     <persName>Simon, Dietrich</persName>
+                    <idno type="GND">1048062937</idno>
+                    <idno type="Wikidata">Q94835228</idno>
                 </person>
 
                 <person xml:id="kab-pers-00285">
                     <persName>Simons, Thomas W., Jr.</persName>
+                    <idno type="Wikidata">Q9358534</idno>
+                    <!-- Plausibilitätsprüfung: Thomas W. Simons Jr. (geb. 1938), späterer US-Diplomat und promovierter Historiker (Ph.D. Harvard 1963);
+                     Ausbildung und Forschungsschwerpunkt europäische Geschichte passen zu den drei DLA-Beiträgen über Karl Kraus und mitteleuropäische
+                     Geistesgeschichte. Identität sehr plausibel; -->
                 </person>
 
                 <person xml:id="kab-pers-00286">
@@ -1094,23 +1618,38 @@
                 </person>
 
                 <person xml:id="kab-pers-00287">
-                    <persName>Snell, Mary</persName>
+                    <persName>Snell-Hornby, Mary</persName>
+                    <persName type="variant">Snell, Mary</persName>
+                    <idno type="GND">12209946X</idno>
+                    <idno type="Wikidata">Q6780738</idno>
+                    <!-- Plausibilitätsprüfung: Originalmanuskript der University of St Andrews bestätigt Titel, Verfasserin Mary Adams Carruthers Snell,
+                     Forschungsaufenthalt in Wien und Abschlussarbeit zum B.Phil. (1966); eindeutige Identität mit Mary Snell-Hornby, GND 12209946X. -->
                 </person>
 
                 <person xml:id="kab-pers-00289">
                     <persName>Soyka, Otto</persName>
+                    <idno type="GND">11912162X</idno>
+                    <idno type="Wikidata">Q113867</idno>
                 </person>
 
                 <person xml:id="kab-pers-00290">
                     <persName>Spalter, Max</persName>
+                    <idno type="GND">12736398X</idno>
                 </person>
 
                 <person xml:id="kab-pers-00291">
                     <persName>Sperber, Manès</persName>
+                    <idno type="GND">118616145</idno>
+                    <idno type="Wikidata">Q78706</idno>
+                    <!-- Plausibilitätsprüfung: Manès Sperber (1905–1984), österreichisch-französischer Schriftsteller und Essayist; beide Beiträge
+                     zu Karl Kraus passen zu seiner Beschäftigung mit Satire und Wiener Geistesgeschichte. Identität durch biografische Quellen und
+                     Normdaten bestätigt; -->
                 </person>
 
                 <person xml:id="kab-pers-00292">
                     <persName>Spiel, Hilde</persName>
+                    <idno type="GND">118751980</idno>
+                    <idno type="Wikidata">Q93872</idno>
                 </person>
 
                 <person xml:id="kab-pers-00293">
@@ -1119,22 +1658,35 @@
 
                 <person xml:id="kab-pers-00294">
                     <persName>Stephan, Joachim</persName>
+                    <idno type="GND">1089864795</idno>
+                    <idno type="Wikidata">Q132949008</idno>
                 </person>
 
                 <person xml:id="kab-pers-00295">
                     <persName>Stern, Joseph Peter</persName>
+                    <idno type="GND">138985901</idno>
+                    <idno type="Wikidata">Q6106716</idno>
                 </person>
 
                 <person xml:id="kab-pers-00297">
                     <persName>Stieg, Gerald</persName>
+                    <idno type="GND">108178277</idno>
+                    <idno type="Wikidata">Q1510014</idno>
                 </person>
 
                 <person xml:id="kab-pers-00298">
                     <persName>Storck, Joachim W.</persName>
+                    <idno type="GND">117289590</idno>
+                    <idno type="Wikidata">Q94901872</idno>
                 </person>
 
                 <person xml:id="kab-pers-00300">
                     <persName>Taucher, Franz</persName>
+                    <idno type="GND">118620975</idno>
+                    <idno type="Wikidata">Q59653115</idno>
+                    <!-- Plausibilitätsprüfung: Franz Taucher (1909–1990), österreichischer Journalist, Essayist und sozialistischer Publizist;
+                     nachgewiesene Beschäftigung mit österreichischer Literatur, Kulturgeschichte und insbesondere der gesellschaftlichen
+                     Verantwortung der Presse (u. a. „Ihre Majestät die Zeitung“, 1961). Thematische Passung zum Karl-Kraus-Beitrag gegeben; -->
                 </person>
 
                 <person xml:id="kab-pers-00301">
@@ -1143,62 +1695,104 @@
 
                 <person xml:id="kab-pers-00302">
                     <persName>Thieme, Karl</persName>
+                    <idno type="GND">124864368</idno>
+                    <idno type="Wikidata">Q1733182</idno>
+                    <!-- Plausibilitätsprüfung: Karl Thieme ist Karl Otto Thieme (1902–1963), deutscher Historiker, Politologe, Theologe und Publizist.
+                     Bereits vor 1936 als Autor tätig, u. a. mit Das alte Wahre (1934) und Christliche Bildung in dieser Zeit (1935); fachliche
+                     Interessen und Publikationstätigkeit passen zum Essay „Der Apokalyptiker Karl Kraus“. Die Identifizierung wird durch die Beweiskette
+                     Brenner-Archiv → Teilnachlass im Institut für Zeitgeschichte München (ED 163/1–195) → Mainzer Professorenkatalog → GND 124864368 plausibilisiert. -->
                 </person>
 
                 <person xml:id="kab-pers-00304">
                     <persName>Timms, Edward Francis</persName>
+                    <idno type="GND">115604960</idno>
+                    <idno type="Wikidata">Q1293877</idno>
                 </person>
 
                 <person xml:id="kab-pers-00305">
                     <persName>Torberg, Friedrich</persName>
+                    <idno type="GND">118623362</idno>
+                    <idno type="Wikidata">Q112880</idno>
                 </person>
 
                 <person xml:id="kab-pers-00306">
-                    <persName>Toulmin, Stephen</persName>
+                    <persName>Toulmin, Stephen Edelston</persName>
+                    <persName type="variant">Toulmin, Stephen</persName>
+                    <idno type="GND">119505193</idno>
+                    <idno type="Wikidata">Q472676</idno>
                 </person>
 
                 <person xml:id="kab-pers-00307">
                     <persName>Trakl, Georg</persName>
+                    <idno type="GND">118623575</idno>
+                    <idno type="Wikidata">Q78476</idno>
                 </person>
 
                 <person xml:id="kab-pers-00308">
                     <persName>Tucholsky, Kurt</persName>
+                    <idno type="GND">11862444X</idno>
+                    <idno type="Wikidata">Q57386</idno>
                 </person>
 
                 <person xml:id="kab-pers-00309">
                     <persName>Uhlig, Helmut</persName>
+                    <idno type="GND">1011801582</idno>
+                    <idno type="Wikidata">Q47498877</idno>
                 </person>
 
                 <person xml:id="kab-pers-00310">
                     <persName>Ullmann, Ludwig</persName>
+                    <idno type="GND">119505606</idno>
+                    <idno type="Wikidata">Q94904397</idno>
+                    <!-- Plausibilitätsprüfung: Ludwig Ullmann (1887–1959), österreichisch-amerikanischer Journalist, Theaterkritiker und Dramaturg;
+                     Germanistik- und Philosophiestudium in Wien. 1910/11 Mitarbeiter der Fackel und 1910–1912 Sekretär von Karl Kraus. Seine unmittelbare
+                     Mitarbeit erklärt seine Erstellung des Registers der ersten 300 Fackel-Nummern (1910); Zuschreibung durch bibliografische Nachweise
+                     und Forschung bestätigt. -->
                 </person>
 
                 <person xml:id="kab-pers-00311">
-                    <persName>Ulmer, Christine</persName>
+                    <persName>Czuma, Christine</persName>
+                    <persName type="variant">Ulmer, Christine</persName>
+                    <idno type="GND">1011580411</idno>
+                    <idno type="Wikidata">Q133580936</idno>
                 </person>
 
                 <person xml:id="kab-pers-00313">
                     <persName>Urbach, Reinhard</persName>
+                    <idno type="GND">11731398X</idno>
+                    <idno type="Wikidata">Q2141065</idno>
                 </person>
 
                 <person xml:id="kab-pers-00314">
                     <persName>Viertel, Berthold</persName>
+                    <idno type="GND">118768395</idno>
+                    <idno type="Wikidata">Q78966</idno>
                 </person>
 
                 <person xml:id="kab-pers-00315">
                     <persName>Volke, Werner</persName>
+                    <idno type="GND">117489379</idno>
+                    <idno type="Wikidata">Q59529629</idno>
+                    <!-- Plausibilitätsprüfung: Jugend in Wien. Literatur um 1900 (1974), Katalogverantwortlicher → Werner Volke → Germanist und
+                     langjähriger Leiter der Handschriftenabteilung in Marbach → GND 117489379 -->
                 </person>
 
                 <person xml:id="kab-pers-00316">
                     <persName>Michels, Volker</persName>
+                    <idno type="GND">117020885</idno>
+                    <idno type="Wikidata">Q2531158</idno>
                 </person>
 
                 <person xml:id="kab-pers-00317">
                     <persName>Wagenknecht, Christian Johannes</persName>
+                    <idno type="GND">130268941</idno>
+                    <idno type="Wikidata">Q20678906</idno>
                 </person>
 
                 <person xml:id="kab-pers-00318">
                     <persName>Pollak, Walter</persName>
+                    <idno type="GND">131402749</idno>
+                    <idno type="Wikidata">Q108306973</idno>
                 </person>
 
                 <person xml:id="kab-pers-00319">
@@ -1207,14 +1801,24 @@
 
                 <person xml:id="kab-pers-00320">
                     <persName>Killy, Walther</persName>
+                    <idno type="GND">116171650</idno>
+                    <idno type="Wikidata">Q2547273</idno>
                 </person>
 
                 <person xml:id="kab-pers-00489">
                     <persName>Szklenar, Hans</persName>
+                    <idno type="GND">124026613</idno>
+                    <idno type="Wikidata">Q95341759</idno>
                 </person>
 
                 <person xml:id="kab-pers-00321">
                     <persName>Weber, Eugene</persName>
+                    <idno type="GND">1046376217</idno>
+                    <idno type="Wikidata">Q94889774</idno>
+                    <!-- Plausibilitätsprüfung: Eugene M. Weber (1939–1986), Germanist, ist aufgrund seiner zahlreichen zeitgenössischen
+                     Publikationen zur Hofmannsthal-Forschung, darunter mehrere Beiträge in den Hofmannsthal-Blättern (1969–1972), mit
+                     hoher Wahrscheinlichkeit der gesuchte Autor. Der DLA-Personensatz PE00091059 führt ihn als Germanisten und weist die
+                     thematisch und zeitlich passende Publikationstätigkeit nach. -->
                 </person>
 
                 <person xml:id="kab-pers-00322">
@@ -1223,6 +1827,8 @@
 
                 <person xml:id="kab-pers-00323">
                     <persName>Weigel, Hans</persName>
+                    <idno type="GND">118630083</idno>
+                    <idno type="Wikidata">Q44943</idno>
                 </person>
 
                 <person xml:id="kab-pers-00324">
@@ -1231,6 +1837,8 @@
 
                 <person xml:id="kab-pers-00325">
                     <persName>Weiskopf, Franz Carl</persName>
+                    <idno type="GND">118630423</idno>
+                    <idno type="Wikidata">Q216060</idno>
                 </person>
 
                 <person xml:id="kab-pers-00326">
@@ -1239,18 +1847,33 @@
 
                 <person xml:id="kab-pers-00327">
                     <persName>Wendt, Ernst</persName>
+                    <idno type="GND">119555719</idno>
+                    <idno type="Wikidata">Q1360557</idno>
+                    <!-- Plausibilitätsprüfung: Ernst Wendt (1937–1986), vollständiger Name Ernst Rudolf Richard Wendt, deutscher Theaterkritiker,
+                     Dramaturg sowie Theater- und Hörspielregisseur, ist als Gesprächspartner des Beitrags über die Hannoveraner Aufführung von Kraus’
+                     Die letzten Tage der Menschheit sehr gut identifiziert. Er war von 1960 bis 1967 Redakteur und Kritiker der Zeitschrift Theater
+                     heute und später Dramaturg und Regisseur an bedeutenden deutschen Bühnen. -->
                 </person>
 
                 <person xml:id="kab-pers-00490">
                     <persName>Fleckenstein, Günther </persName>
+                    <idno type="GND">116598727</idno>
+                    <idno type="Wikidata">Q1561437</idno>
                 </person>
 
                 <person xml:id="kab-pers-00328">
                     <persName>Hecht, Werner</persName>
+                    <idno type="GND">105788104</idno>
+                    <idno type="Wikidata">Q1351006</idno>
                 </person>
 
                 <person xml:id="kab-pers-00329">
                     <persName>Wernigg, Ferdinand</persName>
+                    <idno type="GND">1247304116</idno>
+                    <idno type="Wikidata">Q110416343</idno>
+                    <!-- Plausibilitätsprüfung: Ferdinand Wernigg ist durch seine nachgewiesene Tätigkeit an der Wiener Stadtbibliothek zur fraglichen
+                     Zeit als Autor des Beitrags plausibel identifiziert. Auch der Nachlass in der Wienbibliothek mit Unterlagen zu Ausstellungen
+                     passt zum thematischen Kontext. -->
                 </person>
 
                 <person xml:id="kab-pers-00330">
@@ -1259,38 +1882,55 @@
 
                 <person xml:id="kab-pers-00331">
                     <persName>Wlasaty, Siegfried</persName>
+                    <idno type="GND">141485310</idno>
+                    <idno type="Wikidata">Q133735930</idno>
                 </person>
 
                 <person xml:id="kab-pers-00332">
                     <persName>Wolff, Kurt</persName>
+                    <idno type="GND">118634828</idno>
+                    <idno type="Wikidata">Q87115</idno>
                 </person>
 
                 <person xml:id="kab-pers-00333">
-                    <persName>Wunberg, Gotthard</persName>
+                    <persName>Wunberg, Gotthart</persName>
+                    <idno type="GND">120305151</idno>
+                    <idno type="Wikidata">Q15812657</idno>
                 </person>
 
                 <person xml:id="kab-pers-00334">
                     <persName>Young, Harry F.</persName>
+                    <idno type="GND">1259350800</idno>
                 </person>
 
                 <person xml:id="kab-pers-00335">
                     <persName>Zenker, Ernst Viktor</persName>
+                    <idno type="GND">116979798</idno>
+                    <idno type="Wikidata">Q1360431</idno>
                 </person>
 
                 <person xml:id="kab-pers-00336">
                     <persName>Zohn, Harry</persName>
+                    <idno type="GND">119219751</idno>
+                    <idno type="Wikidata">Q216457</idno>
                 </person>
 
                 <person xml:id="kab-pers-00337">
                     <persName>Zohner, Alfred</persName>
+                    <idno type="GND">1323968369</idno>
+                    <idno type="Wikidata">Q59653487</idno>
                 </person>
 
                 <person xml:id="kab-pers-00340">
-                    <persName>de Mendelssohn, Peter</persName>
+                    <persName>Mendelssohn, Peter de</persName>
+                    <idno type="GND">118580752</idno>
+                    <idno type="Wikidata">Q102852</idno>
                 </person>
 
                 <person xml:id="kab-pers-00343">
                     <persName>Ögg, Franz</persName>
+                    <idno type="GND">128784172</idno>
+                    <idno type="Wikidata">Q94835242</idno>
                 </person>
 
                 <person xml:id="kab-pers-00345">
@@ -1299,46 +1939,76 @@
 
                 <person xml:id="kab-pers-00349">
                     <persName>Adamy, Bernhard</persName>
+                    <idno type="GND">137487878</idno>
+                    <idno type="Wikidata">Q95327874</idno>
+                    <!-- Plausibilitätsprüfung: Bernhard Adamy ist mit hoher Sicherheit dem GND-Datensatz 137487878 zuzuordnen. Die wiederholten
+                     Beiträge im Schopenhauer-Jahrbuch belegen das Schopenhauer-Forschungsprofil des KAB-Autors und führen ihn als in Maintal ansässig.
+                     Der GND-Datensatz nennt Dörnigheim als Wirkungsort und verzeichnet Veröffentlichungen zu Arthur Schopenhauer sowie Hans Pfitzner. -->
                 </person>
 
                 <person xml:id="kab-pers-00350">
                     <persName>Arnold, Heinz Ludwig</persName>
+                    <idno type="GND">11574326X</idno>
+                    <idno type="Wikidata">Q122202</idno>
                 </person>
 
                 <person xml:id="kab-pers-00351">
                     <persName>Avery, George C.</persName>
+                    <idno type="GND">124417329</idno>
+                    <idno type="Wikidata">Q1506898</idno>
                 </person>
 
                 <person xml:id="kab-pers-00352">
-                    <persName>Baltz-Balzberg, Regina</persName>
+                    <persName>Schaunig, Regina</persName>
+                    <persName type="variant">Baltz-Balzberg, Regina</persName>
+                    <persName type="variant"> 	Baltz-Balzenberg-Schaunig, Regina</persName>
+                    <idno type="GND">105243696X</idno>
+                    <idno type="Wikidata">Q95672711</idno>
                 </person>
 
                 <person xml:id="kab-pers-00353">
                     <persName>Barnouw, Dagmar</persName>
+                    <idno type="GND">108081826</idno>
+                    <idno type="Wikidata">Q59530511</idno>
                 </person>
 
                 <person xml:id="kab-pers-00354">
                     <persName>Bauer, Werner M.</persName>
+                    <idno type="GND">13223646X</idno>
+                    <idno type="Wikidata">Q95329932</idno>
+                    <!-- Plausibilitätsprüfung: Werner M. Bauer wird mit hoher Plausibilität dem Germanisten und Literaturwissenschaftler Werner
+                     Maria Bauer (1941–2015), GND 13223646X, zugeordnet. Namensform, biografische Angaben und fachliches Profil stimmen überein;
+                     insbesondere passt die 1974 erschienene Abhandlung zu Karl Kraus grundsätzlich in Bauers literaturwissenschaftliches Arbeitsgebiet. -->
                 </person>
 
                 <person xml:id="kab-pers-00355">
                     <persName>Berger, Albert</persName>
+                    <idno type="GND">12302398X</idno>
+                    <idno type="Wikidata">Q36704363</idno>
                 </person>
 
                 <person xml:id="kab-pers-00356">
                     <persName>Denscher, Bernhard</persName>
+                    <idno type="GND">137988885</idno>
+                    <idno type="Wikidata">Q59653126</idno>
                 </person>
 
                 <person xml:id="kab-pers-00357">
                     <persName>Beutin, Wolfgang</persName>
+                    <idno type="GND">121095045</idno>
+                    <idno type="Wikidata">Q89209263</idno>
                 </person>
 
                 <person xml:id="kab-pers-00358">
                     <persName>Bilke, Martina</persName>
+                    <idno type="GND">1033004162</idno>
+                    <idno type="Wikidata">Q95210786</idno>
                 </person>
 
                 <person xml:id="kab-pers-00359">
                     <persName>Binder, Hartmut</persName>
+                    <idno type="GND">122232348</idno>
+                    <idno type="Wikidata">Q1587377</idno>
                 </person>
 
                 <person xml:id="kab-pers-00360">
@@ -1351,6 +2021,8 @@
 
                 <person xml:id="kab-pers-00495">
                     <persName>Hirte, Christlieb</persName>
+                    <idno type="GND">137561415</idno>
+                    <idno type="Wikidata">Q95326838</idno>
                 </person>
 
                 <person xml:id="kab-pers-00496">
@@ -1359,10 +2031,14 @@
 
                 <person xml:id="kab-pers-00362">
                     <persName>Bouveresse, Jacques</persName>
+                    <idno type="GND">122578988</idno>
+                    <idno type="Wikidata">Q1384603</idno>
                 </person>
 
                 <person xml:id="kab-pers-00363">
                     <persName>Branscombe, Peter J.</persName>
+                    <idno type="GND">17198823X</idno>
+                    <idno type="Wikidata">Q2074098</idno>
                 </person>
 
                 <person xml:id="kab-pers-00364">
@@ -1371,30 +2047,48 @@
 
                 <person xml:id="kab-pers-00365">
                     <persName>Broch, Hermann</persName>
+                    <idno type="GND">118515551</idno>
+                    <idno type="Wikidata">Q84150</idno>
                 </person>
 
                 <person xml:id="kab-pers-00366">
-                    <persName>Bähr, Rudolf</persName>
+                    <persName>Baehr, Rudolf</persName>
+                    <persName type="variant">Bähr, Rudolf</persName>
+                    <idno type="GND">118505807</idno>
+                    <idno type="Wikidata">Q1541558</idno>
                 </person>
 
                 <person xml:id="kab-pers-00368">
                     <persName>Casanova, Nicole</persName>
+                    <idno type="GND">113066058</idno>
+                    <idno type="Wikidata">Q3341016</idno>
+                    <!-- Plausibilitätsprüfung: Name und literaturkritisches Tätigkeitsfeld stimmen überein. -->
                 </person>
 
                 <person xml:id="kab-pers-00369">
                     <persName>Chorherr, Thomas</persName>
+                    <idno type="GND">120110709</idno>
+                    <idno type="Wikidata">Q1648924</idno>
                 </person>
 
                 <person xml:id="kab-pers-00370">
                     <persName>Daim, Wilfried</persName>
+                    <idno type="GND">119483467</idno>
+                    <idno type="Wikidata">Q88401</idno>
                 </person>
 
                 <person xml:id="kab-pers-00371">
                     <persName>Deutsch, Max</persName>
+                    <idno type="GND">123053528</idno>
+                    <idno type="Wikidata">Q78742</idno>
+                    <!-- Plausibilitätsprüfung: Österreichischstämmiger, später französischer Komponist aus dem Schönberg-Kreis; sein Wiener
+                     Kulturumfeld und der persönliche Bezug zu Kraus passen zum Charakter des Erinnerungsbeitrags. -->
                 </person>
 
                 <person xml:id="kab-pers-00372">
                     <persName>Diehl, Siegfried</persName>
+                    <idno type="GND">104242845X</idno>
+                    <idno type="Wikidata">Q94766495</idno>
                 </person>
 
                 <person xml:id="kab-pers-00373">
@@ -1403,6 +2097,8 @@
 
                 <person xml:id="kab-pers-00374">
                     <persName>Döblin, Alfred</persName>
+                    <idno type="GND">118526200</idno>
+                    <idno type="Wikidata">Q57389</idno>
                 </person>
 
                 <person xml:id="kab-pers-00375">
@@ -1411,50 +2107,78 @@
 
                 <person xml:id="kab-pers-00376">
                     <persName>Carpitella, Mario</persName>
+                    <idno type="Wikidata">Q3848416</idno>
                 </person>
 
                 <person xml:id="kab-pers-00378">
                     <persName>Frei, Norbert</persName>
+                    <idno type="GND">120944898</idno>
+                    <idno type="Wikidata">Q1734159</idno>
                 </person>
 
                 <person xml:id="kab-pers-00379">
                     <persName>Fricke, Harald</persName>
+                    <idno type="GND">120094215</idno>
+                    <idno type="Wikidata">Q1584476</idno>
                 </person>
 
                 <person xml:id="kab-pers-00381">
                     <persName>Gilman, Sander Lawrence</persName>
+                    <idno type="GND">123314062</idno>
+                    <idno type="Wikidata">Q325219</idno>
                 </person>
 
                 <person xml:id="kab-pers-00382">
                     <persName>Glettler, Monika</persName>
+                    <idno type="GND">170219518</idno>
+                    <idno type="Wikidata">Q85519091</idno>
+                    <!-- Plausibilitätsprüfung: DLA weist den konkreten Kraus-Aufsatz Monika Glettler zu; GND-Kandidatin durch biografische
+                     Angaben und Publikationsprofil der Universität Freiburg bestätigt. (https://p4test72.uni-freiburg.de/personen/glettler) -->
                 </person>
 
                 <person xml:id="kab-pers-00383">
                     <persName>Goldschmidt, Hans Eberhard</persName>
+                    <idno type="GND">1369448961</idno>
+                    <idno type="Wikidata">Q108812109</idno>
                 </person>
 
                 <person xml:id="kab-pers-00492">
                     <persName>Meyer, Jochen</persName>
+                    <idno type="GND">1042074445</idno>
+                    <idno type="Wikidata">Q112445716</idno>
                 </person>
 
                 <person xml:id="kab-pers-00385">
                     <persName>Gross, Ruth V.</persName>
+                    <idno type="GND">1286533619</idno>
+                    <idno type="Wikidata">Q112463628</idno>
                 </person>
 
                 <person xml:id="kab-pers-00386">
                     <persName>Göbel, Wolfram</persName>
+                    <idno type="GND">116698675</idno>
+                    <idno type="Wikidata">Q95260792</idno>
                 </person>
 
                 <person xml:id="kab-pers-00387">
-                    <persName>Hagen, Waltraud u. a.</persName>
+                    <persName>Hagen, Waltraud</persName>
+                    <idno type="GND">131978829</idno>
+                    <idno type="Wikidata">Q112564427</idno>
                 </person>
 
                 <person xml:id="kab-pers-00388">
                     <persName>Hall, Murray G.</persName>
+                    <idno type="GND">12951215X</idno>
+                    <idno type="Wikidata">Q1953832</idno>
                 </person>
 
                 <person xml:id="kab-pers-00389">
                     <persName>Kadrnoska, Franz</persName>
+                    <idno type="GND">1211850935</idno>
+                    <!-- Plausibilitätsprüfung: Geburtsjahr (1947), Geburts- und Wirkungsort Wien sowie das germanistische Fachprofil passen
+                     zu Franz Kadrnoskas nachgewiesener wissenschaftlicher Tätigkeit. Auch der Zeitraum seiner Publikationen und die
+                     thematische Ausrichtung seiner Arbeit zur österreichischen Literatur- und Kulturgeschichte sind mit dem 1983 erschienenen
+                     Buch über Die Muskete vereinbar. -->
                 </person>
 
                 <person xml:id="kab-pers-00390">
@@ -1462,23 +2186,27 @@
                 </person>
 
                 <person xml:id="kab-pers-00391">
-                    <persName>Nibbrig, Hart</persName>
-                </person>
-
-                <person xml:id="kab-pers-00497">
-                    <persName>Lucas, Christiaan</persName>
+                    <persName>Hart Nibbrig, Christiaan Lucas</persName>
+                    <idno type="GND">123454085</idno>
+                    <idno type="Wikidata">Q1078630</idno>
                 </person>
 
                 <person xml:id="kab-pers-00392">
                     <persName>Heckmann, Herbert</persName>
+                    <idno type="GND">119200015</idno>
+                    <idno type="Wikidata">Q106600</idno>
                 </person>
 
                 <person xml:id="kab-pers-00394">
                     <persName>Horowitz, Michael</persName>
+                    <idno type="GND">122982991</idno>
+                    <idno type="Wikidata">Q50378273</idno>
                 </person>
 
                 <person xml:id="kab-pers-00395">
                     <persName>Huppert, Hugo</persName>
+                    <idno type="GND">118554905</idno>
+                    <idno type="Wikidata">Q86820</idno>
                 </person>
 
                 <person xml:id="kab-pers-00396">
@@ -1487,6 +2215,12 @@
 
                 <person xml:id="kab-pers-00397">
                     <persName>Kajtár, Mária</persName>
+                    <idno type="GND">1018015116</idno>
+                    <!-- Plausibilitätsprüfung: GND-Zuordnung durch übereinstimmende biografische und bibliografische Merkmale gesichert:
+                     Geboren 1943 in Budapest; Germanistin, Literaturhistorikerin und Übersetzerin deutscher Literatur; wissenschaftliche
+                     Tätigkeit im Bereich deutsch-ungarischer Literaturbeziehungen sowie spätere Tätigkeit als Lektorin und Übersetzerin
+                     beim Budapester Europa-Verlag. Die Publikationen über Karl Kraus’ Fackel von 1976 und 1979 passen zu diesem fachlichen
+                     Profil. Die DNB verzeichnet unter dem GND-Datensatz außerdem Übersetzungen ab 1984. -->
                 </person>
 
                 <person xml:id="kab-pers-00398">
@@ -1494,127 +2228,208 @@
                 </person>
 
                 <person xml:id="kab-pers-00399">
+                    <persName>Kaufholz-Messmer, Éliane </persName>
                     <persName>Kaufholz, Eliane</persName>
+                    <idno type="GND">141257946</idno>
+                    <idno type="Wikidata">Q95750534</idno>
                 </person>
 
                 <person xml:id="kab-pers-00400">
                     <persName>Kaus, Gina</persName>
+                    <idno type="GND">118560786</idno>
+                    <idno type="Wikidata">Q89265</idno>
                 </person>
 
                 <person xml:id="kab-pers-00401">
                     <persName>Klettenhammer, Sieglinde</persName>
+                    <idno type="GND">137105525</idno>
+                    <idno type="Wikidata">Q112434936</idno>
                 </person>
 
                 <person xml:id="kab-pers-00402">
                     <persName>Kling, Vincent</persName>
+                    <idno type="GND">140241515</idno>
+                    <idno type="Wikidata">Q17027506</idno>
                 </person>
 
                 <person xml:id="kab-pers-00403">
                     <persName>Knepler, Georg</persName>
+                    <idno type="GND">118830708</idno>
+                    <idno type="Wikidata">Q1505019</idno>
                 </person>
 
                 <person xml:id="kab-pers-00404">
                     <persName>Koll, Alfred</persName>
+                    <idno type="GND">172210259</idno>
+                    <!-- Plausibilitätsprüfung: GND-Zuordnung gesichert: Name und fachliches Profil stimmen überein. Der GND-Datensatz
+                     verzeichnet Alfred Koll als österreichischen Historiker und ist mit dem Ausstellungskatalog Operette in Wien (1979)
+                     verknüpft. Weitere theaterhistorische Publikationen sowie seine spätere Tätigkeit als Leiter der Abteilung für Musik
+                     und darstellende Kunst im österreichischen Bundesministerium bestätigen das passende berufliche und fachliche Profil. -->
                 </person>
 
                 <person xml:id="kab-pers-00405">
                     <persName>Kosler, Hans Christian</persName>
+                    <idno type="GND">172194725</idno>
+                    <idno type="Wikidata">Q108811092</idno>
                 </person>
 
                 <person xml:id="kab-pers-00406">
                     <persName>Krämer, Wolfgang</persName>
+                    <idno type="GND">121072967</idno>
+                    <idno type="Wikidata">Q137127746</idno>
                 </person>
 
                 <person xml:id="kab-pers-00493">
                     <persName>Müller, Gerhard</persName>
+                    <idno type="GND">137604246</idno>
+                    <idno type="Wikidata">Q96589043</idno>
                 </person>
 
                 <person xml:id="kab-pers-00407">
                     <persName>Kully, Rolf Max</persName>
+                    <idno type="GND">106220802</idno>
+                    <idno type="Wikidata">Q22674510</idno>
                 </person>
 
                 <person xml:id="kab-pers-00408">
                     <persName>Kähler, Hermann</persName>
+                    <idno type="GND">105932523</idno>
+                    <idno type="Wikidata">Q112402682</idno>
                 </person>
 
                 <person xml:id="kab-pers-00409">
                     <persName>Lamping, Dieter</persName>
+                    <idno type="GND">120380722</idno>
+                    <idno type="Wikidata">Q15805952</idno>
                 </person>
 
                 <person xml:id="kab-pers-00410">
                     <persName>Laugwitz, Uwe</persName>
+                    <idno type="GND">1381622372</idno>
                 </person>
 
                 <person xml:id="kab-pers-00411">
                     <persName>Le Rider, Jacques</persName>
+                    <idno type="GND">123937825</idno>
+                    <idno type="Wikidata">Q820139</idno>
                 </person>
 
                 <person xml:id="kab-pers-00412">
                     <persName>Lehnert, Herbert</persName>
+                    <idno type="GND">118893777</idno>
+                    <idno type="Wikidata">Q95252318</idno>
                 </person>
 
                 <person xml:id="kab-pers-00413">
                     <persName>Lensing, Leo A.</persName>
+                    <idno type="GND">108996433</idno>
+                    <idno type="Wikidata">Q112440024</idno>
                 </person>
 
                 <person xml:id="kab-pers-00414">
                     <persName>Lenz-Medoc, Paulus</persName>
+                    <idno type="GND">116917776</idno>
+                    <idno type="Wikidata">Q1315641</idno>
+                    <!-- Plausibilitätsprüfung: Name und Lebensdaten (1903–1987) sind mit der GND-Person plausibel; philosophisches
+                     Tätigkeitsprofil durch Arbeiten zu Max Scheler und französischer Philosophie bestätigt; fachlicher Bezug zum
+                     Kraus-Aufsatz über die Philosophen des Brenner gegeben -->
                 </person>
 
                 <person xml:id="kab-pers-00415">
                     <persName>Lilienfeld, Robert</persName>
+                    <idno type="GND">171405757</idno>
+                    <!-- Plausibilitätsprüfung: Vollständiger Name und Geburtsjahr stimmen zwischen GND und LoC überein; LoC weist
+                     ihn als Soziologen und Musiker aus. Soziologisches und kulturtheoretisches Publikationsprofil sowie erneute
+                     Beschäftigung mit Karl Kraus (1991) passen zum KAB-Beitrag. -->
                 </person>
 
                 <person xml:id="kab-pers-00416">
                     <persName>Lukács, Georg</persName>
+                    <idno type="GND">11857518X</idno>
+                    <idno type="Wikidata">Q151523</idno>
                 </person>
 
                 <person xml:id="kab-pers-00417">
                     <persName>Lunzer, Heinz</persName>
+                    <idno type="GND">132642891</idno>
+                    <idno type="Wikidata">Q95334472</idno>
                 </person>
 
                 <person xml:id="kab-pers-00418">
                     <persName>Lunzer-Lindhausen, Marianne</persName>
+                    <idno type="GND">129230847</idno>
+                    <idno type="Wikidata">Q22692896</idno>
+                    <!-- Plausibilitätsprüfung: GND-Namensvariante „Lunzer-Lindhausen, Marianne“ stimmt exakt mit dem KAB-Namen überein.
+                     Lebensdaten der Wissenschaftlerin durch Universität Wien belegt (1919–2021). Fachprofil und institutionelle Laufbahn
+                     in Publizistik-, Zeitungs- und Pressegeschichte passen unmittelbar zum Beitrag über Die Fackel. -->
                 </person>
 
                 <person xml:id="kab-pers-00419">
                     <persName>Mayer-König, Wolfgang</persName>
+                    <persName type="variant">Mayer, Wolfgang</persName>
+                    <idno type="GND">118579649</idno>
+                    <idno type="Wikidata">Q1729799</idno>
                 </person>
 
                 <person xml:id="kab-pers-00420">
                     <persName>Menges, Karl</persName>
+                    <idno type="GND">172255341</idno>
+                    <idno type="Wikidata">Q47356341</idno>
                 </person>
 
                 <person xml:id="kab-pers-00421">
                     <persName>Metzner, Joachim</persName>
+                    <idno type="GND">121825485</idno>
+                    <idno type="Wikidata">Q20181068</idno>
                 </person>
 
                 <person xml:id="kab-pers-00422">
                     <persName>Mieder, Wolfgang</persName>
+                    <idno type="GND">120417626</idno>
+                    <idno type="Wikidata">Q90632</idno>
                 </person>
 
                 <person xml:id="kab-pers-00423">
                     <persName>Mitscherlich-Nielsen, Margarete</persName>
+                    <persName type="variable">Mitscherlich, Margarete</persName>
+                    <idno type="GND">119006367</idno>
+                    <idno type="Wikidata">Q77809</idno>
                 </person>
 
                 <person xml:id="kab-pers-00424">
                     <persName>Mixner, Manfred</persName>
+                    <idno type="GND">115451803</idno>
+                    <idno type="Wikidata">Q16218197</idno>
                 </person>
 
                 <person xml:id="kab-pers-00425">
-                    <persName>Mogge, Birgitta</persName>
+                    <persName>Mogge-Stubbe, Birgitta</persName>
+                    <persName type="variant">Mogge, Birgitta</persName>
+                    <idno type="GND">1146395051</idno>
+                    <idno type="Wikidata">Q94906201</idno>
                 </person>
 
                 <person xml:id="kab-pers-00426">
                     <persName>Munzer, Zdenka</persName>
+                    <persName type="variant">Münzerová, Zdeňka</persName>
+                    <idno type="GND">1019604220</idno>
+                    <idno type="Wikidata">Q95214063</idno>
+                    <!-- Plausibilitätsprüfung: GND 1019604220 (Wikidata Q95214063) sehr wahrscheinlich zutreffend. Namensformen und Lebensdaten
+                     passen; Zdeňka Münzerová war Übersetzerin von Karl Kraus’ „Die letzten Tage der Menschheit“ (1933), Journalistin und
+                     Kunsthistorikerin mit engem Prag-Bezug. GND 127797130 wahrscheinlich Dublette: „We were and we shall be“ (1941) ist
+                     laut Lexikon gemeinsam mit ihrem Ehemann Jan Münzer herausgegeben. -->
                 </person>
 
                 <person xml:id="kab-pers-00427">
                     <persName>Müller-Dietz, Heinz</persName>
+                    <idno type="GND">120171201</idno>
+                    <idno type="Wikidata">Q1600675</idno>
                 </person>
 
                 <person xml:id="kab-pers-00428">
                     <persName>Neumann, Peter Horst</persName>
+                    <idno type="GND">119427265</idno>
+                    <idno type="Wikidata">Q105865</idno>
                 </person>
 
                 <person xml:id="kab-pers-00429">
@@ -1623,38 +2438,59 @@
 
                 <person xml:id="kab-pers-00430">
                     <persName>Obermaier, Walter</persName>
+                    <idno type="GND">129476846</idno>
+                    <idno type="Wikidata">Q2545672</idno>
                 </person>
 
                 <person xml:id="kab-pers-00431">
                     <persName>Pfotenhauer, Helmut</persName>
+                    <idno type="GND">108383709</idno>
+                    <idno type="Wikidata">Q18672044</idno>
                 </person>
 
                 <person xml:id="kab-pers-00432">
-                    <persName>Philipoff, Eva</persName>
+                    <persName>Philippoff, Eva</persName>
+                    <idno type="GND">122034163</idno>
+                    <idno type="Wikidata">Q112443057</idno>
                 </person>
 
                 <person xml:id="kab-pers-00433">
                     <persName>Polgar, Alfred</persName>
+                    <idno type="GND">118595474</idno>
+                    <idno type="Wikidata">Q45287</idno>
                 </person>
 
                 <person xml:id="kab-pers-00434">
                     <persName>Pollak, Michael</persName>
+                    <idno type="GND">112151362X</idno>
+                    <idno type="Wikidata">Q3308456</idno>
                 </person>
 
                 <person xml:id="kab-pers-00435">
                     <persName>Pynsent, Robert</persName>
+                    <idno type="GND">10791896X</idno>
+                    <idno type="Wikidata">Q11080879</idno>
+                    <!-- Plausibilitätsprüfung: Pynsent, Robert B. (Robert Burton Pynsent, 1943–2022), britischer Philologe und Professor
+                     für tschechische und slowakische Literatur. DNB verknüpft u. a. Julius Zeyer (1973) mit dem Datensatz. Fachliches Profil
+                     und Beschäftigung mit tschechischer Décadence passen unmittelbar zum Beitrag über Hašek und Kraus. -->
                 </person>
 
                 <person xml:id="kab-pers-00436">
                     <persName>Quack, Josef</persName>
+                    <idno type="GND">1053236557</idno>
+                    <idno type="Wikidata">Q95239308</idno>
                 </person>
 
                 <person xml:id="kab-pers-00437">
                     <persName>Richter, Armin</persName>
+                    <idno type="GND">124267408</idno>
+                    <idno type="Wikidata">Q131722732</idno>
                 </person>
 
                 <person xml:id="kab-pers-00438">
                     <persName>Rieckmann, Jens</persName>
+                    <idno type="GND">1031679383</idno>
+                    <idno type="Wikidata">Q111995036</idno>
                 </person>
 
                 <person xml:id="kab-pers-00440">
@@ -1663,14 +2499,27 @@
 
                 <person xml:id="kab-pers-00441">
                     <persName>Rosenfeld, Sidney</persName>
+                    <idno type="GND">12996915X</idno>
+                    <idno type="Wikidata">Q95336833</idno>
+                    <!-- Plausibilitätsprüfung: Sehr hohe Identitätsplausibilität. Die GND-Person Sidney Rosenfeld (12996915X) weist ein
+                     konsistentes germanistisches Publikationsprofil auf: Dissertation und spätere Monografie zu Joseph Roth (1965, 2001),
+                     weitere Arbeiten zur deutsch-jüdischen Literatur sowie mehrere eigenständige Publikationen zu Karl Kraus (1967, 1974, 1975).
+                     Hinzu kommen DNB-verknüpfte Korrespondenzdatensätze zum Theodor Herzl Institute aus 1973 sowie ein zeitgenössischer
+                     Nachweis seiner Tätigkeit am Institute 1974. Die fachlichen, bibliografischen, institutionellen und chronologischen
+                     Übereinstimmungen sprechen mit sehr hoher Sicherheit für die Identität mit dem KAB-Autor. -->
                 </person>
 
                 <person xml:id="kab-pers-00442">
-                    <persName>Rukschcio, Burkhard</persName>
+                    <persName>Rukschcio, Burkhardt</persName>
+                    <idno type="GND">138851778</idno>
+                    <idno type="Wikidata">Q105522324</idno>
                 </person>
 
                 <person xml:id="kab-pers-00494">
-                    <persName>Schachel, Roland</persName>
+                    <persName>Schachel, Roland L.</persName>
+                    <persName type="variant">Schachel, Roland</persName>
+                    <idno type="GND">110178890</idno>
+                    <idno type="Wikidata">Q112447652</idno>
                 </person>
 
                 <person xml:id="kab-pers-00443">
@@ -1687,6 +2536,12 @@
 
                 <person xml:id="kab-pers-00446">
                     <persName>Salvesen, Hugh</persName>
+                    <idno type="GND">1343914140</idno>
+                    <idno type="Wikidata">Q57593726</idno>
+                    <!-- Plausibilitätsprüfung: Identität sehr sicher. Hugh Salvesen studierte Germanistik und Romanistik in Cambridge,
+                     München und Wien und promovierte in Wien über Karl Kraus. Mehrere eigenständige Publikationen zu Karl Kraus und dessen
+                     Verhältnis zu Frank Wedekind, August Strindberg und Oscar Wilde (1981–1982). Biografische Übereinstimmung mit Hugh
+                     Salvesen, geboren 1955, später britischer Diplomat und Botschafter. Wikidata Q57593726 passt -->
                 </person>
 
                 <person xml:id="kab-pers-00447">
@@ -1695,6 +2550,8 @@
 
                 <person xml:id="kab-pers-00448">
                     <persName>Sauermann, Eberhard</persName>
+                    <idno type="GND">131836722</idno>
+                    <idno type="Wikidata">Q95335216</idno>
                 </person>
 
                 <person xml:id="kab-pers-00449">
@@ -1703,54 +2560,82 @@
 
                 <person xml:id="kab-pers-00450">
                     <persName>Schick, Sophie</persName>
+                    <idno type="GND">142378267</idno>
+                    <idno type="Wikidata">Q59653285</idno>
+                    <!-- Plausibilitätsprüfung: Zusammenarbeit mit Martina Bilke durch das GND-verknüpfte Werk Familiensache (2024) dokumentiert;
+                     zudem intensive Tätigkeit am Karl-Kraus-Archiv und einschlägiger fachlicher Kontext. -->
                 </person>
 
                 <person xml:id="kab-pers-00451">
                     <persName>Schlösser, Manfred</persName>
+                    <idno type="GND">117329665</idno>
+                    <idno type="Wikidata">Q94891847</idno>
                 </person>
 
                 <person xml:id="kab-pers-00452">
-                    <persName>Schmidt, Johannes N.</persName>
+                    <persName>Schmidt, Johann N.</persName>
+                    <persName type="variant">Schmidt, Johannes N.</persName>
+                    <idno type="GND">123445779</idno>
+                    <idno type="Wikidata">Q15439863</idno>
                 </person>
 
                 <person xml:id="kab-pers-00453">
                     <persName>Schneider, Manfred</persName>
+                    <idno type="GND">131471260</idno>
+                    <idno type="Wikidata">Q1889899</idno>
                 </person>
 
                 <person xml:id="kab-pers-00454">
                     <persName>Schramm, Wilhelm von</persName>
+                    <idno type="GND">118610627</idno>
+                    <idno type="Wikidata">Q2576066</idno>
                 </person>
 
                 <person xml:id="kab-pers-00455">
                     <persName>Schuh, Franz</persName>
+                    <idno type="GND">122383362</idno>
+                    <idno type="Wikidata">Q112653</idno>
                 </person>
 
                 <person xml:id="kab-pers-00456">
                     <persName>Schuhmann, Klaus</persName>
+                    <idno type="GND">12499251X</idno>
+                    <idno type="Wikidata">Q1745689</idno>
                 </person>
 
                 <person xml:id="kab-pers-00457">
                     <persName>Schwarzinger, Heinz</persName>
+                    <idno type="GND">1148168168</idno>
+                    <idno type="Wikidata">Q95243190</idno>
                 </person>
 
                 <person xml:id="kab-pers-00458">
                     <persName>Segebrecht, Wulf</persName>
+                    <idno type="GND">117447048</idno>
+                    <idno type="Wikidata">Q2594826</idno>
                 </person>
 
                 <person xml:id="kab-pers-00459">
                     <persName>Seidel, Gerhard</persName>
+                    <idno type="GND">1097303306</idno>
+                    <idno type="Wikidata">Q55684136</idno>
                 </person>
 
                 <person xml:id="kab-pers-00460">
                     <persName>Sengle, Friedrich</persName>
+                    <idno type="GND">118764608</idno>
+                    <idno type="Wikidata">Q19502347</idno>
                 </person>
 
                 <person xml:id="kab-pers-00461">
                     <persName>Serner, Walter</persName>
+                    <idno type="GND">118764764</idno>
+                    <idno type="Wikidata">Q646146</idno>
                 </person>
 
                 <person xml:id="kab-pers-00462">
                     <persName>Sherman, Murray H.</persName>
+                    <idno type="Wikidata">Q94279354</idno>
                 </person>
 
                 <person xml:id="kab-pers-00463">
@@ -1759,90 +2644,150 @@
 
                 <person xml:id="kab-pers-00464">
                     <persName>Springer, Michael</persName>
+                    <idno type="GND">1011675854</idno>
+                    <idno type="Wikidata">Q95232285</idno>
                 </person>
 
                 <person xml:id="kab-pers-00465">
                     <persName>Steiner, George</persName>
+                    <idno type="GND">119200244</idno>
                 </person>
 
                 <person xml:id="kab-pers-00466">
                     <persName>Stremmel, Jochen</persName>
+                    <idno type="GND">136630340</idno>
+                    <idno type="Wikidata">Q95306764</idno>
                 </person>
 
                 <person xml:id="kab-pers-00467">
                     <persName>Susini, Eugène</persName>
+                    <idno type="GND">1276389884</idno>
+                    <idno type="Wikidata">Q19833240</idno>
+                    <!-- Plausibilitätsprüfung: Sehr hohe Plausibilität: Susini war Germanist und seit 1945 eine prägende Persönlichkeit des
+                     französisch-österreichischen Kulturaustauschs in Wien. Als Leiter des Institut Français (1945–1958) vermittelte er
+                     französische Kulturveranstaltungen und Informationen, deren Niveau und Bedeutung Hans Brunmayr 1974 ausdrücklich würdigte.
+                     Seine langjährige Beschäftigung mit der deutschen und österreichischen Literatur sowie seine enge Verbindung zum Wiener
+                     Kulturleben machen einen Beitrag über Karl Kraus ausgesprochen plausibel. Susinis Beitrag „Karl Kraus et nous“ erschien
+                     1975 im gleichnamigen Kraus-Schwerpunktband von L’Herne. -->
                 </person>
 
                 <person xml:id="kab-pers-00468">
                     <persName>Szabó, János</persName>
+                    <idno type="GND">118160524</idno>
+                    <idno type="Wikidata">Q110225740</idno>
                 </person>
 
                 <person xml:id="kab-pers-00469">
-                    <persName>Szasz, Thomas</persName>
+                    <persName>Szasz, Thomas S.</persName>
+                    <persName type="variant">Szasz, Thomas</persName>
+                    <idno type="GND">119100347</idno>
+                    <idno type="Wikidata">Q66162</idno>
                 </person>
 
                 <person xml:id="kab-pers-00470">
                     <persName>Teusch, Ulrich</persName>
+                    <idno type="GND">113388578</idno>
+                    <idno type="Wikidata">Q19310569</idno>
                 </person>
 
                 <person xml:id="kab-pers-00471">
                     <persName>Thieberger, Richard</persName>
+                    <idno type="GND">118621890</idno>
+                    <idno type="Wikidata">Q55620169</idno>
+                    <!-- Plausibilitätsprüfung: Plausible Zuordnung zu Richard Thieberger (1913–2003; GND 118621890): österreichisch-französischer
+                     Germanist und Literaturwissenschaftler. Fachliches Profil und Publikationen passen; bereits 1965/66 mehrere Arbeiten zu Karl
+                     Kraus, außerdem Bearbeitung/Übersetzung von Oskar Jellineks Die Geburt Homers (1963) und Aufsatz über österreichische Emigranten
+                     in Frankreich (1984), darunter Jellinek. DNB und BnF belegen die Mitarbeit an Jellineks Werk und ermöglichen die Verbindung
+                     zur GND. Keine substanziellen Gegenargumente gefunden. -->
                 </person>
 
                 <person xml:id="kab-pers-00472">
                     <persName>Tietze, Hans</persName>
+                    <idno type="GND">117381845</idno>
+                    <idno type="Wikidata">Q1425008</idno>
                 </person>
 
                 <person xml:id="kab-pers-00473">
                     <persName>Unglaub, Erich</persName>
+                    <idno type="GND">122676343</idno>
+                    <idno type="Wikidata">Q37627577</idno>
                 </person>
 
                 <person xml:id="kab-pers-00475">
                     <persName>Wagner, Nike</persName>
+                    <idno type="GND">119522160</idno>
+                    <idno type="Wikidata">Q90007</idno>
                 </person>
 
                 <person xml:id="kab-pers-00476">
                     <persName>Walla, Fred</persName>
+                    <idno type="GND">1211839788</idno>
+                    <idno type="Wikidata">Q15441048</idno>
+                    <!-- Plausibilitätsprüfung: Zuordnung zu Friedrich „Fred“ Walla (geb. 1941 in Wien; GND 1211839788) sehr überzeugend: Das DLA
+                     verzeichnet den konkreten Beitrag von 1979 unter „Walla, Fred“; die Österreichische Gesellschaft für Literatur bestätigt Fred
+                     als Kurzform von Friedrich. Walla war ausgewiesener Nestroy-Forscher und seit 1977 Mitarbeiter der historisch-kritischen
+                     Nestroy-Ausgabe. Fachliche und thematische Übereinstimmung eindeutig. -->
                 </person>
 
                 <person xml:id="kab-pers-00477">
                     <persName>Weber, Christoph</persName>
+                    <idno type="GND">121460800</idno>
+                    <idno type="Wikidata">Q1086066</idno>
                 </person>
 
                 <person xml:id="kab-pers-00478">
-                    <persName>Webhofer, Erika</persName>
+                    <persName>Wimmer-Webhofer, Erika</persName>
+                    <persName type="variant">Webhofer, Erika</persName>
+                    <idno type="GND">120784211</idno>
+                    <idno type="Wikidata">Q6577999</idno>
                 </person>
 
                 <person xml:id="kab-pers-00479">
                     <persName>Weinzierl, Ulrich</persName>
+                    <idno type="GND">118076639</idno>
+                    <idno type="Wikidata">Q2476895</idno>
                 </person>
 
                 <person xml:id="kab-pers-00481">
-                    <persName>Weyrer, Ursula</persName>
+                    <persName>Seeber, Ursula </persName>
+                    <persName type="variant">Seeber-Weyrer, Ursula </persName>
+                    <persName type="variant">Weyrer, Ursula</persName>
+                    <idno type="GND">1056228725</idno>
+                    <idno type="Wikidata">Q95210083</idno>
                 </person>
 
                 <person xml:id="kab-pers-00482">
                     <persName>Wischenbart, Rüdiger</persName>
+                    <idno type="GND">115850244</idno>
+                    <idno type="Wikidata">Q112417326</idno>
                 </person>
 
                 <person xml:id="kab-pers-00483">
                     <persName>Witte, Bernd</persName>
+                    <idno type="GND">115817239</idno>
+                    <idno type="Wikidata">Q93429716</idno>
                 </person>
 
                 <person xml:id="kab-pers-00484">
                     <persName>Wittgenstein, Ludwig</persName>
+                    <idno type="GND">118634313</idno>
+                    <idno type="Wikidata">Q9391</idno>
                 </person>
 
                 <person xml:id="kab-pers-00485">
                     <persName>Wollschläger, Hans</persName>
+                    <idno type="GND">118771221</idno>
+                    <idno type="Wikidata">Q71467</idno>
                 </person>
 
                 <person xml:id="kab-pers-00486">
-                    <persName>Yates, W. E.</persName>
-                </person>
-
-                <person xml:id="kab-pers-00487">
-                    <persName>Harry, Zohn</persName>
+                    <persName>Yates, William E.</persName>
+                    <idno type="GND">120732963</idno>
+                    <idno type="Wikidata">Q15441284</idno>
+                    <!-- Plausibilitätsprüfung: Die Namensformen W. E. Yates, W. E[dgar] Yates und W. Edgar Yates sind für die konkreten Werke belegt.
+                     Fachliches Profil als britischer Germanist und Literaturwissenschaftler sowie Forschung zur Wiener Literatur und zum Theater
+                     passen zu den KAB-Beiträgen von 1986 und 1988. Die unter der GND verzeichneten Nestroy-Publikationen und die Professur für
+                     Germanistik in Exeter bestätigen die Übereinstimmung. -->
                 </person>
 
                 <person xml:id="kab-pers-00537">
@@ -1851,90 +2796,127 @@
 
                 <person xml:id="kab-pers-00500">
                     <persName>Brauneck, Manfred</persName>
+                    <idno type="GND">123339383</idno>
+                    <idno type="Wikidata">Q109086</idno>
                 </person>
 
                 <person xml:id="kab-pers-00508">
                     <persName>Aspetsberger, Friedbert</persName>
+                    <idno type="GND">121991547</idno>
+                    <idno type="Wikidata">Q95330603</idno>
                 </person>
 
                 <person xml:id="kab-pers-00545">
-                    <persName>Weis, Walter</persName>
+                    <persName>Weiss, Walter</persName>
+                    <idno type="GND">118823884</idno>
+                    <idno type="Wikidata">Q1312973</idno>
                 </person>
 
                 <person xml:id="kab-pers-00516">
-                    <persName>Hans, Weichselbaum</persName>
+                    <persName>Weichselbaum, Hans</persName>
+                    <idno type="GND">112463703</idno>
+                    <idno type="Wikidata">Q15819569</idno>
                 </person>
 
                 <person xml:id="kab-pers-00509">
                     <persName>Wright, Georg Henrik von </persName>
+                    <idno type="GND">118635328</idno>
+                    <idno type="Wikidata">Q350183</idno>
                 </person>
 
                 <person xml:id="kab-pers-00505">
                     <persName>Goltschnigg, Dietmar</persName>
+                    <idno type="GND">129174092</idno>
+                    <idno type="Wikidata">Q108940488</idno>
                 </person>
 
                 <person xml:id="kab-pers-00519">
                     <persName>Löffler, Heinrich</persName>
+                    <idno type="GND">128933836</idno>
+                    <idno type="Wikidata">Q1167218</idno>
                 </person>
 
                 <person xml:id="kab-pers-00529">
                     <persName>Pestalozzi, Karl</persName>
+                    <idno type="GND">119150646</idno>
+                    <idno type="Wikidata">Q1335577</idno>
                 </person>
 
                 <person xml:id="kab-pers-00535">
                     <persName>Stern, Martin</persName>
+                    <idno type="GND">11923209X</idno>
+                    <idno type="Wikidata">Q17353024</idno>
                 </person>
 
                 <person xml:id="kab-pers-00531">
                     <persName>Vondung, Klaus</persName>
+                    <idno type="GND">107934124</idno>
+                    <idno type="Wikidata">Q15823762</idno>
                 </person>
 
                 <person xml:id="kab-pers-00543">
-                    <persName>Dür, Volker</persName>
+                    <persName>Dürr, Volker</persName>
+                    <idno type="GND">129504610</idno>
                 </person>
 
                 <person xml:id="kab-pers-00513">
-                    <persName>Molnár,Géza von</persName>
+                    <persName>Molnár, Géza von</persName>
+                    <idno type="GND">123940567</idno>
+                    <idno type="Wikidata">Q105082269</idno>
                 </person>
 
                 <person xml:id="kab-pers-00511">
-                    <persName>Bauer Picka, Gertrud</persName>
+                    <persName>Bauer Pickar, Gertrud</persName>
+                    <idno type="GND">115833617</idno>
+                    <idno type="Wikidata">Q111473561</idno>
                 </person>
 
                 <person xml:id="kab-pers-00525">
                     <persName>Erdélyi, Ilona T.</persName>
+                    <idno type="GND">139180788</idno>
+                    <idno type="Wikidata">Q1315654</idno>
                 </person>
 
                 <person xml:id="kab-pers-00546">
                     <persName>Paulsen, Wolfgang</persName>
-                </person>
-
-                <person xml:id="kab-pers-00521">
-                    <persName>Kesten, Hermann</persName>
+                    <idno type="GND">116066180</idno>
+                    <idno type="Wikidata">Q55845555</idno>
                 </person>
 
                 <person xml:id="kab-pers-00524">
                     <persName>Thurnher, Eugen</persName>
+                    <idno type="GND">118622455</idno>
+                    <idno type="Wikidata">Q59533170</idno>
                 </person>
 
                 <person xml:id="kab-pers-00523">
                     <persName>Klein, Holger</persName>
+                    <idno type="GND">120019108</idno>
+                    <idno type="Wikidata">Q106578816</idno>
                 </person>
 
                 <person xml:id="kab-pers-00518">
                     <persName>Bayerdörfer, Hans-Peter</persName>
+                    <idno type="GND">128555580</idno>
+                    <idno type="Wikidata">Q110803336</idno>
                 </person>
 
                 <person xml:id="kab-pers-00528">
                     <persName>Conrady, Karl Otto</persName>
+                    <idno type="GND">115851755</idno>
+                    <idno type="Wikidata">Q1274848</idno>
                 </person>
 
                 <person xml:id="kab-pers-00520">
                     <persName>Schanze, Helmut</persName>
+                    <idno type="GND">117104698</idno>
+                    <idno type="Wikidata">Q1604108</idno>
                 </person>
 
                 <person xml:id="kab-pers-00503">
                     <persName>Murdoch, Brian Oliver</persName>
+                    <idno type="GND">115869018</idno>
+                    <idno type="Wikidata">Q4964946</idno>
                 </person>
 
                 <person xml:id="kab-pers-00534">
@@ -1943,18 +2925,32 @@
 
                 <person xml:id="kab-pers-00540">
                     <persName>Waissenberger, Robert</persName>
+                    <idno type="GND">1024553043</idno>
+                    <idno type="Wikidata">Q21976311</idno>
                 </person>
 
                 <person xml:id="kab-pers-00533">
                     <persName>Tarnói, László</persName>
+                    <idno type="GND">130058858</idno>
+                    <idno type="Wikidata">Q132699174</idno>
                 </person>
 
                 <person xml:id="kab-pers-00526">
                     <persName>Strelka, Joseph Peter</persName>
+                    <idno type="GND">118830317</idno>
+                    <idno type="Wikidata">Q1707772</idno>
+                </person>
+
+                <person xml:id="kab-pers-00527">
+                    <persName>Webb, Karl Eugene</persName>
+                    <idno type="GND">1140462962</idno>
+                    <idno type="Wikidata">Q131456214</idno>
                 </person>
 
                 <person xml:id="kab-pers-00544">
-                    <persName>Yuil, W. E.</persName>
+                    <persName>Yuill, William E.</persName>
+                    <idno type="GND">1046337238</idno>
+                    <idno type="Wikidata">Q94889513</idno>
                 </person>
 
                 <person xml:id="kab-pers-00538">
@@ -1963,22 +2959,32 @@
 
                 <person xml:id="kab-pers-00512">
                     <persName>Farese, Giuseppe</persName>
+                    <idno type="GND">121602060</idno>
+                    <idno type="Wikidata">Q3770518</idno>
                 </person>
 
                 <person xml:id="kab-pers-00506">
                     <persName>Sagarra, Eda</persName>
+                    <idno type="GND">119343835</idno>
+                    <idno type="Wikidata">Q62560398</idno>
                 </person>
 
                 <person xml:id="kab-pers-00517">
                     <persName>Werner, Hans-Georg</persName>
+                    <idno type="GND">121728331</idno>
+                    <idno type="Wikidata">Q28038708</idno>
                 </person>
 
                 <person xml:id="kab-pers-00539">
                     <persName>Kampits, Peter</persName>
+                    <idno type="GND">115681957</idno>
+                    <idno type="Wikidata">Q18746739</idno>
                 </person>
 
                 <person xml:id="kab-pers-00504">
                     <persName>König, Christoph</persName>
+                    <idno type="GND">122357183</idno>
+                    <idno type="Wikidata">Q44952351</idno>
                 </person>
 
                 <person xml:id="kab-pers-00507">
@@ -1987,18 +2993,26 @@
 
                 <person xml:id="kab-pers-00522">
                     <persName>Greuner, Ruth</persName>
+                    <idno type="GND">1050469291</idno>
+                    <idno type="Wikidata">Q46467094</idno>
                 </person>
 
                 <person xml:id="kab-pers-00536">
                     <persName>Leser, Norbert</persName>
+                    <idno type="GND">119100215</idno>
+                    <idno type="Wikidata">Q87627</idno>
                 </person>
 
                 <person xml:id="kab-pers-00501">
-                    <persName>Mád, Antal</persName>
+                    <persName>Mádl, Antal</persName>
+                    <idno type="GND">11893550X</idno>
+                    <idno type="Wikidata">Q1180598</idno>
                 </person>
 
                 <person xml:id="kab-pers-00502">
                     <persName>Schwob, Anton</persName>
+                    <idno type="GND">119531100</idno>
+                    <idno type="Wikidata">Q594047</idno>
                 </person>
 
                 <person xml:id="kab-pers-00510">
@@ -2007,46 +3021,67 @@
 
                 <person xml:id="kab-pers-00515">
                     <persName>Schulte, Hans H.</persName>
+                    <idno type="GND">1013989775</idno>
+                    <idno type="Wikidata">Q131773303</idno>
                 </person>
 
                 <person xml:id="kab-pers-00542">
                     <persName>Sheppard, Richard</persName>
+                    <idno type="GND">172372232</idno>
+                    <idno type="Wikidata">Q131674753</idno>
                 </person>
 
                 <person xml:id="kab-pers-00532">
                     <persName>Bartsch, Kurt</persName>
+                    <idno type="GND">12172249X</idno>
+                    <idno type="Wikidata">Q95317375</idno>
                 </person>
 
                 <person xml:id="kab-pers-00530">
-                    <persName>Aman, Klaus</persName>
-                </person>
-
-                <person xml:id="kab-pers-00547">
-                    <persName>Wunberg, Gotthart</persName>
+                    <persName>Amann, Klaus</persName>
+                    <idno type="GND">118099140</idno>
+                    <idno type="Wikidata">Q1744861</idno>
                 </person>
 
                 <person xml:id="kab-pers-00548">
                     <persName>Joost, Ulrich</persName>
+                    <idno type="GND">110300890</idno>
+                    <idno type="Wikidata">Q2476118</idno>
+                    <!-- Plausibilitätsprüfung: Metzler Autoren Lexikon: Lemma „Kraus, Karl“ in der Ausgabe 1986; als Autor in der erweiterten Auflage
+                     1997 bestätigt. Beiträgersigle „UJ – Ulrich Joost, Darmstadt“ im Metzler Lexikon Literatur; Darmstadt stimmt mit GND-Biografie überein. -->
                 </person>
 
                 <person xml:id="kab-pers-00549">
                     <persName>Lutz, Bernd</persName>
+                    <idno type="GND">1320680356</idno>
+                    <idno type="Wikidata">Q95246896</idno>
                 </person>
 
                 <person xml:id="kab-pers-00550">
                     <persName>Hofer, Wolfgang</persName>
+                    <idno type="GND">138086532</idno>
+                    <idno type="Wikidata">Q136637230</idno>
                 </person>
 
                 <person xml:id="kab-pers-00551">
                     <persName>Zimmermann, Hans Dieter</persName>
+                    <idno type="GND">129082279</idno>
+                    <idno type="Wikidata">Q19284794</idno>
+                    <!-- Plausibilitätsprüfung: Mitherausgeber von Augenblicke (1987); werkbezogener Nachweis nennt Geburtsjahr 1940
+                     (https://www.abebooks.de/signierte-erstausgabe/Augenblicke-Lesebuch-Herausgegeben-Wolfgang-Hofer-Hans/31757004878/bd).
+                     GND bestätigt 1940–; Forschungsfeld Literaturwissenschaft und germanistische Literaturgeschichte passt zur Herausgebertätigkeit. -->
                 </person>
 
                 <person xml:id="kab-pers-00552">
                     <persName>Mitmasser, Peter F.</persName>
+                    <idno type="GND">136178340</idno>
+                    <idno type="Wikidata">Q112495222</idno>
                 </person>
 
                 <person xml:id="kab-pers-00553">
                     <persName>Binder, Dieter A.</persName>
+                    <idno type="GND">115455620</idno>
+                    <idno type="Wikidata">Q65515864</idno>
                 </person>
 
                 <person xml:id="kab-pers-00554">
@@ -2055,86 +3090,132 @@
 
                 <person xml:id="kab-pers-00555">
                     <persName>Kayser, Werner</persName>
+                    <idno type="GND">143600796</idno>
+                    <idno type="Wikidata">Q59526824</idno>
                 </person>
 
                 <person xml:id="kab-pers-00556">
                     <persName>Gronemeyer, Horst</persName>
+                    <idno type="GND">119175649</idno>
+                    <idno type="Wikidata">Q1629397</idno>
                 </person>
 
                 <person xml:id="kab-pers-00557">
                     <persName>Cohen, Robert</persName>
+                    <idno type="GND">123358051</idno>
+                    <idno type="Wikidata">Q1522318</idno>
                 </person>
 
                 <person xml:id="kab-pers-00558">
                     <persName>Gray, Richard T.</persName>
+                    <idno type="GND">121564770</idno>
+                    <idno type="Wikidata">Q99460923</idno>
                 </person>
 
                 <person xml:id="kab-pers-00559">
                     <persName>Patsch, Sylvia M.</persName>
+                    <idno type="GND">170264785</idno>
                 </person>
 
                 <person xml:id="kab-pers-00560">
                     <persName>Bauer, Dolores Maria</persName>
+                    <idno type="GND">124657516</idno>
+                    <idno type="Wikidata">Q1236338</idno>
                 </person>
 
                 <person xml:id="kab-pers-00561">
                     <persName>Merkel, Reinhard</persName>
+                    <idno type="GND">134199391</idno>
+                    <idno type="Wikidata">Q2140863</idno>
                 </person>
 
                 <person xml:id="kab-pers-00562">
                     <persName>Jung, Jochen</persName>
+                    <idno type="GND">122351754</idno>
+                    <idno type="Wikidata">Q1691107</idno>
                 </person>
 
                 <person xml:id="kab-pers-00563">
                     <persName>Krleža, Miroslav</persName>
+                    <idno type="GND">11856692X</idno>
+                    <idno type="Wikidata">Q325428</idno>
                 </person>
 
                 <person xml:id="kab-pers-00564">
                     <persName>Lauer, Reinhard</persName>
+                    <idno type="GND">119024632</idno>
+                    <idno type="Wikidata">Q19787699</idno>
                 </person>
 
                 <person xml:id="kab-pers-00565">
                     <persName>Ungar, Leopold</persName>
+                    <idno type="GND">119067986</idno>
+                    <idno type="Wikidata">Q1402556</idno>
                 </person>
 
                 <person xml:id="kab-pers-00566">
                     <persName>Reiter, Franz Richard</persName>
+                    <idno type="GND">139394109</idno>
+                    <idno type="Wikidata">Q130774899</idno>
                 </person>
 
                 <person xml:id="kab-pers-00567">
                     <persName>Vogel, Juliane</persName>
+                    <idno type="GND">120618613</idno>
+                    <idno type="Wikidata">Q80831240</idno>
                 </person>
 
                 <person xml:id="kab-pers-00568">
                     <persName>Utz, Peter</persName>
+                    <idno type="GND">11018954X</idno>
+                    <idno type="Wikidata">Q55623528</idno>
                 </person>
 
                 <person xml:id="kab-pers-00569">
                     <persName>Gauß, Karl-Markus</persName>
+                    <idno type="GND">115713425</idno>
+                    <idno type="Wikidata">Q321878</idno>
+                    <!-- Plausibilitätsprüfung: Der konkrete Aufsatz von 1982 ist mehrfach unabhängig als Werk von Karl-Markus Gauß nachgewiesen;
+                     Biografische Daten (1954, Salzburg), Ausbildung und fachliches Profil stimmen überein. -->
                 </person>
 
                 <person xml:id="kab-pers-00570">
                     <persName>Patka, Erika</persName>
+                    <idno type="GND">1056800372</idno>
+                    <idno type="Wikidata">Q52008276</idno>
                 </person>
 
                 <person xml:id="kab-pers-00571">
                     <persName>Konstantinović, Zoran</persName>
+                    <idno type="GND">118565206</idno>
+                    <idno type="Wikidata">Q220525</idno>
+                    <!-- Plausibilitätsprüfung: Der konkrete Beitrag ist bibliografisch als Werk von Zoran Konstantinović nachgewiesen; sein
+                     Forschungsprofil (mitteleuropäische Literaturen, deutsch-südslawische Literaturbeziehungen, vergleichende
+                     Literaturwissenschaft und Karl Kraus) passt ausgesprochen genau. Biografische Daten stimmen überein. -->
                 </person>
 
                 <person xml:id="kab-pers-00572">
                     <persName>Veiter, Theodor</persName>
+                    <idno type="GND">11916728X</idno>
+                    <idno type="Wikidata">Q1242342</idno>
                 </person>
 
                 <person xml:id="kab-pers-00573">
                     <persName>Stančić, Mirjana</persName>
+                    <idno type="GND">131395793</idno>
+                    <idno type="Wikidata">Q112466065</idno>
                 </person>
 
                 <person xml:id="kab-pers-00574">
                     <persName>Holzner, Johann</persName>
+                    <idno type="GND">12020732X</idno>
+                    <idno type="Wikidata">Q27907118</idno>
                 </person>
 
                 <person xml:id="kab-pers-00575">
                     <persName>Wiesmüller, Wolfgang</persName>
+                    <idno type="GND">139520406</idno>
+                    <idno type="Wikidata">Q95349962</idno>
                 </person>
 
                 <person xml:id="kab-pers-00576">
@@ -2147,10 +3228,14 @@
 
                 <person xml:id="kab-pers-00578">
                     <persName>Werner, Gösta</persName>
+                    <idno type="GND">1051927404</idno>
+                    <idno type="Wikidata">Q444756</idno>
                 </person>
 
                 <person xml:id="kab-pers-00579">
                     <persName>Haslinger, Josef</persName>
+                    <idno type="GND">119549867</idno>
+                    <idno type="Wikidata">Q87224</idno>
                 </person>
 
                 <person xml:id="kab-pers-00580">
@@ -2159,18 +3244,26 @@
 
                 <person xml:id="kab-pers-00581">
                     <persName>Dubrovic, Milan</persName>
+                    <idno type="GND">116231637</idno>
+                    <idno type="Wikidata">Q1934206</idno>
                 </person>
 
                 <person xml:id="kab-pers-00582">
                     <persName>Kolnai, Aurel</persName>
+                    <idno type="GND">121043983</idno>
+                    <idno type="Wikidata">Q774997</idno>
                 </person>
 
                 <person xml:id="kab-pers-00583">
                     <persName>Schönwiese, Ernst</persName>
+                    <idno type="GND">118610244</idno>
+                    <idno type="Wikidata">Q1360190</idno>
                 </person>
 
                 <person xml:id="kab-pers-00584">
                     <persName>Loužil, Jaromír</persName>
+                    <idno type="GND">1104723212</idno>
+                    <idno type="Wikidata">Q85413207</idno>
                 </person>
 
                 <person xml:id="kab-pers-00585">
@@ -2179,130 +3272,195 @@
 
                 <person xml:id="kab-pers-00586">
                     <persName>Hanssler, Bernhard</persName>
+                    <idno type="GND">118720295</idno>
+                    <idno type="Wikidata">Q825167</idno>
                 </person>
 
                 <person xml:id="kab-pers-00587">
                     <persName>Guttenbrunner, Michael</persName>
+                    <idno type="GND">119384809</idno>
+                    <idno type="Wikidata">Q86817</idno>
                 </person>
 
                 <person xml:id="kab-pers-00588">
                     <persName>Karlach, Hanuš</persName>
+                    <idno type="GND">112626394</idno>
+                    <idno type="Wikidata">Q42294449</idno>
                 </person>
 
                 <person xml:id="kab-pers-00589">
                     <persName>Kraus, Wolfgang</persName>
+                    <idno type="GND">116413298</idno>
+                    <idno type="Wikidata">Q1123315</idno>
                 </person>
 
                 <person xml:id="kab-pers-00590">
                     <persName>Meyer, Herman</persName>
+                    <idno type="GND">118581872</idno>
+                    <idno type="Wikidata">Q16865861</idno>
                 </person>
 
                 <person xml:id="kab-pers-00591">
                     <persName>Robertson, Ritchie</persName>
+                    <idno type="GND">121531287</idno>
+                    <idno type="Wikidata">Q7336683</idno>
                 </person>
 
                 <person xml:id="kab-pers-00592">
                     <persName>Carmely, Klara Pomeranz</persName>
+                    <idno type="GND">1074412389</idno>
+                    <idno type="Wikidata">Q113831269</idno>
                 </person>
 
                 <person xml:id="kab-pers-00593">
                     <persName>Grimm, Gunter E.</persName>
+                    <idno type="GND">118183419</idno>
+                    <idno type="Wikidata">Q18816493</idno>
                 </person>
 
                 <person xml:id="kab-pers-00594">
                     <persName>Hartung, Günter</persName>
+                    <idno type="GND">135646391</idno>
+                    <idno type="Wikidata">Q112487493</idno>
                 </person>
 
                 <person xml:id="kab-pers-00595">
                     <persName>Accardo, Pasquale</persName>
+                    <idno type="Wikidata">Q131574914</idno>
+                    <!-- Plausibilitätsprüfung: Tätigkeitsfeld und Publikationsprofil passen sehr gut: Kinderarzt und Hochschullehrer mit
+                     ausgewiesenen Interessen an Chesterton; zusätzlich Fachgebiet Entwicklungs- und Verhaltenspädiatrie. Geburtsdatum 1943
+                     zeitlich plausibel. Kein widersprechender Befund; -->
                 </person>
 
                 <person xml:id="kab-pers-00596">
                     <persName>Chapple, Gerald</persName>
+                    <idno type="GND">109847695</idno>
+                    <idno type="Wikidata">Q95766205</idno>
                 </person>
 
                 <person xml:id="kab-pers-00597">
                     <persName>Safran, Yehuda</persName>
+                    <idno type="GND">124306268</idno>
+                    <idno type="Wikidata">Q125209781</idno>
                 </person>
 
                 <person xml:id="kab-pers-00598">
                     <persName>Amanshauser, Hildegund</persName>
+                    <idno type="GND">12062723X</idno>
+                    <idno type="Wikidata">Q1618420</idno>
                 </person>
 
                 <person xml:id="kab-pers-00599">
                     <persName>Rohner, Ludwig</persName>
+                    <idno type="GND">116598352</idno>
+                    <idno type="Wikidata">Q59525196</idno>
                 </person>
 
                 <person xml:id="kab-pers-00600">
                     <persName>Goesmann, Ilse</persName>
+                    <idno type="GND">1271925648</idno>
+                    <idno type="Wikidata">Q138997742</idno>
+                    <!-- Plausibilitätsprüfung: DNB-Datensatz führt Ilse Goesmann als Übersetzerin des Zohn-Titels; GND-Datensatz führt eine
+                     IG als Übersetzerin mit Beziehung zu Harry Zohn. -->
                 </person>
 
                 <person xml:id="kab-pers-00601">
                     <persName>Haase, Horst</persName>
-                </person>
-
-                <person xml:id="kab-pers-00602">
-                    <persName>Mádl, Antal</persName>
+                    <idno type="GND">130956392</idno>
+                    <idno type="Wikidata">Q1629421</idno>
                 </person>
 
                 <person xml:id="kab-pers-00603">
-                    <persName>Karádi, Eva</persName>
+                    <persName>Karádi, Éva</persName>
+                    <idno type="GND">1047003082</idno>
+                    <idno type="Wikidata">Q16521168</idno>
                 </person>
 
                 <person xml:id="kab-pers-00604">
-                    <persName>Fekete, Eva</persName>
+                    <persName>Fekete, Éva</persName>
+                    <idno type="GND">1246117592</idno>
+                    <idno type="Wikidata">Q140070766</idno>
                 </person>
 
                 <person xml:id="kab-pers-00605">
                     <persName>Thoma, Ludwig</persName>
+                    <idno type="GND">118622072</idno>
+                    <idno type="Wikidata">Q45309</idno>
                 </person>
 
                 <person xml:id="kab-pers-00606">
                     <persName>Volkert, Wilhelm</persName>
+                    <idno type="GND">11910055X</idno>
+                    <idno type="Wikidata">Q1748201</idno>
                 </person>
 
                 <person xml:id="kab-pers-00607">
                     <persName>Röck, Karl</persName>
+                    <idno type="GND">120641526</idno>
+                    <idno type="Wikidata">Q94296</idno>
                 </person>
 
                 <person xml:id="kab-pers-00608">
                     <persName>Ingold, Felix Philipp</persName>
+                    <idno type="GND">119024551</idno>
+                    <idno type="Wikidata">Q122650</idno>
                 </person>
 
                 <person xml:id="kab-pers-00609">
                     <persName>Sedlaczek, Robert</persName>
+                    <idno type="GND">128631937</idno>
+                    <idno type="Wikidata">Q2158787</idno>
                 </person>
 
                 <person xml:id="kab-pers-00610">
                     <persName>Hanreich, Günther</persName>
+                    <idno type="GND">170910660</idno>
+                    <idno type="Wikidata">Q131562215</idno>
+                    <!-- Plausibilitätsprüfung: GND-Berufsangaben stimmen mit dem Herausgeber überein; als Sektionsleiter für Verkehrspolitik
+                     und Straßenverkehr 1988–1995 thematisch eng mit dem Buch verbunden. -->
                 </person>
 
                 <person xml:id="kab-pers-00611">
                     <persName>Helmes, Günter</persName>
+                    <idno type="GND">13375037X</idno>
+                    <idno type="Wikidata">Q27912195</idno>
                 </person>
 
                 <person xml:id="kab-pers-00612">
                     <persName>Stein, Hannes</persName>
+                    <idno type="GND">120485842</idno>
+                    <idno type="Wikidata">Q101723</idno>
                 </person>
 
                 <person xml:id="kab-pers-00613">
                     <persName>Tausk, Victor</persName>
+                    <idno type="GND">119045036</idno>
+                    <idno type="Wikidata">Q662634</idno>
                 </person>
 
                 <person xml:id="kab-pers-00614">
                     <persName>Schöne, Albrecht</persName>
+                    <idno type="GND">121970647</idno>
+                    <idno type="Wikidata">Q2639967</idno>
                 </person>
 
                 <person xml:id="kab-pers-00615">
-                    <persName>Rode, Susanne</persName>
+                    <persName>Rode-Breymann, Susanne</persName>
+                    <persName type="variant">Rode, Susanne</persName>
+                    <idno type="GND">111863007</idno>
+                    <idno type="Wikidata">Q107508</idno>
                 </person>
 
                 <person xml:id="kab-pers-00616">
                     <persName>Fuld, Werner</persName>
+                    <idno type="GND">120819201</idno>
+                    <idno type="Wikidata">Q2561235</idno>
                 </person>
 
                 <person xml:id="kab-pers-00617">
                     <persName>Goehr, Alexander</persName>
+                    <idno type="GND">119016508</idno>
+                    <idno type="Wikidata">Q215847</idno>
                 </person>
 
                 <person xml:id="kab-pers-00618">
@@ -2311,34 +3469,50 @@
 
                 <person xml:id="kab-pers-00619">
                     <persName>Emrich, Elke</persName>
+                    <idno type="GND">1143542029</idno>
+                    <idno type="Wikidata">Q95191318</idno>
                 </person>
 
                 <person xml:id="kab-pers-00620">
                     <persName>Kaszyński, Stefan H.</persName>
+                    <idno type="GND">132811766</idno>
+                    <idno type="Wikidata">Q95331455</idno>
                 </person>
 
                 <person xml:id="kab-pers-00621">
                     <persName>Ebinger, Blandine</persName>
+                    <idno type="GND">118850806</idno>
+                    <idno type="Wikidata">Q90022</idno>
                 </person>
 
                 <person xml:id="kab-pers-00622">
                     <persName>Blei, Franz</persName>
+                    <idno type="GND">118511653</idno>
+                    <idno type="Wikidata">Q85517</idno>
                 </person>
 
                 <person xml:id="kab-pers-00623">
                     <persName>Gabrisch, Anne</persName>
+                    <idno type="GND">104234390X</idno>
+                    <idno type="Wikidata">Q94741432</idno>
                 </person>
 
                 <person xml:id="kab-pers-00624">
                     <persName>Sauerland, Karol</persName>
+                    <idno type="GND">123637015</idno>
+                    <idno type="Wikidata">Q1734177</idno>
                 </person>
 
                 <person xml:id="kab-pers-00625">
                     <persName>Berger, Peter</persName>
+                    <idno type="GND">115165649</idno>
+                    <idno type="Wikidata">Q95234877</idno>
                 </person>
 
                 <person xml:id="kab-pers-00626">
                     <persName>Brandys, Brygida</persName>
+                    <idno type="GND">111491819</idno>
+                    <idno type="Wikidata">Q139259423</idno>
                 </person>
 
                 <person xml:id="kab-pers-00627">
@@ -2347,18 +3521,19 @@
 
                 <person xml:id="kab-pers-00628">
                     <persName>Przybecki, Marek</persName>
+                    <idno type="GND">102680907X</idno>
                 </person>
 
                 <person xml:id="kab-pers-00629">
                     <persName>Kranz, Gisbert</persName>
-                </person>
-
-                <person xml:id="kab-pers-00630">
-                    <persName>Wimmer-Webhofer, Erika</persName>
+                    <idno type="GND">11871547X</idno>
+                    <idno type="Wikidata">Q1430458</idno>
                 </person>
 
                 <person xml:id="kab-pers-00631">
                     <persName>Krebs, Gilbert</persName>
+                    <idno type="GND">1103047329</idno>
+                    <idno type="Wikidata">Q95226465</idno>
                 </person>
 
                 <person xml:id="kab-pers-00632">
@@ -2367,6 +3542,8 @@
 
                 <person xml:id="kab-pers-00633">
                     <persName>Lengauer, Hubert</persName>
+                    <idno type="GND">122969316</idno>
+                    <idno type="Wikidata">Q95280879</idno>
                 </person>
 
                 <person xml:id="kab-pers-00634">
@@ -2375,6 +3552,8 @@
 
                 <person xml:id="kab-pers-00635">
                     <persName>Jacobi, Jutta</persName>
+                    <idno type="GND">124874843</idno>
+                    <idno type="Wikidata">Q95192391</idno>
                 </person>
 
                 <person xml:id="kab-pers-00636">
@@ -2383,50 +3562,86 @@
 
                 <person xml:id="kab-pers-00637">
                     <persName>Pelinka, Anton</persName>
+                    <idno type="GND">120718189</idno>
+                    <idno type="Wikidata">Q89316</idno>
                 </person>
 
                 <person xml:id="kab-pers-00638">
                     <persName>Lersch, Barbara</persName>
+                    <idno type="GND">127226680X</idno>
+                    <!-- Plausibilitätsprüfung: GND 127226680X (Barbara Lersch-Schumacher, geb. 1954) fachlich und zeitlich stark plausibel.
+                     Besonders guter Hinweis bei konkreten Aufsatz (siehe hier: https://books.openedition.org/psn/3689), am Ende steht: Barbara Lersch,
+                     Aachen, ebenso wie Lersch-Schumacher! -->
                 </person>
 
                 <person xml:id="kab-pers-00639">
                     <persName>Kreissler, Félix</persName>
+                    <idno type="GND">121907902</idno>
+                    <idno type="Wikidata">Q1403591</idno>
                 </person>
 
                 <person xml:id="kab-pers-00640">
                     <persName>Grab, Walter</persName>
-                </person>
-
-                <person xml:id="kab-pers-00641">
-                    <persName>LeRider, Jacques</persName>
+                    <idno type="GND">118541080</idno>
+                    <idno type="Wikidata">Q216590</idno>
                 </person>
 
                 <person xml:id="kab-pers-00642">
                     <persName>Richter, Matthias</persName>
+                    <idno type="GND">142264385</idno>
+                    <idno type="Wikidata">Q95336305</idno>
                 </person>
 
                 <person xml:id="kab-pers-00643">
                     <persName>Goeckingk, Leopold Friedrich Günther von</persName>
+                    <idno type="GND">118540084</idno>
+                    <idno type="Wikidata">Q98454</idno>
                 </person>
 
                 <person xml:id="kab-pers-00644">
                     <persName>Paul, Jean-Marie</persName>
+                    <idno type="GND">12929795X</idno>
+                    <idno type="Wikidata">Q137156224</idno>
+                    <!-- Plausibilitätsprüfung: GND 12929795X (Jean-Marie Paul, geb. 1938) sehr stark plausibel. Name, französischer Wirkungsraum,
+                     Beruf als Germanist und Literaturwissenschaftler sowie Professur an Nancy-II (1988) und Universität Angers stimmen mit dem
+                     dokumentierten Profil überein. Publikationen zu deutscher Literatur, Ideengeschichte und Geschichtsphilosophie; Herausgeber
+                     von La foule : mythes et figures (2004), thematisch anschlussfähig an den Kraus-Beitrag über Masse und Geschichte. -->
                 </person>
 
                 <person xml:id="kab-pers-00645">
                     <persName>Blaikner-Hohenwart, Gabriele</persName>
+                    <idno type="GND">122707575</idno>
+                    <idno type="Wikidata">Q139518194</idno>
+                    <!-- Plausibilitätsprüfung: GND 122707575 (Gabriele Blaikner-Hohenwart, geb. 1952) sehr stark plausibel. Philologin und
+                     Romanistin, Affiliation Universität Salzburg; 2001 Ao. Univ.-Prof. am Institut für Romanistik, 2000 Habilitation in Romanischer
+                     Philologie. Kraus-Beitrag 1991 in einem Band mit Salzburger komparatistischen Analysen. Weitere einschlägige Publikation: Der
+                     deutsche Molière. Molière-Übersetzungen ins Deutsche (2001), bestätigt den Forschungsschwerpunkt Übersetzung und Literaturvergleich.
+                     Kein Gegenindiz; -->
                 </person>
 
                 <person xml:id="kab-pers-00646">
                     <persName>Pöckl, Wolfgang</persName>
+                    <idno type="GND">10980063X</idno>
+                    <idno type="Wikidata">Q14704190</idno>
                 </person>
 
                 <person xml:id="kab-pers-00647">
                     <persName>Nieraad, Jürgen</persName>
+                    <idno type="GND">107273055</idno>
+                    <idno type="Wikidata">Q108813330</idno>
+                    <!-- Plausibilitätsprüfung: Konkreter Kraus-Aufsatz von 1991 durch Ginsburgs Forschungsbibliographie unter Nieraad nachgewiesen;
+                    weitere Arbeiten zu Werner Kraft und deutschsprachiger Literatur in Israel belegen thematische Kontinuität. Beruf Literatur-
+                    wissenschaftler, Wirkungsort Bielefeld und Sterbeort Jerusalem passen zum Publikationsprofil. Direkte Verknüpfung des Einzelaufsatzes
+                    mit dem GND-Datensatz nicht nachgewiesen. -->
                 </person>
 
                 <person xml:id="kab-pers-00648">
                     <persName>Hackel, Franz-Heinrich</persName>
+                    <idno type="GND">12386092X</idno>
+                    <idno type="Wikidata">Q108823211</idno>
+                    <!-- Plausibilitätsprüfung: GND 12386092X (Franz-Heinrich Hackel, geb. 1949) sehr stark plausibel. Konkreter Kraus-Beitrag von 1990
+                     bibliographisch nachgewiesen. DLA-Normdatensatz: Lektor, Verleger und Herausgeber, ausdrücklich mit Suhrkamp-Verlag verknüpft.
+                     Enger sachlicher Zusammenhang mit dem Beitrag über die Neuedition der Kraus-Schriften bei Suhrkamp -->
                 </person>
 
                 <person xml:id="kab-pers-00649">
@@ -2435,54 +3650,88 @@
 
                 <person xml:id="kab-pers-00650">
                     <persName>Weissenberger, Klaus</persName>
+                    <idno type="GND">107795329</idno>
+                    <idno type="Wikidata">Q95256089</idno>
+                    <!-- Plausibilitätsprüfung: GND 107795329 (Klaus Weissenberger, geb. 1939) sehr stark plausibel. Nukat verknüpft zahlreiche einschlägige
+                     Publikationen (u. a. Celan- und Elegieforschung, Die deutsche Lyrik 1945–1975, Prosakunst ohne Erzählen) mit derselben Personen-ID 3277465.
+                     Fachliches Profil passt zu den beiden Kraus-Beiträgen von 1990; insbesondere „Zum Rhythmus der Lyrik von Karl Kraus“ ist im Sammelband
+                     nachgewiesen. -->
                 </person>
 
                 <person xml:id="kab-pers-00651">
                     <persName>Jaumann, Herbert</persName>
+                    <idno type="GND">120760517</idno>
+                    <idno type="Wikidata">Q1608531</idno>
                 </person>
 
                 <person xml:id="kab-pers-00652">
-                    <persName>Barber, Klaus</persName>
+                    <persName>Garber, Klaus</persName>
+                    <idno type="GND">120638835</idno>
+                    <idno type="Wikidata">Q1745112</idno>
                 </person>
 
                 <person xml:id="kab-pers-00653">
-                    <persName>Ribeiro, António</persName>
+                    <persName>Ribeiro, António Sousa</persName>
+                    <persName type="variant">Ribeiro, António</persName>
+                    <idno type="GND">1057538442</idno>
+                    <idno type="Wikidata">Q136997858</idno>
                 </person>
 
                 <person xml:id="kab-pers-00654">
                     <persName>Pazi, Margarita</persName>
+                    <idno type="GND">119391058</idno>
+                    <idno type="Wikidata">Q94737938</idno>
                 </person>
 
                 <person xml:id="kab-pers-00655">
                     <persName>Lyon, James K.</persName>
+                    <idno type="GND">117333573</idno>
+                    <idno type="Wikidata">Q95291693</idno>
                 </person>
 
                 <person xml:id="kab-pers-00656">
                     <persName>Bonitz, Antje</persName>
+                    <idno type="GND">1034658522</idno>
+                    <idno type="Wikidata">Q94774591</idno>
                 </person>
 
                 <person xml:id="kab-pers-00657">
                     <persName>Marahrens, Gerwin</persName>
+                    <idno type="GND">120149001</idno>
+                    <!-- Plausibilitätsprüfung: Freiburger Promotion 1958 und langjährige Tätigkeit als Germanistikprofessor an der University of
+                     Alberta. Forschungsprofil und weitere Publikationen passen: Arbeiten zur Aphoristik bei Karl Kraus, Arthur Schnitzler und Marie
+                     von Ebner-Eschenbach sowie zu Goethe. -->
                 </person>
 
                 <person xml:id="kab-pers-00658">
                     <persName>Otto, Rainer</persName>
+                    <idno type="GND">1141602415</idno>
+                    <idno type="Wikidata">Q112545387</idno>
                 </person>
 
                 <person xml:id="kab-pers-00659">
                     <persName>Rösler, Walter</persName>
+                    <idno type="GND">1133108636</idno>
+                    <idno type="Wikidata">Q95240824</idno>
                 </person>
 
                 <person xml:id="kab-pers-00660">
                     <persName>Veigl, Hans</persName>
+                    <idno type="GND">12073320X</idno>
+                    <idno type="Wikidata">Q28729221</idno>
                 </person>
 
                 <person xml:id="kab-pers-00661">
                     <persName>Jarka, Horst</persName>
+                    <idno type="GND">124194567</idno>
+                    <idno type="Wikidata">Q95328678</idno>
                 </person>
 
                 <person xml:id="kab-pers-00662">
-                    <persName>Colin, Amy</persName>
+                    <persName>Colin, Amy D.</persName>
+                    <persName type="variant">Colin, Amy</persName>
+                    <idno type="GND">111152798</idno>
+                    <idno type="Wikidata">Q95191645</idno>
                 </person>
 
                 <person xml:id="kab-pers-00663">
@@ -2491,90 +3740,129 @@
 
                 <person xml:id="kab-pers-00664">
                     <persName>Kreisky, Bruno</persName>
+                    <idno type="GND">118566512</idno>
+                    <idno type="Wikidata">Q44517</idno>
                 </person>
 
                 <person xml:id="kab-pers-00665">
                     <persName>Pattillo-Hess, John</persName>
+                    <idno type="GND">118019759</idno>
+                    <idno type="Wikidata">Q112450985</idno>
                 </person>
 
                 <person xml:id="kab-pers-00666">
                     <persName>Tiedemann, Rolf</persName>
+                    <idno type="GND">124131573</idno>
+                    <idno type="Wikidata">Q1741304</idno>
                 </person>
 
                 <person xml:id="kab-pers-00667">
                     <persName>Gödde, Christoph</persName>
+                    <idno type="GND">104864524X</idno>
+                    <idno type="Wikidata">Q113811741</idno>
                 </person>
 
                 <person xml:id="kab-pers-00668">
                     <persName>Lonitz, Henri</persName>
+                    <idno type="GND">1194517811</idno>
+                    <idno type="Wikidata">Q83152725</idno>
                 </person>
 
                 <person xml:id="kab-pers-00669">
                     <persName>Bachmaier, Helmut</persName>
+                    <idno type="GND">136204279</idno>
+                    <idno type="Wikidata">Q55228754</idno>
                 </person>
 
                 <person xml:id="kab-pers-00670">
                     <persName>Steinert, Heinz</persName>
+                    <idno type="GND">120284308</idno>
+                    <idno type="Wikidata">Q1601016</idno>
                 </person>
 
                 <person xml:id="kab-pers-00671">
                     <persName>Braakenburg, Johannes J.</persName>
+                    <idno type="GND">116384395</idno>
+                    <idno type="Wikidata">Q94832496</idno>
                 </person>
 
                 <person xml:id="kab-pers-00672">
                     <persName>Werfel, Franz</persName>
+                    <idno type="GND">118631373</idno>
+                    <idno type="Wikidata">Q78514</idno>
                 </person>
 
                 <person xml:id="kab-pers-00673">
                     <persName>Verweyen, Theodor</persName>
+                    <idno type="GND">106410040</idno>
+                    <idno type="Wikidata">Q20831021</idno>
                 </person>
 
                 <person xml:id="kab-pers-00674">
                     <persName>Peschel, Dietmar</persName>
+                    <idno type="GND">1048642410</idno>
+                    <idno type="Wikidata">Q95238946</idno>
                 </person>
 
                 <person xml:id="kab-pers-00675">
                     <persName>Hubert, Rainer</persName>
+                    <idno type="GND">1266755470</idno>
                 </person>
 
                 <person xml:id="kab-pers-00676">
                     <persName>Latraverse, François</persName>
+                    <idno type="GND">132116588</idno>
+                    <idno type="Wikidata">Q139103833</idno>
                 </person>
 
                 <person xml:id="kab-pers-00677">
                     <persName>Moser, Walter</persName>
+                    <idno type="GND">1052240267</idno>
+                    <idno type="Wikidata">Q114338074</idno>
                 </person>
 
                 <person xml:id="kab-pers-00678">
                     <persName>Czernin, Franz Josef</persName>
+                    <idno type="GND">120053276</idno>
+                    <idno type="Wikidata">Q1447480</idno>
                 </person>
 
                 <person xml:id="kab-pers-00679">
                     <persName>Dietrich, Margret</persName>
+                    <idno type="GND">119242788</idno>
+                    <idno type="Wikidata">Q1468213</idno>
                 </person>
 
                 <person xml:id="kab-pers-00680">
                     <persName>Orłowski, Hubert</persName>
+                    <idno type="GND">121376230</idno>
+                    <idno type="Wikidata">Q1633350</idno>
                 </person>
 
                 <person xml:id="kab-pers-00681">
                     <persName>Chargaff, Erwin</persName>
+                    <idno type="GND">11852013X</idno>
+                    <idno type="Wikidata">Q455944</idno>
                 </person>
 
                 <person xml:id="kab-pers-00682">
                     <persName>Reemtsma, Jan Philipp</persName>
-                </person>
-
-                <person xml:id="kab-pers-00683">
-                    <persName>Amann, Klaus</persName>
+                    <idno type="GND">119425432</idno>
+                    <idno type="Wikidata">Q89175</idno>
                 </person>
 
                 <person xml:id="kab-pers-00684">
                     <persName>Turnheim, Michael</persName>
+                    <idno type="GND">141590548</idno>
+                    <idno type="Wikidata">Q1929618</idno>
                 </person>
 
                 <person xml:id="kab-pers-00685">
                     <persName>Thurnher, Armin</persName>
+                    <idno type="GND">121479188</idno>
+                    <idno type="Wikidata">Q688314</idno>
+                    <!-- Plausibilitätsprüfung: Zuschreibung plausibel: Thurnhers damalige publizistische Tätigkeit und seine nachweisliche
+                     spätere Beschäftigung mit Karl Kraus passen zum Artikel. Ein unmittelbarer Autorschaftsnachweis fehlt. -->
                 </person>
 
                 <person xml:id="kab-pers-00686">
@@ -2583,26 +3871,37 @@
 
                 <person xml:id="kab-pers-00687">
                     <persName>Rohmer, Ernst</persName>
+                    <idno type="GND">112090346</idno>
+                    <idno type="Wikidata">Q139157619</idno>
                 </person>
 
                 <person xml:id="kab-pers-00688">
-                    <persName>Pfersmann, Andreas</persName>
+                    <persName>Pfersmann, Andréas</persName>
+                    <idno type="GND">1248877276</idno>
                 </person>
 
                 <person xml:id="kab-pers-00689">
                     <persName>Hakel, Hermann</persName>
+                    <idno type="GND">118885693</idno>
+                    <idno type="Wikidata">Q1611368</idno>
                 </person>
 
                 <person xml:id="kab-pers-00690">
                     <persName>Amanshauser, Gerhard</persName>
+                    <idno type="GND">118820052</idno>
+                    <idno type="Wikidata">Q1511237</idno>
                 </person>
 
                 <person xml:id="kab-pers-00691">
-                    <persName>August, Obermayer</persName>
+                    <persName>Obermayer, August</persName>
+                    <idno type="GND">111542308</idno>
+                    <idno type="Wikidata">Q112448751</idno>
                 </person>
 
                 <person xml:id="kab-pers-00692">
                     <persName>Wilpert, Gero von</persName>
+                    <idno type="GND">115717110</idno>
+                    <idno type="Wikidata">Q78254</idno>
                 </person>
 
                 <person xml:id="kab-pers-00693">
@@ -2611,58 +3910,99 @@
 
                 <person xml:id="kab-pers-00694">
                     <persName>Schweppenhäuser, Hermann</persName>
+                    <idno type="GND">117419494</idno>
+                    <idno type="Wikidata">Q106637</idno>
                 </person>
 
                 <person xml:id="kab-pers-00695">
                     <persName>Seiffert, Helmut</persName>
+                    <idno type="GND">131838792</idno>
+                    <idno type="Wikidata">Q1604195</idno>
                 </person>
 
                 <person xml:id="kab-pers-00696">
                     <persName>Dittrich, Rainer</persName>
+                    <idno type="GND">1223868133</idno>
                 </person>
 
                 <person xml:id="kab-pers-00697">
                     <persName>Brix, Emil</persName>
+                    <idno type="GND">120572559</idno>
+                    <idno type="Wikidata">Q87122</idno>
                 </person>
 
                 <person xml:id="kab-pers-00698">
                     <persName>Schmid-Bortenschlager, Sigrid</persName>
+                    <idno type="GND">124185185</idno>
+                    <idno type="Wikidata">Q52084153</idno>
                 </person>
 
                 <person xml:id="kab-pers-00699">
                     <persName>Godé, Maurice</persName>
+                    <idno type="GND">112833284</idno>
+                    <idno type="Wikidata">Q47540052</idno>
                 </person>
 
                 <person xml:id="kab-pers-00700">
                     <persName>Haag, Ingrid</persName>
+                    <idno type="GND">172120195</idno>
+                    <idno type="Wikidata">Q137132187</idno>
                 </person>
 
                 <person xml:id="kab-pers-00701">
                     <persName>Milch, Thomas</persName>
+                    <idno type="GND">1367532930</idno>
+                    <!-- Plausibilitätsprüfung: Die Zuordnung zu GND 1367532930 ist plausibel: Der Datensatz bezeichnet den Heidelberger Serner-Forscher
+                     Thomas Milch (1953–1997), dessen Studienfächer, Studienort und Magisterarbeit von 1978 mit den biographischen Angaben der
+                     Internationalen Walter-Serner-Gesellschaft übereinstimmen. Milch widmete sich anschließend über Jahre der Erforschung Serners,
+                     baute ein Serner-Archiv auf und gab dessen maßgebliche Werkausgabe heraus. Der KAB-Beitrag von 1993 über Serner, Kraus und Dada
+                     fügt sich unmittelbar in dieses langjährige Forschungsgebiet ein. Die spezifische Verbindung von Serner und Kraus sowie die
+                     Auseinandersetzung mit Dada entsprechen genau seinem dokumentierten fachlichen Profil. -->
                 </person>
 
                 <person xml:id="kab-pers-00702">
                     <persName>Dankl, Günther</persName>
+                    <idno type="GND">110859812</idno>
+                    <idno type="Wikidata">Q112450455</idno>
                 </person>
 
                 <person xml:id="kab-pers-00703">
                     <persName>Schrott, Raoul</persName>
+                    <idno type="GND">11936039X</idno>
+                    <idno type="Wikidata">Q94500</idno>
                 </person>
 
                 <person xml:id="kab-pers-00704">
                     <persName>Jäckle, Renate</persName>
+                    <idno type="GND">1143966872</idno>
+                    <idno type="Wikidata">Q139246788</idno>
                 </person>
 
                 <person xml:id="kab-pers-00705">
                     <persName>Collomb, Michel</persName>
+                    <idno type="GND">135962544</idno>
+                    <idno type="Wikidata">Q137151575</idno>
                 </person>
 
                 <person xml:id="kab-pers-00706">
                     <persName>Roessler, Peter</persName>
+                    <idno type="GND">131876252</idno>
+                    <idno type="Wikidata">Q95335345</idno>
                 </person>
 
-                <person xml:id="kab-pers-00707">
-                    <persName>Leschitzer, Franz</persName>
+                <person xml:id="kab-pers-00708">
+                    <persName>Gode, Alexander</persName>
+                    <idno type="GND">124602819</idno>
+                    <idno type="Wikidata">Q22761</idno>
+                </person>
+
+                <person xml:id="kab-pers-00709">
+                    <persName>Wright, Sue Ellen</persName>
+                    <idno type="GND">134124197</idno>
+                    <idno type="Wikidata">Q15028246</idno>
+                    <!-- Plausibilitätsprüfung: Werkbezug durch zeitgenössischen Nachweis der Mitübersetzung von The Last Days of Mankind (1974);
+                     Lebensdaten (geb. 1943, zum Übersetzungszeitpunkt ca. 30/31 Jahre alt) und fachliches Profil als Germanistin und
+                     Übersetzungswissenschaftlerin sind mit der Tätigkeit als Übersetzerin vereinbar. -->
                 </person>
 
             </listPerson>
