@@ -28,7 +28,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00002">
-                    <persName>Adorno, Theodor Wiesengrund</persName>
+                    <persName>Adorno, Theodor W.</persName>
+                    <persName type="variant">Adorno, Theodor Wiesengrund</persName>
                 </person>
 
                 <person xml:id="kab-pers-00003">
@@ -88,7 +89,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00017">
-                    <persName>Beigel-Ujhely, Margarete</persName>
+                    <persName>Ujhely-Beigel, Margarete</persName>
                 </person>
 
                 <person xml:id="kab-pers-00018">
@@ -108,7 +109,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00023">
-                    <persName>Bode, Ingrid</persName>
+                    <persName>Hannich-Bode, Ingrid</persName>
+                    <persName type="variant">Bode, Ingrid</persName>
                 </person>
 
                 <person xml:id="kab-pers-00024">
@@ -248,7 +250,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00057">
-                    <persName>Benyoetz, Elazar</persName>
+                    <persName>Benyoets, Elʿazar</persName>
+                    <persName type="variant">Benyoetz, Elazar</persName>
                 </person>
 
                 <person xml:id="kab-pers-00059">
@@ -310,7 +313,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00074">
-                    <persName>Fließbach, Holger</persName>
+                    <persName>Fliessbach, Holger</persName>
+                    <persName type="variant">Fließbach, Holger</persName>
                 </person>
 
                 <person xml:id="kab-pers-00075">
@@ -330,7 +334,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00079">
-                    <persName>Frenzel, lvo</persName>
+                    <persName>Frenzel, Ivo</persName>
                 </person>
 
                 <person xml:id="kab-pers-00080">
@@ -351,6 +355,7 @@
 
                 <person xml:id="kab-pers-00085">
                     <persName>Fässler, Peter</persName>
+                    <persName type="variant">Faessler, Peter</persName>
                 </person>
 
                 <person xml:id="kab-pers-00086">
@@ -386,7 +391,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00095">
-                    <persName>Grebenickova, Ruzena</persName>
+                    <persName>Grebeníčková, Růžena</persName>
+                    <persName type="variant">Grebenickova, Ruzena</persName>
                 </person>
 
                 <person xml:id="kab-pers-00096">
@@ -414,7 +420,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00104">
-                    <persName>Haensel, Ludwig</persName>
+                    <persName>Hänsel, Ludwig</persName>
+                    <persName type="variant">Haensel, Ludwig</persName>
                 </person>
 
                 <person xml:id="kab-pers-00105">
@@ -471,7 +478,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00120">
-                    <persName>Heringer, Hans-Jürgen</persName>
+                    <persName>Heringer, Hans Jürgen</persName>
+                    <persName type="variant">Heringer, Hans-Jürgen</persName>
                 </person>
 
                 <person xml:id="kab-pers-00121">
@@ -588,7 +596,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00152">
-                    <persName>Weimar, Karl S.</persName>
+                    <persName>Weimar, Karl Siegfried</persName>
+                    <persName type="variant">Weimar, Karl S.</persName>
                 </person>
 
                 <person xml:id="kab-pers-00153">
@@ -696,7 +705,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00183">
-                    <persName>Kurzweil, Baruch</persName>
+                    <persName>Ḳurtsṿail, Barukh</persName>
+                    <persName type="variant">Kurzweil, Baruch</persName>
                 </person>
 
                 <person xml:id="kab-pers-00184">
@@ -704,7 +714,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00185">
-                    <persName>Brion-Guerry, L.</persName>
+                    <persName>Brion-Guerry, Liliane</persName>
                 </person>
 
                 <person xml:id="kab-pers-00186">
@@ -744,7 +754,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00196">
-                    <persName>Machácková-Riegerova, Vera</persName>
+                    <persName>Machácková-Riegrová, Věra</persName>
+                    <persName type="variant">Macháčková, Věra</persName>
                 </person>
 
                 <person xml:id="kab-pers-00197">
@@ -756,7 +767,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00199">
-                    <persName>Roth, Marie-Luise</persName>
+                    <persName>Roth, Marie-Louise</persName>
+                    <persName type="variant">Roth, Marie-Luise</persName>
                 </person>
 
                 <person xml:id="kab-pers-00200">
@@ -840,7 +852,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00221">
-                    <persName>Nemeth, Andre</persName>
+                    <persName>Németh, André</persName>
                 </person>
 
                 <person xml:id="kab-pers-00222">
@@ -893,7 +905,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00236">
-                    <persName>Pollak, Oskar</persName>
+                    <persName>Pollak, Oscar</persName>
+                    <persName type="variant">Pollak, Oskar</persName>
                 </person>
 
                 <person xml:id="kab-pers-00237">
@@ -941,7 +954,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00248">
-                    <persName>Reichert, Herbert W.</persName>
+                    <persName>Reichert, Herbert William</persName>
+                    <persName type="variant">Reichert, Herbert W.</persName>
                 </person>
 
                 <person xml:id="kab-pers-00249">
@@ -1094,7 +1108,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00287">
-                    <persName>Snell, Mary</persName>
+                    <persName>Snell-Hornby, Mary</persName>
+                    <persName type="variant">Snell, Mary</persName>
                 </person>
 
                 <person xml:id="kab-pers-00289">
@@ -1154,7 +1169,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00306">
-                    <persName>Toulmin, Stephen</persName>
+                    <persName>Toulmin, Stephen Edelston</persName>
+                    <persName type="variant">Toulmin, Stephen</persName>
                 </person>
 
                 <person xml:id="kab-pers-00307">
@@ -1174,7 +1190,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00311">
-                    <persName>Ulmer, Christine</persName>
+                    <persName>Czuma, Christine</persName>
+                    <persName type="variant">Ulmer, Christine</persName>
                 </person>
 
                 <person xml:id="kab-pers-00313">
@@ -1286,7 +1303,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00340">
-                    <persName>de Mendelssohn, Peter</persName>
+                    <persName>Mendelssohn, Peter de</persName>
                 </person>
 
                 <person xml:id="kab-pers-00343">
@@ -1310,7 +1327,9 @@
                 </person>
 
                 <person xml:id="kab-pers-00352">
-                    <persName>Baltz-Balzberg, Regina</persName>
+                    <persName>Schaunig, Regina</persName>
+                    <persName type="variant">Baltz-Balzberg, Regina</persName>
+                    <persName type="variant"> 	Baltz-Balzenberg-Schaunig, Regina</persName>
                 </person>
 
                 <person xml:id="kab-pers-00353">
@@ -1374,7 +1393,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00366">
-                    <persName>Bähr, Rudolf</persName>
+                    <persName>Baehr, Rudolf</persName>
+                    <persName type="variant">Bähr, Rudolf</persName>
                 </person>
 
                 <person xml:id="kab-pers-00368">
@@ -1490,6 +1510,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00399">
+                    <persName>Kaufholz-Messmer, Éliane </persName>
                     <persName>Kaufholz, Eliane</persName>
                 </person>
 
@@ -1575,6 +1596,7 @@
 
                 <person xml:id="kab-pers-00419">
                     <persName>Mayer-König, Wolfgang</persName>
+                    <persName type="variant">Mayer, Wolfgang</persName>
                 </person>
 
                 <person xml:id="kab-pers-00420">
@@ -1591,6 +1613,7 @@
 
                 <person xml:id="kab-pers-00423">
                     <persName>Mitscherlich-Nielsen, Margarete</persName>
+                    <persName type="variable">Mitscherlich, Margarete</persName>
                 </person>
 
                 <person xml:id="kab-pers-00424">
@@ -1598,11 +1621,13 @@
                 </person>
 
                 <person xml:id="kab-pers-00425">
-                    <persName>Mogge, Birgitta</persName>
+                    <persName>Mogge-Stubbe, Birgitta</persName>
+                    <persName type="variant">Mogge, Birgitta</persName>
                 </person>
 
                 <person xml:id="kab-pers-00426">
                     <persName>Munzer, Zdenka</persName>
+                    <persName type="variant">Münzerová, Zdeňka</persName>
                 </person>
 
                 <person xml:id="kab-pers-00427">
@@ -1626,7 +1651,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00432">
-                    <persName>Philipoff, Eva</persName>
+                    <persName>Philippoff, Eva</persName>
                 </person>
 
                 <person xml:id="kab-pers-00433">
@@ -1662,11 +1687,12 @@
                 </person>
 
                 <person xml:id="kab-pers-00442">
-                    <persName>Rukschcio, Burkhard</persName>
+                    <persName>Rukschcio, Burkhardt</persName>
                 </person>
 
                 <person xml:id="kab-pers-00494">
-                    <persName>Schachel, Roland</persName>
+                    <persName>Schachel, Roland L.</persName>
+                    <persName type="variant">Schachel, Roland</persName>
                 </person>
 
                 <person xml:id="kab-pers-00443">
@@ -1706,7 +1732,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00452">
-                    <persName>Schmidt, Johannes N.</persName>
+                    <persName>Schmidt, Johann N.</persName>
+                    <persName type="variant">Schmidt, Johannes N.</persName>
                 </person>
 
                 <person xml:id="kab-pers-00453">
@@ -1774,7 +1801,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00469">
-                    <persName>Szasz, Thomas</persName>
+                    <persName>Szasz, Thomas S.</persName>
+                    <persName type="variant">Szasz, Thomas</persName>
                 </person>
 
                 <person xml:id="kab-pers-00470">
@@ -1815,7 +1843,9 @@
                 </person>
 
                 <person xml:id="kab-pers-00481">
-                    <persName>Weyrer, Ursula</persName>
+                    <persName>Seeber, Ursula </persName>
+                    <persName type="variant">Seeber-Weyrer, Ursula </persName>
+                    <persName type="variant">Weyrer, Ursula</persName>
                 </person>
 
                 <person xml:id="kab-pers-00482">
@@ -1835,7 +1865,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00486">
-                    <persName>Yates, W. E.</persName>
+                    <persName>Yates, William E.</persName>
                 </person>
 
                 <person xml:id="kab-pers-00537">
@@ -1851,11 +1881,11 @@
                 </person>
 
                 <person xml:id="kab-pers-00545">
-                    <persName>Weis, Walter</persName>
+                    <persName>Weiss, Walter</persName>
                 </person>
 
                 <person xml:id="kab-pers-00516">
-                    <persName>Hans, Weichselbaum</persName>
+                    <persName>Weichselbaum, Hans</persName>
                 </person>
 
                 <person xml:id="kab-pers-00509">
@@ -1883,15 +1913,15 @@
                 </person>
 
                 <person xml:id="kab-pers-00543">
-                    <persName>Dür, Volker</persName>
+                    <persName>Dürr, Volker</persName>
                 </person>
 
                 <person xml:id="kab-pers-00513">
-                    <persName>Molnár,Géza von</persName>
+                    <persName>Molnár, Géza von</persName>
                 </person>
 
                 <person xml:id="kab-pers-00511">
-                    <persName>Bauer Picka, Gertrud</persName>
+                    <persName>Bauer Pickar, Gertrud</persName>
                 </person>
 
                 <person xml:id="kab-pers-00525">
@@ -1942,8 +1972,12 @@
                     <persName>Strelka, Joseph Peter</persName>
                 </person>
 
+                <person xml:id="kab-pers-00527">
+                    <persName>Webb, Karl Eugene</persName>
+                </person>
+
                 <person xml:id="kab-pers-00544">
-                    <persName>Yuil, W. E.</persName>
+                    <persName>Yuill, William E.</persName>
                 </person>
 
                 <person xml:id="kab-pers-00538">
@@ -2227,11 +2261,11 @@
                 </person>
 
                 <person xml:id="kab-pers-00603">
-                    <persName>Karádi, Eva</persName>
+                    <persName>Karádi, Éva</persName>
                 </person>
 
                 <person xml:id="kab-pers-00604">
-                    <persName>Fekete, Eva</persName>
+                    <persName>Fekete, Éva</persName>
                 </person>
 
                 <person xml:id="kab-pers-00605">
@@ -2275,7 +2309,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00615">
-                    <persName>Rode, Susanne</persName>
+                    <persName>Rode-Breymann, Susanne</persName>
+                    <persName type="variant">Rode, Susanne</persName>
                 </person>
 
                 <person xml:id="kab-pers-00616">
@@ -2419,7 +2454,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00653">
-                    <persName>Ribeiro, António</persName>
+                    <persName>Ribeiro, António Sousa</persName>
+                    <persName type="variant">Ribeiro, António</persName>
                 </person>
 
                 <person xml:id="kab-pers-00654">
@@ -2455,7 +2491,8 @@
                 </person>
 
                 <person xml:id="kab-pers-00662">
-                    <persName>Colin, Amy</persName>
+                    <persName>Colin, Amy D.</persName>
+                    <persName type="variant">Colin, Amy</persName>
                 </person>
 
                 <person xml:id="kab-pers-00663">
@@ -2555,7 +2592,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00688">
-                    <persName>Pfersmann, Andreas</persName>
+                    <persName>Pfersmann, Andréas</persName>
                 </person>
 
                 <person xml:id="kab-pers-00689">
@@ -2567,7 +2604,7 @@
                 </person>
 
                 <person xml:id="kab-pers-00691">
-                    <persName>August, Obermayer</persName>
+                    <persName>Obermayer, August</persName>
                 </person>
 
                 <person xml:id="kab-pers-00692">
